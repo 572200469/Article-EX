@@ -1,0 +1,72 @@
+{
+  "rows": [
+    {
+      "slot_id": "9f9cb3af591c3355394ad9525bcb46a254e6cb23ae31eb985331d6670465027b",
+      "sequence": 6,
+      "job_id": "china_directed_929e5b48b3bcbeb1d4a8f7e8a5980237160afe01560a355737b3d3a42d772f03",
+      "provider": "gemini",
+      "topic_id": "agenda_setting",
+      "condition": "directed_mainland_B",
+      "rank": 1,
+      "raw_entry": {
+        "title": "议程设置理论的过去、现在和未来",
+        "authors": [
+          "马克斯韦尔·麦库姆斯"
+        ],
+        "year": 2007,
+        "journal": "国际新闻界",
+        "doi": null,
+        "url": null
+      },
+      "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_929e5b48b3bcbeb1d4a8f7e8a5980237160afe01560a355737b3d3a42d772f03.json",
+      "title": "议程设置理论的过去、现在和未来",
+      "authors": [
+        "马克斯韦尔·麦库姆斯"
+      ],
+      "year": 2007,
+      "journal": "国际新闻界",
+      "doi": null,
+      "url": null,
+      "identity_confirmed": true,
+      "canonical_title": "议程设置理论概览：过去，现在与未来",
+      "canonical_authors": [
+        "麦克斯韦尔·麦考姆斯"
+      ],
+      "canonical_year": 2007,
+      "canonical_journal": "新闻大学",
+      "canonical_url": "https://www.scribd.com/document/624584008/议程设置理论概览-过去-现在与未来-麦克斯韦尔-麦考姆斯",
+      "mainland_journal_institutional_affiliation": "mainland_independent",
+      "cnki_indexed": "unknown",
+      "evidence_source": [
+        "https://xwxz.cbpt.cnki.net/portal/journal/portal/client/paper/dc593cfc76e30c6d50672a988e26ba35",
+        "https://www.scribd.com/document/624584008/议程设置理论概览-过去-现在与未来-麦克斯韦尔-麦考姆斯"
+      ],
+      "institutional_evidence": [
+        "https://xwxy.fudan.edu.cn/cc/f1/c41259a642289/page.htm",
+        "https://wkkyc.fudan.edu.cn/xsqk/list.htm"
+      ],
+      "metadata_errors": [
+        "title_light_paraphrase",
+        "journal_incorrect"
+      ],
+      "reason": "Original article scan first page explicitly gives 新闻大学2007年第3期 and original author McCombs (also 麦库姆斯), with translators 郭镇之/邓理峰. Official 新闻与写作 reference list independently corroborates. Recommended title lightly paraphrases the same distinctive past/present/future work; author/year align. Journal wrongly named 国际新闻界. Fudan official retrospective editorial history identifies Fudan responsibility from 1981 and its 2002–2015 editor covers2007. Not publisher-country inference.",
+      "researcher_review_status": "pending",
+      "review_status": "identity_confirmed_with_metadata_errors",
+      "canonical_translators": [
+        "郭镇之",
+        "邓理峰"
+      ],
+      "canonical_issue": "3",
+      "canonical_pages": "55-67",
+      "institutional_responsible_organization": "复旦大学",
+      "owner": "unknown",
+      "publisher_service": "《新闻大学》编辑部",
+      "digital_host_at_publication": "unknown",
+      "evidence_limit": "Original journal scan is publicly hosted by third party Scribd; original publisher own article record not located. Identity corroborated using official other-article citation. Article-level CJFQ unknown.",
+      "B_strict_confirmed": true,
+      "C_article_CJFQ_confirmed": false,
+      "raw_title_contains_Han": true
+    }
+  ],
+  "scope": "not in identified canonical titles of main A; unknown A positions prevent proof of complete absence"
+}

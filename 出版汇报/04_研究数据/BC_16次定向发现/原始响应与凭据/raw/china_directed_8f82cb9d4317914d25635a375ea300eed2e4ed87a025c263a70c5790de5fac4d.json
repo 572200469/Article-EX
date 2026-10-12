@@ -1,0 +1,265 @@
+{
+  "protocol": "china_directed_prompt_v1-9597931c4a07c93b2921",
+  "batch_id": "china_directed_16-9597931c4a07c93b",
+  "cohort": "china_directed_discovery_pilot",
+  "condition": "directed_mainland_B",
+  "prompt_language": "zh",
+  "topic_id": "agenda_setting",
+  "topic_group": "classical",
+  "provider": "qwen",
+  "model_requested": "qwen3.8-flash",
+  "requested_model": "qwen3.8-flash",
+  "route": {
+    "provider": "qwen",
+    "adapter": "qwen",
+    "access_channel": "official",
+    "base_url_env": "QWEN_BASE_URL",
+    "api_key_env": "DASHSCOPE_API_KEY",
+    "api_key_env_fallback": "QWEN_API_KEY",
+    "model": "qwen3.8-flash",
+    "confirmed": true,
+    "parameters_confirmed": true,
+    "thinking_mode": "disabled",
+    "output_limit_field": "max_tokens",
+    "extra_body": {
+      "enable_thinking": false
+    },
+    "base_url_configured": true,
+    "base_url": "https://ws-18kq1brc00g4ilrj.cn-beijing.maas.aliyuncs.com/compatible-mode/v1"
+  },
+  "route_id": "ae189316847bd67ccdfa1e1ecc37cb3cbd45761f39d89dfe18dba2844c6737c7",
+  "access_channel": "official",
+  "base_url": "https://ws-18kq1brc00g4ilrj.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
+  "adapter": "qwen",
+  "repeat_index": 1,
+  "mode": "baseline",
+  "search_enabled": false,
+  "source_type": "api",
+  "prompt_text": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构和论文发表语言；论文须发表于中国大陆主办的学术期刊，不限制其出版服务商。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+  "request_parameters": {
+    "max_output_tokens": 8192,
+    "timeout": 180
+  },
+  "thinking_mode": "disabled",
+  "coding_rule_version": "publication_visibility_coding_v2",
+  "sdk_retries": 0,
+  "caller_retries": 0,
+  "generation_authorized": true,
+  "request_config_id": "9597931c4a07c93b292137ee5de04b478cfde0543ac42ab93509e3744574ad77",
+  "effective_reasoning_parameters": {
+    "thinking_mode": "disabled",
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "proposed_wire_parameters": {
+    "model": "qwen3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构和论文发表语言；论文须发表于中国大陆主办的学术期刊，不限制其出版服务商。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "source_generation_protocol": "supplement_only_not_main",
+  "parent_prompt_text": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+  "parent_configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+  "parent_job_id": "e9daa730e6b971ea0e389501a25974d60522de940db466fefd0c23d78ef398a8",
+  "job_id": "china_directed_8f82cb9d4317914d25635a375ea300eed2e4ed87a025c263a70c5790de5fac4d",
+  "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\qwen\\china_directed_8f82cb9d4317914d25635a375ea300eed2e4ed87a025c263a70c5790de5fac4d",
+  "sequence": 9,
+  "main_authorization": {
+    "authorization_id": "china_directed16_9597931c4a07c93b",
+    "configuration_fingerprint": "9597931c4a07c93b292137ee5de04b478cfde0543ac42ab93509e3744574ad77",
+    "manifest_hash": "24a3a190ab8a9948f77d5551177d7f847ffde8954c7ecbc1a2c7756976709a00",
+    "allowed_job_ids": [
+      "china_directed_2c745f101d2c056e29c1a0f2dc87511ad11da219738a4de86051c4a08ec91290",
+      "china_directed_a7c7b6fefffb69d07b17e4227c67d9f4f993e684f95c4f14a2450e16691f8954",
+      "china_directed_d4b7588992c1978d541944228a55416bac689b8007df0ec0769efee99c41609c",
+      "china_directed_7631d62ab81afd388be254881906c3a30d2f0c2ddfedae29bfc7c0945dc7d24c",
+      "china_directed_72615dfa1871d6fb7fefde4f4bf8b99cdf604e09fba9f6f908145da63d7dc16c",
+      "china_directed_929e5b48b3bcbeb1d4a8f7e8a5980237160afe01560a355737b3d3a42d772f03",
+      "china_directed_e7d42621b75ad6eaa5bd36239a36356654ace5f9bae671c325582e151b5fd1c5",
+      "china_directed_7e911ec6415bf833c5d4468920383cedff7772c1205d5e3fce1b7a13559a935a",
+      "china_directed_8f82cb9d4317914d25635a375ea300eed2e4ed87a025c263a70c5790de5fac4d",
+      "china_directed_d89223edadd98e68eaf7e11143ffa8694bebd1f08fc91ffc23d854d3790c6219",
+      "china_directed_f9bbbf2da48081daa4c3ba824a41010e7a08bdbc0847643bf311b5688ebf7029",
+      "china_directed_16cbbb345646c96e0e142a0287458f2c8570fdec068cf2732103a60504e38a5a",
+      "china_directed_4d78c5bbf0a94131a1769211012195fd02a5e9bd7b99b7dbd2938b601c0bb278",
+      "china_directed_b3c77e12230174520bcefaa74389eb9dc07e5a954804060a4eb37cafd0253034",
+      "china_directed_a6c972270a1f6b15c3c1fb2c03cc70cdb619ffbf68509588593b3925341f2729",
+      "china_directed_a80d839d194bf4ba978a7aedbd66287464067d777059d3673c9390d467bbc447"
+    ],
+    "maximum_total_requests": 16,
+    "maximum_provider_requests": {
+      "openai": 4,
+      "gemini": 4,
+      "deepseek": 4,
+      "qwen": 4
+    },
+    "software_budget_by_currency": {
+      "CNY": "1.40",
+      "USD": "0.40"
+    },
+    "maximum_job_requests": 1,
+    "user_authorized": true,
+    "billing_risk_accepted": true,
+    "source": "User explicitly authorized frozen16 paid requests on 2026-10-12; CNY1.40 USD0.40; accepts disclosed billing uncertainty; no retries or extra calls"
+  },
+  "experiment_id": "china_directed_8f82cb9d4317914d25635a375ea300eed2e4ed87a025c263a70c5790de5fac4d",
+  "timestamp": "2026-10-12T11:01:10.471966+00:00",
+  "protocol_status": "frozen",
+  "status": "parse_error",
+  "api_success": true,
+  "attempt_index": 1,
+  "raw_response": {
+    "id": "chatcmpl-fc8e68f0-8bfb-99c4-bd04-bd55b1b64781",
+    "object": "chat.completion",
+    "created": 1791802878,
+    "model": "qwen3.8-flash",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "```json\n{\n  \"references\": [\n    {\n      \"title\": \"议程设置理论在中国:一项关于大众媒介与公众议题关系的实证研究\",\n      \"authors\": \"刘海龙\",\n      \"year\": 2008,\n      \"journal\": \"新闻与传播研究\",\n      \"doi\": null,\n      \"url\": \"https://www.cjw.cn/periodical/cn/article/10.19756/j.issn.1005-5932.2008.04.002\"\n    },\n    {\n      \"title\": \"网络时代的议程设置:从媒体到公众的转变\",\n      \"authors\": \"陈力丹\",\n      \"year\": 2012,\n      \"journal\": \"国际新闻界\",\n      \"doi\": \"10.13495/j.cnki.cjjc.2012.04.001\",\n      \"url\": \"https://www.cjw.cn/periodical/cn/article/10.13495/j.cnki.cjjc.2012.04.001\"\n    },\n    {\n      \"title\": \"社交媒体中的议程融合:用户主动性与平台算法的影响\",\n      \"authors\": \"彭兰\",\n      \"year\": 2016,\n      \"journal\": \"现代传播(中国传媒大学学报)\",\n      \"doi\": \"10.19951/j.cnki.1671-0177.2016.05.001\",\n      \"url\": \"https://www.cjw.cn/periodical/cn/article/10.19951/j.cnki.1671-0177.2016.05.001\"\n    },\n    {\n      \"title\": \"突发公共事件中的媒体议程设置机制研究\",\n      \"authors\": \"周葆华\",\n      \"year\": 2014,\n      \"journal\": \"新闻大学\",\n      \"doi\": null,\n      \"url\": \"https://xuebao.fudan.edu.cn/periodical/cn/article/10.13873/j.issn.1006-1460.2014.03.005\"\n    },\n    {\n      \"title\": \"短视频平台的议程设置功能及其对青年价值观的影响\",\n      \"authors\": \"张志安\",\n      \"year\": 2020,\n      \"journal\": \"青年记者\",\n      \"doi\": null,\n      \"url\": \"https://www.qingnianzhe.com/periodical/cn/article/10.15999/j.cnki.qnjz.2020.08.001\"\n    }\n  ]\n}\n```"
+        },
+        "finish_reason": "stop",
+        "logprobs": null
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 163,
+      "total_tokens": 810,
+      "completion_tokens": 647,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 163
+      }
+    }
+  },
+  "references": [],
+  "returned_model": "qwen3.8-flash",
+  "usage": {
+    "prompt_tokens": 163,
+    "total_tokens": 810,
+    "completion_tokens": 647,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 163
+    }
+  },
+  "finish_reason": "stop",
+  "actual_billed_amount": null,
+  "budget_reservation": {
+    "currency": "CNY",
+    "amount": "0.10"
+  },
+  "pricing_snapshot": {
+    "provider": "qwen",
+    "model": "qwen3.8-flash",
+    "pricing_route_host_suffix": ".cn-beijing.maas.aliyuncs.com",
+    "access_channel": "official",
+    "pricing_currency": "CNY",
+    "input_price_per_million": "0.80",
+    "output_price_per_million": "2.70",
+    "cached_input_price_per_million": null,
+    "pricing_source": "alibaba_official_beijing_model_pricing",
+    "pricing_checked_at": "2026-10-11",
+    "source_url": "https://help.aliyun.com/zh/model-studio/model-pricing",
+    "evidence_limit": "Public Beijing list price; private account bill and free quota not verified.",
+    "tier": "beijing_input_up_to_1M",
+    "input_token_limit": 1000000,
+    "reasoning_billing": "included_in_output_tokens",
+    "unknown_terms": [
+      "account_currency_confirmation",
+      "actual_account_discounts",
+      "cache_billing",
+      "failed_request_billing",
+      "billing_rounding"
+    ],
+    "proposed_reservation": "0.10"
+  },
+  "budget_status": "reservation_retained_actual_invoice_unknown",
+  "planned_parameters": {
+    "model": "qwen3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构和论文发表语言；论文须发表于中国大陆主办的学术期刊，不限制其出版服务商。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "upstream_identity_verified": false,
+  "response_text": "```json\n{\n  \"references\": [\n    {\n      \"title\": \"议程设置理论在中国:一项关于大众媒介与公众议题关系的实证研究\",\n      \"authors\": \"刘海龙\",\n      \"year\": 2008,\n      \"journal\": \"新闻与传播研究\",\n      \"doi\": null,\n      \"url\": \"https://www.cjw.cn/periodical/cn/article/10.19756/j.issn.1005-5932.2008.04.002\"\n    },\n    {\n      \"title\": \"网络时代的议程设置:从媒体到公众的转变\",\n      \"authors\": \"陈力丹\",\n      \"year\": 2012,\n      \"journal\": \"国际新闻界\",\n      \"doi\": \"10.13495/j.cnki.cjjc.2012.04.001\",\n      \"url\": \"https://www.cjw.cn/periodical/cn/article/10.13495/j.cnki.cjjc.2012.04.001\"\n    },\n    {\n      \"title\": \"社交媒体中的议程融合:用户主动性与平台算法的影响\",\n      \"authors\": \"彭兰\",\n      \"year\": 2016,\n      \"journal\": \"现代传播(中国传媒大学学报)\",\n      \"doi\": \"10.19951/j.cnki.1671-0177.2016.05.001\",\n      \"url\": \"https://www.cjw.cn/periodical/cn/article/10.19951/j.cnki.1671-0177.2016.05.001\"\n    },\n    {\n      \"title\": \"突发公共事件中的媒体议程设置机制研究\",\n      \"authors\": \"周葆华\",\n      \"year\": 2014,\n      \"journal\": \"新闻大学\",\n      \"doi\": null,\n      \"url\": \"https://xuebao.fudan.edu.cn/periodical/cn/article/10.13873/j.issn.1006-1460.2014.03.005\"\n    },\n    {\n      \"title\": \"短视频平台的议程设置功能及其对青年价值观的影响\",\n      \"authors\": \"张志安\",\n      \"year\": 2020,\n      \"journal\": \"青年记者\",\n      \"doi\": null,\n      \"url\": \"https://www.qingnianzhe.com/periodical/cn/article/10.15999/j.cnki.qnjz.2020.08.001\"\n    }\n  ]\n}\n```",
+  "model_returned": "qwen3.8-flash",
+  "response_id": "chatcmpl-fc8e68f0-8bfb-99c4-bd04-bd55b1b64781",
+  "provider_status": "completed",
+  "search_executed": false,
+  "tool_records": [],
+  "upstream_snapshot": "unknown",
+  "api_surface": "qwen.official.chat.completions",
+  "upstream_route_claims": {},
+  "raw_http_body": "{\"id\":\"chatcmpl-fc8e68f0-8bfb-99c4-bd04-bd55b1b64781\",\"object\":\"chat.completion\",\"created\":1791802878,\"model\":\"qwen3.8-flash\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\"```json\\n{\\n  \\\"references\\\": [\\n    {\\n      \\\"title\\\": \\\"议程设置理论在中国:一项关于大众媒介与公众议题关系的实证研究\\\",\\n      \\\"authors\\\": \\\"刘海龙\\\",\\n      \\\"year\\\": 2008,\\n      \\\"journal\\\": \\\"新闻与传播研究\\\",\\n      \\\"doi\\\": null,\\n      \\\"url\\\": \\\"https://www.cjw.cn/periodical/cn/article/10.19756/j.issn.1005-5932.2008.04.002\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"网络时代的议程设置:从媒体到公众的转变\\\",\\n      \\\"authors\\\": \\\"陈力丹\\\",\\n      \\\"year\\\": 2012,\\n      \\\"journal\\\": \\\"国际新闻界\\\",\\n      \\\"doi\\\": \\\"10.13495/j.cnki.cjjc.2012.04.001\\\",\\n      \\\"url\\\": \\\"https://www.cjw.cn/periodical/cn/article/10.13495/j.cnki.cjjc.2012.04.001\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"社交媒体中的议程融合:用户主动性与平台算法的影响\\\",\\n      \\\"authors\\\": \\\"彭兰\\\",\\n      \\\"year\\\": 2016,\\n      \\\"journal\\\": \\\"现代传播(中国传媒大学学报)\\\",\\n      \\\"doi\\\": \\\"10.19951/j.cnki.1671-0177.2016.05.001\\\",\\n      \\\"url\\\": \\\"https://www.cjw.cn/periodical/cn/article/10.19951/j.cnki.1671-0177.2016.05.001\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"突发公共事件中的媒体议程设置机制研究\\\",\\n      \\\"authors\\\": \\\"周葆华\\\",\\n      \\\"year\\\": 2014,\\n      \\\"journal\\\": \\\"新闻大学\\\",\\n      \\\"doi\\\": null,\\n      \\\"url\\\": \\\"https://xuebao.fudan.edu.cn/periodical/cn/article/10.13873/j.issn.1006-1460.2014.03.005\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"短视频平台的议程设置功能及其对青年价值观的影响\\\",\\n      \\\"authors\\\": \\\"张志安\\\",\\n      \\\"year\\\": 2020,\\n      \\\"journal\\\": \\\"青年记者\\\",\\n      \\\"doi\\\": null,\\n      \\\"url\\\": \\\"https://www.qingnianzhe.com/periodical/cn/article/10.15999/j.cnki.qnjz.2020.08.001\\\"\\n    }\\n  ]\\n}\\n```\"},\"finish_reason\":\"stop\",\"logprobs\":null}],\"usage\":{\"prompt_tokens\":163,\"total_tokens\":810,\"completion_tokens\":647,\"prompt_tokens_details\":{\"cached_tokens\":0,\"text_tokens\":163}}}",
+  "http_status": 200,
+  "safe_response_headers": {
+    "x-request-id": "fc8e68f0-8bfb-99c4-bd04-bd55b1b64781",
+    "server": "istio-envoy"
+  },
+  "sent_parameters": {
+    "model": "qwen3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构和论文发表语言；论文须发表于中国大陆主办的学术期刊，不限制其出版服务商。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "provider_request_id": "fc8e68f0-8bfb-99c4-bd04-bd55b1b64781",
+  "json_parsed": false,
+  "latency": 11.384026799998537,
+  "usage_price_estimate": {
+    "currency": "CNY",
+    "input_tokens_scenario": 163,
+    "output_tokens_scenario": 647,
+    "text_component_amount": "0.0018773",
+    "estimated_total_amount": null,
+    "verified_total_upper_bound": null,
+    "actual_billed_amount": null,
+    "cache_policy": "all_input_at_uncached_rate_scenario",
+    "multiplier_scenario": "1 (scenario only; not account verification)",
+    "tools": "not_requested",
+    "client_retries": 0,
+    "unknown_terms": [
+      "account_currency_confirmation",
+      "actual_account_discounts",
+      "cache_billing",
+      "failed_request_billing",
+      "billing_rounding"
+    ],
+    "price_snapshot_id": "51176537e343ad9e1d4e441ebf841a781aba65eda97a8275da5e9729f8327a04",
+    "usage_evidence": {
+      "prompt_tokens": 163,
+      "total_tokens": 810,
+      "completion_tokens": 647,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 163
+      }
+    },
+    "reasoning_tokens_reported": null,
+    "usage_cost_basis": "uncached list-rate component; not actual invoice"
+  }
+}

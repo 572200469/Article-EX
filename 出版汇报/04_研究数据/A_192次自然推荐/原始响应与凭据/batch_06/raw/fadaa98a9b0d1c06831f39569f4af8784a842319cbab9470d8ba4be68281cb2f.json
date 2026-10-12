@@ -1,0 +1,340 @@
+{
+  "protocol": "research_protocol_v1-f161bab9fb085136cd8a",
+  "batch_id": "publication_visibility_main-f161bab9fb085136",
+  "cohort": "publication_visibility_main",
+  "condition": "neutral_zh",
+  "prompt_language": "zh",
+  "topic_id": "algorithms_bubbles",
+  "topic_group": "digital",
+  "provider": "deepseek",
+  "model_requested": "deepseek-flash",
+  "requested_model": "deepseek-flash",
+  "route": {
+    "provider": "deepseek",
+    "adapter": "deepseek",
+    "access_channel": "official",
+    "base_url": "https://api.deepseek.com",
+    "api_key_env": "DEEPSEEK_API_KEY",
+    "model": "deepseek-flash",
+    "confirmed": true,
+    "parameters_confirmed": true,
+    "thinking_mode": "disabled",
+    "output_limit_field": "max_tokens"
+  },
+  "route_id": "f3719c7d0d754267a4db12b6b157678bf0cab6b0f149c6fbb51c587d68cadd3b",
+  "access_channel": "official",
+  "base_url": "https://api.deepseek.com",
+  "adapter": "deepseek",
+  "repeat_index": 2,
+  "mode": "baseline",
+  "search_enabled": false,
+  "source_type": "api",
+  "prompt_text": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+  "request_parameters": {
+    "max_output_tokens": 8192,
+    "timeout": 180,
+    "thinking_mode": "disabled"
+  },
+  "thinking_mode": "disabled",
+  "coding_rule_version": "publication_visibility_coding_v2",
+  "sdk_retries": 0,
+  "caller_retries": 0,
+  "generation_authorized": true,
+  "request_config_id": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+  "effective_reasoning_parameters": {
+    "thinking_mode": "disabled"
+  },
+  "proposed_wire_parameters": {
+    "model": "deepseek-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "thinking": {
+        "type": "disabled"
+      }
+    }
+  },
+  "sequence": 133,
+  "source_job_id": "a978c4a27cb3f78dbd0f5e2f20b05ff42cc00097c8b2427e26f7a5f500692197",
+  "source_generation_protocol": "research_protocol_v1-cf2812cdc4a6cc6ddda4",
+  "job_id": "fadaa98a9b0d1c06831f39569f4af8784a842319cbab9470d8ba4be68281cb2f",
+  "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\deepseek\\fadaa98a9b0d1c06831f39569f4af8784a842319cbab9470d8ba4be68281cb2f",
+  "main_authorization": {
+    "authorization_id": "publication_visibility_main_batch06_f161bab9fb085136",
+    "configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+    "allowed_job_ids": [
+      "7df551fbd762130f78aaae89074cfdc7f03f7c21cc01175c55f6d75011f8eff1",
+      "c624188e6e8ba7d631520c81c05495125312b3a1c572f278fb308f4980f78530",
+      "63c831220b632ece5be3956813af0fd696bc11e6bd31c872fdb75c7ada8626a2",
+      "c12b12cb1e3af855a71ae6d84d484ba2ee3c38e763666ddd45bbc09078f2aca5",
+      "08c062589ca36963fa47d1a868dc2fee2bbced0f8b166ffa5270402b76d16e10",
+      "894cf389957f19c26a8f9adf09d8b417b9fa3c7ef325ca0d942effb34bbdaf61",
+      "1cfef0de267b698e9a7ed1f3c677aa2ce4283ea1ec8c19995a236c88995f5b8f",
+      "dbfc204474534ce367b626851abd81cfebc7b2d1c2597956ba5aba28cea470e8",
+      "fbc0885b580a69655e107c956590a0d19fd31948e346346279cf35e22f8cc8c2",
+      "8d23ca963cfcf606483ddf420285a20cc2c1dc918cf8e03f5fbbf753927dd0a4",
+      "2848789c31cbda0b1a32e99db601a26a3e3542af47bf4417b72846fc363a43f0",
+      "c1f27b889ccd2e2b6d75e03a756b25bf3befca8ff144f4b9c24b36d879a25355",
+      "fadaa98a9b0d1c06831f39569f4af8784a842319cbab9470d8ba4be68281cb2f",
+      "d58bdc3e16cff721c29e8ce4a67b4fc4d0458a8263d06f96bf22aea57a588908",
+      "2aeba2be7df5f3fa2ab5125257c99f8929b02e634b5e5ed5baef747f6af10989",
+      "b7abc374ca4fc54c6fca66714e4ce29c14d054482314777dde3361b73e0218b1",
+      "af98ff962263ce84396ad6017e490538a8d5754f4a085fca3c4edd011f29ff12",
+      "641fe06aef38ba7cc268ddfff9bfbaf7e8e681ace1fb8fbba5a3c748e5736aa6",
+      "717493fe5af993a01e123e08449f08ead6eb393c21673ce7535ebd9b9ee6d57a",
+      "02b5e1a0756eee4457c3c8cbbb63cbf44f9c6123b8e15833a42ff30831ab9d59",
+      "b003b425c079699ba04dfa042caf1286fa818dc91013b45edd3101235f3c32fc",
+      "839375b25b76c581eb36e38779558321974f38935b26b83b0655b3cbe57843ae",
+      "85ee7c0c2f530b0c6e41f2d192b448e3d14efda6f6fd9bb83824c40c059c6975",
+      "0d7c0f468f2c15748f6402f88718fc73fd5d73d12597b03f69c45daa64141856"
+    ],
+    "batch_number": 6,
+    "maximum_total_requests": 24,
+    "maximum_provider_requests": {
+      "qwen": 6,
+      "deepseek": 13,
+      "openai": 5
+    },
+    "software_budget_by_currency": {
+      "CNY": "1.10",
+      "USD": "1.30"
+    },
+    "maximum_job_requests": 1,
+    "user_authorized": true,
+    "billing_risk_accepted": true,
+    "source": "remaining144:E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\remaining_049_192\\authorization.json"
+  },
+  "experiment_id": "fadaa98a9b0d1c06831f39569f4af8784a842319cbab9470d8ba4be68281cb2f",
+  "timestamp": "2026-10-11T15:25:18.746282+00:00",
+  "protocol_status": "frozen",
+  "status": "success",
+  "api_success": true,
+  "attempt_index": 1,
+  "raw_response": {
+    "id": "2c25dfae-67bb-4886-9165-3383b05ece37",
+    "object": "chat.completion",
+    "created": 1791732325,
+    "model": "deepseek-flash",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"references\":[{\"title\":\"Echo chambers and online radicalization\",\"authors\":\"Törnberg, Petter\",\"year\":null,\"journal\":null,\"doi\":null,\"url\":\"https://arxiv.org/abs/1808.05931\"},{\"title\":\"The spread of false information on social media: The role of echo chambers and algorithmic filtering\",\"authors\":\"Vosoughi, Soroush; Roy, Deb; Aral, Sinan\",\"year\":2018,\"journal\":\"Science\",\"doi\":\"10.1126/science.aap9559\",\"url\":\"https://www.science.org/doi/10.1126/science.aap9559\"},{\"title\":\"The filter bubble: What the Internet is hiding from you\",\"authors\":\"Pariser, Eli\",\"year\":2011,\"journal\":null,\"doi\":null,\"url\":null},{\"title\":\"Exposure to ideologically diverse news and opinion on Facebook\",\"authors\":\"Bakshy, Eytan; Messing, Solomon; Adamic, Lada A.\",\"year\":2015,\"journal\":\"Science\",\"doi\":\"10.1126/science.aaa1160\",\"url\":\"https://www.science.org/doi/10.1126/science.aaa1160\"},{\"title\":\"Algorithmic personalization and the filter bubble\",\"authors\":\"Bozdag, Engin\",\"year\":2013,\"journal\":\"Philosophy & Technology\",\"doi\":\"10.1007/s13347-013-0123-x\",\"url\":\"https://link.springer.com/article/10.1007/s13347-013-0123-x\"}]}"
+        },
+        "logprobs": null,
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 142,
+      "completion_tokens": 328,
+      "total_tokens": 470,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 142
+    },
+    "system_fingerprint": "aeb56401ca74e127821c4f9126dcb669"
+  },
+  "references": [
+    {
+      "title": "Echo chambers and online radicalization",
+      "authors": "Törnberg, Petter",
+      "year": null,
+      "journal": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/1808.05931"
+    },
+    {
+      "title": "The spread of false information on social media: The role of echo chambers and algorithmic filtering",
+      "authors": "Vosoughi, Soroush; Roy, Deb; Aral, Sinan",
+      "year": 2018,
+      "journal": "Science",
+      "doi": "10.1126/science.aap9559",
+      "url": "https://www.science.org/doi/10.1126/science.aap9559"
+    },
+    {
+      "title": "The filter bubble: What the Internet is hiding from you",
+      "authors": "Pariser, Eli",
+      "year": 2011,
+      "journal": null,
+      "doi": null,
+      "url": null
+    },
+    {
+      "title": "Exposure to ideologically diverse news and opinion on Facebook",
+      "authors": "Bakshy, Eytan; Messing, Solomon; Adamic, Lada A.",
+      "year": 2015,
+      "journal": "Science",
+      "doi": "10.1126/science.aaa1160",
+      "url": "https://www.science.org/doi/10.1126/science.aaa1160"
+    },
+    {
+      "title": "Algorithmic personalization and the filter bubble",
+      "authors": "Bozdag, Engin",
+      "year": 2013,
+      "journal": "Philosophy & Technology",
+      "doi": "10.1007/s13347-013-0123-x",
+      "url": "https://link.springer.com/article/10.1007/s13347-013-0123-x"
+    }
+  ],
+  "returned_model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 142,
+    "completion_tokens": 328,
+    "total_tokens": 470,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 142
+  },
+  "finish_reason": "stop",
+  "actual_billed_amount": null,
+  "budget_reservation": {
+    "currency": "USD",
+    "amount": "0.10"
+  },
+  "pricing_snapshot": {
+    "provider": "deepseek",
+    "model": "deepseek-flash",
+    "access_channel": "official",
+    "pricing_route_base_url": "https://api.deepseek.com",
+    "pricing_currency": "USD",
+    "input_price_per_million": "0.30",
+    "output_price_per_million": "1.20",
+    "cached_input_price_per_million": null,
+    "input_token_limit": null,
+    "pricing_source": "prior_research_preexperiment_plan_official_peak_rate_snapshot",
+    "pricing_checked_at": "2026-10-11",
+    "source_url": "https://api-docs.deepseek.com/quick_start/pricing/",
+    "evidence_limit": "Prior public snapshot; current rate, account currency and actual deductions not verified.",
+    "unknown_terms": [
+      "current_rate",
+      "account_currency",
+      "cache_discount",
+      "off_peak_discount",
+      "failed_request_billing",
+      "actual_invoice"
+    ]
+  },
+  "budget_status": "reservation_retained_actual_invoice_unknown",
+  "planned_parameters": {
+    "model": "deepseek-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "thinking": {
+        "type": "disabled"
+      }
+    }
+  },
+  "upstream_identity_verified": false,
+  "response_text": "{\"references\":[{\"title\":\"Echo chambers and online radicalization\",\"authors\":\"Törnberg, Petter\",\"year\":null,\"journal\":null,\"doi\":null,\"url\":\"https://arxiv.org/abs/1808.05931\"},{\"title\":\"The spread of false information on social media: The role of echo chambers and algorithmic filtering\",\"authors\":\"Vosoughi, Soroush; Roy, Deb; Aral, Sinan\",\"year\":2018,\"journal\":\"Science\",\"doi\":\"10.1126/science.aap9559\",\"url\":\"https://www.science.org/doi/10.1126/science.aap9559\"},{\"title\":\"The filter bubble: What the Internet is hiding from you\",\"authors\":\"Pariser, Eli\",\"year\":2011,\"journal\":null,\"doi\":null,\"url\":null},{\"title\":\"Exposure to ideologically diverse news and opinion on Facebook\",\"authors\":\"Bakshy, Eytan; Messing, Solomon; Adamic, Lada A.\",\"year\":2015,\"journal\":\"Science\",\"doi\":\"10.1126/science.aaa1160\",\"url\":\"https://www.science.org/doi/10.1126/science.aaa1160\"},{\"title\":\"Algorithmic personalization and the filter bubble\",\"authors\":\"Bozdag, Engin\",\"year\":2013,\"journal\":\"Philosophy & Technology\",\"doi\":\"10.1007/s13347-013-0123-x\",\"url\":\"https://link.springer.com/article/10.1007/s13347-013-0123-x\"}]}",
+  "model_returned": "deepseek-flash",
+  "response_id": "2c25dfae-67bb-4886-9165-3383b05ece37",
+  "provider_status": "completed",
+  "search_executed": false,
+  "tool_records": [],
+  "upstream_snapshot": "unknown",
+  "api_surface": "deepseek.chat.completions",
+  "upstream_route_claims": {
+    "system_fingerprint": "aeb56401ca74e127821c4f9126dcb669"
+  },
+  "raw_http_body": "{\"id\":\"2c25dfae-67bb-4886-9165-3383b05ece37\",\"object\":\"chat.completion\",\"created\":1791732325,\"model\":\"deepseek-flash\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\"{\\\"references\\\":[{\\\"title\\\":\\\"Echo chambers and online radicalization\\\",\\\"authors\\\":\\\"Törnberg, Petter\\\",\\\"year\\\":null,\\\"journal\\\":null,\\\"doi\\\":null,\\\"url\\\":\\\"https://arxiv.org/abs/1808.05931\\\"},{\\\"title\\\":\\\"The spread of false information on social media: The role of echo chambers and algorithmic filtering\\\",\\\"authors\\\":\\\"Vosoughi, Soroush; Roy, Deb; Aral, Sinan\\\",\\\"year\\\":2018,\\\"journal\\\":\\\"Science\\\",\\\"doi\\\":\\\"10.1126/science.aap9559\\\",\\\"url\\\":\\\"https://www.science.org/doi/10.1126/science.aap9559\\\"},{\\\"title\\\":\\\"The filter bubble: What the Internet is hiding from you\\\",\\\"authors\\\":\\\"Pariser, Eli\\\",\\\"year\\\":2011,\\\"journal\\\":null,\\\"doi\\\":null,\\\"url\\\":null},{\\\"title\\\":\\\"Exposure to ideologically diverse news and opinion on Facebook\\\",\\\"authors\\\":\\\"Bakshy, Eytan; Messing, Solomon; Adamic, Lada A.\\\",\\\"year\\\":2015,\\\"journal\\\":\\\"Science\\\",\\\"doi\\\":\\\"10.1126/science.aaa1160\\\",\\\"url\\\":\\\"https://www.science.org/doi/10.1126/science.aaa1160\\\"},{\\\"title\\\":\\\"Algorithmic personalization and the filter bubble\\\",\\\"authors\\\":\\\"Bozdag, Engin\\\",\\\"year\\\":2013,\\\"journal\\\":\\\"Philosophy & Technology\\\",\\\"doi\\\":\\\"10.1007/s13347-013-0123-x\\\",\\\"url\\\":\\\"https://link.springer.com/article/10.1007/s13347-013-0123-x\\\"}]}\"},\"logprobs\":null,\"finish_reason\":\"stop\"}],\"usage\":{\"prompt_tokens\":142,\"completion_tokens\":328,\"total_tokens\":470,\"prompt_tokens_details\":{\"cached_tokens\":0},\"prompt_cache_hit_tokens\":0,\"prompt_cache_miss_tokens\":142},\"system_fingerprint\":\"aeb56401ca74e127821c4f9126dcb669\"}",
+  "http_status": 200,
+  "safe_response_headers": {
+    "server": "openresty"
+  },
+  "sent_parameters": {
+    "model": "deepseek-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "thinking": {
+        "type": "disabled"
+      }
+    }
+  },
+  "provider_request_id": null,
+  "entry_errors": [
+    {
+      "rank": 1,
+      "field": "authors",
+      "error": "field_type_error"
+    },
+    {
+      "rank": 2,
+      "field": "authors",
+      "error": "field_type_error"
+    },
+    {
+      "rank": 3,
+      "field": "authors",
+      "error": "field_type_error"
+    },
+    {
+      "rank": 4,
+      "field": "authors",
+      "error": "field_type_error"
+    },
+    {
+      "rank": 5,
+      "field": "authors",
+      "error": "field_type_error"
+    }
+  ],
+  "json_parsed": true,
+  "latency": 5.796213999994507,
+  "usage_price_estimate": {
+    "currency": "USD",
+    "input_tokens_scenario": 142,
+    "output_tokens_scenario": 328,
+    "text_component_amount": "0.0004362",
+    "estimated_total_amount": null,
+    "verified_total_upper_bound": null,
+    "actual_billed_amount": null,
+    "cache_policy": "all_input_at_uncached_rate_scenario",
+    "multiplier_scenario": "1 (scenario only; not account verification)",
+    "tools": "not_requested",
+    "client_retries": 0,
+    "unknown_terms": [
+      "current_rate",
+      "account_currency",
+      "cache_discount",
+      "off_peak_discount",
+      "failed_request_billing",
+      "actual_invoice"
+    ],
+    "price_snapshot_id": "351ba27a464dc989be37ce2bae82bc2b23bdce7cd3bc17f3875ce3d2871c1841",
+    "usage_evidence": {
+      "prompt_tokens": 142,
+      "completion_tokens": 328,
+      "total_tokens": 470,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 142
+    },
+    "reasoning_tokens_reported": null,
+    "usage_cost_basis": "uncached list-rate component; not actual invoice"
+  }
+}

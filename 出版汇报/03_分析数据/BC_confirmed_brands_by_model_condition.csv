@@ -1,0 +1,9 @@
+﻿model,condition,confirmed_brands,positions
+GPT,B,尚无确认；不等于无真实作品,0
+GPT,C,Computers in Human Behavior；Digital Journalism；Internet Policy Review；Public Opinion Quarterly；Science,5
+Gemini,B,新闻大学,1
+Gemini,C,American Political Science Review；Journal of Communication；Mass Communication and Society；Public Opinion Quarterly,5
+DeepSeek,B,尚无确认；不等于无真实作品,0
+DeepSeek,C,尚无确认；不等于无真实作品,0
+Qwen,B,尚无确认；不等于无真实作品,0
+Qwen,C,尚无确认；不等于无真实作品,0

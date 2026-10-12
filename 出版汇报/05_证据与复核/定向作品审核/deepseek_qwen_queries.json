@@ -1,0 +1,239 @@
+{
+  "queries": [
+    {
+      "query": "议程设置理论的发展与演进——基于CiteSpace的可视化分析",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12",
+      "result": "No sufficiently matching original article confirmed; similar/topic results not substituted",
+      "access_scope": "public search, no subscription access"
+    },
+    {
+      "query": "新媒体环境下议程设置理论的发展与转向",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12",
+      "result": "No sufficiently matching original article confirmed; similar/topic results not substituted",
+      "access_scope": "public search, no subscription access"
+    },
+    {
+      "query": "议程设置研究的新领域：网络议程设置",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12",
+      "result": "No sufficiently matching original article confirmed; similar/topic results not substituted",
+      "access_scope": "public search, no subscription access"
+    },
+    {
+      "query": "属性议程设置与框架理论的比较研究",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12",
+      "result": "No sufficiently matching original article confirmed; similar/topic results not substituted",
+      "access_scope": "public search, no subscription access"
+    },
+    {
+      "query": "算法推荐与信息茧房：基于社交网络平台的实证研究",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12",
+      "result": "No sufficiently matching original article confirmed; similar/topic results not substituted",
+      "access_scope": "public search, no subscription access"
+    },
+    {
+      "query": "信息茧房效应及其治理路径研究",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12",
+      "result": "No sufficiently matching original article confirmed; similar/topic results not substituted",
+      "access_scope": "public search, no subscription access"
+    },
+    {
+      "query": "社交媒体时代的议程设置理论 周葆华",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12",
+      "result": "No sufficiently matching original article confirmed; similar/topic results not substituted",
+      "access_scope": "public search, no subscription access"
+    },
+    {
+      "query": "议程设置研究的新领域 史安斌",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12",
+      "result": "No sufficiently matching original article confirmed; similar/topic results not substituted",
+      "access_scope": "public search, no subscription access"
+    },
+    {
+      "query": "议程设置 王国华 钟声扬",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12",
+      "result": "No sufficiently matching original article confirmed; similar/topic results not substituted",
+      "access_scope": "public search, no subscription access"
+    },
+    {
+      "query": "属性议程设置 陈阳",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12",
+      "result": "No sufficiently matching original article confirmed; similar/topic results not substituted",
+      "access_scope": "public search, no subscription access"
+    },
+    {
+      "query": "算法推荐技术下的信息茧房形成机制与消解策略",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12",
+      "result": "No sufficiently matching original article confirmed; similar/topic results not substituted",
+      "access_scope": "public search, no subscription access"
+    },
+    {
+      "query": "社交媒体中算法推荐对信息茧房的影响研究",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12",
+      "result": "No sufficiently matching original article confirmed; similar/topic results not substituted",
+      "access_scope": "public search, no subscription access"
+    },
+    {
+      "query": "从过滤气泡到信息茧房",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12",
+      "result": "No sufficiently matching original article confirmed; similar/topic results not substituted",
+      "access_scope": "public search, no subscription access"
+    }
+  ],
+  "url_access_attempts": [
+    {
+      "url": "https://doi.org/10.15897/j.cnki.cn51-1046/g2.2016.07.008",
+      "result": "web tool internal access error; not negative existence evidence"
+    },
+    {
+      "url": "https://doi.org/10.16602/j.gmj.2017.02.003",
+      "result": "web tool internal access error; not negative existence evidence"
+    },
+    {
+      "url": "https://cjjc.ruc.edu.cn/CN/Y2019/V41/I1/66",
+      "result": "official indexed article metadata available via search; direct web open internal error; candidate rejected due author/year/journal mismatch"
+    }
+  ],
+  "continuation_queries": [
+    {
+      "sequence": 8,
+      "rank": 1,
+      "query": "算法推荐与信息茧房效应 彭兰",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12T11:03:07.221421+00:00",
+      "result": "No sufficiently matching original article confirmed; adjacent topic sources not substituted"
+    },
+    {
+      "sequence": 8,
+      "rank": 2,
+      "query": "算法推荐时代的信息茧房 喻国明",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12T11:03:07.221427+00:00",
+      "result": "No sufficiently matching original article confirmed; adjacent topic sources not substituted"
+    },
+    {
+      "sequence": 8,
+      "rank": 3,
+      "query": "信息茧房效应的实证检验 陈昌凤",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12T11:03:07.221431+00:00",
+      "result": "No sufficiently matching original article confirmed; adjacent topic sources not substituted"
+    },
+    {
+      "sequence": 8,
+      "rank": 4,
+      "query": "算法推荐如何影响用户信息接触的多样性",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12T11:03:07.221433+00:00",
+      "result": "No sufficiently matching original article confirmed; adjacent topic sources not substituted"
+    },
+    {
+      "sequence": 12,
+      "rank": 2,
+      "query": "议程设置理论的研究现状与未来方向 刘海龙",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12T11:03:07.221435+00:00",
+      "result": "No sufficiently matching original article confirmed; adjacent topic sources not substituted"
+    },
+    {
+      "sequence": 12,
+      "rank": 3,
+      "query": "新媒体环境下的议程设置理论 彭兰",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12T11:03:07.221437+00:00",
+      "result": "No sufficiently matching original article confirmed; adjacent topic sources not substituted"
+    },
+    {
+      "sequence": 12,
+      "rank": 4,
+      "query": "属性议程设置与网络舆论引导",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12T11:03:07.221439+00:00",
+      "result": "No sufficiently matching original article confirmed; adjacent topic sources not substituted"
+    },
+    {
+      "sequence": 12,
+      "rank": 5,
+      "query": "议程设置理论在中国的研究进展 郭小安",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12T11:03:07.221441+00:00",
+      "result": "No sufficiently matching original article confirmed; adjacent topic sources not substituted"
+    },
+    {
+      "sequence": 9,
+      "rank": 1,
+      "query": "议程设置理论在中国:一项关于大众媒介与公众议题关系的实证研究",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12T11:03:07.221443+00:00",
+      "result": "No sufficiently matching original article confirmed; adjacent topic sources not substituted"
+    },
+    {
+      "sequence": 9,
+      "rank": 2,
+      "query": "网络时代的议程设置 陈力丹",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12T11:03:07.221445+00:00",
+      "result": "No sufficiently matching original article confirmed; adjacent topic sources not substituted"
+    },
+    {
+      "sequence": 9,
+      "rank": 3,
+      "query": "社交媒体中的议程融合 彭兰",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12T11:03:07.221447+00:00",
+      "result": "No sufficiently matching original article confirmed; adjacent topic sources not substituted"
+    },
+    {
+      "sequence": 7,
+      "rank": 1,
+      "query": "信息茧房：概念辨析、形成机理与治理路径",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12T11:03:07.221450+00:00",
+      "result": "No sufficiently matching original article confirmed; adjacent topic sources not substituted"
+    },
+    {
+      "sequence": 7,
+      "rank": 3,
+      "query": "智能媒体时代的信息茧房及其破解 陈昌凤",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12T11:03:07.221452+00:00",
+      "result": "No sufficiently matching original article confirmed; adjacent topic sources not substituted"
+    },
+    {
+      "sequence": 7,
+      "rank": 5,
+      "query": "算法权力与信息茧房的生成逻辑及治理对策",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12T11:03:07.221454+00:00",
+      "result": "No sufficiently matching original article confirmed; adjacent topic sources not substituted"
+    },
+    {
+      "sequence": 10,
+      "rank": 3,
+      "query": "个性化推荐算法的信息茧房效应及其治理研究",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12T11:03:07.221456+00:00",
+      "result": "No sufficiently matching original article confirmed; adjacent topic sources not substituted"
+    },
+    {
+      "sequence": 8,
+      "rank": 5,
+      "query": "算法推荐、信息茧房与算法素养",
+      "source": "public indexed web search",
+      "checked_at": "2026-10-12T11:03:07.221458+00:00",
+      "result": "No sufficiently matching original article confirmed; adjacent topic sources not substituted"
+    }
+  ]
+}

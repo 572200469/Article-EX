@@ -1,0 +1,41 @@
+{
+  "checked_at": "2026-10-12T11:14:04.266786+00:00",
+  "passed": true,
+  "sent16_one_attempt_each": true,
+  "raw_mirrors_and_ledgers_correspond": true,
+  "provider_quotas": {
+    "openai": 4,
+    "gemini": 4,
+    "deepseek": 4,
+    "qwen": 4
+  },
+  "budget_by_currency": {
+    "CNY": "1.40",
+    "USD": "0.40"
+  },
+  "historical_files_checked": 2184,
+  "historical_files_changed": [],
+  "actual_recommendations": 50,
+  "empty_placeholders": 5,
+  "all_source_json_positions": 55,
+  "all_raw_hashes": {
+    "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_2c745f101d2c056e29c1a0f2dc87511ad11da219738a4de86051c4a08ec91290.json": "17521c9ec4453cb007890ad8e2f0f8f86b1d7aeb359c9025df46a16dfd4462c8",
+    "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_a7c7b6fefffb69d07b17e4227c67d9f4f993e684f95c4f14a2450e16691f8954.json": "2103b08bf853d13bf9b63ffa79cf17972b32c231e7593ce139950638a3adc286",
+    "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_d4b7588992c1978d541944228a55416bac689b8007df0ec0769efee99c41609c.json": "27749de825606aa0abc9fb647db085be12bbec3c559a3e2a24d7dcd9f7f6831d",
+    "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_7631d62ab81afd388be254881906c3a30d2f0c2ddfedae29bfc7c0945dc7d24c.json": "60afe5e0ad915b12d218ddce27164772e3adfe4cc9538b0c4dd43470dc3713da",
+    "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_72615dfa1871d6fb7fefde4f4bf8b99cdf604e09fba9f6f908145da63d7dc16c.json": "1efecef760c10f53650f76459e237bcaffb31cb7da64bcf9e89916dd4ba80688",
+    "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_929e5b48b3bcbeb1d4a8f7e8a5980237160afe01560a355737b3d3a42d772f03.json": "1a3ef72b099dd4227b1ce29180eadb9608dd079f898b51b0cc93001880ccc104",
+    "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_e7d42621b75ad6eaa5bd36239a36356654ace5f9bae671c325582e151b5fd1c5.json": "62636973903501cec86f98d065341b61fa7b0f5216b3ad5c166e18ae6db060e8",
+    "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_7e911ec6415bf833c5d4468920383cedff7772c1205d5e3fce1b7a13559a935a.json": "68425318f2205e41a529ccd5b2ec085cd9798af2f74aae70138e7af7cac59d1c",
+    "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_8f82cb9d4317914d25635a375ea300eed2e4ed87a025c263a70c5790de5fac4d.json": "5b22db6b55186ac7c75058c9577cc6e98e04cbcfe2c7c65fc0fdd5e27397e805",
+    "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_d89223edadd98e68eaf7e11143ffa8694bebd1f08fc91ffc23d854d3790c6219.json": "605c54a8eff6f3edcde3f10dfe2b6989b4efcd4b1bd5330a42f8bbe76daf6525",
+    "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_f9bbbf2da48081daa4c3ba824a41010e7a08bdbc0847643bf311b5688ebf7029.json": "4d979b8c796cade3eacc0db8e70dcbd40b2f94c18f56ae24b5190152efae3bf8",
+    "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_16cbbb345646c96e0e142a0287458f2c8570fdec068cf2732103a60504e38a5a.json": "319559f02a7e74ec5442cbff5606cdcdfaa002480274e9fc33d1cc0e90722f80",
+    "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_4d78c5bbf0a94131a1769211012195fd02a5e9bd7b99b7dbd2938b601c0bb278.json": "f2f41b658e74cbad7eda13fc80e3533820ced9d24ed8ea4b8c1b94abe76b0844",
+    "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_b3c77e12230174520bcefaa74389eb9dc07e5a954804060a4eb37cafd0253034.json": "c6f8468fbec3731f9e6497614dd8a7272435818f3570b3bc8deef83d89125468",
+    "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_a6c972270a1f6b15c3c1fb2c03cc70cdb619ffbf68509588593b3925341f2729.json": "a5e5fae517ba80374a5a17a284819e34bec7cf3e7e6d883e63d6746a0107e168",
+    "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_a80d839d194bf4ba978a7aedbd66287464067d777059d3673c9390d467bbc447.json": "3a4f9d2b6bc42ad525d2bed3652cc2a1f8152d6eee75da2504b2e60ed61bd99b"
+  },
+  "actual_billing_verified": false,
+  "no_additional_generation": true
+}

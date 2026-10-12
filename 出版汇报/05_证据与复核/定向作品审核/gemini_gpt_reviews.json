@@ -1,0 +1,727 @@
+{
+  "scope": "Gemini and GPT directed pilot actual recommendations only",
+  "review_method": "Exact title/author/year/journal identity with official article evidence; no topical substitution; article-level CJFQ required for cnki_indexed=true",
+  "rows": [
+    {
+      "job_id": "china_directed_929e5b48b3bcbeb1d4a8f7e8a5980237160afe01560a355737b3d3a42d772f03",
+      "rank": 1,
+      "raw_title": "议程设置理论的过去、现在和未来",
+      "raw_authors": [
+        "马克斯韦尔·麦库姆斯"
+      ],
+      "raw_year": 2007,
+      "raw_journal": "国际新闻界",
+      "identity_confirmed": true,
+      "canonical_title": "议程设置理论概览：过去，现在与未来",
+      "canonical_authors": [
+        "麦克斯韦尔·麦考姆斯"
+      ],
+      "canonical_year": 2007,
+      "canonical_journal": "新闻大学",
+      "canonical_url": "https://www.scribd.com/document/624584008/议程设置理论概览-过去-现在与未来-麦克斯韦尔-麦考姆斯",
+      "mainland_journal_institutional_affiliation": "mainland_independent",
+      "cnki_indexed": "unknown",
+      "evidence_source": [
+        "https://xwxz.cbpt.cnki.net/portal/journal/portal/client/paper/dc593cfc76e30c6d50672a988e26ba35",
+        "https://www.scribd.com/document/624584008/议程设置理论概览-过去-现在与未来-麦克斯韦尔-麦考姆斯"
+      ],
+      "institutional_evidence": [
+        "https://xwxy.fudan.edu.cn/cc/f1/c41259a642289/page.htm",
+        "https://wkkyc.fudan.edu.cn/xsqk/list.htm"
+      ],
+      "reason": "Original article scan first page explicitly gives 新闻大学2007年第3期 and original author McCombs (also 麦库姆斯), with translators 郭镇之/邓理峰. Official 新闻与写作 reference list independently corroborates. Recommended title lightly paraphrases the same distinctive past/present/future work; author/year align. Journal wrongly named 国际新闻界. Fudan official retrospective editorial history identifies Fudan responsibility from 1981 and its 2002–2015 editor covers2007. Not publisher-country inference.",
+      "metadata_errors": [
+        "title_light_paraphrase",
+        "journal_incorrect"
+      ],
+      "review_status": "identity_confirmed_with_metadata_errors",
+      "sequence": 6,
+      "provider": "gemini",
+      "condition": "directed_mainland_B",
+      "topic_id": "agenda_setting",
+      "candidates": [
+        {
+          "title": "议程设置理论概览：过去，现在与未来",
+          "authors": [
+            "麦克斯韦尔·麦考姆斯"
+          ],
+          "translators": [
+            "郭镇之",
+            "邓理峰"
+          ],
+          "year": 2007,
+          "journal": "新闻大学",
+          "pages": "55-67",
+          "evidence_kind": "official_other_article_reference_list",
+          "source_url": "https://xwxz.cbpt.cnki.net/portal/journal/portal/client/paper/dc593cfc76e30c6d50672a988e26ba35",
+          "not_same_claimed_journal": true
+        }
+      ],
+      "canonical_translators": [
+        "郭镇之",
+        "邓理峰"
+      ],
+      "canonical_issue": "3",
+      "canonical_pages": "55-67",
+      "institutional_responsible_organization": "复旦大学",
+      "owner": "unknown",
+      "publisher_service": "《新闻大学》编辑部",
+      "digital_host_at_publication": "unknown",
+      "evidence_limit": "Original journal scan is publicly hosted by third party Scribd; original publisher own article record not located. Identity corroborated using official other-article citation. Article-level CJFQ unknown.",
+      "original_chinese_title": "议程设置理论概览：过去，现在与未来",
+      "original_publication_language": "zh",
+      "mainland_author_affiliation": "false",
+      "translator_mainland_affiliation": "true"
+    },
+    {
+      "job_id": "china_directed_929e5b48b3bcbeb1d4a8f7e8a5980237160afe01560a355737b3d3a42d772f03",
+      "rank": 2,
+      "raw_title": "网络议程设置模式：议程设置理论的第三层级",
+      "raw_authors": [
+        "郭蕾"
+      ],
+      "raw_year": 2014,
+      "raw_journal": "国际新闻界",
+      "identity_confirmed": false,
+      "canonical_title": null,
+      "canonical_authors": [],
+      "canonical_year": null,
+      "canonical_journal": null,
+      "canonical_url": null,
+      "mainland_journal_institutional_affiliation": "unknown",
+      "cnki_indexed": "unknown",
+      "evidence_source": [],
+      "institutional_evidence": [],
+      "reason": "Limited exact title/author/year searches did not establish the recommended work. Search non-hit is not absence evidence.",
+      "metadata_errors": [],
+      "review_status": "unverified_pending_researcher_review",
+      "sequence": 6,
+      "provider": "gemini",
+      "condition": "directed_mainland_B",
+      "topic_id": "agenda_setting"
+    },
+    {
+      "job_id": "china_directed_929e5b48b3bcbeb1d4a8f7e8a5980237160afe01560a355737b3d3a42d772f03",
+      "rank": 3,
+      "raw_title": "“议程设置”理论及其在中国",
+      "raw_authors": [
+        "郭镇之"
+      ],
+      "raw_year": 1997,
+      "raw_journal": "国际新闻界",
+      "identity_confirmed": false,
+      "canonical_title": null,
+      "canonical_authors": [],
+      "canonical_year": null,
+      "canonical_journal": null,
+      "canonical_url": null,
+      "mainland_journal_institutional_affiliation": "unknown",
+      "cnki_indexed": "unknown",
+      "evidence_source": [
+        "https://xwxz.cbpt.cnki.net/portal/journal/portal/client/paper/dc593cfc76e30c6d50672a988e26ba35"
+      ],
+      "institutional_evidence": [],
+      "reason": "Official other-article reference list documents 郭镇之《关于大众传播的议程设置功能》(国际新闻界1997年第3期), but recommended title differs materially; topical/year/author overlap alone does not prove identity.",
+      "metadata_errors": [],
+      "review_status": "unverified_pending_researcher_review",
+      "sequence": 6,
+      "provider": "gemini",
+      "condition": "directed_mainland_B",
+      "topic_id": "agenda_setting",
+      "candidates": [
+        {
+          "title": "关于大众传播的议程设置功能",
+          "authors": [
+            "郭镇之"
+          ],
+          "year": 1997,
+          "journal": "国际新闻界",
+          "evidence_kind": "official_other_article_reference_list",
+          "source_url": "https://xwxz.cbpt.cnki.net/portal/journal/portal/client/paper/dc593cfc76e30c6d50672a988e26ba35"
+        }
+      ]
+    },
+    {
+      "job_id": "china_directed_929e5b48b3bcbeb1d4a8f7e8a5980237160afe01560a355737b3d3a42d772f03",
+      "rank": 4,
+      "raw_title": "媒介议程设置效果的实证研究",
+      "raw_authors": [
+        "张国良"
+      ],
+      "raw_year": 1998,
+      "raw_journal": "新闻大学",
+      "identity_confirmed": false,
+      "canonical_title": null,
+      "canonical_authors": [],
+      "canonical_year": null,
+      "canonical_journal": null,
+      "canonical_url": null,
+      "mainland_journal_institutional_affiliation": "unknown",
+      "cnki_indexed": "unknown",
+      "evidence_source": [],
+      "institutional_evidence": [],
+      "reason": "Limited exact title/author/year searches did not establish the recommended work. Search non-hit is not absence evidence.",
+      "metadata_errors": [],
+      "review_status": "unverified_pending_researcher_review",
+      "sequence": 6,
+      "provider": "gemini",
+      "condition": "directed_mainland_B",
+      "topic_id": "agenda_setting"
+    },
+    {
+      "job_id": "china_directed_4d78c5bbf0a94131a1769211012195fd02a5e9bd7b99b7dbd2938b601c0bb278",
+      "rank": 1,
+      "raw_title": "信息茧房：从隐喻到现实的反思",
+      "raw_authors": [
+        "彭兰"
+      ],
+      "raw_year": 2020,
+      "raw_journal": "国际新闻界",
+      "identity_confirmed": false,
+      "canonical_title": null,
+      "canonical_authors": [],
+      "canonical_year": null,
+      "canonical_journal": null,
+      "canonical_url": null,
+      "mainland_journal_institutional_affiliation": "unknown",
+      "cnki_indexed": "unknown",
+      "evidence_source": [
+        "http://cjjc.ruc.edu.cn/CN/Y2020/V42/I3",
+        "http://cjjc.ruc.edu.cn/CN/Y2020/V42/I3/32",
+        "https://api.crossref.org/works/10.13495%2Fj.cnki.cjjc.2020.03.002",
+        "https://journals.sagepub.com/doi/pdf/10.1177/21582440251341173"
+      ],
+      "institutional_evidence": [],
+      "reason": "Original recommended Peng Lan title not established by exact public search. Official2020 issue3 and fullPDF show page32–48 work by李彪 on elderly WeChat; a formal Sage article reference attributes supplied DOI to that different work. Crossref DOI request404. DOI-target candidate must not replace original Peng Lan recommendation.",
+      "metadata_errors": [
+        "doi_candidate_conflict"
+      ],
+      "review_status": "unverified_pending_researcher_review",
+      "sequence": 13,
+      "provider": "openai",
+      "condition": "directed_mainland_B",
+      "topic_id": "algorithms_bubbles",
+      "candidates": [
+        {
+          "title": "数字反哺与群体压力：老年群体微信朋友圈使用行为影响因素研究",
+          "authors": [
+            "李彪"
+          ],
+          "year": 2020,
+          "journal": "国际新闻界",
+          "pages": "32-48",
+          "canonical_url": "http://cjjc.ruc.edu.cn/CN/Y2020/V42/I3/32",
+          "relationship": "different_work_reported_under_claimed_DOI_in_Sage_reference",
+          "must_not_replace_recommendation": true
+        }
+      ],
+      "doi_resolution_status": "crossref_not_found; official_other_work_confirmed; DOI association fromSage reference not independently resolver-verified"
+    },
+    {
+      "job_id": "china_directed_a6c972270a1f6b15c3c1fb2c03cc70cdb619ffbf68509588593b3925341f2729",
+      "rank": 1,
+      "raw_title": "The Agenda-Setting Function of Mass Media",
+      "raw_authors": "Maxwell E. McCombs, Donald L. Shaw",
+      "raw_year": 1972,
+      "raw_journal": "Public Opinion Quarterly",
+      "identity_confirmed": true,
+      "canonical_title": "The Agenda-Setting Function of Mass Media",
+      "canonical_authors": [
+        "Maxwell McCombs",
+        "Donald Lewis Shaw"
+      ],
+      "canonical_year": 1972,
+      "canonical_journal": "Public Opinion Quarterly",
+      "canonical_doi": "10.1086/267990",
+      "canonical_url": "https://doi.org/10.1086/267990",
+      "mainland_journal_institutional_affiliation": "non_mainland",
+      "cnki_indexed": "unknown",
+      "evidence_source": [
+        "https://doi.org/10.1086/267990"
+      ],
+      "institutional_evidence": [
+        "https://academic.oup.com/poq/article/75/5/823/1831404"
+      ],
+      "reason": "Exact title,authors and print-year corroborate prior accepted metadata identity; reused same publication-year institutional source. CJFQ article-level evidence unavailable; CNKI unknown.",
+      "metadata_errors": [],
+      "review_status": "identity_confirmed_prior_corroborated_cache",
+      "sequence": 15,
+      "provider": "gemini",
+      "condition": "directed_cnki_C",
+      "topic_id": "agenda_setting",
+      "evidence_files": [
+        "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\incremental_metadata\\data\\cache\\63f854d9a1b247917f3339516fc344d00376d0bb1b1022f46653a8e7de88edd4\\6b0d5894c02f478d8e398fe544f11c87.json",
+        "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\incremental_metadata\\data\\cache\\680b4accff6a886085c3de6f7ae122d37c79d6f0a15b9b15a588eb4dce11eee5\\4aa3c893b92d45e694ee98cdc8c458b7.json"
+      ],
+      "source_slot_id": "a9e66957201f88eeb4acb7b521665d087e39d2d41a81bc8014a32dab3a185585",
+      "original_publication_language": "en",
+      "mainland_author_affiliation": "false"
+    },
+    {
+      "job_id": "china_directed_a6c972270a1f6b15c3c1fb2c03cc70cdb619ffbf68509588593b3925341f2729",
+      "rank": 2,
+      "raw_title": "The Issues of the Sixties: An Exploratory Study in the Dynamics of Public Opinion",
+      "raw_authors": "G. Ray Funkhouser",
+      "raw_year": 1973,
+      "raw_journal": "Public Opinion Quarterly",
+      "identity_confirmed": true,
+      "canonical_title": "The Issues of the Sixties: An Exploratory Study in the Dynamics of Public Opinion",
+      "canonical_authors": [
+        "G. Ray Funkhouser"
+      ],
+      "canonical_year": 1973,
+      "canonical_journal": "Public Opinion Quarterly",
+      "canonical_doi": "10.1086/268060",
+      "canonical_url": "https://doi.org/10.1086/268060",
+      "mainland_journal_institutional_affiliation": "non_mainland",
+      "cnki_indexed": "unknown",
+      "evidence_source": [
+        "https://doi.org/10.1086/268060"
+      ],
+      "institutional_evidence": [
+        "https://aapor.org/wp-content/uploads/2022/12/AAPOR-History-Book-FINAL.pdf"
+      ],
+      "reason": "Exact title,authors and print-year corroborate prior accepted metadata identity; reused same publication-year institutional source. CJFQ article-level evidence unavailable; CNKI unknown.",
+      "metadata_errors": [],
+      "review_status": "identity_confirmed_prior_corroborated_cache",
+      "sequence": 15,
+      "provider": "gemini",
+      "condition": "directed_cnki_C",
+      "topic_id": "agenda_setting",
+      "evidence_files": [
+        "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\incremental_metadata\\data\\cache\\07b280ea85087b3fcf0374fdfe7d3e16029f174e3455150775438a30c4d6a30f\\284b05c3148a4c39b6fe2c5420fd25e3.json",
+        "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\incremental_metadata\\data\\cache\\0a9c1712955fce87f2065c7cdf80c60d1b7822d02e954bf94e8f8dbc76dec3ba\\c4126f6c348e484c84577c03b37be99a.json"
+      ],
+      "source_slot_id": "16fbe24b469f5cc9bd896a9fcbb6052555a062cd2d396e529ddb0adc2f7db23b",
+      "original_publication_language": "en",
+      "mainland_author_affiliation": "false"
+    },
+    {
+      "job_id": "china_directed_a6c972270a1f6b15c3c1fb2c03cc70cdb619ffbf68509588593b3925341f2729",
+      "rank": 3,
+      "raw_title": "Experimental Demonstrations of the \"Not-So-Minimal\" Consequences of Television News Programs",
+      "raw_authors": "Shanto Iyengar, Mark D. Peters, Donald R. Kinder",
+      "raw_year": 1982,
+      "raw_journal": "The American Political Science Review",
+      "identity_confirmed": true,
+      "canonical_title": "Experimental Demonstrations of the “Not-So-Minimal” Consequences of Television News Programs",
+      "canonical_authors": [
+        "Shanto Iyengar",
+        "Mark D. Peters",
+        "Donald R. Kinder"
+      ],
+      "canonical_year": 1982,
+      "canonical_journal": "American Political Science Review",
+      "canonical_doi": "10.2307/1962976",
+      "canonical_url": "https://doi.org/10.2307/1962976",
+      "mainland_journal_institutional_affiliation": "non_mainland",
+      "cnki_indexed": "unknown",
+      "evidence_source": [
+        "https://doi.org/10.2307/1962976"
+      ],
+      "institutional_evidence": [
+        "https://www.cambridge.org/core/journals/american-political-science-review/article/editorial-note/6F49576EF49EB7C4C6BCDDCD7C02536D"
+      ],
+      "reason": "Exact title,authors and print-year corroborate prior accepted metadata identity; reused same publication-year institutional source. CJFQ article-level evidence unavailable; CNKI unknown.",
+      "metadata_errors": [
+        "doi_incorrect"
+      ],
+      "review_status": "identity_confirmed_prior_corroborated_cache",
+      "sequence": 15,
+      "provider": "gemini",
+      "condition": "directed_cnki_C",
+      "topic_id": "agenda_setting",
+      "evidence_files": [
+        "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_preexperiment-29c06243fe1ce3a2\\data\\cache\\bf7f10466514db4f1beb9abb9bf1c17f2a0fad6999f31b576b445aa6692027f6\\2026-10-11T09-07-08.143580+00-00_ce76c550-2682-402c-aa33-65e4c40e5c2c.json",
+        "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_preexperiment-29c06243fe1ce3a2\\data\\cache\\e258c924eb83b1cc4a0fc50cc89532f468dd1e3316be58a801673ef62897a003\\2026-10-11T09-07-07.449196+00-00_28410462-bfc1-45a7-962c-6d4bd8239d5a.json"
+      ],
+      "source_slot_id": "86b27dfcb8fa6bfd3c6e7325e2f12eaeab16bb628e89dbee8e94ef37ea151fd6",
+      "original_publication_language": "en",
+      "mainland_author_affiliation": "false"
+    },
+    {
+      "job_id": "china_directed_a6c972270a1f6b15c3c1fb2c03cc70cdb619ffbf68509588593b3925341f2729",
+      "rank": 4,
+      "raw_title": "Thoughts on Agenda Setting, Framing, and Priming",
+      "raw_authors": "David H. Weaver",
+      "raw_year": 2007,
+      "raw_journal": "Journal of Communication",
+      "identity_confirmed": true,
+      "canonical_title": "Thoughts on Agenda Setting, Framing, and Priming",
+      "canonical_authors": [
+        "David H. Weaver"
+      ],
+      "canonical_year": 2007,
+      "canonical_journal": "Journal of Communication",
+      "canonical_doi": "10.1111/j.1460-2466.2006.00333.x",
+      "canonical_url": "https://doi.org/10.1111/j.1460-2466.2006.00333.x",
+      "mainland_journal_institutional_affiliation": "non_mainland",
+      "cnki_indexed": "unknown",
+      "evidence_source": [
+        "https://doi.org/10.1111/j.1460-2466.2006.00333.x"
+      ],
+      "institutional_evidence": [
+        "https://omeka.asc.upenn.edu/s/ica75/page/expansion",
+        "https://onlinelibrary.wiley.com/journal/14602466"
+      ],
+      "reason": "Exact title,authors and print-year corroborate prior accepted metadata identity; reused same publication-year institutional source. CJFQ article-level evidence unavailable; CNKI unknown.",
+      "metadata_errors": [],
+      "review_status": "identity_confirmed_prior_corroborated_cache",
+      "sequence": 15,
+      "provider": "gemini",
+      "condition": "directed_cnki_C",
+      "topic_id": "agenda_setting",
+      "evidence_files": [
+        "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\main_processing\\main_20261012\\metadata\\data\\cache\\742080f54a06d814c234c5b3ef0bddc5c62fc0fb0d343113394cc70dc4c580e6\\809895284d0c4c379e98e7ca129431ab.json",
+        "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\main_processing\\main_20261012\\metadata\\data\\cache\\f43caf2c84e829657b880c9d4f7166e74441108c8086b9acda50ed7dfa0dede4\\6462b672a5974199aa8a77def14cd500.json"
+      ],
+      "source_slot_id": "71221473accbc2a4322002d24e5187a11c45976698d173672c55a420627431ab",
+      "original_publication_language": "en",
+      "mainland_author_affiliation": "false"
+    },
+    {
+      "job_id": "china_directed_a6c972270a1f6b15c3c1fb2c03cc70cdb619ffbf68509588593b3925341f2729",
+      "rank": 5,
+      "raw_title": "New Directions in Agenda-Setting Theory and Research",
+      "raw_authors": "Maxwell McCombs, Donald L. Shaw, David H. Weaver",
+      "raw_year": 2014,
+      "raw_journal": "Mass Communication and Society",
+      "identity_confirmed": true,
+      "canonical_title": "New Directions in Agenda-Setting Theory and Research",
+      "canonical_authors": [
+        "Maxwell E. McCombs",
+        "Donald L. Shaw",
+        "David H. Weaver"
+      ],
+      "canonical_year": 2014,
+      "canonical_journal": "Mass Communication and Society",
+      "canonical_doi": "10.1080/15205436.2014.964871",
+      "canonical_url": "https://doi.org/10.1080/15205436.2014.964871",
+      "mainland_journal_institutional_affiliation": "unknown",
+      "cnki_indexed": "unknown",
+      "evidence_source": [
+        "https://api.crossref.org/works/10.1080/15205436.2014.964871",
+        "https://doi.org/10.1080/15205436.2014.964871"
+      ],
+      "institutional_evidence": [],
+      "reason": "Existing Crossref candidate cache contains exact DOI,title,3authors and2014 print-year. Identity confirmed; prior Mass Communication and Society institutional source only covered2000, cannot silently extend to2014. Keep institutional unknown pending historical evidence. CJFQ unknown.",
+      "metadata_errors": [],
+      "review_status": "identity_confirmed_cache_institutional_pending",
+      "sequence": 15,
+      "provider": "gemini",
+      "condition": "directed_cnki_C",
+      "topic_id": "agenda_setting",
+      "evidence_files": [
+        "data\\main_processing\\main_20261012\\metadata\\data\\cache\\04acec44ff92c710178c86725b635e0d0ce154cfe2c493f5e17ccebb03538be6\\55b1cfe67eec440a8d51bce817a025df.json"
+      ],
+      "original_publication_language": "unknown",
+      "mainland_author_affiliation": "unknown"
+    },
+    {
+      "job_id": "china_directed_a80d839d194bf4ba978a7aedbd66287464067d777059d3673c9390d467bbc447",
+      "rank": 1,
+      "raw_title": "Exposure to ideologically diverse news and opinion on Facebook",
+      "raw_authors": "Eytan Bakshy; Solomon Messing; Lada A. Adamic",
+      "raw_year": 2015,
+      "raw_journal": "Science",
+      "identity_confirmed": true,
+      "canonical_title": "Exposure to ideologically diverse news and opinion on Facebook",
+      "canonical_authors": [
+        "Eytan Bakshy",
+        "Solomon Messing",
+        "Lada A. Adamic"
+      ],
+      "canonical_year": 2015,
+      "canonical_journal": "Science",
+      "canonical_doi": "10.1126/science.aaa1160",
+      "canonical_url": "https://doi.org/10.1126/science.aaa1160",
+      "mainland_journal_institutional_affiliation": "non_mainland",
+      "cnki_indexed": "unknown",
+      "evidence_source": [
+        "https://doi.org/10.1126/science.aaa1160"
+      ],
+      "institutional_evidence": [
+        "https://education.biu.ac.il/sites/education/files/shared/science-2015-bakshy-1130-2.pdf"
+      ],
+      "reason": "Distinctive exact title plus authors and print-year match prior corroborated metadata identity; reuse source cache and same-year institutional evidence. Article-level CJFQ evidence not obtained; CNKI unknown regardless model claims.",
+      "metadata_errors": [],
+      "review_status": "identity_confirmed_prior_corroborated_cache",
+      "sequence": 16,
+      "provider": "openai",
+      "condition": "directed_cnki_C",
+      "topic_id": "algorithms_bubbles",
+      "evidence_files": [
+        "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_preexperiment-29c06243fe1ce3a2\\data\\cache\\69ae5e9916f2ce9b307b29ca9b0eeeb12b1ed7b87b3417de52ddff3152725d39\\2026-10-11T09-09-26.574451+00-00_a03c441d-a07d-44ed-be5f-3fbe6606a09d.json",
+        "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_preexperiment-29c06243fe1ce3a2\\data\\cache\\b6e05107f9e085fbcdd19bdb1b4d2ff1005ce30d29a5329064f034bcb53e837b\\2026-10-11T09-09-24.344853+00-00_43bef816-7b59-4a4f-b8ff-e542d8643488.json"
+      ],
+      "source_slot_id": "fa768f182989b7086817ad2fc7190e28f5b9c727fe2b8c69b6c5c9242fd12a1a",
+      "original_publication_language": "en",
+      "mainland_author_affiliation": "false"
+    },
+    {
+      "job_id": "china_directed_a80d839d194bf4ba978a7aedbd66287464067d777059d3673c9390d467bbc447",
+      "rank": 2,
+      "raw_title": "Filter Bubbles, Echo Chambers, and Online News Consumption",
+      "raw_authors": "Seth Flaxman; Sharad Goel; Justin M. Rao",
+      "raw_year": 2016,
+      "raw_journal": "Public Opinion Quarterly",
+      "identity_confirmed": true,
+      "canonical_title": "Filter Bubbles, Echo Chambers, and Online News Consumption",
+      "canonical_authors": [
+        "Seth Flaxman",
+        "Sharad Goel",
+        "Justin M. Rao"
+      ],
+      "canonical_year": 2016,
+      "canonical_journal": "Public Opinion Quarterly",
+      "canonical_doi": "10.1093/poq/nfw006",
+      "canonical_url": "https://doi.org/10.1093/poq/nfw006",
+      "mainland_journal_institutional_affiliation": "non_mainland",
+      "cnki_indexed": "unknown",
+      "evidence_source": [
+        "https://doi.org/10.1093/poq/nfw006"
+      ],
+      "institutional_evidence": [
+        "https://5harad.com/papers/bubbles.pdf",
+        "https://academic.oup.com/poq/article/75/5/823/1831404"
+      ],
+      "reason": "Distinctive exact title plus authors and print-year match prior corroborated metadata identity; reuse source cache and same-year institutional evidence. Article-level CJFQ evidence not obtained; CNKI unknown regardless model claims.",
+      "metadata_errors": [],
+      "review_status": "identity_confirmed_prior_corroborated_cache",
+      "sequence": 16,
+      "provider": "openai",
+      "condition": "directed_cnki_C",
+      "topic_id": "algorithms_bubbles",
+      "evidence_files": [
+        "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_preexperiment-29c06243fe1ce3a2\\data\\cache\\003a4bb9b4d17c2c4a4d404eda3c8fc0790be93f150b3991bdecd34981560bd9\\2026-10-11T09-09-29.050572+00-00_a1848130-6fe9-4f70-ab52-9e8d721e06c6.json",
+        "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_preexperiment-29c06243fe1ce3a2\\data\\cache\\dc86e5c4be695047548ba92bcd1d5080ac53abcc3fe5e5befc07772268363fef\\2026-10-11T09-09-28.440939+00-00_9cdc63e0-6563-4158-9773-71dbc8683b60.json"
+      ],
+      "source_slot_id": "e7130d88ed5c62d1127a0b19d7b0141c5f97dc35f385586cf9b18074129a2a61",
+      "original_publication_language": "en",
+      "mainland_author_affiliation": "false"
+    },
+    {
+      "job_id": "china_directed_a80d839d194bf4ba978a7aedbd66287464067d777059d3673c9390d467bbc447",
+      "rank": 3,
+      "raw_title": "Burst of the Filter Bubble? Effects of personalization on the diversity of Google News",
+      "raw_authors": "Florian Haim; Andreas Graefe; Hans-Bernd Brosius",
+      "raw_year": 2018,
+      "raw_journal": "Digital Journalism",
+      "identity_confirmed": true,
+      "canonical_title": "Burst of the Filter Bubble? Effects of personalization on the diversity of Google News",
+      "canonical_authors": [
+        "Mario Haim",
+        "Andreas Graefe",
+        "Hans‐Bernd Brosius"
+      ],
+      "canonical_year": 2018,
+      "canonical_journal": "Digital Journalism",
+      "canonical_doi": "10.1080/21670811.2017.1338145",
+      "canonical_url": "https://doi.org/10.1080/21670811.2017.1338145",
+      "mainland_journal_institutional_affiliation": "unknown",
+      "cnki_indexed": "unknown",
+      "evidence_source": [
+        "https://doi.org/10.1080/21670811.2017.1338145"
+      ],
+      "institutional_evidence": [],
+      "reason": "Distinctive exact title plus authors and print-year match prior corroborated metadata identity; reuse source cache and same-year institutional evidence. Article-level CJFQ evidence not obtained; CNKI unknown regardless model claims. Haim given name is Mario in canonical metadata;2018print vs2017online is normal publication-date distinction, not yearerror.",
+      "metadata_errors": [
+        "first_author_given_name_incorrect_Florian_vs_Mario"
+      ],
+      "review_status": "identity_confirmed_prior_corroborated_cache",
+      "sequence": 16,
+      "provider": "openai",
+      "condition": "directed_cnki_C",
+      "topic_id": "algorithms_bubbles",
+      "evidence_files": [],
+      "source_slot_id": "0b73e9a96f0592fb7f5bfe31b556d347f952d2d3bc2209b037aec1210a5fad42",
+      "original_publication_language": "en",
+      "mainland_author_affiliation": "false",
+      "print_year": 2018,
+      "online_year": 2017,
+      "year_error": false
+    },
+    {
+      "job_id": "china_directed_a80d839d194bf4ba978a7aedbd66287464067d777059d3673c9390d467bbc447",
+      "rank": 4,
+      "raw_title": "Should We Worry about Filter Bubbles?",
+      "raw_authors": "Frederik J. Zuiderveen Borgesius; Damian Trilling; Judith Möller; Balázs Bodó; Claes H. de Vreese; Natali Helberger",
+      "raw_year": 2016,
+      "raw_journal": "Internet Policy Review",
+      "identity_confirmed": true,
+      "canonical_title": "Should we worry about filter bubbles?",
+      "canonical_authors": [
+        "Frederik Zuiderveen Borgesius",
+        "Damian Trilling",
+        "Judith Möller",
+        "Balázs Bodó",
+        "Claes H. de Vreese",
+        "Natali Helberger"
+      ],
+      "canonical_year": 2016,
+      "canonical_journal": "Internet Policy Review",
+      "canonical_doi": "10.14763/2016.1.401",
+      "canonical_url": "https://doi.org/10.14763/2016.1.401",
+      "mainland_journal_institutional_affiliation": "non_mainland",
+      "cnki_indexed": "unknown",
+      "evidence_source": [
+        "https://doi.org/10.14763/2016.1.401"
+      ],
+      "institutional_evidence": [
+        "https://www.hiig.de/en/research/evolving-digital-society/",
+        "https://www.hiig.de/en/project/internet-policy-review/",
+        "https://policyreview.info/about"
+      ],
+      "reason": "Distinctive exact title plus authors and print-year match prior corroborated metadata identity; reuse source cache and same-year institutional evidence. Article-level CJFQ evidence not obtained; CNKI unknown regardless model claims.",
+      "metadata_errors": [],
+      "review_status": "identity_confirmed_prior_corroborated_cache",
+      "sequence": 16,
+      "provider": "openai",
+      "condition": "directed_cnki_C",
+      "topic_id": "algorithms_bubbles",
+      "evidence_files": [
+        "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\incremental_metadata\\data\\cache\\e0fdcb43a247f868a1bcb52b95950e802ea783f8c6105c3ef82bf464990005b6\\e711190f5f6c4f9dba8cfc95b3f4e369.json",
+        "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_preexperiment-29c06243fe1ce3a2\\data\\cache\\a3176948d336ff93b251366b70b37dd9c400e954ca40c331eff42e77252a5f87\\2026-10-11T09-11-01.476839+00-00_a6680b37-7151-4009-9cbd-fb2500158b7a.json"
+      ],
+      "source_slot_id": "e021b8cd6a47d726743acc0a8a252cd51938615397b70ee627052dd7e9b74070",
+      "original_publication_language": "en",
+      "mainland_author_affiliation": "false"
+    },
+    {
+      "job_id": "china_directed_a80d839d194bf4ba978a7aedbd66287464067d777059d3673c9390d467bbc447",
+      "rank": 5,
+      "raw_title": "What kind of news gatekeepers do we want machines to be? Filter bubbles, fragmentation, and the normative dimensions of algorithmic recommendations",
+      "raw_authors": "Neta Nechushtai; Seth C. Lewis",
+      "raw_year": 2019,
+      "raw_journal": "Computers in Human Behavior",
+      "identity_confirmed": true,
+      "canonical_title": "What kind of news gatekeepers do we want machines to be? Filter bubbles, fragmentation, and the normative dimensions of algorithmic recommendations",
+      "canonical_authors": [
+        "Efrat Nechushtai",
+        "Seth C. Lewis"
+      ],
+      "canonical_year": 2019,
+      "canonical_journal": "Computers in Human Behavior",
+      "canonical_doi": "10.1016/j.chb.2018.07.043",
+      "canonical_url": "https://doi.org/10.1016/j.chb.2018.07.043",
+      "mainland_journal_institutional_affiliation": "unknown",
+      "cnki_indexed": "unknown",
+      "evidence_source": [
+        "https://api.crossref.org/works/10.1016%2Fj.chb.2018.07.043",
+        "https://doi.org/10.1016/j.chb.2018.07.043"
+      ],
+      "institutional_evidence": [],
+      "reason": "Free Crossref DOI request returned200: exact distinctive title, journal, DOI and2019print year match; coauthorSeth C.Lewis matches, first author is Efrat Nechushtai notNeta. Identity confirmed despite first given-name error. Institutional responsibility for2019 not separately audited here; retainunknown. CJFQ article-level unknown.",
+      "metadata_errors": [
+        "first_author_given_name_incorrect_Neta_vs_Efrat"
+      ],
+      "review_status": "identity_confirmed_doi_metadata_institutional_pending",
+      "sequence": 16,
+      "provider": "openai",
+      "condition": "directed_cnki_C",
+      "topic_id": "algorithms_bubbles",
+      "evidence_files": [
+        "data\\china_directed_evidence_20261012\\gpt16_rank5_crossref.json"
+      ],
+      "original_publication_language": "unknown",
+      "mainland_author_affiliation": "unknown"
+    }
+  ],
+  "technical_no_output": [
+    {
+      "job_id": "china_directed_2c745f101d2c056e29c1a0f2dc87511ad11da219738a4de86051c4a08ec91290",
+      "sequence": 1,
+      "provider": "openai",
+      "http_status": 408,
+      "bibliographic_review": "not_applicable_no_output"
+    },
+    {
+      "job_id": "china_directed_7631d62ab81afd388be254881906c3a30d2f0c2ddfedae29bfc7c0945dc7d24c",
+      "sequence": 4,
+      "provider": "gemini",
+      "http_status": 524,
+      "bibliographic_review": "not_applicable_no_output"
+    },
+    {
+      "job_id": "china_directed_72615dfa1871d6fb7fefde4f4bf8b99cdf604e09fba9f6f908145da63d7dc16c",
+      "sequence": 5,
+      "provider": "openai",
+      "http_status": 524,
+      "bibliographic_review": "not_applicable_no_output"
+    },
+    {
+      "job_id": "china_directed_b3c77e12230174520bcefaa74389eb9dc07e5a954804060a4eb37cafd0253034",
+      "sequence": 14,
+      "provider": "gemini",
+      "http_status": 524,
+      "bibliographic_review": "not_applicable_no_output"
+    }
+  ],
+  "status": "completed_limited_evidence_review",
+  "network_access_note": "web-access loaded; public searches and official reference-list page inspected; no logins and no CJFQ article-level record inferred from hosting.",
+  "public_queries_performed": 16,
+  "source_access_events": [
+    {
+      "url": "https://xwxz.cbpt.cnki.net/portal/journal/portal/client/paper/dc593cfc76e30c6d50672a988e26ba35",
+      "accessed_at": "2026-10-12",
+      "method": "web.open",
+      "outcome": "public_official_article_page_accessed",
+      "relevant_lines": "71-73 reference list",
+      "scope_limit": "This is not the recommended works own article record or a CJFQ index certificate."
+    },
+    {
+      "url": "https://cjjc.ruc.edu.cn/CN/Y1997/V19/I3",
+      "method": "web.open",
+      "outcome": "tool_inaccessible",
+      "constructed_candidate_url": true
+    },
+    {
+      "url": "https://xwdx.fudan.edu.cn/CN/Y2007/V0/I3/55",
+      "method": "web.open",
+      "outcome": "tool_inaccessible",
+      "constructed_candidate_url": true
+    },
+    {
+      "url": "http://cjjc.ruc.edu.cn/CN/Y2020/V42/I3",
+      "method": "requests.get public no auth",
+      "http_status": 200,
+      "local_evidence": "gpt13_source_0.txt"
+    },
+    {
+      "url": "http://cjjc.ruc.edu.cn/CN/Y2020/V42/I3/32",
+      "method": "requests.get public no auth",
+      "http_status": 200,
+      "local_evidence": "gpt13_doi_actual_article.html"
+    },
+    {
+      "url": "http://cjjc.ruc.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=994",
+      "method": "requests.get public no auth + originalPDFfirstpage visually inspected",
+      "http_status": 200,
+      "local_evidence": "gpt13_doi_actual_article.pdf",
+      "screenshot": "gpt13_doi_actual_article.png"
+    },
+    {
+      "url": "https://api.crossref.org/works/10.13495%2Fj.cnki.cjjc.2020.03.002",
+      "method": "requests.get free metadata no auth",
+      "http_status": 404,
+      "not_absence_proof": true
+    },
+    {
+      "url": "https://xwxy.fudan.edu.cn/cc/f1/c41259a642289/page.htm",
+      "method": "web.open",
+      "outcome": "official retrospectively documents journal responsibility and editors"
+    },
+    {
+      "url": "https://api.crossref.org/works/10.1016%2Fj.chb.2018.07.043",
+      "method": "requests.get free metadata noauth",
+      "http_status": 200,
+      "local_evidence": "data\\china_directed_evidence_20261012\\gpt16_rank5_crossref.json"
+    }
+  ],
+  "summary": {
+    "reviewed_actual_positions": 15,
+    "identity_confirmed_positions": 11,
+    "mainland_independent_positions": 1,
+    "cnki_article_level_confirmed": 0
+  }
+}

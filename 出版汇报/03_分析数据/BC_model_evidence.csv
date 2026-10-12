@@ -1,0 +1,9 @@
+﻿model,condition,planned_jobs,sent,api_success,positions,identity_confirmed,mainland_confirmed,CJFQ_confirmed,identity_unknown
+GPT,B,2,2,1,1,0,0,0,1
+GPT,C,2,2,1,5,5,0,0,0
+Gemini,B,2,2,1,4,1,1,0,3
+Gemini,C,2,2,1,5,5,0,0,0
+DeepSeek,B,2,2,2,10,0,0,0,10
+DeepSeek,C,2,2,2,10,0,0,0,10
+Qwen,B,2,2,2,10,0,0,0,10
+Qwen,C,2,2,2,5,0,0,0,5

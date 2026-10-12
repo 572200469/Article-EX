@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-10-12T10:05:25.852907+00:00",
+  "status": "frozen",
+  "manifest_hash": "24a3a190ab8a9948f77d5551177d7f847ffde8954c7ecbc1a2c7756976709a00",
+  "configuration_fingerprint": "9597931c4a07c93b292137ee5de04b478cfde0543ac42ab93509e3744574ad77",
+  "random_seed": 2026101202,
+  "paid_generation_authorized": false,
+  "source": "Researcher approved existing16 directed design; this message authorizes preparation only",
+  "B_strict_criterion": "mainland_independent_institutional_responsibility",
+  "crossborder_mainland_participation": "separate_not_B_strict_success",
+  "C_criterion": "article_level_CJFQ_retrievability_with_source_evidence",
+  "missing_CJFQ_evidence": "cnki_indexed=unknown; evaluation limitation, not a generation gate",
+  "general_journal_indexing_or_hosting_is_article_evidence": false
+}

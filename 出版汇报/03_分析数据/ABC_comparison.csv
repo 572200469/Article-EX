@@ -1,0 +1,5 @@
+﻿group,positions,identity_confirmed,identity_unknown,mainland_independent_confirmed,non_mainland_confirmed,nonjournal_confirmed,institutional_unknown_or_unresolved,cnki_article_confirmed,cnki_article_unknown,cnki_scope,actual_jobs,raw_title_Han
+A全部自然推荐,949,551,398,0,301,41,607,0,949,not_article_level_audited,190,0
+A可比中文两主题,114,72,42,0,51,4,59,0,114,not_article_level_audited,23,0
+B大陆定向,25,1,24,1,0,0,24,0,25,article_level_CJFQ,6,25
+C知网定向,25,10,15,0,7,0,18,0,25,article_level_CJFQ,5,15

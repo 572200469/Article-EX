@@ -1,0 +1,162 @@
+[
+  {
+    "job_id": "china_directed_2c745f101d2c056e29c1a0f2dc87511ad11da219738a4de86051c4a08ec91290",
+    "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_2c745f101d2c056e29c1a0f2dc87511ad11da219738a4de86051c4a08ec91290.json",
+    "raw_sha256": "17521c9ec4453cb007890ad8e2f0f8f86b1d7aeb359c9025df46a16dfd4462c8",
+    "extraction_method": "unparsed_raw_text_manual_review",
+    "selected_block": null,
+    "quotes": [],
+    "raw_modified": false,
+    "all_lists_preserved": true
+  },
+  {
+    "job_id": "china_directed_a7c7b6fefffb69d07b17e4227c67d9f4f993e684f95c4f14a2450e16691f8954",
+    "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_a7c7b6fefffb69d07b17e4227c67d9f4f993e684f95c4f14a2450e16691f8954.json",
+    "raw_sha256": "2103b08bf853d13bf9b63ffa79cf17972b32c231e7593ce139950638a3adc286",
+    "extraction_method": "remove_outer_markdown_fence",
+    "selected_block": null,
+    "quotes": [],
+    "raw_modified": false,
+    "all_lists_preserved": true
+  },
+  {
+    "job_id": "china_directed_d4b7588992c1978d541944228a55416bac689b8007df0ec0769efee99c41609c",
+    "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_d4b7588992c1978d541944228a55416bac689b8007df0ec0769efee99c41609c.json",
+    "raw_sha256": "27749de825606aa0abc9fb647db085be12bbec3c559a3e2a24d7dcd9f7f6831d",
+    "extraction_method": "remove_outer_markdown_fence",
+    "selected_block": null,
+    "quotes": [],
+    "raw_modified": false,
+    "all_lists_preserved": true
+  },
+  {
+    "job_id": "china_directed_7631d62ab81afd388be254881906c3a30d2f0c2ddfedae29bfc7c0945dc7d24c",
+    "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_7631d62ab81afd388be254881906c3a30d2f0c2ddfedae29bfc7c0945dc7d24c.json",
+    "raw_sha256": "60afe5e0ad915b12d218ddce27164772e3adfe4cc9538b0c4dd43470dc3713da",
+    "extraction_method": "unparsed_raw_text_manual_review",
+    "selected_block": null,
+    "quotes": [],
+    "raw_modified": false,
+    "all_lists_preserved": true
+  },
+  {
+    "job_id": "china_directed_72615dfa1871d6fb7fefde4f4bf8b99cdf604e09fba9f6f908145da63d7dc16c",
+    "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_72615dfa1871d6fb7fefde4f4bf8b99cdf604e09fba9f6f908145da63d7dc16c.json",
+    "raw_sha256": "1efecef760c10f53650f76459e237bcaffb31cb7da64bcf9e89916dd4ba80688",
+    "extraction_method": "unparsed_raw_text_manual_review",
+    "selected_block": null,
+    "quotes": [],
+    "raw_modified": false,
+    "all_lists_preserved": true
+  },
+  {
+    "job_id": "china_directed_929e5b48b3bcbeb1d4a8f7e8a5980237160afe01560a355737b3d3a42d772f03",
+    "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_929e5b48b3bcbeb1d4a8f7e8a5980237160afe01560a355737b3d3a42d772f03.json",
+    "raw_sha256": "1a3ef72b099dd4227b1ce29180eadb9608dd079f898b51b0cc93001880ccc104",
+    "extraction_method": "remove_outer_markdown_fence",
+    "selected_block": null,
+    "quotes": [],
+    "raw_modified": false,
+    "all_lists_preserved": true
+  },
+  {
+    "job_id": "china_directed_e7d42621b75ad6eaa5bd36239a36356654ace5f9bae671c325582e151b5fd1c5",
+    "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_e7d42621b75ad6eaa5bd36239a36356654ace5f9bae671c325582e151b5fd1c5.json",
+    "raw_sha256": "62636973903501cec86f98d065341b61fa7b0f5216b3ad5c166e18ae6db060e8",
+    "extraction_method": "remove_outer_markdown_fence",
+    "selected_block": null,
+    "quotes": [],
+    "raw_modified": false,
+    "all_lists_preserved": true
+  },
+  {
+    "job_id": "china_directed_7e911ec6415bf833c5d4468920383cedff7772c1205d5e3fce1b7a13559a935a",
+    "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_7e911ec6415bf833c5d4468920383cedff7772c1205d5e3fce1b7a13559a935a.json",
+    "raw_sha256": "68425318f2205e41a529ccd5b2ec085cd9798af2f74aae70138e7af7cac59d1c",
+    "extraction_method": "direct_json",
+    "selected_block": null,
+    "quotes": [],
+    "raw_modified": false,
+    "all_lists_preserved": true
+  },
+  {
+    "job_id": "china_directed_8f82cb9d4317914d25635a375ea300eed2e4ed87a025c263a70c5790de5fac4d",
+    "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_8f82cb9d4317914d25635a375ea300eed2e4ed87a025c263a70c5790de5fac4d.json",
+    "raw_sha256": "5b22db6b55186ac7c75058c9577cc6e98e04cbcfe2c7c65fc0fdd5e27397e805",
+    "extraction_method": "remove_outer_markdown_fence",
+    "selected_block": null,
+    "quotes": [],
+    "raw_modified": false,
+    "all_lists_preserved": true
+  },
+  {
+    "job_id": "china_directed_d89223edadd98e68eaf7e11143ffa8694bebd1f08fc91ffc23d854d3790c6219",
+    "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_d89223edadd98e68eaf7e11143ffa8694bebd1f08fc91ffc23d854d3790c6219.json",
+    "raw_sha256": "605c54a8eff6f3edcde3f10dfe2b6989b4efcd4b1bd5330a42f8bbe76daf6525",
+    "extraction_method": "unique_complete_json_with_surrounding_prose",
+    "selected_block": 0,
+    "quotes": [],
+    "raw_modified": false,
+    "all_lists_preserved": true
+  },
+  {
+    "job_id": "china_directed_f9bbbf2da48081daa4c3ba824a41010e7a08bdbc0847643bf311b5688ebf7029",
+    "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_f9bbbf2da48081daa4c3ba824a41010e7a08bdbc0847643bf311b5688ebf7029.json",
+    "raw_sha256": "4d979b8c796cade3eacc0db8e70dcbd40b2f94c18f56ae24b5190152efae3bf8",
+    "extraction_method": "remove_outer_markdown_fence",
+    "selected_block": null,
+    "quotes": [],
+    "raw_modified": false,
+    "all_lists_preserved": true
+  },
+  {
+    "job_id": "china_directed_16cbbb345646c96e0e142a0287458f2c8570fdec068cf2732103a60504e38a5a",
+    "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_16cbbb345646c96e0e142a0287458f2c8570fdec068cf2732103a60504e38a5a.json",
+    "raw_sha256": "319559f02a7e74ec5442cbff5606cdcdfaa002480274e9fc33d1cc0e90722f80",
+    "extraction_method": "direct_json",
+    "selected_block": null,
+    "quotes": [],
+    "raw_modified": false,
+    "all_lists_preserved": true
+  },
+  {
+    "job_id": "china_directed_4d78c5bbf0a94131a1769211012195fd02a5e9bd7b99b7dbd2938b601c0bb278",
+    "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_4d78c5bbf0a94131a1769211012195fd02a5e9bd7b99b7dbd2938b601c0bb278.json",
+    "raw_sha256": "f2f41b658e74cbad7eda13fc80e3533820ced9d24ed8ea4b8c1b94abe76b0844",
+    "extraction_method": "direct_json",
+    "selected_block": null,
+    "quotes": [],
+    "raw_modified": false,
+    "all_lists_preserved": true
+  },
+  {
+    "job_id": "china_directed_b3c77e12230174520bcefaa74389eb9dc07e5a954804060a4eb37cafd0253034",
+    "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_b3c77e12230174520bcefaa74389eb9dc07e5a954804060a4eb37cafd0253034.json",
+    "raw_sha256": "c6f8468fbec3731f9e6497614dd8a7272435818f3570b3bc8deef83d89125468",
+    "extraction_method": "unparsed_raw_text_manual_review",
+    "selected_block": null,
+    "quotes": [],
+    "raw_modified": false,
+    "all_lists_preserved": true
+  },
+  {
+    "job_id": "china_directed_a6c972270a1f6b15c3c1fb2c03cc70cdb619ffbf68509588593b3925341f2729",
+    "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_a6c972270a1f6b15c3c1fb2c03cc70cdb619ffbf68509588593b3925341f2729.json",
+    "raw_sha256": "a5e5fae517ba80374a5a17a284819e34bec7cf3e7e6d883e63d6746a0107e168",
+    "extraction_method": "remove_outer_markdown_fence",
+    "selected_block": null,
+    "quotes": [],
+    "raw_modified": false,
+    "all_lists_preserved": true
+  },
+  {
+    "job_id": "china_directed_a80d839d194bf4ba978a7aedbd66287464067d777059d3673c9390d467bbc447",
+    "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_a80d839d194bf4ba978a7aedbd66287464067d777059d3673c9390d467bbc447.json",
+    "raw_sha256": "3a4f9d2b6bc42ad525d2bed3652cc2a1f8152d6eee75da2504b2e60ed61bd99b",
+    "extraction_method": "direct_json",
+    "selected_block": null,
+    "quotes": [],
+    "raw_modified": false,
+    "all_lists_preserved": true
+  }
+]

@@ -1,0 +1,1790 @@
+{
+  "source_id": "labor_affect",
+  "requested_url": "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/53",
+  "checked_at": "2026-10-12T09:17:01.982827+00:00",
+  "access_scope": "public_no_login",
+  "method": "GET",
+  "paid_request": false,
+  "http_status": 200,
+  "final_url": "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/53",
+  "sha256": "6c575c91dd03fea2b8497fc1545fdca4d040e3683d34f3fd588ea2099a8c8adb",
+  "content_length": 231290,
+  "metadata": {
+    "viewport": [
+      "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+      "width=device-width, initial-scale=1"
+    ],
+    "description": [
+      "随着短视频/直播的勃兴，线上情感劳动和线上情动劳动这两个区别而又联系的两种理论进路日益在数字劳动之中融合，并使数字平台的研究呈现了新的特色。在论述了二者理论起源与特色后，本文主要阐述两种不同理论的交叉勾连是如何更好地服务于我们对当下数字平台和数字劳动的理解。线上情感劳动为数字劳动提供了一种个体的进路，强调的是劳动者的主体性；相对的，线上情动劳动则提供了一种数字劳动研究共同体的取向，更多面向数字平台。短视频/直播平台的数字劳动，需要网络主播这样以劳动者个体为基础的线上情感劳动，全部的线上情感劳动的集合构成平台的线上情动劳动，从而构成数字平台的特色与特征，它们所定义的平台运作逻辑，即平台风格，又作用于每一个具体的线上情感劳动。以快手为代表的短视频/直播平台的数字劳动表现出重视容貌与肉体、关注语言及话术、认可模仿与复制以及强调人设及表演等四个方面的主要特征。本文认为于未来的个案研究而言，线上情感劳动与情动劳动相融合提供了一种有益的方法或视角，乃至框架；同时，相关研究需要重视短视频/直播时代的劳动特性，并需将其放置在具体的在线平台的情境之中进行研究和考察，这样才能更加深入地理解中国实践背景之下的网络主播及其数字劳动；也需要以此为基础，更加深入地拓展对于线上情感劳动和情动劳动理论的理解与重构。"
+    ],
+    "authors": [
+      "吕鹏"
+    ],
+    "keywords": [
+      "线上情感劳动,线上情动劳动,短视频/直播,网络主播,数字劳动,快手"
+    ],
+    "robots": [
+      "index"
+    ],
+    "renderer": [
+      "webkit"
+    ],
+    "format-detection": [
+      "telephone=no"
+    ],
+    "apple-mobile-web-app-capable": [
+      "yes"
+    ],
+    "apple-mobile-web-app-title": [
+      "线上情感劳动与情动劳动的相遇：短视频/直播、网络主播与数字劳动"
+    ],
+    "mobile-web-app-capable": [
+      "yes"
+    ],
+    "screen-orientation": [
+      "portrait"
+    ],
+    "x5-orientation": [
+      "portrait"
+    ],
+    "full-screen": [
+      "yes"
+    ],
+    "x5-fullscreen": [
+      "true"
+    ],
+    "browsermode": [
+      "application"
+    ],
+    "x5-page-mode": [
+      "app"
+    ],
+    "msapplication-tap-highlight": [
+      "no"
+    ],
+    "dc.relation.is": [
+      "国际新闻界"
+    ],
+    "dc.citation.volume": [
+      "43"
+    ],
+    "dc.citation.issue": [
+      "12"
+    ],
+    "dc.citation.spage": [
+      "53"
+    ],
+    "dc.citation.epage": [
+      "76"
+    ],
+    "dc.title": [
+      "线上情感劳动与情动劳动的相遇：短视频/直播、网络主播与数字劳动"
+    ],
+    "dc.source": [
+      "国际新闻界"
+    ],
+    "dc.format": [
+      "text/html"
+    ],
+    "dc.publisher": [
+      ""
+    ],
+    "dc.date": [
+      "2021-12-23"
+    ],
+    "dc.type": [
+      ""
+    ],
+    "dc.language": [
+      "Cn"
+    ],
+    "dc.copyright": [
+      ""
+    ],
+    "dc.description": [
+      "随着短视频/直播的勃兴，线上情感劳动和线上情动劳动这两个区别而又联系的两种理论进路日益在数字劳动之中融合，并使数字平台的研究呈现了新的特色。在论述了二者理论起源与特色后，本文主要阐述两种不同理论的交叉勾连是如何更好地服务于我们对当下数字平台和数字劳动的理解。线上情感劳动为数字劳动提供了一种个体的进路，强调的是劳动者的主体性；相对的，线上情动劳动则提供了一种数字劳动研究共同体的取向，更多面向数字平台。短视频/直播平台的数字劳动，需要网络主播这样以劳动者个体为基础的线上情感劳动，全部的线上情感劳动的集合构成平台的线上情动劳动，从而构成数字平台的特色与特征，它们所定义的平台运作逻辑，即平台风格，又作用于每一个具体的线上情感劳动。以快手为代表的短视频/直播平台的数字劳动表现出重视容貌与肉体、关注语言及话术、认可模仿与复制以及强调人设及表演等四个方面的主要特征。本文认为于未来的个案研究而言，线上情感劳动与情动劳动相融合提供了一种有益的方法或视角，乃至框架；同时，相关研究需要重视短视频/直播时代的劳动特性，并需将其放置在具体的在线平台的情境之中进行研究和考察，这样才能更加深入地理解中国实践背景之下的网络主播及其数字劳动；也需要以此为基础，更加深入地拓展对于线上情感劳动和情动劳动理论的理解与重构。"
+    ],
+    "dc.relation.ispartof": [
+      "国际新闻界"
+    ],
+    "dc.creator": [
+      "吕鹏"
+    ],
+    "dc.subject": [
+      "线上情感劳动",
+      "线上情动劳动",
+      "短视频/直播",
+      "网络主播",
+      "数字劳动",
+      "快手"
+    ],
+    "prism.issn": [
+      "1002-5685"
+    ],
+    "prism.publicationDate": [
+      "2021-12-23"
+    ],
+    "prism.section": [
+      ""
+    ],
+    "prism.volume": [
+      "43"
+    ],
+    "prism.number": [
+      "12"
+    ],
+    "prism.startingPage": [
+      "53"
+    ],
+    "prism.endingPage": [
+      "76"
+    ],
+    "prism.copyright": [
+      ""
+    ],
+    "prism.url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/53"
+    ],
+    "citation_pdf_url": [
+      "http://cjjc.ruc.edu.cn/CN/PDF/1187"
+    ],
+    "citation_abstract_html_url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/53"
+    ],
+    "citation_fulltext_html_url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/53"
+    ],
+    "citation_journal_title": [
+      "国际新闻界"
+    ],
+    "citation_publisher": [
+      ""
+    ],
+    "citation_issn": [
+      "1002-5685"
+    ],
+    "citation_title": [
+      "线上情感劳动与情动劳动的相遇：短视频/直播、网络主播与数字劳动"
+    ],
+    "citation_authors": [
+      "吕鹏"
+    ],
+    "citation_volume": [
+      "43"
+    ],
+    "citation_issue": [
+      "12"
+    ],
+    "citation_publication_date": [
+      "2021/12/23"
+    ],
+    "citation_online_date": [
+      "2021/12/23"
+    ],
+    "citation_firstpage": [
+      "53"
+    ],
+    "citation_lastpage": [
+      "76"
+    ],
+    "citation_article_type": [
+      ""
+    ],
+    "citation_language": [
+      "zh"
+    ],
+    "citation_doi": [
+      ""
+    ],
+    "citation_abstract": [
+      "随着短视频/直播的勃兴，线上情感劳动和线上情动劳动这两个区别而又联系的两种理论进路日益在数字劳动之中融合，并使数字平台的研究呈现了新的特色。在论述了二者理论起源与特色后，本文主要阐述两种不同理论的交叉勾连是如何更好地服务于我们对当下数字平台和数字劳动的理解。线上情感劳动为数字劳动提供了一种个体的进路，强调的是劳动者的主体性；相对的，线上情动劳动则提供了一种数字劳动研究共同体的取向，更多面向数字平台。短视频/直播平台的数字劳动，需要网络主播这样以劳动者个体为基础的线上情感劳动，全部的线上情感劳动的集合构成平台的线上情动劳动，从而构成数字平台的特色与特征，它们所定义的平台运作逻辑，即平台风格，又作用于每一个具体的线上情感劳动。以快手为代表的短视频/直播平台的数字劳动表现出重视容貌与肉体、关注语言及话术、认可模仿与复制以及强调人设及表演等四个方面的主要特征。本文认为于未来的个案研究而言，线上情感劳动与情动劳动相融合提供了一种有益的方法或视角，乃至框架；同时，相关研究需要重视短视频/直播时代的劳动特性，并需将其放置在具体的在线平台的情境之中进行研究和考察，这样才能更加深入地理解中国实践背景之下的网络主播及其数字劳动；也需要以此为基础，更加深入地拓展对于线上情感劳动和情动劳动理论的理解与重构。"
+    ],
+    "citation_keywords": [
+      "线上情感劳动",
+      "线上情动劳动",
+      "短视频/直播",
+      "网络主播",
+      "数字劳动",
+      "快手"
+    ],
+    "citation_date": [
+      "2021/12/23"
+    ],
+    "citation_author": [
+      "吕鹏"
+    ],
+    "article_references": [
+      "吕鹏. 线上情感劳动与情动劳动的相遇：短视频/直播、网络主播与数字劳动. 国际新闻界. 2021, 43 (12): 53-76."
+    ],
+    "google-site-verification": [
+      "GqftDyjkbLznCjwJH3xdvsEi1ZnXlVqxWMeQ5H2MD38"
+    ]
+  },
+  "structured_article": {
+    "bioList_en": [
+      {
+        "content": "<p id=\"com2\">Lv Peng is a professor in the Institute of Journalism, Shanghai Academy of Social Sciences. Email: <a class=\"mag-xml-email-a\" href=\"mailto:lvdalang@126.com\">lvdalang@126.com</a>.</p>"
+      }
+    ],
+    "authorList_cn": [
+      {
+        "deceased": false,
+        "name_cn": "吕鹏",
+        "email": "lvdalang@126.com",
+        "name_en": "LV Peng"
+      }
+    ],
+    "referenceList": [
+      {
+        "sourceCn": "《心灵的整饰:人类情感的商业化》(成伯清,淡卫军,王佳鹏译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_3",
+          "mag_rich_body_p_4",
+          "mag_rich_body_p_6"
+        ],
+        "publicationType": "book",
+        "id": "b1",
+        "label": "[1]",
+        "nian": 19832020,
+        "citedCount": 6,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "阿莉·拉塞尔·霍克希尔德",
+                "personType": "author"
+              }
+            ],
+            "content": "阿莉·拉塞尔·霍克希尔德(<span class=\"yearStyle\">1983/2020</span>). <span class=\"sourceStyle\">《心灵的整饰:人类情感的商业化》(成伯清,淡卫军,王佳鹏译)</span>. 上海: 上海三联书店."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《超越帝国》(李琨,陆汉臻译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_12",
+          "mag_rich_body_p_17"
+        ],
+        "publicationType": "book",
+        "id": "b2",
+        "label": "[2]",
+        "nian": 20062016,
+        "citedCount": 6,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "安东尼奥·内格里",
+                "personType": "author"
+              }
+            ],
+            "content": "安东尼奥·内格里(<span class=\"yearStyle\">2006/2016</span>). <span class=\"sourceStyle\">《超越帝国》(李琨,陆汉臻译)</span>. 北京: 北京大学出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《中国记者》",
+        "bodyP_ids": [
+          "mag_rich_body_p_62"
+        ],
+        "publicationType": "journal",
+        "id": "b3",
+        "label": "[3]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "陈国权",
+                "personType": "author"
+              }
+            ],
+            "content": "陈国权(<span class=\"yearStyle\">2020</span>). 快手“主流化”之路. <span class=\"sourceStyle\">《中国记者》</span>,(8),84-89."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《中国青年研究》",
+        "bodyP_ids": [
+          "mag_rich_body_p_26"
+        ],
+        "publicationType": "journal",
+        "id": "b4",
+        "label": "[4]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "董金权",
+                "personType": "author"
+              },
+              {
+                "name": "罗鑫宇",
+                "personType": "author"
+              }
+            ],
+            "content": "董金权, 罗鑫宇(<span class=\"yearStyle\">2021</span>). “情感”视角下的网络直播——基于30名青年主播和粉丝的深度访谈. <span class=\"sourceStyle\">《中国青年研究》</span>,(2),90-96."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《天府新论》",
+        "bodyP_ids": [
+          "mag_rich_body_p_56"
+        ],
+        "publicationType": "journal",
+        "id": "b5",
+        "label": "[5]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "付茜茜",
+                "personType": "author"
+              }
+            ],
+            "content": "付茜茜(<span class=\"yearStyle\">2020</span>). 网络“人设”传播:符号资本的媒介建构. <span class=\"sourceStyle\">《天府新论》</span>,(6),135-144."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻界》",
+        "bodyP_ids": [
+          "mag_rich_body_p_1"
+        ],
+        "publicationType": "journal",
+        "id": "b6",
+        "label": "[6]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "郭小安",
+                "personType": "author"
+              },
+              {
+                "name": "李晗",
+                "personType": "author"
+              }
+            ],
+            "content": "郭小安, 李晗(<span class=\"yearStyle\">2021</span>). 情绪劳动与情感劳动:概念的误用、辨析及交叉性解释. <span class=\"sourceStyle\">《新闻界》</span>,(12),56-68."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《脸的历史》(史竟舟译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_33"
+        ],
+        "publicationType": "book",
+        "id": "b7",
+        "label": "[7]",
+        "nian": 20132017,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "汉斯·贝尔廷",
+                "personType": "author"
+              }
+            ],
+            "content": "汉斯·贝尔廷(<span class=\"yearStyle\">2013/2017</span>). <span class=\"sourceStyle\">《脸的历史》(史竟舟译)</span>. 北京: 北京大学出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "关于快手.检索于",
+        "bodyP_ids": [
+          "mag_rich_body_p_27"
+        ],
+        "publicationType": "journal",
+        "id": "b8",
+        "label": "[8]",
+        "nian": 0,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "快手(时间不详)",
+                "personType": "author"
+              }
+            ],
+            "content": "快手(时间不详). <span class=\"sourceStyle\">关于快手.检索于</span> https://www.kuaishou.com/about/, 2020-8-6.",
+            "url": "https://www.kuaishou.com/about/"
+          }
+        ]
+      },
+      {
+        "sourceCn": "《国际新闻界》",
+        "bodyP_ids": [
+          "mag_rich_body_p_1"
+        ],
+        "publicationType": "journal",
+        "id": "b9",
+        "label": "[9]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "吕鹏",
+                "personType": "author"
+              }
+            ],
+            "content": "吕鹏(<span class=\"yearStyle\">2017</span>). 作为假象的自由:用户生成内容时代的个人与媒介. <span class=\"sourceStyle\">《国际新闻界》</span>,(11),68-82."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《社会科学》",
+        "bodyP_ids": [
+          "mag_rich_body_p_26",
+          "mag_rich_body_p_27"
+        ],
+        "publicationType": "journal",
+        "id": "b10",
+        "label": "[10]",
+        "nian": 2021,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "吕鹏",
+                "personType": "author"
+              }
+            ],
+            "content": "吕鹏(<span class=\"yearStyle\">2021</span>). 线上情感劳动:短视频/直播、网络主播与男性气质——基于快手的数字民族志研究. <span class=\"sourceStyle\">《社会科学》</span>,(6),179-192."
+          }
+        ]
+      },
+      {
+        "sourceCn": "网络模因研究:概念界定、理论实践与价值启示",
+        "publicationType": "journal",
+        "id": "b11",
+        "label": "[11]",
+        "nian": 0,
+        "citedCount": 0,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "吕鹏",
+                "personType": "author"
+              },
+              {
+                "name": "张昊鹏(未刊稿)",
+                "personType": "author"
+              }
+            ],
+            "content": "吕鹏, 张昊鹏(未刊稿). <span class=\"sourceStyle\">网络模因研究:概念界定、理论实践与价值启示</span>."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻界》",
+        "bodyP_ids": [
+          "mag_rich_body_p_1",
+          "mag_rich_body_p_20"
+        ],
+        "publicationType": "journal",
+        "id": "b12",
+        "label": "[12]",
+        "nian": 2019,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "林磊",
+                "personType": "author"
+              },
+              {
+                "name": "冯应谦",
+                "personType": "author"
+              }
+            ],
+            "content": "林磊, 冯应谦(<span class=\"yearStyle\">2019</span>). 情动劳动(Affective labor)生产下的感性乌托邦——以《临高启明》的众创为例. <span class=\"sourceStyle\">《新闻界》</span>,(9),51-60."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻学研究》",
+        "bodyP_ids": [
+          "mag_rich_body_p_26"
+        ],
+        "publicationType": "journal",
+        "id": "b13",
+        "label": "[13]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "林怡洁",
+                "personType": "author"
+              },
+              {
+                "name": "单蔓婷",
+                "personType": "author"
+              }
+            ],
+            "content": "林怡洁, 单蔓婷(<span class=\"yearStyle\">2021</span>). 中国大陆女性社交直播主的数位劳动与性别政治. <span class=\"sourceStyle\">《新闻学研究》</span>,(146),53-95."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《符号与传媒》",
+        "bodyP_ids": [
+          "mag_rich_body_p_51"
+        ],
+        "publicationType": "journal",
+        "id": "b14",
+        "label": "[14]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "刘娜",
+                "personType": "author"
+              }
+            ],
+            "content": "刘娜(<span class=\"yearStyle\">2020</span>). 人设:作为一种风格的想象. <span class=\"sourceStyle\">《符号与传媒》</span>,(21),166-176."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《现代传播》",
+        "bodyP_ids": [
+          "mag_rich_body_p_51"
+        ],
+        "publicationType": "journal",
+        "id": "b15",
+        "label": "[15]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "刘怡",
+                "personType": "author"
+              }
+            ],
+            "content": "刘怡(<span class=\"yearStyle\">2020</span>). 论网感化语境下青少年受众对影视明星人设的期待结构. <span class=\"sourceStyle\">《现代传播》</span>,(7),103-108."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《如何研究网络人群和社区:网络民族志方法实践指导》(叶韦明译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_25"
+        ],
+        "publicationType": "book",
+        "id": "b16",
+        "label": "[16]",
+        "nian": 20102016,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "罗伯特·V·库兹奈特",
+                "personType": "author"
+              }
+            ],
+            "content": "罗伯特·V·库兹奈特(<span class=\"yearStyle\">2010/2016</span>). <span class=\"sourceStyle\">《如何研究网络人群和社区:网络民族志方法实践指导》(叶韦明译)</span>. 重庆: 重庆大学出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《传媒观察》",
+        "bodyP_ids": [
+          "mag_rich_body_p_51"
+        ],
+        "publicationType": "journal",
+        "id": "b17",
+        "label": "[17]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "栾轶玫",
+                "personType": "author"
+              },
+              {
+                "name": "张雅琪",
+                "personType": "author"
+              }
+            ],
+            "content": "栾轶玫, 张雅琪(<span class=\"yearStyle\">2020</span>). 人设奴役与数字劳工——异化理论视角下的直播带货. <span class=\"sourceStyle\">《传媒观察》</span>,(10),19-26."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《帝国——全球化的政治秩序》(杨建国,范一亭译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_13",
+          "mag_rich_body_p_36",
+          "mag_rich_body_p_63"
+        ],
+        "publicationType": "book",
+        "id": "b18",
+        "label": "[18]",
+        "nian": 20002008,
+        "citedCount": 10,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "迈克尔·哈特",
+                "personType": "author"
+              },
+              {
+                "name": "安东尼奥·奈格里",
+                "personType": "author"
+              }
+            ],
+            "content": "迈克尔·哈特, 安东尼奥·奈格里(<span class=\"yearStyle\">2000/2008</span>). <span class=\"sourceStyle\">《帝国——全球化的政治秩序》(杨建国,范一亭译)</span>. 南京: 江苏人民出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "载许纪霖主编,《帝国、都市与现代性》(第139-152页)",
+        "bodyP_ids": [
+          "mag_rich_body_p_13"
+        ],
+        "publicationType": "book",
+        "id": "b19",
+        "label": "[19]",
+        "nian": 19962006,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "毛里齐奥·拉扎拉托",
+                "personType": "author"
+              }
+            ],
+            "content": "毛里齐奥·拉扎拉托(<span class=\"yearStyle\">1996/2006</span>). 《非物质劳动》(霍炬译). <span class=\"sourceStyle\">载许纪霖主编,《帝国、都市与现代性》(第139-152页)</span>. 南京: 江苏人民出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《中国编辑》",
+        "bodyP_ids": [
+          "mag_rich_body_p_31"
+        ],
+        "publicationType": "book",
+        "id": "b20",
+        "label": "[20]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "彭兰",
+                "personType": "author"
+              }
+            ],
+            "content": "彭兰(<span class=\"yearStyle\">2020</span>). 视频化生存:移动时代日常生活的媒介化. <span class=\"sourceStyle\">《中国编辑》</span>,(4),34-40+53."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《区分:判断力的社会批判》(刘晖译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_1"
+        ],
+        "publicationType": "book",
+        "id": "b21",
+        "label": "[21]",
+        "nian": 19792015,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "皮埃尔·布尔迪厄",
+                "personType": "author"
+              }
+            ],
+            "content": "皮埃尔·布尔迪厄(<span class=\"yearStyle\">1979/2015</span>). <span class=\"sourceStyle\">《区分:判断力的社会批判》(刘晖译)</span>. 北京: 商务印书馆."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《国外理论动态》",
+        "bodyP_ids": [
+          "mag_rich_body_p_37"
+        ],
+        "publicationType": "journal",
+        "id": "b22",
+        "label": "[22]",
+        "nian": 20022007,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "托尼·内格里",
+                "personType": "author"
+              }
+            ],
+            "content": "托尼·内格里(<span class=\"yearStyle\">2002/2007</span>). 什么是大众?(冉隆森译). <span class=\"sourceStyle\">《国外理论动态》</span>,(8),65-69."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《南通大学学报·社会科学版》",
+        "bodyP_ids": [
+          "mag_rich_body_p_51"
+        ],
+        "publicationType": "journal",
+        "id": "b23",
+        "label": "[23]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "徐强",
+                "personType": "author"
+              },
+              {
+                "name": "胡婵",
+                "personType": "author"
+              }
+            ],
+            "content": "徐强, 胡婵(<span class=\"yearStyle\">2021</span>). 从人格到人设:数字化时代人格面临的新挑战. <span class=\"sourceStyle\">《南通大学学报·社会科学版》</span>,(1),16-23."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻学研究》",
+        "bodyP_ids": [
+          "mag_rich_body_p_21"
+        ],
+        "publicationType": "journal",
+        "id": "b24",
+        "label": "[24]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "姚建华",
+                "personType": "author"
+              },
+              {
+                "name": "徐偲骕",
+                "personType": "author"
+              }
+            ],
+            "content": "姚建华, 徐偲骕(<span class=\"yearStyle\">2019</span>). 劳动的“媒介化”与媒介化的劳动:数位劳动研究的内涵、现状与未来. <span class=\"sourceStyle\">《新闻学研究》</span>,(141),181-214."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《消失的地域:电子媒介对社会行为的影响》(肖志军译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_30"
+        ],
+        "publicationType": "book",
+        "id": "b25",
+        "label": "[25]",
+        "nian": 19852002,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "约书亚·梅罗维茨",
+                "personType": "author"
+              }
+            ],
+            "content": "约书亚·梅罗维茨(<span class=\"yearStyle\">1985/2002</span>). <span class=\"sourceStyle\">《消失的地域:电子媒介对社会行为的影响》(肖志军译)</span>. 北京: 清华大学出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《晚期资本主义的文化逻辑》(陈清侨等译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_50"
+        ],
+        "publicationType": "book",
+        "id": "b26",
+        "label": "[26]",
+        "nian": 1997,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "詹明信",
+                "personType": "author"
+              }
+            ],
+            "content": "詹明信(<span class=\"yearStyle\">1997</span>). <span class=\"sourceStyle\">《晚期资本主义的文化逻辑》(陈清侨等译)</span>. 北京: 生活·读书·新知三联书店."
+          }
+        ]
+      },
+      {
+        "sourceCn": "快手快不过抖音?.检索于澎湃新闻·澎湃号·燃财经",
+        "bodyP_ids": [
+          "mag_rich_body_p_62"
+        ],
+        "publicationType": "journal",
+        "id": "b27",
+        "label": "[27]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "赵磊",
+                "personType": "author"
+              },
+              {
+                "name": "闫俊文",
+                "personType": "author"
+              }
+            ],
+            "content": "赵磊, 闫俊文(<span class=\"yearStyle\">2020</span>). <span class=\"sourceStyle\">快手快不过抖音?.检索于澎湃新闻·澎湃号·燃财经</span>. https://www.thepaper.cn/newsDetail_forward_9197295, 2020-9-16.",
+            "url": "https://www.thepaper.cn/newsDetail_forward_9197295"
+          }
+        ]
+      },
+      {
+        "sourceCn": "《中原文化研究》",
+        "bodyP_ids": [
+          "mag_rich_body_p_26"
+        ],
+        "publicationType": "journal",
+        "id": "b28",
+        "label": "[28]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "赵旭东",
+                "personType": "author"
+              }
+            ],
+            "content": "赵旭东(<span class=\"yearStyle\">2020</span>). 视频直播的民族志书写——一种信息传输由微信而及快手的文化转型人类学. <span class=\"sourceStyle\">《中原文化研究》</span>,(2),58-66+73."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《社会学评论》",
+        "bodyP_ids": [
+          "mag_rich_body_p_26"
+        ],
+        "publicationType": "journal",
+        "id": "b29",
+        "label": "[29]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "张一璇",
+                "personType": "author"
+              }
+            ],
+            "content": "张一璇(<span class=\"yearStyle\">2021</span>). 劳动空间在延伸——女性网络主播的身份、情感与劳动过程. <span class=\"sourceStyle\">《社会学评论》</span>,(5),236-256."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《现代传播》",
+        "bodyP_ids": [
+          "mag_rich_body_p_31"
+        ],
+        "publicationType": "journal",
+        "id": "b30",
+        "label": "[30]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "战迪",
+                "personType": "author"
+              }
+            ],
+            "content": "战迪(<span class=\"yearStyle\">2020</span>). 论“看脸时代”的青年审美迷失. <span class=\"sourceStyle\">《现代传播》</span>,(10),101-106."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Social Text",
+        "bodyP_ids": [
+          "mag_rich_body_p_16"
+        ],
+        "publicationType": "journal",
+        "id": "b31",
+        "label": "[31]",
+        "nian": 2004,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Ahmed S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Ahmed</surname> <given-names>S.</given-names></name> (<span class=\"yearStyle\">2004</span>). Affective Economies. <span class=\"sourceStyle\">Social Text</span>, <span class=\"volStyele\">22</span>, 117-139. ",
+            "url": "https://read.dukeupress.edu/social-text/article/22/2%20(79)/117/32675/Affective-Economies",
+            "doi": "10.1215/01642472-22-2_79-117"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Emotion, Space and Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_16"
+        ],
+        "publicationType": "journal",
+        "id": "b32",
+        "label": "[32]",
+        "nian": 2009,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Anderson B.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Anderson</surname> <given-names>B.</given-names></name> (<span class=\"yearStyle\">2009</span>). Affective atmospheres. <span class=\"sourceStyle\">Emotion, Space and Society</span>, <span class=\"volStyele\">2</span> (2), 77-81. ",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S1755458609000589",
+            "doi": "10.1016/j.emospa.2009.08.005"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Ethnography and Virtual Worlds:A handbook of Method",
+        "bodyP_ids": [
+          "mag_rich_body_p_25"
+        ],
+        "publicationType": "book",
+        "id": "b33",
+        "label": "[33]",
+        "nian": 2012,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Boellstorff T.",
+                "personType": "author"
+              },
+              {
+                "name": "Nardi B.",
+                "personType": "author"
+              },
+              {
+                "name": "Pearce C.",
+                "personType": "author"
+              },
+              {
+                "name": "Taylor T. L.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Boellstorff</surname> <given-names>T.</given-names></name>, <name><surname>Nardi</surname> <given-names>B.</given-names></name>, <name><surname>Pearce</surname> <given-names>C.</given-names></name>, <name><surname>Taylor</surname> <given-names>T. L.</given-names></name>(<span class=\"yearStyle\">2012</span>). <span class=\"sourceStyle\">Ethnography and Virtual Worlds:A handbook of Method</span>. Princeton, NJ: Princeton University Press."
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_3"
+        ],
+        "publicationType": "online",
+        "id": "b34",
+        "label": "[34]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Beck J.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Beck</surname> <given-names>J.</given-names></name> (<span class=\"yearStyle\">2018</span>). Arlie Hochschild: Housework isn’t emotional labor. The Atlantic. Retrieved from https://www.theatlantic.com/family/archive/2018/11/arlie-hochschild-housework-isnt-emotional-labor/576637/, 2020-11-20.",
+            "url": "https://www.theatlantic.com/family/archive/2018/11/arlie-hochschild-housework-isnt-emotional-labor/576637/"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Gender and Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_32"
+        ],
+        "publicationType": "journal",
+        "id": "b35",
+        "label": "[35]",
+        "nian": 2005,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "The concept of hegemonic masculinity has influenced gender studies across many academic fields but has also attracted serious criticism. The authors trace the origin of the concept in a convergence of ideas in the early 1980s and map the ways it was applied when research on men and masculinities expanded. Evaluating the principal criticisms, the authors defend the underlying concept of masculinity, which in most research use is neither reified nor essentialist. However, the criticism of trait models of gender and rigid typologies is sound. The treatment of the subject in research on hegemonic masculinity can be improved with the aid of recent psychological models, although limits to discursive flexibility must be recognized. The concept of hegemonic masculinity does not equate to a model of social reproduction; we need to recognize social struggles in which subordinated masculinities influence dominant forms. Finally, the authors review what has been confirmed from early formulations (the idea of multiple masculinities, the concept of hegemony, and the emphasis on change) and what needs to be discarded (onedimensional treatment of hierarchy and trait conceptions of gender). The authors suggest reformulation of the concept in four areas: a more complex model of gender hierarchy, emphasizing the agency of women; explicit recognition of the geography of masculinities, emphasizing the interplay among local, regional, and global levels; a more specific treatment of embodiment in contexts of privilege and power; and a stronger emphasis on the dynamics of hegemonic masculinity, recognizing internal contradictions and the possibilities of movement toward gender democracy.",
+            "personList": [
+              {
+                "name": "Connell R.",
+                "personType": "author"
+              },
+              {
+                "name": "Messerschmidt J. W.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Connell</surname> <given-names>R.</given-names></name>, &amp; <name><surname>Messerschmidt</surname> <given-names>J. W.</given-names></name> (<span class=\"yearStyle\">2005</span>). Hegemonic masculinity: Rethinking the concept. <span class=\"sourceStyle\">Gender and Society</span>, <span class=\"volStyele\">19</span> (6), 829-859. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/0891243205278639",
+            "doi": "10.1177/0891243205278639"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Masculinities",
+        "bodyP_ids": [
+          "mag_rich_body_p_32"
+        ],
+        "publicationType": "book",
+        "id": "b36",
+        "label": "[36]",
+        "nian": 2005,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Connell R.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Connell</surname> <given-names>R.</given-names></name> (<span class=\"yearStyle\">2005</span>). <span class=\"sourceStyle\">Masculinities</span>. Berkeley, CA: University of California Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "The Affective Turn:Theorizing the Social",
+        "bodyP_ids": [
+          "mag_rich_body_p_12"
+        ],
+        "publicationType": "book",
+        "id": "b37",
+        "label": "[37]",
+        "nian": 2007,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Clough, P. T",
+                "personType": "author"
+              },
+              {
+                "name": "Halley J.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Clough, P.</surname> <given-names>T</given-names></name>. &amp; <name><surname>Halley</surname> <given-names>J.</given-names></name> (Eds.).(<span class=\"yearStyle\">2007</span>). <span class=\"sourceStyle\">The Affective Turn:Theorizing the Social</span>. Durham and London, UK: Duke University Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "TripleC: Capitalism, Communication &amp; Critique",
+        "bodyP_ids": [
+          "mag_rich_body_p_21"
+        ],
+        "publicationType": "journal",
+        "id": "b38",
+        "label": "[38]",
+        "nian": 2014,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Fuchs C.",
+                "personType": "author"
+              },
+              {
+                "name": "Sandoval M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Fuchs</surname> <given-names>C.</given-names></name>, <name><surname>Sandoval</surname> <given-names>M.</given-names></name> (<span class=\"yearStyle\">2014</span>). Digital workers of the world unite! a framework for critically theorising and analysing digital labour. <span class=\"sourceStyle\">TripleC: Capitalism, Communication &amp; Critique</span>, <span class=\"volStyele\">12</span>(2), 486-563."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Digital Labour and Karl Marx",
+        "bodyP_ids": [
+          "mag_rich_body_p_21"
+        ],
+        "publicationType": "book",
+        "id": "b39",
+        "label": "[39]",
+        "nian": 2014,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Fuchs C.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Fuchs</surname> <given-names>C.</given-names></name> (<span class=\"yearStyle\">2014</span>). <span class=\"sourceStyle\">Digital Labour and Karl Marx</span>. New York, NY: Routledge."
+          }
+        ]
+      },
+      {
+        "sourceEn": "The Managed Heart:Commercialization of Human Feeling",
+        "bodyP_ids": [
+          "mag_rich_body_p_2"
+        ],
+        "publicationType": "book",
+        "id": "b40",
+        "label": "[40]",
+        "nian": 1983,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Hochschild A. R.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Hochschild</surname> <given-names>A. R.</given-names></name>(<span class=\"yearStyle\">1983</span>). <span class=\"sourceStyle\">The Managed Heart:Commercialization of Human Feeling</span>. Berkeley·Los Angeles·London, UK: University of California Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Boundary",
+        "bodyP_ids": [
+          "mag_rich_body_p_12",
+          "mag_rich_body_p_18"
+        ],
+        "publicationType": "journal",
+        "id": "b41",
+        "label": "[41]",
+        "nian": 1999,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Hardt M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Hardt</surname> <given-names>M.</given-names></name> (<span class=\"yearStyle\">1999</span>). Affective labor. <span class=\"sourceStyle\">Boundary</span> <span class=\"volStyele\">2</span>, <span class=\"volStyele\">26</span>(2), 89-100."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Multitude:War and Democracy in the Age of Empire",
+        "bodyP_ids": [
+          "mag_rich_body_p_14"
+        ],
+        "publicationType": "book",
+        "id": "b42",
+        "label": "[42]",
+        "nian": 2004,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Hardt M",
+                "personType": "author"
+              },
+              {
+                "name": "Negri A.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Hardt</surname> <given-names>M</given-names></name>. &amp; <name><surname>Negri</surname> <given-names>A.</given-names></name> (<span class=\"yearStyle\">2004</span>). <span class=\"sourceStyle\">Multitude:War and Democracy in the Age of Empire</span>. New York, NY: The Penguin Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Labor of Dionysus:A Critique of the State-Form",
+        "bodyP_ids": [
+          "mag_rich_body_p_15"
+        ],
+        "publicationType": "book",
+        "id": "b43",
+        "label": "[43]",
+        "nian": 1994,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Hardt M",
+                "personType": "author"
+              },
+              {
+                "name": "Negri A.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Hardt</surname> <given-names>M</given-names></name>. &amp; <name><surname>Negri</surname> <given-names>A.</given-names></name> (<span class=\"yearStyle\">1994</span>). <span class=\"sourceStyle\">Labor of Dionysus:A Critique of the State-Form</span> (p.9). Minneapolis &amp; London, UK: University of Minnesota Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Empire",
+        "bodyP_ids": [
+          "mag_rich_body_p_13"
+        ],
+        "publicationType": "book",
+        "id": "b44",
+        "label": "[44]",
+        "nian": 2000,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Hardt M",
+                "personType": "author"
+              },
+              {
+                "name": "Negri A.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Hardt</surname> <given-names>M</given-names></name>. &amp; <name><surname>Negri</surname> <given-names>A.</given-names></name> (<span class=\"yearStyle\">2000</span>). <span class=\"sourceStyle\">Empire</span>. Cambridge, MA: Harvard University Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Commonwealth",
+        "bodyP_ids": [
+          "mag_rich_body_p_52"
+        ],
+        "publicationType": "book",
+        "id": "b45",
+        "label": "[45]",
+        "nian": 2009,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Hardt M",
+                "personType": "author"
+              },
+              {
+                "name": "Negri A.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Hardt</surname> <given-names>M</given-names></name>. &amp; <name><surname>Negri</surname> <given-names>A.</given-names></name> (<span class=\"yearStyle\">2009</span>). <span class=\"sourceStyle\">Commonwealth</span>. Cambridge, MA: The Belknap Press of Harvard University Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Virtual Ethnography",
+        "bodyP_ids": [
+          "mag_rich_body_p_25"
+        ],
+        "publicationType": "journal",
+        "id": "b46",
+        "label": "[46]",
+        "nian": 2000,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Hine C.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Hine</surname> <given-names>C.</given-names></name> (<span class=\"yearStyle\">2000</span>). <span class=\"sourceStyle\">Virtual Ethnography</span>. London, UK: Sage Publications."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Ethnography for the Internet: Embedded",
+        "bodyP_ids": [
+          "mag_rich_body_p_25"
+        ],
+        "publicationType": "journal",
+        "id": "b47",
+        "label": "[47]",
+        "nian": 2015,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Hine C.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Hine</surname> <given-names>C.</given-names></name> (<span class=\"yearStyle\">2015</span>). <span class=\"sourceStyle\">Ethnography for the Internet: Embedded</span>. Embodied and Everyday. London, UK: Bloomsbury."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Group &amp; Organization Management",
+        "bodyP_ids": [
+          "mag_rich_body_p_6"
+        ],
+        "publicationType": "journal",
+        "id": "b48",
+        "label": "[48]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Imose A. R.",
+                "personType": "author"
+              },
+              {
+                "name": "Finkelstein M. L.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Imose</surname> <given-names>A. R.</given-names></name> &amp; <name><surname>Finkelstein</surname> <given-names>M. L.</given-names></name>(<span class=\"yearStyle\">2018</span>). A multilevel theoretical framework integrating diversity and emotional labor. <span class=\"sourceStyle\">Group &amp; Organization Management</span>, <span class=\"volStyele\">43</span>(5), 718-751."
+          }
+        ]
+      },
+      {
+        "sourceEn": "A New Literacies Sampler",
+        "bodyP_ids": [
+          "mag_rich_body_p_44"
+        ],
+        "publicationType": "book",
+        "id": "b49",
+        "label": "[49]",
+        "nian": 2007,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Michele K.",
+                "personType": "author"
+              },
+              {
+                "name": "Colin L.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Michele</surname> <given-names>K.</given-names></name>, <name><surname>Colin</surname> <given-names>L.</given-names></name> (<span class=\"yearStyle\">2007</span>). Online memes, affinities and cultural production. In: Michele K., Colin, L. (<strong>Eds.</strong>). <span class=\"sourceStyle\">A New Literacies Sampler</span> (p.202). New York, NY: Peter Lang Publishers Inc."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Screen",
+        "bodyP_ids": [
+          "mag_rich_body_p_35"
+        ],
+        "publicationType": "journal",
+        "id": "b50",
+        "label": "[50]",
+        "nian": 1975,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Mulvey L.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Mulvey</surname> <given-names>L.</given-names></name> (<span class=\"yearStyle\">1975</span>). Visual pleasure and narrative cinema. <span class=\"sourceStyle\">Screen</span>, <span class=\"volStyele\">16</span>(3), 6-18. ",
+            "url": "https://academic.oup.com/screen/article-lookup/doi/10.1093/screen/16.3.6",
+            "doi": "10.1093/screen/16.3.6"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Canadian Journal of Political and Social Theory",
+        "bodyP_ids": [
+          "mag_rich_body_p_19"
+        ],
+        "publicationType": "journal",
+        "id": "b51",
+        "label": "[51]",
+        "nian": 1977,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Smythe D. W.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Smythe</surname> <given-names>D. W.</given-names></name> (<span class=\"yearStyle\">1977</span>). Communications: Blindspot of Western Marxism. <span class=\"sourceStyle\">Canadian Journal of Political and Social Theory</span>, <span class=\"volStyele\">1</span>(3), 1-27."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Digital Labour:The Internet as Playground and Factory",
+        "bodyP_ids": [
+          "mag_rich_body_p_21"
+        ],
+        "publicationType": "book",
+        "id": "b52",
+        "label": "[52]",
+        "nian": 2013,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Scholz T",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Scholz</surname> <given-names>T</given-names></name>.(<strong>Ed.</strong>)(<span class=\"yearStyle\">2013</span>). <span class=\"sourceStyle\">Digital Labour:The Internet as Playground and Factory</span>. New York, NY: Routledge."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Marxism and Literature",
+        "bodyP_ids": [
+          "mag_rich_body_p_21"
+        ],
+        "publicationType": "book",
+        "id": "b53",
+        "label": "[53]",
+        "nian": 1977,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Williams R.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Williams</surname> <given-names>R.</given-names></name> (<span class=\"yearStyle\">1977</span>). <span class=\"sourceStyle\">Marxism and Literature</span>. Oxford, UK: Oxford University Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Philosophical Investigations",
+        "bodyP_ids": [
+          "mag_rich_body_p_43"
+        ],
+        "publicationType": "book",
+        "id": "b54",
+        "label": "[54]",
+        "nian": 1953,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Wittgenstein L.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Wittgenstein</surname> <given-names>L.</given-names></name> (<span class=\"yearStyle\">1953</span>). <span class=\"sourceStyle\">Philosophical Investigations</span>(p.7).(trans. G. E. M. Anscombe) Oxford, UK: Blackwell."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Chinese Journal of Communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_28"
+        ],
+        "publicationType": "journal",
+        "id": "b55",
+        "label": "[55]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Zhang X.",
+                "personType": "author"
+              },
+              {
+                "name": "Xiang Y.",
+                "personType": "author"
+              },
+              {
+                "name": "Hao L.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Zhang</surname> <given-names>X.</given-names></name>, <name><surname>Xiang</surname> <given-names>Y.</given-names></name>, &amp; <name><surname>Hao</surname> <given-names>L.</given-names></name> (<span class=\"yearStyle\">2019</span>). Virtual gifting on China’s live streaming platforms: hajacking the online gift economy. <span class=\"sourceStyle\">Chinese Journal of Communication</span>, <span class=\"volStyele\">12</span>(3),340-355. ",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/17544750.2019.1583260",
+            "doi": "10.1080/17544750.2019.1583260"
+          }
+        ]
+      }
+    ],
+    "journal": {
+      "issn": "1002-5685",
+      "qiKanWangZhi": "http://cjjc.ruc.edu.cn",
+      "qiKanMingCheng_CN": "国际新闻界",
+      "id": 1,
+      "qiKanMingCheng_EN": "Chinese Journal of Journalism & Communication"
+    },
+    "authorList": [
+      {
+        "deceased": false,
+        "name_cn": "吕鹏",
+        "email": "lvdalang@126.com",
+        "name_en": "LV Peng"
+      }
+    ],
+    "bioList_cn": [
+      {
+        "content": "<p id=\"com1\">吕鹏，上海社会科学院新闻研究所研究员。电子邮箱：<a class=\"mag-xml-email-a\" href=\"mailto:lvdalang@126.com\">lvdalang@126.com</a>。</p>"
+      }
+    ],
+    "figList": [
+      {
+        "captionCn": "<title>： 房岩离婚长文</title>",
+        "magId": "75dc4413-bc92-41d2-a889-d9c5ee604df4",
+        "labelCn": "图1",
+        "pptUrl": "1002-5685-43-12-53/img_1.jpg.ppt",
+        "figUrl": "1002-5685-43-12-53/img_1.jpg",
+        "titleCn": "图1 ： 房岩离婚长文",
+        "id": "F1",
+        "thumbnailUrl": "1002-5685-43-12-53/thumbnail/img_1.jpg"
+      },
+      {
+        "captionCn": "<title>： 2021年房岩快手视频</title>",
+        "magId": "fff5de72-101e-4551-ba6c-a08b65f1ab57",
+        "labelCn": "图2",
+        "pptUrl": "1002-5685-43-12-53/img_2.jpg.ppt",
+        "figUrl": "1002-5685-43-12-53/img_2.jpg",
+        "titleCn": "图2 ： 2021年房岩快手视频",
+        "id": "F2",
+        "thumbnailUrl": "1002-5685-43-12-53/thumbnail/img_2.jpg"
+      }
+    ],
+    "article": {
+      "keywordList_cn": [
+        "线上情感劳动",
+        "线上情动劳动",
+        "短视频/直播",
+        "网络主播",
+        "数字劳动",
+        "快手"
+      ],
+      "juan": "43",
+      "zhaiyao_cn": "<p id=\"p00010\">随着短视频/直播的勃兴，线上情感劳动和线上情动劳动这两个区别而又联系的两种理论进路日益在数字劳动之中融合，并使数字平台的研究呈现了新的特色。在论述了二者理论起源与特色后，本文主要阐述两种不同理论的交叉勾连是如何更好地服务于我们对当下数字平台和数字劳动的理解。线上情感劳动为数字劳动提供了一种个体的进路，强调的是劳动者的主体性；相对的，线上情动劳动则提供了一种数字劳动研究共同体的取向，更多面向数字平台。短视频/直播平台的数字劳动，需要网络主播这样以劳动者个体为基础的线上情感劳动，全部的线上情感劳动的集合构成平台的线上情动劳动，从而构成数字平台的特色与特征，它们所定义的平台运作逻辑，即平台风格，又作用于每一个具体的线上情感劳动。以快手为代表的短视频/直播平台的数字劳动表现出重视容貌与肉体、关注语言及话术、认可模仿与复制以及强调人设及表演等四个方面的主要特征。本文认为于未来的个案研究而言，线上情感劳动与情动劳动相融合提供了一种有益的方法或视角，乃至框架；同时，相关研究需要重视短视频/直播时代的劳动特性，并需将其放置在具体的在线平台的情境之中进行研究和考察，这样才能更加深入地理解中国实践背景之下的网络主播及其数字劳动；也需要以此为基础，更加深入地拓展对于线上情感劳动和情动劳动理论的理解与重构。</p>",
+      "endNoteUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=EndNote&id=1187",
+      "bibtexUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=BibTeX&id=1187",
+      "articleType": "A",
+      "abstractUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2021/V43/I12/53",
+      "qi": "12",
+      "id": 1187,
+      "nian": 2021,
+      "bianHao": "20211203",
+      "juanUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2021",
+      "shouCiFaBuRiQi": "2021-12-23",
+      "qiShiYe": "53",
+      "qiUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12",
+      "lanMu_cn": "本期话题/网络直播研究",
+      "pdfSize": "1703KB",
+      "risUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=Ris&id=1187",
+      "title_cn": "线上情感劳动与情动劳动的相遇：短视频/直播、网络主播与数字劳动",
+      "jieShuYe": "76",
+      "keywordList_en": [
+        "online emotional labour",
+        "online affective labour",
+        "short video/live streaming",
+        "Internet anchor",
+        "digital labour",
+        "Kuaishou"
+      ],
+      "endNoteUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=EndNote&id=1187",
+      "zhaiyao_en": "<p id=\"p00015\">With the booming of short video / live streaming, the two different and related theoretical approaches of online emotional labour and online affective labour are increasingly integrated in digital labour. This paper mainly expounds how the cross connection of the two different theories can better serve our understanding of the current digital platform and digital labour. Online emotional labour provides an individual approach for digital labour, emphasizing the subjectivity of labourers; online affective labour provides a collective one, which is more oriented to digital platform. The digital labour of short video / live streaming platform requires online emotional labour based on individual labourers, such as Internet anchor. The collection of all online emotional labour constitutes the online affective labour of the platform, thus constituting the characteristics of the digital platform. Defined by these characteristics, the platform operation logic, which can be recognized as the platform style, also acts on each online emotional labour. The digital labour of short video / live streaming platform represented by Kuaishou shows four main characteristics: emphasizing appearance and body, paying attention to language and speaking, recognizing imitation and copying, emphasizing persona and acting. In terms of future case studies, this research on the integration of online emotional labour and affective labour provides a useful method, perspective and framework. Also, relevant research needs to pay attention to the labour characteristics in the era of short video / live streaming, and place it in the specific online platforms, so as to further understand the Internet anchor and its digital labour in the context of Chinese practice. What also needs to be further expanded is the understanding and reconstructing of the theory of online emotional labor and online affective labour.</p>",
+      "bibtexUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=BibTeX&id=1187",
+      "abstractUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/53",
+      "juanUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2021",
+      "lanMu_en": "Specific Topic / Live Webcast Studies",
+      "qiUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2021/V43/I12",
+      "risUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=Ris&id=1187",
+      "title_en": "When Online Emotional Labour Meeting Online Affective Labour: Short Video/Live Streaming, Internet Anchor and Digital Labour",
+      "hasPdf": "true"
+    },
+    "authorList_en": [
+      {
+        "deceased": false,
+        "name_cn": "吕鹏",
+        "email": "lvdalang@126.com",
+        "name_en": "LV Peng"
+      }
+    ]
+  },
+  "text": "线上情感劳动与情动劳动的相遇：短视频/直播、网络主播与数字劳动 × 模态框（Modal）标题 在这里添加一些文本 关闭 关闭 提交更改 取消 确定并提交 × 模态框（Modal）标题 × 下载引用文件后，可以用常见的文献管理软件打开和编辑，包括: BibTex, EndNote, ProCite, RefWorks, and Reference Manager. 选择文件类型/文献管理软件名称 RIS (ProCite, Reference Manager, EndNote) BibTeX 选择包含的内容 仅文章引用信息 引用信息及摘要 导出 线上情感劳动与情动劳动的相遇：短视频/直播、网络主播与数字劳动 吕鹏 国际新闻界 ›› 2021, Vol. 43 ›› Issue (12) : 53-76. PDF(1703 KB) Toggle navigation 首 页 期刊介绍 编委会 投稿指南 格式规范 期刊订阅 联系我们 English 投稿指南 格式规范 PDF(1703 KB) 国际新闻界 ›› 2021, Vol. 43 ›› Issue (12) : 53-76. 本期话题/网络直播研究 线上情感劳动与情动劳动的相遇：短视频/直播、网络主播与数字劳动 吕鹏 作者信息 + 作者简介: 吕鹏，上海社会科学院新闻研究所研究员。电子邮箱： lvdalang@126.com 。 折叠 When Online Emotional Labour Meeting Online Affective Labour: Short Video/Live Streaming, Internet Anchor and Digital Labour LV Peng Author information + About authors: Lv Peng is a professor in the Institute of Journalism, Shanghai Academy of Social Sciences. Email: lvdalang@126.com . Show less 文章历史 + 出版日期 2021-12-23 发布日期 2021-12-23 摘要 随着短视频/直播的勃兴，线上情感劳动和线上情动劳动这两个区别而又联系的两种理论进路日益在数字劳动之中融合，并使数字平台的研究呈现了新的特色。在论述了二者理论起源与特色后，本文主要阐述两种不同理论的交叉勾连是如何更好地服务于我们对当下数字平台和数字劳动的理解。线上情感劳动为数字劳动提供了一种个体的进路，强调的是劳动者的主体性；相对的，线上情动劳动则提供了一种数字劳动研究共同体的取向，更多面向数字平台。短视频/直播平台的数字劳动，需要网络主播这样以劳动者个体为基础的线上情感劳动，全部的线上情感劳动的集合构成平台的线上情动劳动，从而构成数字平台的特色与特征，它们所定义的平台运作逻辑，即平台风格，又作用于每一个具体的线上情感劳动。以快手为代表的短视频/直播平台的数字劳动表现出重视容貌与肉体、关注语言及话术、认可模仿与复制以及强调人设及表演等四个方面的主要特征。本文认为于未来的个案研究而言，线上情感劳动与情动劳动相融合提供了一种有益的方法或视角，乃至框架；同时，相关研究需要重视短视频/直播时代的劳动特性，并需将其放置在具体的在线平台的情境之中进行研究和考察，这样才能更加深入地理解中国实践背景之下的网络主播及其数字劳动；也需要以此为基础，更加深入地拓展对于线上情感劳动和情动劳动理论的理解与重构。 Abstract With the booming of short video / live streaming, the two different and related theoretical approaches of online emotional labour and online affective labour are increasingly integrated in digital labour. This paper mainly expounds how the cross connection of the two different theories can better serve our understanding of the current digital platform and digital labour. Online emotional labour provides an individual approach for digital labour, emphasizing the subjectivity of labourers; online affective labour provides a collective one, which is more oriented to digital platform. The digital labour of short video / live streaming platform requires online emotional labour based on individual labourers, such as Internet anchor. The collection of all online emotional labour constitutes the online affective labour of the platform, thus constituting the characteristics of the digital platform. Defined by these characteristics, the platform operation logic, which can be recognized as the platform style, also acts on each online emotional labour. The digital labour of short video / live streaming platform represented by Kuaishou shows four main characteristics: emphasizing appearance and body, paying attention to language and speaking, recognizing imitation and copying, emphasizing persona and acting. In terms of future case studies, this research on the integration of online emotional labour and affective labour provides a useful method, perspective and framework. Also, relevant research needs to pay attention to the labour characteristics in the era of short video / live streaming, and place it in the specific online platforms, so as to further understand the Internet anchor and its digital labour in the context of Chinese practice. What also needs to be further expanded is the understanding and reconstructing of the theory of online emotional labor and online affective labour. 关键词 线上情感劳动 / 线上情动劳动 / 短视频/直播 / 网络主播 / 数字劳动 / 快手 Key words online emotional labour / online affective labour / short video/live streaming / Internet anchor / digital labour / Kuaishou 引用本文 EndNote Ris (Procite) Bibtex 导出引用 吕鹏 . 线上情感劳动与情动劳动的相遇：短视频/直播、网络主播与数字劳动[J]. 国际新闻界 . 2021, 43(12): 53-76 LV Peng . When Online Emotional Labour Meeting Online Affective Labour: Short Video/Live Streaming, Internet Anchor and Digital Labour[J]. Chinese Journal of Journalism & Communication . 2021, 43(12): 53-76 {{custom_sec.title}} {{custom_sec.title}} {{custom_sec.content}} 参考文献 列表( 原文顺序 | 文献年度倒序 | 文中引用次数倒序 ) 可视化分析 [1] 阿莉·拉塞尔·霍克希尔德( 1983/2020 ). 《心灵的整饰:人类情感的商业化》(成伯清,淡卫军,王佳鹏译) . 上海: 上海三联书店. 本文引用 [6] [2] 安东尼奥·内格里( 2006/2016 ). 《超越帝国》(李琨,陆汉臻译) . 北京: 北京大学出版社. 本文引用 [6] [3] 陈国权( 2020 ). 快手“主流化”之路. 《中国记者》 ,(8),84-89. 本文引用 [1] [4] 董金权, 罗鑫宇( 2021 ). “情感”视角下的网络直播——基于30名青年主播和粉丝的深度访谈. 《中国青年研究》 ,(2),90-96. 本文引用 [1] [5] 付茜茜( 2020 ). 网络“人设”传播:符号资本的媒介建构. 《天府新论》 ,(6),135-144. 本文引用 [1] [6] 郭小安, 李晗( 2021 ). 情绪劳动与情感劳动:概念的误用、辨析及交叉性解释. 《新闻界》 ,(12),56-68. 本文引用 [1] [7] 汉斯·贝尔廷( 2013/2017 ). 《脸的历史》(史竟舟译) . 北京: 北京大学出版社. 本文引用 [2] [8] 快手(时间不详). 关于快手.检索于 https://www.kuaishou.com/about/, 2020-8-6. https://www.kuaishou.com/about/ 本文引用 [1] [9] 吕鹏( 2017 ). 作为假象的自由:用户生成内容时代的个人与媒介. 《国际新闻界》 ,(11),68-82. 本文引用 [1] [10] 吕鹏( 2021 ). 线上情感劳动:短视频/直播、网络主播与男性气质——基于快手的数字民族志研究. 《社会科学》 ,(6),179-192. 本文引用 [2] [11] 吕鹏, 张昊鹏(未刊稿). 网络模因研究:概念界定、理论实践与价值启示 . [12] 林磊, 冯应谦( 2019 ). 情动劳动(Affective labor)生产下的感性乌托邦——以《临高启明》的众创为例. 《新闻界》 ,(9),51-60. 本文引用 [2] [13] 林怡洁, 单蔓婷( 2021 ). 中国大陆女性社交直播主的数位劳动与性别政治. 《新闻学研究》 ,(146),53-95. 本文引用 [1] [14] 刘娜( 2020 ). 人设:作为一种风格的想象. 《符号与传媒》 ,(21),166-176. 本文引用 [1] [15] 刘怡( 2020 ). 论网感化语境下青少年受众对影视明星人设的期待结构. 《现代传播》 ,(7),103-108. 本文引用 [1] [16] 罗伯特·V·库兹奈特( 2010/2016 ). 《如何研究网络人群和社区:网络民族志方法实践指导》(叶韦明译) . 重庆: 重庆大学出版社. 本文引用 [2] [17] 栾轶玫, 张雅琪( 2020 ). 人设奴役与数字劳工——异化理论视角下的直播带货. 《传媒观察》 ,(10),19-26. 本文引用 [1] [18] 迈克尔·哈特, 安东尼奥·奈格里( 2000/2008 ). 《帝国——全球化的政治秩序》(杨建国,范一亭译) . 南京: 江苏人民出版社. 本文引用 [10] [19] 毛里齐奥·拉扎拉托( 1996/2006 ). 《非物质劳动》(霍炬译). 载许纪霖主编,《帝国、都市与现代性》(第139-152页) . 南京: 江苏人民出版社. 本文引用 [2] [20] 彭兰( 2020 ). 视频化生存:移动时代日常生活的媒介化. 《中国编辑》 ,(4),34-40+53. 本文引用 [1] [21] 皮埃尔·布尔迪厄( 1979/2015 ). 《区分:判断力的社会批判》(刘晖译) . 北京: 商务印书馆. 本文引用 [2] [22] 托尼·内格里( 2002/2007 ). 什么是大众?(冉隆森译). 《国外理论动态》 ,(8),65-69. 本文引用 [2] [23] 徐强, 胡婵( 2021 ). 从人格到人设:数字化时代人格面临的新挑战. 《南通大学学报·社会科学版》 ,(1),16-23. 本文引用 [1] [24] 姚建华, 徐偲骕( 2019 ). 劳动的“媒介化”与媒介化的劳动:数位劳动研究的内涵、现状与未来. 《新闻学研究》 ,(141),181-214. 本文引用 [1] [25] 约书亚·梅罗维茨( 1985/2002 ). 《消失的地域:电子媒介对社会行为的影响》(肖志军译) . 北京: 清华大学出版社. 本文引用 [2] [26] 詹明信( 1997 ). 《晚期资本主义的文化逻辑》(陈清侨等译) . 北京: 生活·读书·新知三联书店. 本文引用 [1] [27] 赵磊, 闫俊文( 2020 ). 快手快不过抖音?.检索于澎湃新闻·澎湃号·燃财经 . https://www.thepaper.cn/newsDetail_forward_9197295, 2020-9-16. https://www.thepaper.cn/newsDetail_forward_9197295 本文引用 [1] [28] 赵旭东( 2020 ). 视频直播的民族志书写——一种信息传输由微信而及快手的文化转型人类学. 《中原文化研究》 ,(2),58-66+73. 本文引用 [1] [29] 张一璇( 2021 ). 劳动空间在延伸——女性网络主播的身份、情感与劳动过程. 《社会学评论》 ,(5),236-256. 本文引用 [1] [30] 战迪( 2020 ). 论“看脸时代”的青年审美迷失. 《现代传播》 ,(10),101-106. 本文引用 [1] [31] Ahmed S. ( 2004 ). Affective Economies. Social Text , 22 , 117-139. https://doi.org/10.1215/01642472-22-2_79-117 https://read.dukeupress.edu/social-text/article/22/2%20(79)/117/32675/Affective-Economies 本文引用 [1] [32] Anderson B. ( 2009 ). Affective atmospheres. Emotion, Space and Society , 2 (2), 77-81. https://doi.org/10.1016/j.emospa.2009.08.005 https://linkinghub.elsevier.com/retrieve/pii/S1755458609000589 本文引用 [1] [33] Boellstorff T. , Nardi B. , Pearce C. , Taylor T. L. ( 2012 ). Ethnography and Virtual Worlds:A handbook of Method . Princeton, NJ: Princeton University Press. 本文引用 [1] [34] Beck J. ( 2018 ). Arlie Hochschild: Housework isn’t emotional labor. The Atlantic. Retrieved from https://www.theatlantic.com/family/archive/2018/11/arlie-hochschild-housework-isnt-emotional-labor/576637/, 2020-11-20. https://www.theatlantic.com/family/archive/2018/11/arlie-hochschild-housework-isnt-emotional-labor/576637/ 本文引用 [1] [35] Connell R. , & Messerschmidt J. W. ( 2005 ). Hegemonic masculinity: Rethinking the concept. Gender and Society , 19 (6), 829-859. https://doi.org/10.1177/0891243205278639 https://journals.sagepub.com/doi/10.1177/0891243205278639 本文引用 [1] 摘要 The concept of hegemonic masculinity has influenced gender studies across many academic fields but has also attracted serious criticism. The authors trace the origin of the concept in a convergence of ideas in the early 1980s and map the ways it was applied when research on men and masculinities expanded. Evaluating the principal criticisms, the authors defend the underlying concept of masculinity, which in most research use is neither reified nor essentialist. However, the criticism of trait models of gender and rigid typologies is sound. The treatment of the subject in research on hegemonic masculinity can be improved with the aid of recent psychological models, although limits to discursive flexibility must be recognized. The concept of hegemonic masculinity does not equate to a model of social reproduction; we need to recognize social struggles in which subordinated masculinities influence dominant forms. Finally, the authors review what has been confirmed from early formulations (the idea of multiple masculinities, the concept of hegemony, and the emphasis on change) and what needs to be discarded (onedimensional treatment of hierarchy and trait conceptions of gender). The authors suggest reformulation of the concept in four areas: a more complex model of gender hierarchy, emphasizing the agency of women; explicit recognition of the geography of masculinities, emphasizing the interplay among local, regional, and global levels; a more specific treatment of embodiment in contexts of privilege and power; and a stronger emphasis on the dynamics of hegemonic masculinity, recognizing internal contradictions and the possibilities of movement toward gender democracy. [36] Connell R. ( 2005 ). Masculinities . Berkeley, CA: University of California Press. 本文引用 [1] [37] Clough, P. T . & Halley J. (Eds.).( 2007 ). The Affective Turn:Theorizing the Social . Durham and London, UK: Duke University Press. 本文引用 [1] [38] Fuchs C. , Sandoval M. ( 2014 ). Digital workers of the world unite! a framework for critically theorising and analysing digital labour. TripleC: Capitalism, Communication & Critique , 12 (2), 486-563. 本文引用 [1] [39] Fuchs C. ( 2014 ). Digital Labour and Karl Marx . New York, NY: Routledge. 本文引用 [1] [40] Hochschild A. R. ( 1983 ). The Managed Heart:Commercialization of Human Feeling . Berkeley·Los Angeles·London, UK: University of California Press. 本文引用 [1] [41] Hardt M. ( 1999 ). Affective labor. Boundary 2 , 26 (2), 89-100. 本文引用 [2] [42] Hardt M . & Negri A. ( 2004 ). Multitude:War and Democracy in the Age of Empire . New York, NY: The Penguin Press. 本文引用 [2] [43] Hardt M . & Negri A. ( 1994 ). Labor of Dionysus:A Critique of the State-Form (p.9). Minneapolis & London, UK: University of Minnesota Press. 本文引用 [1] [44] Hardt M . & Negri A. ( 2000 ). Empire . Cambridge, MA: Harvard University Press. 本文引用 [1] [45] Hardt M . & Negri A. ( 2009 ). Commonwealth . Cambridge, MA: The Belknap Press of Harvard University Press. 本文引用 [1] [46] Hine C. ( 2000 ). Virtual Ethnography . London, UK: Sage Publications. 本文引用 [2] [47] Hine C. ( 2015 ). Ethnography for the Internet: Embedded . Embodied and Everyday. London, UK: Bloomsbury. 本文引用 [1] [48] Imose A. R. & Finkelstein M. L. ( 2018 ). A multilevel theoretical framework integrating diversity and emotional labor. Group & Organization Management , 43 (5), 718-751. 本文引用 [1] [49] Michele K. , Colin L. ( 2007 ). Online memes, affinities and cultural production. In: Michele K., Colin, L. ( Eds. ). A New Literacies Sampler (p.202). New York, NY: Peter Lang Publishers Inc. 本文引用 [1] [50] Mulvey L. ( 1975 ). Visual pleasure and narrative cinema. Screen , 16 (3), 6-18. https://doi.org/10.1093/screen/16.3.6 https://academic.oup.com/screen/article-lookup/doi/10.1093/screen/16.3.6 本文引用 [1] [51] Smythe D. W. ( 1977 ). Communications: Blindspot of Western Marxism. Canadian Journal of Political and Social Theory , 1 (3), 1-27. 本文引用 [1] [52] Scholz T .( Ed. )( 2013 ). Digital Labour:The Internet as Playground and Factory . New York, NY: Routledge. 本文引用 [1] [53] Williams R. ( 1977 ). Marxism and Literature . Oxford, UK: Oxford University Press. 本文引用 [1] [54] Wittgenstein L. ( 1953 ). Philosophical Investigations (p.7).(trans. G. E. M. Anscombe) Oxford, UK: Blackwell. 本文引用 [1] [55] Zhang X. , Xiang Y. , & Hao L. ( 2019 ). Virtual gifting on China’s live streaming platforms: hajacking the online gift economy. Chinese Journal of Communication , 12 (3),340-355. https://doi.org/10.1080/17544750.2019.1583260 https://www.tandfonline.com/doi/full/10.1080/17544750.2019.1583260 本文引用 [1] 文章年度分布 文献类型分布 被引期刊分布 被引用学者 × 微信扫一扫 PDF(1703 KB) 可视化 Accesses Citation Altmetric Detail 段落导航 相关文章 期刊信息 期刊介绍 编委会 投稿指南 格式规范 期刊订阅 联系我们 在线期刊 当期目录 过刊浏览 E-mail Alert RSS 联系我们 地址：北京市海淀区中关村大街59号明德新闻楼 邮编：100872 电话：010-82509362 E-mail:gjxwj@ruc.edu.cn 访问统计 总访问量 ： 今日访问： 在线人数： 版权所有 © 《国际新闻界》编辑部 技术支持： 北京玛格泰克科技发展有限公司 / 〈 〉",
+  "links": [
+    "http://cjjc.ruc.edu.cn",
+    "http://cjjc.ruc.edu.cn/CN/archive/2021",
+    "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12",
+    "http://cjjc.ruc.edu.cn/CN/home",
+    "http://cjjc.ruc.edu.cn/CN/home",
+    "http://cjjc.ruc.edu.cn/CN/column/column1.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column2.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column5.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column6.shtml",
+    "http://cjjc.ruc.edu.cn/EN/home",
+    "https://www.ruc.edu.cn/",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn",
+    "http://cjjc.ruc.edu.cn/CN/archive/2021",
+    "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12",
+    "javascript:;",
+    "mailto:lvdalang@126.com",
+    "mailto:lvdalang@126.com",
+    "javascript:;",
+    "mailto:lvdalang@126.com",
+    "mailto:lvdalang@126.com",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=EndNote&id=1187",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=Ris&id=1187",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=BibTeX&id=1187",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://www.kuaishou.com/about/",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://www.thepaper.cn/newsDetail_forward_9197295",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1215/01642472-22-2_79-117",
+    "https://read.dukeupress.edu/social-text/article/22/2%20(79)/117/32675/Affective-Economies",
+    "javascript:;",
+    "https://doi.org/10.1016/j.emospa.2009.08.005",
+    "https://linkinghub.elsevier.com/retrieve/pii/S1755458609000589",
+    "javascript:;",
+    "javascript:;",
+    "https://www.theatlantic.com/family/archive/2018/11/arlie-hochschild-housework-isnt-emotional-labor/576637/",
+    "javascript:;",
+    "https://doi.org/10.1177/0891243205278639",
+    "https://journals.sagepub.com/doi/10.1177/0891243205278639",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1093/screen/16.3.6",
+    "https://academic.oup.com/screen/article-lookup/doi/10.1093/screen/16.3.6",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1080/17544750.2019.1583260",
+    "https://www.tandfonline.com/doi/full/10.1080/17544750.2019.1583260",
+    "javascript:;",
+    "http://www.facebook.com/sharer.php?u=http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/53",
+    "http://twitter.com/share?url=http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/53",
+    "http://service.weibo.com/share/share.php?url=http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/53&title=线上情感劳动与情动劳动的相遇：短视频/直播、网络主播与数字劳动",
+    "javascript:;",
+    "javascript:;",
+    "http://cjjc.ruc.edu.cn/CN/column/column1.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column2.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column5.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column6.shtml",
+    "http://cjjc.ruc.edu.cn/CN/current",
+    "http://cjjc.ruc.edu.cn/CN/archive_by_years",
+    "http://cjjc.ruc.edu.cn/CN/alert/showAlertInfo.do",
+    "http://cjjc.ruc.edu.cn/CN/rss/showRssInfo.do",
+    "https://www.magtech.com.cn/"
+  ]
+}

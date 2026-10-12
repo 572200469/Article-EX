@@ -1,0 +1,851 @@
+[
+  {
+    "job_id": "china_directed_a7c7b6fefffb69d07b17e4227c67d9f4f993e684f95c4f14a2450e16691f8954",
+    "sequence": 2,
+    "provider": "qwen",
+    "block": 1,
+    "rank": 1,
+    "raw_entry": {
+      "title": "算法推荐与信息茧房：基于社交网络平台的实证研究",
+      "authors": null,
+      "year": null,
+      "journal": null,
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_a7c7b6fefffb69d07b17e4227c67d9f4f993e684f95c4f14a2450e16691f8954",
+    "sequence": 2,
+    "provider": "qwen",
+    "block": 1,
+    "rank": 2,
+    "raw_entry": {
+      "title": "信息茧房效应及其治理路径研究",
+      "authors": null,
+      "year": null,
+      "journal": null,
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_a7c7b6fefffb69d07b17e4227c67d9f4f993e684f95c4f14a2450e16691f8954",
+    "sequence": 2,
+    "provider": "qwen",
+    "block": 1,
+    "rank": 3,
+    "raw_entry": {
+      "title": "算法推荐技术下的信息茧房形成机制与消解策略",
+      "authors": null,
+      "year": null,
+      "journal": null,
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_a7c7b6fefffb69d07b17e4227c67d9f4f993e684f95c4f14a2450e16691f8954",
+    "sequence": 2,
+    "provider": "qwen",
+    "block": 1,
+    "rank": 4,
+    "raw_entry": {
+      "title": "社交媒体中算法推荐对信息茧房的影响研究",
+      "authors": null,
+      "year": null,
+      "journal": null,
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_a7c7b6fefffb69d07b17e4227c67d9f4f993e684f95c4f14a2450e16691f8954",
+    "sequence": 2,
+    "provider": "qwen",
+    "block": 1,
+    "rank": 5,
+    "raw_entry": {
+      "title": "从“过滤气泡”到“信息茧房”：算法推荐的传播效应反思",
+      "authors": null,
+      "year": null,
+      "journal": null,
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_d4b7588992c1978d541944228a55416bac689b8007df0ec0769efee99c41609c",
+    "sequence": 3,
+    "provider": "deepseek",
+    "block": 1,
+    "rank": 1,
+    "raw_entry": {
+      "title": "议程设置理论的发展与演进——基于CiteSpace的可视化分析",
+      "authors": "王国华, 钟声扬, 杨腾飞",
+      "year": 2018,
+      "journal": "情报杂志",
+      "doi": null,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXoqIqvJ0pZ8d6M2JfC7xkA6y-9Q2Z9X5z5Y7y1H5H5Y5"
+    }
+  },
+  {
+    "job_id": "china_directed_d4b7588992c1978d541944228a55416bac689b8007df0ec0769efee99c41609c",
+    "sequence": 3,
+    "provider": "deepseek",
+    "block": 1,
+    "rank": 2,
+    "raw_entry": {
+      "title": "新媒体环境下议程设置理论的发展与转向",
+      "authors": "张晋升, 祁志慧",
+      "year": 2016,
+      "journal": "新闻界",
+      "doi": "10.15897/j.cnki.cn51-1046/g2.2016.07.008",
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_d4b7588992c1978d541944228a55416bac689b8007df0ec0769efee99c41609c",
+    "sequence": 3,
+    "provider": "deepseek",
+    "block": 1,
+    "rank": 3,
+    "raw_entry": {
+      "title": "议程设置研究的新领域：网络议程设置",
+      "authors": "史安斌, 王沛楠",
+      "year": 2017,
+      "journal": "全球传媒学刊",
+      "doi": "10.16602/j.gmj.2017.02.003",
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_d4b7588992c1978d541944228a55416bac689b8007df0ec0769efee99c41609c",
+    "sequence": 3,
+    "provider": "deepseek",
+    "block": 1,
+    "rank": 4,
+    "raw_entry": {
+      "title": "属性议程设置与框架理论的比较研究",
+      "authors": "陈阳",
+      "year": 2013,
+      "journal": "国际新闻界",
+      "doi": null,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXoqIqvJ0pZ8d6M2JfC7xkA6y-9Q2Z9X5z5Y7y1H5H5Y5"
+    }
+  },
+  {
+    "job_id": "china_directed_d4b7588992c1978d541944228a55416bac689b8007df0ec0769efee99c41609c",
+    "sequence": 3,
+    "provider": "deepseek",
+    "block": 1,
+    "rank": 5,
+    "raw_entry": {
+      "title": "社交媒体时代的议程设置理论：理论拓展与研究路径",
+      "authors": "周葆华",
+      "year": 2019,
+      "journal": "新闻与传播研究",
+      "doi": null,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXoqIqvJ0pZ8d6M2JfC7xkA6y-9Q2Z9X5z5Y7y1H5H5Y5"
+    }
+  },
+  {
+    "job_id": "china_directed_929e5b48b3bcbeb1d4a8f7e8a5980237160afe01560a355737b3d3a42d772f03",
+    "sequence": 6,
+    "provider": "gemini",
+    "block": 1,
+    "rank": 1,
+    "raw_entry": {
+      "title": "议程设置理论的过去、现在和未来",
+      "authors": [
+        "马克斯韦尔·麦库姆斯"
+      ],
+      "year": 2007,
+      "journal": "国际新闻界",
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_929e5b48b3bcbeb1d4a8f7e8a5980237160afe01560a355737b3d3a42d772f03",
+    "sequence": 6,
+    "provider": "gemini",
+    "block": 1,
+    "rank": 2,
+    "raw_entry": {
+      "title": "网络议程设置模式：议程设置理论的第三层级",
+      "authors": [
+        "郭蕾"
+      ],
+      "year": 2014,
+      "journal": "国际新闻界",
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_929e5b48b3bcbeb1d4a8f7e8a5980237160afe01560a355737b3d3a42d772f03",
+    "sequence": 6,
+    "provider": "gemini",
+    "block": 1,
+    "rank": 3,
+    "raw_entry": {
+      "title": "“议程设置”理论及其在中国",
+      "authors": [
+        "郭镇之"
+      ],
+      "year": 1997,
+      "journal": "国际新闻界",
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_929e5b48b3bcbeb1d4a8f7e8a5980237160afe01560a355737b3d3a42d772f03",
+    "sequence": 6,
+    "provider": "gemini",
+    "block": 1,
+    "rank": 4,
+    "raw_entry": {
+      "title": "媒介议程设置效果的实证研究",
+      "authors": [
+        "张国良"
+      ],
+      "year": 1998,
+      "journal": "新闻大学",
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_e7d42621b75ad6eaa5bd36239a36356654ace5f9bae671c325582e151b5fd1c5",
+    "sequence": 7,
+    "provider": "qwen",
+    "block": 1,
+    "rank": 1,
+    "raw_entry": {
+      "title": "信息茧房：概念辨析、形成机理与治理路径",
+      "authors": [
+        "喻国明",
+        "李彪"
+      ],
+      "year": 2019,
+      "journal": "新闻与传播研究",
+      "doi": null,
+      "url": "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=XWYB201905003&v=..."
+    }
+  },
+  {
+    "job_id": "china_directed_e7d42621b75ad6eaa5bd36239a36356654ace5f9bae671c325582e151b5fd1c5",
+    "sequence": 7,
+    "provider": "qwen",
+    "block": 1,
+    "rank": 2,
+    "raw_entry": {
+      "title": "算法推荐技术对‘信息茧房’效应的强化机制研究",
+      "authors": [
+        "张洪忠",
+        "段淳林"
+      ],
+      "year": 2020,
+      "journal": "现代传播(中国传媒大学学报)",
+      "doi": null,
+      "url": "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=GBDX202006005&v=..."
+    }
+  },
+  {
+    "job_id": "china_directed_e7d42621b75ad6eaa5bd36239a36356654ace5f9bae671c325582e151b5fd1c5",
+    "sequence": 7,
+    "provider": "qwen",
+    "block": 1,
+    "rank": 3,
+    "raw_entry": {
+      "title": "智能媒体时代的信息茧房及其破解",
+      "authors": [
+        "陈昌凤",
+        "师文"
+      ],
+      "year": 2018,
+      "journal": "新闻大学",
+      "doi": null,
+      "url": "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=XWDG201804002&v=..."
+    }
+  },
+  {
+    "job_id": "china_directed_e7d42621b75ad6eaa5bd36239a36356654ace5f9bae671c325582e151b5fd1c5",
+    "sequence": 7,
+    "provider": "qwen",
+    "block": 1,
+    "rank": 4,
+    "raw_entry": {
+      "title": "从‘信息茧房’到‘回音室效应’：算法推荐下的舆论极化研究",
+      "authors": [
+        "彭兰"
+      ],
+      "year": 2021,
+      "journal": "国际新闻界",
+      "doi": null,
+      "url": "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=GJXW202101004&v=..."
+    }
+  },
+  {
+    "job_id": "china_directed_e7d42621b75ad6eaa5bd36239a36356654ace5f9bae671c325582e151b5fd1c5",
+    "sequence": 7,
+    "provider": "qwen",
+    "block": 1,
+    "rank": 5,
+    "raw_entry": {
+      "title": "算法权力与信息茧房的生成逻辑及治理对策",
+      "authors": [
+        "方兴东",
+        "钟伟"
+      ],
+      "year": 2022,
+      "journal": "探索与争鸣",
+      "doi": null,
+      "url": "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=TZYQ202203015&v=..."
+    }
+  },
+  {
+    "job_id": "china_directed_7e911ec6415bf833c5d4468920383cedff7772c1205d5e3fce1b7a13559a935a",
+    "sequence": 8,
+    "provider": "deepseek",
+    "block": 1,
+    "rank": 1,
+    "raw_entry": {
+      "title": "算法推荐与“信息茧房”效应：基于用户信息行为的实证研究",
+      "authors": "彭兰",
+      "year": 2020,
+      "journal": "新闻与传播研究",
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_7e911ec6415bf833c5d4468920383cedff7772c1205d5e3fce1b7a13559a935a",
+    "sequence": 8,
+    "provider": "deepseek",
+    "block": 1,
+    "rank": 2,
+    "raw_entry": {
+      "title": "算法推荐时代的信息茧房：理论溯源、现实争议与研究进路",
+      "authors": "喻国明, 方可人",
+      "year": 2020,
+      "journal": "新闻界",
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_7e911ec6415bf833c5d4468920383cedff7772c1205d5e3fce1b7a13559a935a",
+    "sequence": 8,
+    "provider": "deepseek",
+    "block": 1,
+    "rank": 3,
+    "raw_entry": {
+      "title": "信息茧房效应的实证检验：基于算法推荐新闻客户端的研究",
+      "authors": "陈昌凤, 仇筠茜",
+      "year": 2021,
+      "journal": "现代传播(中国传媒大学学报)",
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_7e911ec6415bf833c5d4468920383cedff7772c1205d5e3fce1b7a13559a935a",
+    "sequence": 8,
+    "provider": "deepseek",
+    "block": 1,
+    "rank": 4,
+    "raw_entry": {
+      "title": "算法推荐如何影响用户信息接触的多样性——基于信息茧房视角的实证分析",
+      "authors": "张洪忠, 斗维红, 任吴炯",
+      "year": 2022,
+      "journal": "新闻与传播研究",
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_7e911ec6415bf833c5d4468920383cedff7772c1205d5e3fce1b7a13559a935a",
+    "sequence": 8,
+    "provider": "deepseek",
+    "block": 1,
+    "rank": 5,
+    "raw_entry": {
+      "title": "算法推荐、信息茧房与算法素养：基于大学生群体的实证研究",
+      "authors": "李彪, 刘子维",
+      "year": 2022,
+      "journal": "国际新闻界",
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_8f82cb9d4317914d25635a375ea300eed2e4ed87a025c263a70c5790de5fac4d",
+    "sequence": 9,
+    "provider": "qwen",
+    "block": 1,
+    "rank": 1,
+    "raw_entry": {
+      "title": "议程设置理论在中国:一项关于大众媒介与公众议题关系的实证研究",
+      "authors": "刘海龙",
+      "year": 2008,
+      "journal": "新闻与传播研究",
+      "doi": null,
+      "url": "https://www.cjw.cn/periodical/cn/article/10.19756/j.issn.1005-5932.2008.04.002"
+    }
+  },
+  {
+    "job_id": "china_directed_8f82cb9d4317914d25635a375ea300eed2e4ed87a025c263a70c5790de5fac4d",
+    "sequence": 9,
+    "provider": "qwen",
+    "block": 1,
+    "rank": 2,
+    "raw_entry": {
+      "title": "网络时代的议程设置:从媒体到公众的转变",
+      "authors": "陈力丹",
+      "year": 2012,
+      "journal": "国际新闻界",
+      "doi": "10.13495/j.cnki.cjjc.2012.04.001",
+      "url": "https://www.cjw.cn/periodical/cn/article/10.13495/j.cnki.cjjc.2012.04.001"
+    }
+  },
+  {
+    "job_id": "china_directed_8f82cb9d4317914d25635a375ea300eed2e4ed87a025c263a70c5790de5fac4d",
+    "sequence": 9,
+    "provider": "qwen",
+    "block": 1,
+    "rank": 3,
+    "raw_entry": {
+      "title": "社交媒体中的议程融合:用户主动性与平台算法的影响",
+      "authors": "彭兰",
+      "year": 2016,
+      "journal": "现代传播(中国传媒大学学报)",
+      "doi": "10.19951/j.cnki.1671-0177.2016.05.001",
+      "url": "https://www.cjw.cn/periodical/cn/article/10.19951/j.cnki.1671-0177.2016.05.001"
+    }
+  },
+  {
+    "job_id": "china_directed_8f82cb9d4317914d25635a375ea300eed2e4ed87a025c263a70c5790de5fac4d",
+    "sequence": 9,
+    "provider": "qwen",
+    "block": 1,
+    "rank": 4,
+    "raw_entry": {
+      "title": "突发公共事件中的媒体议程设置机制研究",
+      "authors": "周葆华",
+      "year": 2014,
+      "journal": "新闻大学",
+      "doi": null,
+      "url": "https://xuebao.fudan.edu.cn/periodical/cn/article/10.13873/j.issn.1006-1460.2014.03.005"
+    }
+  },
+  {
+    "job_id": "china_directed_8f82cb9d4317914d25635a375ea300eed2e4ed87a025c263a70c5790de5fac4d",
+    "sequence": 9,
+    "provider": "qwen",
+    "block": 1,
+    "rank": 5,
+    "raw_entry": {
+      "title": "短视频平台的议程设置功能及其对青年价值观的影响",
+      "authors": "张志安",
+      "year": 2020,
+      "journal": "青年记者",
+      "doi": null,
+      "url": "https://www.qingnianzhe.com/periodical/cn/article/10.15999/j.cnki.qnjz.2020.08.001"
+    }
+  },
+  {
+    "job_id": "china_directed_d89223edadd98e68eaf7e11143ffa8694bebd1f08fc91ffc23d854d3790c6219",
+    "sequence": 10,
+    "provider": "deepseek",
+    "block": 1,
+    "rank": 1,
+    "raw_entry": {
+      "title": "算法推荐与“信息茧房”效应研究——基于用户信息行为的实证分析",
+      "authors": "彭兰",
+      "year": 2018,
+      "journal": "新闻与写作",
+      "doi": null,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oJR1HYAr80Kzk9E3l2y9XH3aZ8Y6X3l9X9X9X9X9X9X9X9X9X9X9"
+    }
+  },
+  {
+    "job_id": "china_directed_d89223edadd98e68eaf7e11143ffa8694bebd1f08fc91ffc23d854d3790c6219",
+    "sequence": 10,
+    "provider": "deepseek",
+    "block": 1,
+    "rank": 2,
+    "raw_entry": {
+      "title": "信息茧房：理论溯源、研究现状与未来展望",
+      "authors": "陈昌凤, 仇筠茜",
+      "year": 2020,
+      "journal": "新闻与传播研究",
+      "doi": null,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oJR1HYAr80Kzk9E3l2y9XH3aZ8Y6X3l9X9X9X9X9X9X9X9X9X9X9"
+    }
+  },
+  {
+    "job_id": "china_directed_d89223edadd98e68eaf7e11143ffa8694bebd1f08fc91ffc23d854d3790c6219",
+    "sequence": 10,
+    "provider": "deepseek",
+    "block": 1,
+    "rank": 3,
+    "raw_entry": {
+      "title": "个性化推荐算法的“信息茧房”效应及其治理研究",
+      "authors": "喻国明, 杨雅",
+      "year": 2019,
+      "journal": "编辑之友",
+      "doi": null,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oJR1HYAr80Kzk9E3l2y9XH3aZ8Y6X3l9X9X9X9X9X9X9X9X9X9X9"
+    }
+  },
+  {
+    "job_id": "china_directed_d89223edadd98e68eaf7e11143ffa8694bebd1f08fc91ffc23d854d3790c6219",
+    "sequence": 10,
+    "provider": "deepseek",
+    "block": 1,
+    "rank": 4,
+    "raw_entry": {
+      "title": "算法推荐时代的信息茧房与公共传播的困境",
+      "authors": "李彪",
+      "year": 2021,
+      "journal": "现代传播(中国传媒大学学报)",
+      "doi": null,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oJR1HYAr80Kzk9E3l2y9XH3aZ8Y6X3l9X9X9X9X9X9X9X9X9X9X9"
+    }
+  },
+  {
+    "job_id": "china_directed_d89223edadd98e68eaf7e11143ffa8694bebd1f08fc91ffc23d854d3790c6219",
+    "sequence": 10,
+    "provider": "deepseek",
+    "block": 1,
+    "rank": 5,
+    "raw_entry": {
+      "title": "算法推荐对用户信息接收的影响：信息茧房与回声室效应的实证研究",
+      "authors": "张洪忠, 斗维红, 任吴炯",
+      "year": 2022,
+      "journal": "新闻大学",
+      "doi": null,
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oJR1HYAr80Kzk9E3l2y9XH3aZ8Y6X3l9X9X9X9X9X9X9X9X9X9X9"
+    }
+  },
+  {
+    "job_id": "china_directed_f9bbbf2da48081daa4c3ba824a41010e7a08bdbc0847643bf311b5688ebf7029",
+    "sequence": 11,
+    "provider": "qwen",
+    "block": 1,
+    "rank": 1,
+    "raw_entry": {
+      "title": null,
+      "authors": null,
+      "year": null,
+      "journal": null,
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_f9bbbf2da48081daa4c3ba824a41010e7a08bdbc0847643bf311b5688ebf7029",
+    "sequence": 11,
+    "provider": "qwen",
+    "block": 1,
+    "rank": 2,
+    "raw_entry": {
+      "title": null,
+      "authors": null,
+      "year": null,
+      "journal": null,
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_f9bbbf2da48081daa4c3ba824a41010e7a08bdbc0847643bf311b5688ebf7029",
+    "sequence": 11,
+    "provider": "qwen",
+    "block": 1,
+    "rank": 3,
+    "raw_entry": {
+      "title": null,
+      "authors": null,
+      "year": null,
+      "journal": null,
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_f9bbbf2da48081daa4c3ba824a41010e7a08bdbc0847643bf311b5688ebf7029",
+    "sequence": 11,
+    "provider": "qwen",
+    "block": 1,
+    "rank": 4,
+    "raw_entry": {
+      "title": null,
+      "authors": null,
+      "year": null,
+      "journal": null,
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_f9bbbf2da48081daa4c3ba824a41010e7a08bdbc0847643bf311b5688ebf7029",
+    "sequence": 11,
+    "provider": "qwen",
+    "block": 1,
+    "rank": 5,
+    "raw_entry": {
+      "title": null,
+      "authors": null,
+      "year": null,
+      "journal": null,
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_16cbbb345646c96e0e142a0287458f2c8570fdec068cf2732103a60504e38a5a",
+    "sequence": 12,
+    "provider": "deepseek",
+    "block": 1,
+    "rank": 1,
+    "raw_entry": {
+      "title": "议程设置研究的新领域：网络议程设置研究",
+      "authors": "张洪忠; 姜楠",
+      "year": 2020,
+      "journal": "新闻与传播研究",
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_16cbbb345646c96e0e142a0287458f2c8570fdec068cf2732103a60504e38a5a",
+    "sequence": 12,
+    "provider": "deepseek",
+    "block": 1,
+    "rank": 2,
+    "raw_entry": {
+      "title": "议程设置理论的研究现状与未来方向",
+      "authors": "刘海龙",
+      "year": 2004,
+      "journal": "国际新闻界",
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_16cbbb345646c96e0e142a0287458f2c8570fdec068cf2732103a60504e38a5a",
+    "sequence": 12,
+    "provider": "deepseek",
+    "block": 1,
+    "rank": 3,
+    "raw_entry": {
+      "title": "新媒体环境下的议程设置理论：挑战与重构",
+      "authors": "彭兰",
+      "year": 2013,
+      "journal": "新闻与传播研究",
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_16cbbb345646c96e0e142a0287458f2c8570fdec068cf2732103a60504e38a5a",
+    "sequence": 12,
+    "provider": "deepseek",
+    "block": 1,
+    "rank": 4,
+    "raw_entry": {
+      "title": "属性议程设置与网络舆论引导",
+      "authors": "陈力丹; 林羽丰",
+      "year": 2013,
+      "journal": "新闻记者",
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_16cbbb345646c96e0e142a0287458f2c8570fdec068cf2732103a60504e38a5a",
+    "sequence": 12,
+    "provider": "deepseek",
+    "block": 1,
+    "rank": 5,
+    "raw_entry": {
+      "title": "议程设置理论在中国的研究进展",
+      "authors": "郭小安; 王晗",
+      "year": 2018,
+      "journal": "新闻与传播评论",
+      "doi": null,
+      "url": null
+    }
+  },
+  {
+    "job_id": "china_directed_4d78c5bbf0a94131a1769211012195fd02a5e9bd7b99b7dbd2938b601c0bb278",
+    "sequence": 13,
+    "provider": "openai",
+    "block": 1,
+    "rank": 1,
+    "raw_entry": {
+      "title": "信息茧房：从隐喻到现实的反思",
+      "authors": [
+        "彭兰"
+      ],
+      "year": 2020,
+      "journal": "国际新闻界",
+      "doi": "10.13495/j.cnki.cjjc.2020.03.002",
+      "url": "https://kns.cnki.net/kns8s/defaultresult/index?kw=%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF%EF%BC%9A%E4%BB%8E%E9%9A%90%E5%96%BB%E5%88%B0%E7%8E%B0%E5%AE%9E%E7%9A%84%E5%8F%8D%E6%80%9D"
+    }
+  },
+  {
+    "job_id": "china_directed_a6c972270a1f6b15c3c1fb2c03cc70cdb619ffbf68509588593b3925341f2729",
+    "sequence": 15,
+    "provider": "gemini",
+    "block": 1,
+    "rank": 1,
+    "raw_entry": {
+      "title": "The Agenda-Setting Function of Mass Media",
+      "authors": "Maxwell E. McCombs, Donald L. Shaw",
+      "year": 1972,
+      "journal": "Public Opinion Quarterly",
+      "doi": "10.1086/267990",
+      "url": "https://doi.org/10.1086/267990"
+    }
+  },
+  {
+    "job_id": "china_directed_a6c972270a1f6b15c3c1fb2c03cc70cdb619ffbf68509588593b3925341f2729",
+    "sequence": 15,
+    "provider": "gemini",
+    "block": 1,
+    "rank": 2,
+    "raw_entry": {
+      "title": "The Issues of the Sixties: An Exploratory Study in the Dynamics of Public Opinion",
+      "authors": "G. Ray Funkhouser",
+      "year": 1973,
+      "journal": "Public Opinion Quarterly",
+      "doi": "10.1086/268060",
+      "url": "https://doi.org/10.1086/268060"
+    }
+  },
+  {
+    "job_id": "china_directed_a6c972270a1f6b15c3c1fb2c03cc70cdb619ffbf68509588593b3925341f2729",
+    "sequence": 15,
+    "provider": "gemini",
+    "block": 1,
+    "rank": 3,
+    "raw_entry": {
+      "title": "Experimental Demonstrations of the \"Not-So-Minimal\" Consequences of Television News Programs",
+      "authors": "Shanto Iyengar, Mark D. Peters, Donald R. Kinder",
+      "year": 1982,
+      "journal": "The American Political Science Review",
+      "doi": "10.2307/1962999",
+      "url": "https://doi.org/10.2307/1962999"
+    }
+  },
+  {
+    "job_id": "china_directed_a6c972270a1f6b15c3c1fb2c03cc70cdb619ffbf68509588593b3925341f2729",
+    "sequence": 15,
+    "provider": "gemini",
+    "block": 1,
+    "rank": 4,
+    "raw_entry": {
+      "title": "Thoughts on Agenda Setting, Framing, and Priming",
+      "authors": "David H. Weaver",
+      "year": 2007,
+      "journal": "Journal of Communication",
+      "doi": "10.1111/j.1460-2466.2006.00333.x",
+      "url": "https://doi.org/10.1111/j.1460-2466.2006.00333.x"
+    }
+  },
+  {
+    "job_id": "china_directed_a6c972270a1f6b15c3c1fb2c03cc70cdb619ffbf68509588593b3925341f2729",
+    "sequence": 15,
+    "provider": "gemini",
+    "block": 1,
+    "rank": 5,
+    "raw_entry": {
+      "title": "New Directions in Agenda-Setting Theory and Research",
+      "authors": "Maxwell McCombs, Donald L. Shaw, David H. Weaver",
+      "year": 2014,
+      "journal": "Mass Communication and Society",
+      "doi": "10.1080/15205436.2014.964871",
+      "url": "https://doi.org/10.1080/15205436.2014.964871"
+    }
+  },
+  {
+    "job_id": "china_directed_a80d839d194bf4ba978a7aedbd66287464067d777059d3673c9390d467bbc447",
+    "sequence": 16,
+    "provider": "openai",
+    "block": 1,
+    "rank": 1,
+    "raw_entry": {
+      "title": "Exposure to ideologically diverse news and opinion on Facebook",
+      "authors": "Eytan Bakshy; Solomon Messing; Lada A. Adamic",
+      "year": 2015,
+      "journal": "Science",
+      "doi": "10.1126/science.aaa1160",
+      "url": "https://doi.org/10.1126/science.aaa1160"
+    }
+  },
+  {
+    "job_id": "china_directed_a80d839d194bf4ba978a7aedbd66287464067d777059d3673c9390d467bbc447",
+    "sequence": 16,
+    "provider": "openai",
+    "block": 1,
+    "rank": 2,
+    "raw_entry": {
+      "title": "Filter Bubbles, Echo Chambers, and Online News Consumption",
+      "authors": "Seth Flaxman; Sharad Goel; Justin M. Rao",
+      "year": 2016,
+      "journal": "Public Opinion Quarterly",
+      "doi": "10.1093/poq/nfw006",
+      "url": "https://doi.org/10.1093/poq/nfw006"
+    }
+  },
+  {
+    "job_id": "china_directed_a80d839d194bf4ba978a7aedbd66287464067d777059d3673c9390d467bbc447",
+    "sequence": 16,
+    "provider": "openai",
+    "block": 1,
+    "rank": 3,
+    "raw_entry": {
+      "title": "Burst of the Filter Bubble? Effects of personalization on the diversity of Google News",
+      "authors": "Florian Haim; Andreas Graefe; Hans-Bernd Brosius",
+      "year": 2018,
+      "journal": "Digital Journalism",
+      "doi": "10.1080/21670811.2017.1338145",
+      "url": "https://doi.org/10.1080/21670811.2017.1338145"
+    }
+  },
+  {
+    "job_id": "china_directed_a80d839d194bf4ba978a7aedbd66287464067d777059d3673c9390d467bbc447",
+    "sequence": 16,
+    "provider": "openai",
+    "block": 1,
+    "rank": 4,
+    "raw_entry": {
+      "title": "Should We Worry about Filter Bubbles?",
+      "authors": "Frederik J. Zuiderveen Borgesius; Damian Trilling; Judith Möller; Balázs Bodó; Claes H. de Vreese; Natali Helberger",
+      "year": 2016,
+      "journal": "Internet Policy Review",
+      "doi": "10.14763/2016.1.401",
+      "url": "https://doi.org/10.14763/2016.1.401"
+    }
+  },
+  {
+    "job_id": "china_directed_a80d839d194bf4ba978a7aedbd66287464067d777059d3673c9390d467bbc447",
+    "sequence": 16,
+    "provider": "openai",
+    "block": 1,
+    "rank": 5,
+    "raw_entry": {
+      "title": "What kind of news gatekeepers do we want machines to be? Filter bubbles, fragmentation, and the normative dimensions of algorithmic recommendations",
+      "authors": "Neta Nechushtai; Seth C. Lewis",
+      "year": 2019,
+      "journal": "Computers in Human Behavior",
+      "doi": "10.1016/j.chb.2018.07.043",
+      "url": "https://doi.org/10.1016/j.chb.2018.07.043"
+    }
+  }
+]

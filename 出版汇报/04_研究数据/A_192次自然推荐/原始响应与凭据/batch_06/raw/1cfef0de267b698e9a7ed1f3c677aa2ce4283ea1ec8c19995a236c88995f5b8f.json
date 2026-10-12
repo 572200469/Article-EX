@@ -1,0 +1,272 @@
+{
+  "protocol": "research_protocol_v1-f161bab9fb085136cd8a",
+  "batch_id": "publication_visibility_main-f161bab9fb085136",
+  "cohort": "publication_visibility_main",
+  "condition": "neutral_en",
+  "prompt_language": "en",
+  "topic_id": "networked_public",
+  "topic_group": "digital",
+  "provider": "deepseek",
+  "model_requested": "deepseek-flash",
+  "requested_model": "deepseek-flash",
+  "route": {
+    "provider": "deepseek",
+    "adapter": "deepseek",
+    "access_channel": "official",
+    "base_url": "https://api.deepseek.com",
+    "api_key_env": "DEEPSEEK_API_KEY",
+    "model": "deepseek-flash",
+    "confirmed": true,
+    "parameters_confirmed": true,
+    "thinking_mode": "disabled",
+    "output_limit_field": "max_tokens"
+  },
+  "route_id": "f3719c7d0d754267a4db12b6b157678bf0cab6b0f149c6fbb51c587d68cadd3b",
+  "access_channel": "official",
+  "base_url": "https://api.deepseek.com",
+  "adapter": "deepseek",
+  "repeat_index": 2,
+  "mode": "baseline",
+  "search_enabled": false,
+  "source_type": "api",
+  "prompt_text": "Recommend five representative research articles published in academic journals on \"Networked public sphere and online public opinion\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+  "request_parameters": {
+    "max_output_tokens": 8192,
+    "timeout": 180,
+    "thinking_mode": "disabled"
+  },
+  "thinking_mode": "disabled",
+  "coding_rule_version": "publication_visibility_coding_v2",
+  "sdk_retries": 0,
+  "caller_retries": 0,
+  "generation_authorized": true,
+  "request_config_id": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+  "effective_reasoning_parameters": {
+    "thinking_mode": "disabled"
+  },
+  "proposed_wire_parameters": {
+    "model": "deepseek-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Networked public sphere and online public opinion\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "thinking": {
+        "type": "disabled"
+      }
+    }
+  },
+  "sequence": 127,
+  "source_job_id": "46c588f2d77300612f1050817953b68e9f202b34cb17a6cb33077e2fb02b4ebf",
+  "source_generation_protocol": "research_protocol_v1-cf2812cdc4a6cc6ddda4",
+  "job_id": "1cfef0de267b698e9a7ed1f3c677aa2ce4283ea1ec8c19995a236c88995f5b8f",
+  "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\deepseek\\1cfef0de267b698e9a7ed1f3c677aa2ce4283ea1ec8c19995a236c88995f5b8f",
+  "main_authorization": {
+    "authorization_id": "publication_visibility_main_batch06_f161bab9fb085136",
+    "configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+    "allowed_job_ids": [
+      "7df551fbd762130f78aaae89074cfdc7f03f7c21cc01175c55f6d75011f8eff1",
+      "c624188e6e8ba7d631520c81c05495125312b3a1c572f278fb308f4980f78530",
+      "63c831220b632ece5be3956813af0fd696bc11e6bd31c872fdb75c7ada8626a2",
+      "c12b12cb1e3af855a71ae6d84d484ba2ee3c38e763666ddd45bbc09078f2aca5",
+      "08c062589ca36963fa47d1a868dc2fee2bbced0f8b166ffa5270402b76d16e10",
+      "894cf389957f19c26a8f9adf09d8b417b9fa3c7ef325ca0d942effb34bbdaf61",
+      "1cfef0de267b698e9a7ed1f3c677aa2ce4283ea1ec8c19995a236c88995f5b8f",
+      "dbfc204474534ce367b626851abd81cfebc7b2d1c2597956ba5aba28cea470e8",
+      "fbc0885b580a69655e107c956590a0d19fd31948e346346279cf35e22f8cc8c2",
+      "8d23ca963cfcf606483ddf420285a20cc2c1dc918cf8e03f5fbbf753927dd0a4",
+      "2848789c31cbda0b1a32e99db601a26a3e3542af47bf4417b72846fc363a43f0",
+      "c1f27b889ccd2e2b6d75e03a756b25bf3befca8ff144f4b9c24b36d879a25355",
+      "fadaa98a9b0d1c06831f39569f4af8784a842319cbab9470d8ba4be68281cb2f",
+      "d58bdc3e16cff721c29e8ce4a67b4fc4d0458a8263d06f96bf22aea57a588908",
+      "2aeba2be7df5f3fa2ab5125257c99f8929b02e634b5e5ed5baef747f6af10989",
+      "b7abc374ca4fc54c6fca66714e4ce29c14d054482314777dde3361b73e0218b1",
+      "af98ff962263ce84396ad6017e490538a8d5754f4a085fca3c4edd011f29ff12",
+      "641fe06aef38ba7cc268ddfff9bfbaf7e8e681ace1fb8fbba5a3c748e5736aa6",
+      "717493fe5af993a01e123e08449f08ead6eb393c21673ce7535ebd9b9ee6d57a",
+      "02b5e1a0756eee4457c3c8cbbb63cbf44f9c6123b8e15833a42ff30831ab9d59",
+      "b003b425c079699ba04dfa042caf1286fa818dc91013b45edd3101235f3c32fc",
+      "839375b25b76c581eb36e38779558321974f38935b26b83b0655b3cbe57843ae",
+      "85ee7c0c2f530b0c6e41f2d192b448e3d14efda6f6fd9bb83824c40c059c6975",
+      "0d7c0f468f2c15748f6402f88718fc73fd5d73d12597b03f69c45daa64141856"
+    ],
+    "batch_number": 6,
+    "maximum_total_requests": 24,
+    "maximum_provider_requests": {
+      "qwen": 6,
+      "deepseek": 13,
+      "openai": 5
+    },
+    "software_budget_by_currency": {
+      "CNY": "1.10",
+      "USD": "1.30"
+    },
+    "maximum_job_requests": 1,
+    "user_authorized": true,
+    "billing_risk_accepted": true,
+    "source": "remaining144:E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\remaining_049_192\\authorization.json"
+  },
+  "experiment_id": "1cfef0de267b698e9a7ed1f3c677aa2ce4283ea1ec8c19995a236c88995f5b8f",
+  "timestamp": "2026-10-11T15:23:37.129819+00:00",
+  "protocol_status": "frozen",
+  "status": "parse_error",
+  "api_success": true,
+  "attempt_index": 1,
+  "raw_response": {
+    "id": "1aa52127-67ab-4e33-9830-b76ae2a08aaf",
+    "object": "chat.completion",
+    "created": 1791732223,
+    "model": "deepseek-flash",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "```json\n{\n  \"references\": [\n    {\n      \"title\": \"The Structural Transformation of the Public Sphere: An Inquiry into a Category of Bourgeois Society\",\n      \"authors\": \"Jürgen Habermas\",\n      \"year\": 1989,\n      \"journal\": null,\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"The Internet and the Public Sphere: A Critical Analysis of the Possibility of Online Deliberation\",\n      \"authors\": \"Lincoln Dahlberg\",\n      \"year\": 2001,\n      \"journal\": \"New Media & Society\",\n      \"doi\": \"10.1177/1461444801003002003\",\n      \"url\": \"https://doi.org/10.1177/1461444801003002003\"\n    },\n    {\n      \"title\": \"The Public Sphere and Networked Journalism\",\n      \"authors\": \"Yochai Benkler\",\n      \"year\": 2006,\n      \"journal\": \"The Wealth of Networks: How Social Production Transforms Markets and Freedom\",\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"The Filter Bubble: What the Internet Is Hiding from You\",\n      \"authors\": \"Eli Pariser\",\n      \"year\": 2011,\n      \"journal\": null,\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"The Dynamics of Public Opinion in the Networked Public Sphere\",\n      \"authors\": \"Zizi Papacharissi\",\n      \"year\": 2015,\n      \"journal\": \"Journal of Communication\",\n      \"doi\": \"10.1111/jcom.12163\",\n      \"url\": \"https://doi.org/10.1111/jcom.12163\"\n    }\n  ]\n}\n```"
+        },
+        "logprobs": null,
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 145,
+      "completion_tokens": 385,
+      "total_tokens": 530,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 145
+    },
+    "system_fingerprint": "aeb56401ca74e127821c4f9126dcb669"
+  },
+  "references": [],
+  "returned_model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 145,
+    "completion_tokens": 385,
+    "total_tokens": 530,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 145
+  },
+  "finish_reason": "stop",
+  "actual_billed_amount": null,
+  "budget_reservation": {
+    "currency": "USD",
+    "amount": "0.10"
+  },
+  "pricing_snapshot": {
+    "provider": "deepseek",
+    "model": "deepseek-flash",
+    "access_channel": "official",
+    "pricing_route_base_url": "https://api.deepseek.com",
+    "pricing_currency": "USD",
+    "input_price_per_million": "0.30",
+    "output_price_per_million": "1.20",
+    "cached_input_price_per_million": null,
+    "input_token_limit": null,
+    "pricing_source": "prior_research_preexperiment_plan_official_peak_rate_snapshot",
+    "pricing_checked_at": "2026-10-11",
+    "source_url": "https://api-docs.deepseek.com/quick_start/pricing/",
+    "evidence_limit": "Prior public snapshot; current rate, account currency and actual deductions not verified.",
+    "unknown_terms": [
+      "current_rate",
+      "account_currency",
+      "cache_discount",
+      "off_peak_discount",
+      "failed_request_billing",
+      "actual_invoice"
+    ]
+  },
+  "budget_status": "reservation_retained_actual_invoice_unknown",
+  "planned_parameters": {
+    "model": "deepseek-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Networked public sphere and online public opinion\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "thinking": {
+        "type": "disabled"
+      }
+    }
+  },
+  "upstream_identity_verified": false,
+  "response_text": "```json\n{\n  \"references\": [\n    {\n      \"title\": \"The Structural Transformation of the Public Sphere: An Inquiry into a Category of Bourgeois Society\",\n      \"authors\": \"Jürgen Habermas\",\n      \"year\": 1989,\n      \"journal\": null,\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"The Internet and the Public Sphere: A Critical Analysis of the Possibility of Online Deliberation\",\n      \"authors\": \"Lincoln Dahlberg\",\n      \"year\": 2001,\n      \"journal\": \"New Media & Society\",\n      \"doi\": \"10.1177/1461444801003002003\",\n      \"url\": \"https://doi.org/10.1177/1461444801003002003\"\n    },\n    {\n      \"title\": \"The Public Sphere and Networked Journalism\",\n      \"authors\": \"Yochai Benkler\",\n      \"year\": 2006,\n      \"journal\": \"The Wealth of Networks: How Social Production Transforms Markets and Freedom\",\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"The Filter Bubble: What the Internet Is Hiding from You\",\n      \"authors\": \"Eli Pariser\",\n      \"year\": 2011,\n      \"journal\": null,\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"The Dynamics of Public Opinion in the Networked Public Sphere\",\n      \"authors\": \"Zizi Papacharissi\",\n      \"year\": 2015,\n      \"journal\": \"Journal of Communication\",\n      \"doi\": \"10.1111/jcom.12163\",\n      \"url\": \"https://doi.org/10.1111/jcom.12163\"\n    }\n  ]\n}\n```",
+  "model_returned": "deepseek-flash",
+  "response_id": "1aa52127-67ab-4e33-9830-b76ae2a08aaf",
+  "provider_status": "completed",
+  "search_executed": false,
+  "tool_records": [],
+  "upstream_snapshot": "unknown",
+  "api_surface": "deepseek.chat.completions",
+  "upstream_route_claims": {
+    "system_fingerprint": "aeb56401ca74e127821c4f9126dcb669"
+  },
+  "raw_http_body": "{\"id\":\"1aa52127-67ab-4e33-9830-b76ae2a08aaf\",\"object\":\"chat.completion\",\"created\":1791732223,\"model\":\"deepseek-flash\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\"```json\\n{\\n  \\\"references\\\": [\\n    {\\n      \\\"title\\\": \\\"The Structural Transformation of the Public Sphere: An Inquiry into a Category of Bourgeois Society\\\",\\n      \\\"authors\\\": \\\"Jürgen Habermas\\\",\\n      \\\"year\\\": 1989,\\n      \\\"journal\\\": null,\\n      \\\"doi\\\": null,\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"The Internet and the Public Sphere: A Critical Analysis of the Possibility of Online Deliberation\\\",\\n      \\\"authors\\\": \\\"Lincoln Dahlberg\\\",\\n      \\\"year\\\": 2001,\\n      \\\"journal\\\": \\\"New Media & Society\\\",\\n      \\\"doi\\\": \\\"10.1177/1461444801003002003\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.1177/1461444801003002003\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"The Public Sphere and Networked Journalism\\\",\\n      \\\"authors\\\": \\\"Yochai Benkler\\\",\\n      \\\"year\\\": 2006,\\n      \\\"journal\\\": \\\"The Wealth of Networks: How Social Production Transforms Markets and Freedom\\\",\\n      \\\"doi\\\": null,\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"The Filter Bubble: What the Internet Is Hiding from You\\\",\\n      \\\"authors\\\": \\\"Eli Pariser\\\",\\n      \\\"year\\\": 2011,\\n      \\\"journal\\\": null,\\n      \\\"doi\\\": null,\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"The Dynamics of Public Opinion in the Networked Public Sphere\\\",\\n      \\\"authors\\\": \\\"Zizi Papacharissi\\\",\\n      \\\"year\\\": 2015,\\n      \\\"journal\\\": \\\"Journal of Communication\\\",\\n      \\\"doi\\\": \\\"10.1111/jcom.12163\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.1111/jcom.12163\\\"\\n    }\\n  ]\\n}\\n```\"},\"logprobs\":null,\"finish_reason\":\"stop\"}],\"usage\":{\"prompt_tokens\":145,\"completion_tokens\":385,\"total_tokens\":530,\"prompt_tokens_details\":{\"cached_tokens\":0},\"prompt_cache_hit_tokens\":0,\"prompt_cache_miss_tokens\":145},\"system_fingerprint\":\"aeb56401ca74e127821c4f9126dcb669\"}",
+  "http_status": 200,
+  "safe_response_headers": {
+    "server": "openresty"
+  },
+  "sent_parameters": {
+    "model": "deepseek-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Networked public sphere and online public opinion\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "thinking": {
+        "type": "disabled"
+      }
+    }
+  },
+  "provider_request_id": null,
+  "json_parsed": false,
+  "latency": 6.066585799999302,
+  "usage_price_estimate": {
+    "currency": "USD",
+    "input_tokens_scenario": 145,
+    "output_tokens_scenario": 385,
+    "text_component_amount": "0.0005055",
+    "estimated_total_amount": null,
+    "verified_total_upper_bound": null,
+    "actual_billed_amount": null,
+    "cache_policy": "all_input_at_uncached_rate_scenario",
+    "multiplier_scenario": "1 (scenario only; not account verification)",
+    "tools": "not_requested",
+    "client_retries": 0,
+    "unknown_terms": [
+      "current_rate",
+      "account_currency",
+      "cache_discount",
+      "off_peak_discount",
+      "failed_request_billing",
+      "actual_invoice"
+    ],
+    "price_snapshot_id": "351ba27a464dc989be37ce2bae82bc2b23bdce7cd3bc17f3875ce3d2871c1841",
+    "usage_evidence": {
+      "prompt_tokens": 145,
+      "completion_tokens": 385,
+      "total_tokens": 530,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 145
+    },
+    "reasoning_tokens_reported": null,
+    "usage_cost_basis": "uncached list-rate component; not actual invoice"
+  }
+}

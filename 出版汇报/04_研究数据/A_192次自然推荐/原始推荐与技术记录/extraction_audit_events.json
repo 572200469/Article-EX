@@ -1,0 +1,146 @@
+[
+  {
+    "sequence": 30,
+    "job_id": "ad2b468d05b6a93ef9cf51fb1d17241ab90a860a86594454c4791569ee33bf98",
+    "raw_file": "data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\batch_02\\raw\\ad2b468d05b6a93ef9cf51fb1d17241ab90a860a86594454c4791569ee33bf98.json",
+    "raw_sha256": "3951617cc8cb2572e60656ab3b732322987257232a2b8d3a92c3c3add75e9a9f",
+    "response_text_sha256": "b07f7f937dd9c9dcd3668e8d800482e55a514fd9291bc587a7c3b6fcde037e72",
+    "rule": "publication_visibility_multilist_adjudication_v1",
+    "method": "explicit_draft_to_final_terminal_json",
+    "selected_block": 2,
+    "evidence_quotes": [
+      {
+        "quote": "previous draft",
+        "offset": 2002
+      },
+      {
+        "quote": "Let's finalize the JSON",
+        "offset": 3087
+      }
+    ],
+    "all_lists_retained": true,
+    "raw_modified": false,
+    "selection_uses_authenticity_or_geography": false
+  },
+  {
+    "sequence": 55,
+    "job_id": "f612a1d986dceaf989e907359a2c35432a9cd09f898960486447b508e858abfe",
+    "raw_file": "data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\batch_03\\raw\\f612a1d986dceaf989e907359a2c35432a9cd09f898960486447b508e858abfe.json",
+    "raw_sha256": "a1c3f5e6a7dd0b61e34be35c2f944d0dd939b7bbcb6a6d50dc34bc872ad754b8",
+    "response_text_sha256": "dad265c24d187ffe7d73fe877371b14e8ae6da1dbc50e28239fa707d69f8ea80",
+    "rule": "lossless_single_json_extraction",
+    "method": "unique_complete_json_with_surrounding_prose",
+    "selected_block": 1,
+    "evidence_quotes": [],
+    "all_lists_retained": true,
+    "raw_modified": false,
+    "selection_uses_authenticity_or_geography": false
+  },
+  {
+    "sequence": 56,
+    "job_id": "9dae8a1f611c46be51b9070d1c08236470374cee9b058428afe213cfd7a7dc3d",
+    "raw_file": "data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\batch_03\\raw\\9dae8a1f611c46be51b9070d1c08236470374cee9b058428afe213cfd7a7dc3d.json",
+    "raw_sha256": "12667a9cbb9fc56fe55e4e1783fb96bc54d8818dcf639d6ebaa9ce07d82b3bf2",
+    "response_text_sha256": "a9ef18b561eb2be8922f5904414b80b4a4a8041754ceec9400ab71d0a1dad20a",
+    "rule": "lossless_single_json_extraction",
+    "method": "unique_complete_json_with_surrounding_prose",
+    "selected_block": 1,
+    "evidence_quotes": [],
+    "all_lists_retained": true,
+    "raw_modified": false,
+    "selection_uses_authenticity_or_geography": false
+  },
+  {
+    "sequence": 61,
+    "job_id": "1ccf49df7f9aaa264c669bf0649cac73bfa21d42f8954ff6d22d35998ac8dbbd",
+    "raw_file": "data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\batch_03\\raw\\1ccf49df7f9aaa264c669bf0649cac73bfa21d42f8954ff6d22d35998ac8dbbd.json",
+    "raw_sha256": "17f247570e4693b5e5673c9f0efa925dc11b945ed6333c2020eb1933a274073c",
+    "response_text_sha256": "f94bd6f60f74d888151e45c624a3e09e00af2af6380d1047e1bdd8db798e5d97",
+    "rule": "lossless_single_json_extraction",
+    "method": "unique_complete_json_with_surrounding_prose",
+    "selected_block": 1,
+    "evidence_quotes": [],
+    "all_lists_retained": true,
+    "raw_modified": false,
+    "selection_uses_authenticity_or_geography": false
+  },
+  {
+    "sequence": 65,
+    "job_id": "66b4993a482742b69c8e808e5023cd7b1b3e15a8280f1f7cd2c76cbe7e565821",
+    "raw_file": "data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\batch_03\\raw\\66b4993a482742b69c8e808e5023cd7b1b3e15a8280f1f7cd2c76cbe7e565821.json",
+    "raw_sha256": "52fd5d0212ec6e58adb17b3e1670df8f0a8dace3d32a6fe18a0ba3117832693c",
+    "response_text_sha256": "4d8ac6bc90d02215caebc70011b24d9b03c0fd0e548b0fdb4502448baab0eaa3",
+    "rule": "lossless_single_json_extraction",
+    "method": "unique_complete_json_with_surrounding_prose",
+    "selected_block": 1,
+    "evidence_quotes": [],
+    "all_lists_retained": true,
+    "raw_modified": false,
+    "selection_uses_authenticity_or_geography": false
+  },
+  {
+    "sequence": 74,
+    "job_id": "80761fbe64e5c05592d1d9bb7f5fff0785bd24cd368a6356eea1f2e3df62b702",
+    "raw_file": "data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\batch_04\\raw\\80761fbe64e5c05592d1d9bb7f5fff0785bd24cd368a6356eea1f2e3df62b702.json",
+    "raw_sha256": "833186554d2688772d3dd9f3dce91386c7a1cc0157180eaa4e06f3d9153d6293",
+    "response_text_sha256": "e14cea287a4b6e15755902f6626ba7cc8ee545af5ded7eeddcd03536f6f6067e",
+    "rule": "lossless_single_json_extraction",
+    "method": "unique_complete_json_with_surrounding_prose",
+    "selected_block": 1,
+    "evidence_quotes": [],
+    "all_lists_retained": true,
+    "raw_modified": false,
+    "selection_uses_authenticity_or_geography": false
+  },
+  {
+    "sequence": 81,
+    "job_id": "6f669fd78c0ffc9b074231b76ac9f0102c59246be80b3f26bf1915a301240af9",
+    "raw_file": "data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\batch_04\\raw\\6f669fd78c0ffc9b074231b76ac9f0102c59246be80b3f26bf1915a301240af9.json",
+    "raw_sha256": "d3d1b4765216918b3c0f950ccd6aefb79b669418d3dc2603f697b17265750ccc",
+    "response_text_sha256": "a905269a83f929e2a17e7230fd51cd5ed713114448cb21d28bc55468ac3dd313",
+    "rule": "lossless_single_json_extraction",
+    "method": "unique_complete_json_with_surrounding_prose",
+    "selected_block": 1,
+    "evidence_quotes": [],
+    "all_lists_retained": true,
+    "raw_modified": false,
+    "selection_uses_authenticity_or_geography": false
+  },
+  {
+    "sequence": 113,
+    "job_id": "9d0af2cdb7724e7cdf373ab674b418c9fa9f51a09e41026de0b278683182e01e",
+    "raw_file": "data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\batch_05\\raw\\9d0af2cdb7724e7cdf373ab674b418c9fa9f51a09e41026de0b278683182e01e.json",
+    "raw_sha256": "664480daa601d9c1cff1c77d918b6f93eb86cc6afa2d490b3026912cf909bea3",
+    "response_text_sha256": "64f7d57ee991d377f55afe3b16594d9c41699961b9da600cf1e43a2c1ad7d5c5",
+    "rule": "lossless_single_json_extraction",
+    "method": "unique_complete_json_with_surrounding_prose",
+    "selected_block": 1,
+    "evidence_quotes": [],
+    "all_lists_retained": true,
+    "raw_modified": false,
+    "selection_uses_authenticity_or_geography": false
+  },
+  {
+    "sequence": 186,
+    "job_id": "addcd284ad72c7a77152a8cc2f2d6c34e06b7d6b5b0e69d6e7bc9523cf22857e",
+    "raw_file": "data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\batch_08\\raw\\addcd284ad72c7a77152a8cc2f2d6c34e06b7d6b5b0e69d6e7bc9523cf22857e.json",
+    "raw_sha256": "a5d91d2aeee5d8cbff75601ab2320fa4d6799ffd6907d8a92f0c8a0a41bb7655",
+    "response_text_sha256": "c0eb4e31199140a46deeb36b15774d9eba69bfe5b8c0cdfc27c59b42ae460de7",
+    "rule": "publication_visibility_multilist_adjudication_v1",
+    "method": "explicit_draft_to_final_terminal_json",
+    "selected_block": 2,
+    "evidence_quotes": [
+      {
+        "quote": "Correction during thought process",
+        "offset": 666
+      },
+      {
+        "quote": "Final Selection for JSON",
+        "offset": 5428
+      }
+    ],
+    "all_lists_retained": true,
+    "raw_modified": false,
+    "selection_uses_authenticity_or_geography": false
+  }
+]

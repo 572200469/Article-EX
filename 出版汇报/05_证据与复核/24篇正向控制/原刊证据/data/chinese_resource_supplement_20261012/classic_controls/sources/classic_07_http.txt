@@ -1,0 +1,146 @@
+意见领袖、沉默的螺旋与群体极化： 	 基于社会网络视角的仿真研究
+×
+模态框（Modal）标题
+在这里添加一些文本
+关闭
+关闭
+提交更改
+取消
+确定并提交
+×
+模态框（Modal）标题
+×
+下载引用文件后，可以用常见的文献管理软件打开和编辑，包括: BibTex, EndNote, ProCite, RefWorks, and Reference Manager.
+选择文件类型/文献管理软件名称
+RIS (ProCite, Reference Manager, EndNote)
+BibTeX
+选择包含的内容
+仅文章引用信息
+引用信息及摘要
+导出
+意见领袖、沉默的螺旋与群体极化： 	 基于社会网络视角的仿真研究
+虞鑫 许弘智
+国际新闻界
+››
+2019, Vol. 41
+››
+Issue (5)
+: 6-26.
+PDF(12454 KB)
+Toggle navigation
+首 页
+期刊介绍
+编委会
+投稿指南
+格式规范
+期刊订阅
+联系我们
+English
+投稿指南
+格式规范
+PDF(12454 KB)
+国际新闻界
+››
+2019, Vol. 41
+››
+Issue (5)
+: 6-26.
+本期话题：计算传播学研究
+意见领袖、沉默的螺旋与群体极化： 	 基于社会网络视角的仿真研究
+作者信息
++
+虞鑫，清华大学新闻与传播学院，助理教授、博士生导师，电子邮箱：yuxin1@ tsinghua.edu.cn。
+许弘智，本文通讯作者，清华大学社会科学学院社会学系，博士研究生。电子邮箱：
+xhz17@mails.tsinghua.edu.cn
+。
+折叠
+Opinion Leader, Spiral of Silence and Group Polarization: A Simulation Study on Social Network Perspective
+Author information
++
+Show less
+文章历史
++
+收稿日期
+出版日期
+2019-05-23
+2019-05-23
+发布日期
+2019-05-23
+摘要
+本文从社会网络关系的角度出发，对网络讨论中的意见领袖、沉默螺旋和群体极 化现象进行了模拟仿真。研究发现：群体规模对讨论周期、活跃者发言数量、非活跃 者发言量均有正向影响；个人特质对群体讨论周期有正向影响，但边际效益递减；核 心人物的占比高低能够缩小活跃者和非活跃者在讨论周期和发言数量的差距；个人特 质与核心人物占比结合，将会显著引起群体极化现象；当网络结构发生变化，核心人 物对讨论周期和发言数量的影响将会更强；在无标度网络中，讨论周期和发言数量的 反转受到活跃者和核心人物比例的组合影响。
+Abstract
+From the perspective of social network, this paper took the opinion leader, spiral of silence and group polarization integrally in a simulation model. The study found that the size of the group had positive impact on the discussion time cycle, the number of active speakers, and the number of nonactive speakers; personal character had positive impact on the discussion time cycle, but the marginal benefts diminished; the proportion of core fgures could reduce the gap on both discussion time cycle and amount between the active and non-active speakers; the combination of personal character and proportion of core fgures would signifcantly cause group polarization; the in?uence of core fgures on the discussion time cycle and amount would be more significant while the network structure changed; in a scale-free network, the reversal of the discussion time cycle and amount was in?uenced by the combination of proportion of active speakers and proportion of core fgures.
+关键词
+模拟仿真
+/
+社会网络
+/
+意见领袖
+/
+沉默螺旋
+/
+群体极化
+Key words
+Simulation
+/
+Social Network
+/
+Opinion Leader
+/
+Spiral of Silence
+/
+Group Polarization
+引用本文
+EndNote
+Ris (Procite)
+Bibtex
+导出引用
+虞鑫 许弘智.
+意见领袖、沉默的螺旋与群体极化： 	 基于社会网络视角的仿真研究[J].
+国际新闻界
+. 2019, 41(5): 6-26
+Opinion Leader, Spiral of Silence and Group Polarization: A Simulation Study on Social Network Perspective[J].
+Chinese Journal of Journalism & Communication
+. 2019, 41(5): 6-26
+{{custom_sec.title}}
+{{custom_sec.title}}
+{{custom_sec.content}}
+基金
+本文得到中国青少年研究会重点课题“青年网络社会参与的认知偏向与趋势研究” 支持。
+×
+微信扫一扫
+PDF(12454 KB)
+可视化
+Accesses
+Citation
+Altmetric
+Detail
+段落导航
+相关文章
+期刊信息
+期刊介绍
+编委会
+投稿指南
+格式规范
+期刊订阅
+联系我们
+在线期刊
+当期目录
+过刊浏览
+E-mail Alert
+RSS
+联系我们
+地址：北京市海淀区中关村大街59号明德新闻楼
+邮编：100872
+电话：010-82509362
+E-mail:gjxwj@ruc.edu.cn
+访问统计
+总访问量 ：
+今日访问：
+在线人数：
+版权所有 © 《国际新闻界》编辑部
+技术支持：
+北京玛格泰克科技发展有限公司
+/
+〈
+〉

@@ -1,0 +1,2538 @@
+{
+  "source_id": "misinfo_food",
+  "requested_url": "http://cjjc.ruc.edu.cn/CN/Y2022/V44/I10/74",
+  "checked_at": "2026-10-12T09:17:03.841173+00:00",
+  "access_scope": "public_no_login",
+  "method": "GET",
+  "paid_request": false,
+  "http_status": 200,
+  "final_url": "http://cjjc.ruc.edu.cn/CN/Y2022/V44/I10/74",
+  "sha256": "b682d376b89ca95d5c6d38a8a69db44726911e33bb702bcd7bea1f8e0c951a66",
+  "content_length": 332017,
+  "metadata": {
+    "viewport": [
+      "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+      "width=device-width, initial-scale=1"
+    ],
+    "description": [
+      "社交媒体上传播的假新闻、虚假信息和谣言已经成为一种社会现象，引起了广泛的关注。目前，与虚假信息相关的研究主要集中在政治和健康话题。考虑到食品安全虚假信息在中文社交媒体上的普遍性和其对个人以及社会的负面影响，本研究聚焦食品安全虚假信息接受及其传播机制。基于风险的社会放大理论框架，本研究假设食品安全虚假信息的接触会正向预测个人对其接受程度，并且在这一过程中，感知威胁会起到正向的中介作用，而健康信息素养会起到调节作用。通过对腾讯新闻用户发放APP内置在线调查问卷，本研究共获取22706位用户的回答，进行分析后发现：在控制人口统计学变量影响之后，食品安全虚假信息接触正向预测虚假信息接受，感知威胁在这一过程中的中介作用显著；和健康信息素养高的用户相比，虚假信息接触与感知威胁之间的关系对于健康信息素养低的人来说更强。本研究得出的结论有利于进一步理解虚假信息的传播方式，以及致使其形成的社会心理动因，并为相应的干预实践提供指导。"
+    ],
+    "authors": [
+      "潘文静, 孙纪开, 方洁"
+    ],
+    "keywords": [
+      "虚假信息,食品安全,感知威胁,健康信息素养,风险的社会放大理论框架"
+    ],
+    "robots": [
+      "index"
+    ],
+    "renderer": [
+      "webkit"
+    ],
+    "format-detection": [
+      "telephone=no"
+    ],
+    "apple-mobile-web-app-capable": [
+      "yes"
+    ],
+    "apple-mobile-web-app-title": [
+      "食品安全虚假信息的接触和接受：感知威胁的中介作用和健康信息素养的调节作用"
+    ],
+    "mobile-web-app-capable": [
+      "yes"
+    ],
+    "screen-orientation": [
+      "portrait"
+    ],
+    "x5-orientation": [
+      "portrait"
+    ],
+    "full-screen": [
+      "yes"
+    ],
+    "x5-fullscreen": [
+      "true"
+    ],
+    "browsermode": [
+      "application"
+    ],
+    "x5-page-mode": [
+      "app"
+    ],
+    "msapplication-tap-highlight": [
+      "no"
+    ],
+    "dc.relation.is": [
+      "国际新闻界"
+    ],
+    "dc.citation.volume": [
+      "44"
+    ],
+    "dc.citation.issue": [
+      "10"
+    ],
+    "dc.citation.spage": [
+      "74"
+    ],
+    "dc.citation.epage": [
+      "95"
+    ],
+    "dc.title": [
+      "食品安全虚假信息的接触和接受：感知威胁的中介作用和健康信息素养的调节作用"
+    ],
+    "dc.source": [
+      "国际新闻界"
+    ],
+    "dc.format": [
+      "text/html"
+    ],
+    "dc.publisher": [
+      ""
+    ],
+    "dc.date": [
+      "2022-10-23"
+    ],
+    "dc.type": [
+      ""
+    ],
+    "dc.language": [
+      "Cn"
+    ],
+    "dc.copyright": [
+      ""
+    ],
+    "dc.description": [
+      "社交媒体上传播的假新闻、虚假信息和谣言已经成为一种社会现象，引起了广泛的关注。目前，与虚假信息相关的研究主要集中在政治和健康话题。考虑到食品安全虚假信息在中文社交媒体上的普遍性和其对个人以及社会的负面影响，本研究聚焦食品安全虚假信息接受及其传播机制。基于风险的社会放大理论框架，本研究假设食品安全虚假信息的接触会正向预测个人对其接受程度，并且在这一过程中，感知威胁会起到正向的中介作用，而健康信息素养会起到调节作用。通过对腾讯新闻用户发放APP内置在线调查问卷，本研究共获取22706位用户的回答，进行分析后发现：在控制人口统计学变量影响之后，食品安全虚假信息接触正向预测虚假信息接受，感知威胁在这一过程中的中介作用显著；和健康信息素养高的用户相比，虚假信息接触与感知威胁之间的关系对于健康信息素养低的人来说更强。本研究得出的结论有利于进一步理解虚假信息的传播方式，以及致使其形成的社会心理动因，并为相应的干预实践提供指导。"
+    ],
+    "dc.relation.ispartof": [
+      "国际新闻界"
+    ],
+    "dc.creator": [
+      "潘文静",
+      "孙纪开",
+      "方洁"
+    ],
+    "dc.subject": [
+      "虚假信息",
+      "食品安全",
+      "感知威胁",
+      "健康信息素养",
+      "风险的社会放大理论框架"
+    ],
+    "prism.issn": [
+      "1002-5685"
+    ],
+    "prism.publicationDate": [
+      "2022-10-23"
+    ],
+    "prism.section": [
+      ""
+    ],
+    "prism.volume": [
+      "44"
+    ],
+    "prism.number": [
+      "10"
+    ],
+    "prism.startingPage": [
+      "74"
+    ],
+    "prism.endingPage": [
+      "95"
+    ],
+    "prism.copyright": [
+      ""
+    ],
+    "prism.url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2022/V44/I10/74"
+    ],
+    "citation_pdf_url": [
+      "http://cjjc.ruc.edu.cn/CN/PDF/1271"
+    ],
+    "citation_abstract_html_url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2022/V44/I10/74"
+    ],
+    "citation_fulltext_html_url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2022/V44/I10/74"
+    ],
+    "citation_journal_title": [
+      "国际新闻界"
+    ],
+    "citation_publisher": [
+      ""
+    ],
+    "citation_issn": [
+      "1002-5685"
+    ],
+    "citation_title": [
+      "食品安全虚假信息的接触和接受：感知威胁的中介作用和健康信息素养的调节作用"
+    ],
+    "citation_authors": [
+      "潘文静, 孙纪开, 方洁"
+    ],
+    "citation_volume": [
+      "44"
+    ],
+    "citation_issue": [
+      "10"
+    ],
+    "citation_publication_date": [
+      "2022/10/23"
+    ],
+    "citation_online_date": [
+      "2022/10/23"
+    ],
+    "citation_firstpage": [
+      "74"
+    ],
+    "citation_lastpage": [
+      "95"
+    ],
+    "citation_article_type": [
+      ""
+    ],
+    "citation_language": [
+      "zh"
+    ],
+    "citation_doi": [
+      ""
+    ],
+    "citation_abstract": [
+      "社交媒体上传播的假新闻、虚假信息和谣言已经成为一种社会现象，引起了广泛的关注。目前，与虚假信息相关的研究主要集中在政治和健康话题。考虑到食品安全虚假信息在中文社交媒体上的普遍性和其对个人以及社会的负面影响，本研究聚焦食品安全虚假信息接受及其传播机制。基于风险的社会放大理论框架，本研究假设食品安全虚假信息的接触会正向预测个人对其接受程度，并且在这一过程中，感知威胁会起到正向的中介作用，而健康信息素养会起到调节作用。通过对腾讯新闻用户发放APP内置在线调查问卷，本研究共获取22706位用户的回答，进行分析后发现：在控制人口统计学变量影响之后，食品安全虚假信息接触正向预测虚假信息接受，感知威胁在这一过程中的中介作用显著；和健康信息素养高的用户相比，虚假信息接触与感知威胁之间的关系对于健康信息素养低的人来说更强。本研究得出的结论有利于进一步理解虚假信息的传播方式，以及致使其形成的社会心理动因，并为相应的干预实践提供指导。"
+    ],
+    "citation_keywords": [
+      "虚假信息",
+      "食品安全",
+      "感知威胁",
+      "健康信息素养",
+      "风险的社会放大理论框架"
+    ],
+    "citation_date": [
+      "2022/10/23"
+    ],
+    "citation_author": [
+      "潘文静",
+      "孙纪开",
+      "方洁"
+    ],
+    "article_references": [
+      "潘文静, 孙纪开, 方洁. 食品安全虚假信息的接触和接受：感知威胁的中介作用和健康信息素养的调节作用. 国际新闻界. 2022, 44 (10): 74-95."
+    ],
+    "google-site-verification": [
+      "GqftDyjkbLznCjwJH3xdvsEi1ZnXlVqxWMeQ5H2MD38"
+    ]
+  },
+  "structured_article": {
+    "bioList_en": [
+      {
+        "content": "<p id=\"F1\">Pan Wenjing is an associate professor at the School of Journalism and Communication, Renmin University of China. Email: <a class=\"mag-xml-email-a\" href=\"mailto:wenjingpan@ruc.edu.cn\">wenjingpan@ruc.edu.cn</a>.</p>"
+      },
+      {
+        "content": "<p id=\"F1\">Jikai Sun is a M.A. student at the School of Journalism and Communication, Renmin University of China. Email: <a class=\"mag-xml-email-a\" href=\"mailto:jikaisun@ruc.edu.cn\">jikaisun@ruc.edu.cn</a>.</p>"
+      }
+    ],
+    "authorNotesCorresp_en": [
+      "Fang Jie is an associate professor at the School of Journalism and Communication,Renmin University of China. Email: <a class=\"mag-xml-email-a\" href=\"mailto:20080073@ruc.edu.cn\">20080073@ruc.edu.cn</a>."
+    ],
+    "referenceList": [
+      {
+        "sourceCn": "《乳业科学与技术》",
+        "bodyP_ids": [
+          "mag_rich_body_p_6"
+        ],
+        "publicationType": "journal",
+        "id": "b1",
+        "label": "[1]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "陈慧",
+                "personType": "author"
+              }
+            ],
+            "content": "陈慧(<span class=\"yearStyle\">2021</span>). 食品安全谣言精准治理的突出问题与实现路径. <span class=\"sourceStyle\">《乳业科学与技术》</span>,(6),63-68."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《国际新闻界》",
+        "bodyP_ids": [
+          "mag_rich_body_p_58"
+        ],
+        "publicationType": "journal",
+        "id": "b2",
+        "label": "[2]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "陈经超",
+                "personType": "author"
+              },
+              {
+                "name": "黄晨阳",
+                "personType": "author"
+              }
+            ],
+            "content": "陈经超, 黄晨阳(<span class=\"yearStyle\">2020</span>). “自我取向”还是“家人取向”?基于中国情境的大学生流感疫苗接种健康传播策略效果研究. <span class=\"sourceStyle\">《国际新闻界》</span>,(6),98-113."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《上海师范大学学报:哲学社会科学版》",
+        "bodyP_ids": [
+          "mag_rich_body_p_2"
+        ],
+        "publicationType": "journal",
+        "id": "b3",
+        "label": "[3]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "陈雅赛",
+                "personType": "author"
+              }
+            ],
+            "content": "陈雅赛(<span class=\"yearStyle\">2020</span>). 重大突发疫情谣言传播与受众接触研究. <span class=\"sourceStyle\">《上海师范大学学报:哲学社会科学版》</span>,(6),100-111."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻大学》",
+        "bodyP_ids": [
+          "mag_rich_body_p_3"
+        ],
+        "publicationType": "journal",
+        "id": "b4",
+        "label": "[4]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "楚亚杰",
+                "personType": "author"
+              }
+            ],
+            "content": "楚亚杰(<span class=\"yearStyle\">2020</span>). 人们为何相信不实信息:科学传播视角下的认知偏差与信息鉴别力研究. <span class=\"sourceStyle\">《新闻大学》</span>,(11),66-82+127."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻与传播评论》",
+        "bodyP_ids": [
+          "mag_rich_body_p_3",
+          "mag_rich_body_p_6",
+          "mag_rich_body_p_41"
+        ],
+        "publicationType": "journal",
+        "id": "b5",
+        "label": "[5]",
+        "nian": 2019,
+        "citedCount": 3,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "冯强",
+                "personType": "author"
+              },
+              {
+                "name": "马志浩",
+                "personType": "author"
+              }
+            ],
+            "content": "冯强, 马志浩(<span class=\"yearStyle\">2019</span>). 网络谣言的传播效果与社会阶层差异——以网络食品谣言为分析对象. <span class=\"sourceStyle\">《新闻与传播评论》</span>,(4),28-41."
+          }
+        ]
+      },
+      {
+        "sourceCn": "检索于",
+        "bodyP_ids": [
+          "mag_rich_body_p_26"
+        ],
+        "publicationType": "online",
+        "id": "b6",
+        "label": "[6]",
+        "nian": 2015,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "国家卫生计生委",
+                "personType": "author"
+              }
+            ],
+            "content": "国家卫生计生委.(<span class=\"yearStyle\">2015</span>). 关于印发《中国公民健康素养——基本知识与技能(2015年版)》的通知. <span class=\"sourceStyle\">检索于</span>http://www.nhc.gov.cn/xcs/s3581/201601/e02729e6565a47fea0487a212612705b.shtml. ",
+            "url": "http://www.nhc.gov.cn/xcs/s3581/201601/e02729e6565a47fea0487a212612705b.shtml"
+          }
+        ]
+      },
+      {
+        "sourceCn": "《电子政务》",
+        "bodyP_ids": [
+          "mag_rich_body_p_6"
+        ],
+        "publicationType": "journal",
+        "id": "b7",
+        "label": "[7]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "居梦菲",
+                "personType": "author"
+              },
+              {
+                "name": "叶中华",
+                "personType": "author"
+              }
+            ],
+            "content": "居梦菲, 叶中华(<span class=\"yearStyle\">2018</span>). 网络食品安全谣言治理研究. <span class=\"sourceStyle\">《电子政务》</span>,(9),66-76."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《现代传播》",
+        "bodyP_ids": [
+          "mag_rich_body_p_61"
+        ],
+        "publicationType": "journal",
+        "id": "b8",
+        "label": "[8]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "匡文波",
+                "personType": "author"
+              },
+              {
+                "name": "武晓立",
+                "personType": "author"
+              }
+            ],
+            "content": "匡文波, 武晓立(<span class=\"yearStyle\">2021</span>). 重大公共卫生事件中网络谣言传播模型构建与信息治理——基于对新型冠状病毒肺炎的谣言分析. <span class=\"sourceStyle\">《现代传播》</span>,(10),126-134+155."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《现代情报》",
+        "bodyP_ids": [
+          "mag_rich_body_p_1"
+        ],
+        "publicationType": "journal",
+        "id": "b9",
+        "label": "[9]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "赖胜强",
+                "personType": "author"
+              },
+              {
+                "name": "唐雪梅",
+                "personType": "author"
+              }
+            ],
+            "content": "赖胜强, 唐雪梅(<span class=\"yearStyle\">2017</span>). 基于免疫系统理论的网络谣言治理研究. <span class=\"sourceStyle\">《现代情报》</span>,(12),30-34."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻界》",
+        "bodyP_ids": [
+          "mag_rich_body_p_10"
+        ],
+        "publicationType": "journal",
+        "id": "b10",
+        "label": "[10]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "刘海龙",
+                "personType": "author"
+              },
+              {
+                "name": "于瀛",
+                "personType": "author"
+              }
+            ],
+            "content": "刘海龙, 于瀛 (<span class=\"yearStyle\">2021</span>). 概念的政治与概念的连接:谣言、传言、误导信息、虚假信息与假新闻的概念的重构. <span class=\"sourceStyle\">《新闻界》</span>,(12),23-40."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻大学》",
+        "bodyP_ids": [
+          "mag_rich_body_p_3"
+        ],
+        "publicationType": "journal",
+        "id": "b11",
+        "label": "[11]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "刘鸣筝",
+                "personType": "author"
+              },
+              {
+                "name": "孔泽鸣",
+                "personType": "author"
+              }
+            ],
+            "content": "刘鸣筝, 孔泽鸣 (<span class=\"yearStyle\">2017</span>). 媒介素养视阈下公众谣言辨别能力及其影响因素的实证研究. <span class=\"sourceStyle\">《新闻大学》</span>,(4),102-109+151."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《小康》",
+        "bodyP_ids": [
+          "mag_rich_body_p_14"
+        ],
+        "publicationType": "journal",
+        "id": "b12",
+        "label": "[12]",
+        "nian": 2011,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "欧阳海燕",
+                "personType": "author"
+              }
+            ],
+            "content": "欧阳海燕(<span class=\"yearStyle\">2011</span>). 2011中国人最感担忧五大安全问题. <span class=\"sourceStyle\">《小康》</span>,(7),50-54."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻与传播研究》",
+        "bodyP_ids": [
+          "mag_rich_body_p_1"
+        ],
+        "publicationType": "journal",
+        "id": "b13",
+        "label": "[13]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "汤景泰",
+                "personType": "author"
+              },
+              {
+                "name": "陈秋怡",
+                "personType": "author"
+              },
+              {
+                "name": "徐铭亮",
+                "personType": "author"
+              }
+            ],
+            "content": "汤景泰, 陈秋怡, 徐铭亮(<span class=\"yearStyle\">2021</span>). 情感共同体与协同行动:香港“修例风波”中虚假信息的动员机制. <span class=\"sourceStyle\">《新闻与传播研究》</span>,(8),58-76+127."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《现代传播》",
+        "bodyP_ids": [
+          "mag_rich_body_p_11",
+          "mag_rich_body_p_18"
+        ],
+        "publicationType": "journal",
+        "id": "b14",
+        "label": "[14]",
+        "nian": 2016,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "汤景泰",
+                "personType": "author"
+              },
+              {
+                "name": "巫惠娟",
+                "personType": "author"
+              }
+            ],
+            "content": "汤景泰, 巫惠娟(<span class=\"yearStyle\">2016</span>). 风险表征与放大路径:论社交媒体语境中健康风险的社会放大. <span class=\"sourceStyle\">《现代传播》</span>,(12),15-20."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《国际新闻界》",
+        "bodyP_ids": [
+          "mag_rich_body_p_57"
+        ],
+        "publicationType": "journal",
+        "id": "b15",
+        "label": "[15]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "唐雪梅",
+                "personType": "author"
+              },
+              {
+                "name": "赖胜强",
+                "personType": "author"
+              }
+            ],
+            "content": "唐雪梅, 赖胜强(<span class=\"yearStyle\">2020</span>). 网络辟谣信息如何影响受众的感知可信度——信息介入度的调节效应. <span class=\"sourceStyle\">《国际新闻界》</span>,(8),27-48."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《现代传播》",
+        "bodyP_ids": [
+          "mag_rich_body_p_61"
+        ],
+        "publicationType": "journal",
+        "id": "b16",
+        "label": "[16]",
+        "nian": 2010,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "王灿发",
+                "personType": "author"
+              }
+            ],
+            "content": "王灿发(<span class=\"yearStyle\">2010</span>). 突发公共事件的谣言传播模式建构及消解. <span class=\"sourceStyle\">《现代传播》</span>,(6),45-48."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《国际新闻界》",
+        "bodyP_ids": [
+          "mag_rich_body_p_61"
+        ],
+        "publicationType": "journal",
+        "id": "b17",
+        "label": "[17]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "王倩",
+                "personType": "author"
+              },
+              {
+                "name": "于风",
+                "personType": "author"
+              }
+            ],
+            "content": "王倩, 于风(<span class=\"yearStyle\">2017</span>). 奥尔波特和波斯特曼谣言传播公式的改进及其验证:基于东北虎致游客伤亡事件的新浪微博谣言分析. <span class=\"sourceStyle\">《国际新闻界》</span>,(11),47-67."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻界》",
+        "bodyP_ids": [
+          "mag_rich_body_p_61"
+        ],
+        "publicationType": "journal",
+        "id": "b18",
+        "label": "[18]",
+        "nian": 2015,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "吴建",
+                "personType": "author"
+              },
+              {
+                "name": "马超",
+                "personType": "author"
+              }
+            ],
+            "content": "吴建, 马超(<span class=\"yearStyle\">2015</span>). 谣言传播公式溯源、修正与发展. <span class=\"sourceStyle\">《新闻界》</span>,(13),20-23."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻记者》",
+        "bodyP_ids": [
+          "mag_rich_body_p_2"
+        ],
+        "publicationType": "journal",
+        "id": "b19",
+        "label": "[19]",
+        "nian": 2016,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "杨丹",
+                "personType": "author"
+              }
+            ],
+            "content": "杨丹(<span class=\"yearStyle\">2016</span>). 网络虚假信息传播特点及治理——基于2016年上半年的大数据分析. <span class=\"sourceStyle\">《新闻记者》</span>,(8),38-43."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《现代传播》",
+        "bodyP_ids": [
+          "mag_rich_body_p_14",
+          "mag_rich_body_p_20"
+        ],
+        "publicationType": "journal",
+        "id": "b20",
+        "label": "[20]",
+        "nian": 2015,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "曾繁旭",
+                "personType": "author"
+              },
+              {
+                "name": "戴佳",
+                "personType": "author"
+              },
+              {
+                "name": "王宇琦",
+                "personType": "author"
+              }
+            ],
+            "content": "曾繁旭, 戴佳, 王宇琦(<span class=\"yearStyle\">2015</span>). 技术风险VS感知风险:传播过程与风险社会放大. <span class=\"sourceStyle\">《现代传播》</span>,(3),40-46."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《国际新闻界》",
+        "bodyP_ids": [
+          "mag_rich_body_p_14",
+          "mag_rich_body_p_59"
+        ],
+        "publicationType": "journal",
+        "id": "b21",
+        "label": "[21]",
+        "nian": 2019,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "张振宇",
+                "personType": "author"
+              },
+              {
+                "name": "喻发胜",
+                "personType": "author"
+              },
+              {
+                "name": "王然",
+                "personType": "author"
+              }
+            ],
+            "content": "张振宇, 喻发胜, 王然(<span class=\"yearStyle\">2019</span>). <span class=\"sourceStyle\">讽刺画,预警器和烟幕弹——对国内假新闻研究的反思与重构(1980-2018)</span>. <span class=\"sourceStyle\">《国际新闻界》</span>,(11), 156-174."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻界》",
+        "bodyP_ids": [
+          "mag_rich_body_p_14"
+        ],
+        "publicationType": "journal",
+        "id": "b22",
+        "label": "[22]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "张志安",
+                "personType": "author"
+              },
+              {
+                "name": "冉桢",
+                "personType": "author"
+              }
+            ],
+            "content": "张志安, 冉桢 (<span class=\"yearStyle\">2020</span>). “风险的社会放大”视角下危机事件的风险沟通研究——以新冠疫情中的政府新闻发布为例. <span class=\"sourceStyle\">《新闻界》</span>,(6),12-19."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《电子政务》",
+        "bodyP_ids": [
+          "mag_rich_body_p_6",
+          "mag_rich_body_p_58"
+        ],
+        "publicationType": "journal",
+        "id": "b23",
+        "label": "[23]",
+        "nian": 2021,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "周高琴",
+                "personType": "author"
+              }
+            ],
+            "content": "周高琴(<span class=\"yearStyle\">2021</span>). 突发事件中恐慌性谣言网络传播的影响因素及治理启示——基于2015-2019年间15起典型案例的扎更研究. <span class=\"sourceStyle\">《电子政务》</span>,(8),94-104."
+          }
+        ]
+      },
+      {
+        "sourceEn": "World at Risk. UK: Polity",
+        "bodyP_ids": [
+          "mag_rich_body_p_11"
+        ],
+        "publicationType": "journal",
+        "id": "b24",
+        "label": "[24]",
+        "nian": 2009,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Beck U.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Beck</surname> <given-names>U.</given-names></name> (<span class=\"yearStyle\">2009</span>). <span class=\"sourceStyle\"><i>World at Risk</i>. UK: Polity</span>."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Risk Analysis",
+        "bodyP_ids": [
+          "mag_rich_body_p_14"
+        ],
+        "publicationType": "journal",
+        "id": "b25",
+        "label": "[25]",
+        "nian": 2022,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Bearth A.",
+                "personType": "author"
+              },
+              {
+                "name": "Siegrist M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Bearth</surname> <given-names>A.</given-names></name>, &amp; <name><surname>Siegrist</surname> <given-names>M.</given-names></name> (<span class=\"yearStyle\">2022</span>). The social amplification of risk framework: A normative perspective on trust?. <span class=\"sourceStyle\"><i>Risk Analysis</i></span>, <span class=\"volStyele\"><i>42</i></span>(7), 1381-1392. ",
+            "url": "https://onlinelibrary.wiley.com/toc/15396924/42/7",
+            "doi": "10.1111/risa.v42.7"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Social Psychology Quarterly",
+        "bodyP_ids": [
+          "mag_rich_body_p_2"
+        ],
+        "publicationType": "journal",
+        "id": "b26",
+        "label": "[26]",
+        "nian": 2004,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Rumor discourse has been conceptualized as an attempt to reduce anxiety and uncertainty via a process of social sensemaking. Fourteen rumors transmitted on various Internet discussion groups were observed and content analyzed over the life of each rumor. With this (previously unavailable) more ecologically robust methodology, the intertwined threads of sensemaking and the gaining of interpretive control are clearly evident in the tapestry of rumor discourse. We propose a categorization of statements (the Rumor Interaction Analysis System) and find differences between dread rumors and wish rumors in anxiety-related content categories. Cluster analysis of these statements reveals a typology of voices (“communicative postures”) exhibiting sensemaking activities of the rumor discussion group, such as hypothesizing, skeptical critique, directing of activities to gain information, and presentation of evidence. These findings enrich our understanding of the long-implicated sensemaking function of rumor by clarifying the elements of communication that operate in rumor's social context.",
+            "personList": [
+              {
+                "name": "Bordia P.",
+                "personType": "author"
+              },
+              {
+                "name": "DiFonzo N.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Bordia</surname> <given-names>P.</given-names></name>, &amp; <name><surname>DiFonzo</surname> <given-names>N.</given-names></name> (<span class=\"yearStyle\">2004</span>). Problem solving in social interactions on the Internet: Rumor as social cognition. <span class=\"sourceStyle\"><i>Social Psychology Quarterly</i></span>, <span class=\"volStyele\"><i>67</i></span>(1), 33-49. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/019027250406700105",
+            "doi": "10.1177/019027250406700105"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of Health Communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_2",
+          "mag_rich_body_p_27"
+        ],
+        "publicationType": "journal",
+        "id": "b27",
+        "label": "[27]",
+        "nian": 2018,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "annotation": "There is a need to investigate which health information sources are used and trusted by people with limited health literacy to help identify strategies for addressing knowledge gaps that can contribute to preventable illness. We examined whether health literacy was associated with people's use of and trust in a range of potential health information sources. Six hundred participants from a GfK Internet survey panel completed an online survey. We assessed health literacy using the Newest Vital Sign, the sources participants used to get health information, and the extent to which participants trusted health information from these sources. We performed multivariable regressions, controlling for demographic characteristics. Lower health literacy was associated with lower odds of using medical websites for health information and with higher odds of using television, social media, and blogs or celebrity webpages. People with lower health literacy were less likely to trust health information from specialist doctors and dentists, but more likely to trust television, social media, blogs/celebrity webpages, friends, and pharmaceutical companies. People with limited health literacy had higher rates of using and trusting sources such as social media and blogs, which might contain lower quality health information compared to information from healthcare professionals. Thus, it might be necessary to enhance the public's ability to evaluate the quality of health information sources. The results of this study could be used to improve the reach of high-quality health information among people with limited health literacy and thereby increase the effectiveness of health communication programs and campaigns.",
+            "personList": [
+              {
+                "name": "Chen X.",
+                "personType": "author"
+              },
+              {
+                "name": "Hay J. L.",
+                "personType": "author"
+              },
+              {
+                "name": "Waters E. A.",
+                "personType": "author"
+              },
+              {
+                "name": "Kiviniemi M. T.",
+                "personType": "author"
+              },
+              {
+                "name": "Biddle C.",
+                "personType": "author"
+              },
+              {
+                "name": "Schofield E.",
+                "personType": "author"
+              },
+              {
+                "name": "… Orom H.",
+                "personType": "author"
+              }
+            ],
+            "pmid": "30160641",
+            "content": "<name><surname>Chen</surname> <given-names>X.</given-names></name>, <name><surname>Hay</surname> <given-names>J. L.</given-names></name>, <name><surname>Waters</surname> <given-names>E. A.</given-names></name>, <name><surname>Kiviniemi</surname> <given-names>M. T.</given-names></name>, <name><surname>Biddle</surname> <given-names>C.</given-names></name>, <name><surname>Schofield</surname> <given-names>E.</given-names></name>, <name><surname>… Orom</surname> <given-names>H.</given-names></name> (<span class=\"yearStyle\">2018</span>). Health literacy and use and trust in health information. <span class=\"sourceStyle\"><i>Journal of Health Communication</i></span>, <span class=\"volStyele\"><i>23</i></span>(8), 724-734. ",
+            "doi": "10.1080/10810730.2018.1511658"
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_14"
+        ],
+        "publicationType": "journal",
+        "id": "b28",
+        "label": "[28]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Chong M.",
+                "personType": "author"
+              },
+              {
+                "name": "Choy M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Chong</surname> <given-names>M.</given-names></name>, &amp; <name><surname>Choy</surname> <given-names>M.</given-names></name> (<span class=\"yearStyle\">2018</span>). The social amplification of haze-related risks on the internet. <i>Health Communication</i>, <span class=\"volStyele\"><i>33</i></span>(1), 14-21."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Computers in Human Behavior",
+        "bodyP_ids": [
+          "mag_rich_body_p_19"
+        ],
+        "publicationType": "journal",
+        "id": "b29",
+        "label": "[29]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Chua A. Y.",
+                "personType": "author"
+              },
+              {
+                "name": "Banerjee S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Chua</surname> <given-names>A. Y.</given-names></name>, &amp; <name><surname>Banerjee</surname> <given-names>S.</given-names></name> (<span class=\"yearStyle\">2018</span>). Intentions to trust and share online health rumors: An experiment with medical professionals. <span class=\"sourceStyle\"><i>Computers in Human Behavior</i></span>, <span class=\"volStyele\"><i>87</i></span>, 1-9. ",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S0747563218302474",
+            "doi": "10.1016/j.chb.2018.05.021"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Hoboken, NJ: Wiley",
+        "bodyP_ids": [
+          "mag_rich_body_p_20"
+        ],
+        "publicationType": "journal",
+        "id": "b30",
+        "label": "[30]",
+        "nian": 2004,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Fiske S. T.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Fiske</surname> <given-names>S. T.</given-names></name> (<span class=\"yearStyle\">2004</span>). Social Beings: A Core Motives Approach to Social Psychology. <span class=\"sourceStyle\"><i>Hoboken, NJ: Wiley</i></span>."
+          }
+        ]
+      },
+      {
+        "sourceEn": "International Studies Quarterly",
+        "bodyP_ids": [
+          "mag_rich_body_p_3",
+          "mag_rich_body_p_4",
+          "mag_rich_body_p_39",
+          "mag_rich_body_p_43"
+        ],
+        "publicationType": "journal",
+        "id": "b31",
+        "label": "[31]",
+        "nian": 2017,
+        "citedCount": 4,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Greenhill K. M.",
+                "personType": "author"
+              },
+              {
+                "name": "Oppenheim B.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Greenhill</surname> <given-names>K. M.</given-names></name>, &amp; <name><surname>Oppenheim</surname> <given-names>B.</given-names></name> (<span class=\"yearStyle\">2017</span>). Rumor has it: The adoption of unverified information in conflict zones. <span class=\"sourceStyle\"><i>International Studies Quarterly</i></span>, <span class=\"volStyele\"><i>61</i></span>(3), 660-676. ",
+            "url": "http://academic.oup.com/isq/article/61/3/660/4557058",
+            "doi": "10.1093/isq/sqx015"
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_3"
+        ],
+        "publicationType": "journal",
+        "id": "b32",
+        "label": "[32]",
+        "nian": 2008,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Greenspan S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Greenspan</surname> <given-names>S.</given-names></name> (<span class=\"yearStyle\">2008</span>). Annals of Gullibility: Why We Get Duped and How to Avoid It. Praeger."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Introduction To Mediation, Moderation, And Conditional Process Analysis:A Regression-Based Approach",
+        "bodyP_ids": [
+          "mag_rich_body_p_50"
+        ],
+        "publicationType": "book",
+        "id": "b33",
+        "label": "[33]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Hayes A. F.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Hayes</surname> <given-names>A. F.</given-names></name> (<span class=\"yearStyle\">2017</span>). <span class=\"sourceStyle\"><i>Introduction To Mediation, Moderation, And Conditional Process Analysis:A Regression-Based Approach</i></span>. New York, NY: Guilford Publications."
+          }
+        ]
+      },
+      {
+        "sourceEn": "International Journal of Communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_19"
+        ],
+        "publicationType": "journal",
+        "id": "b34",
+        "label": "[34]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Huang Q.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Huang</surname> <given-names>Q.</given-names></name> (<span class=\"yearStyle\">2020</span>). How does news media exposure amplify publics’ perceived health risks about air pollution in China? A conditional media effect approach. <span class=\"sourceStyle\"><i>International Journal of Communication</i></span>, <span class=\"volStyele\"><i>14</i></span>, 1705-1724."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of Economic Perspectives",
+        "bodyP_ids": [
+          "mag_rich_body_p_58"
+        ],
+        "publicationType": "journal",
+        "id": "b35",
+        "label": "[35]",
+        "nian": 1991,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Kahneman D.",
+                "personType": "author"
+              },
+              {
+                "name": "Knetsch J. L.",
+                "personType": "author"
+              },
+              {
+                "name": "Thaler R. H.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Kahneman</surname> <given-names>D.</given-names></name>, <name><surname>Knetsch</surname> <given-names>J. L.</given-names></name>, &amp; <name><surname>Thaler</surname> <given-names>R. H.</given-names></name> (<span class=\"yearStyle\">1991</span>). Anomalies: The endowment effect, loss aversion, and status quo bias. <span class=\"sourceStyle\"><i>Journal of Economic Perspectives</i></span>, <span class=\"volStyele\"><i>5</i></span>(1), 193-206."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Bulletin of the Atomic Scientists",
+        "bodyP_ids": [
+          "mag_rich_body_p_12"
+        ],
+        "publicationType": "journal",
+        "id": "b36",
+        "label": "[36]",
+        "nian": 2012,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Kasperson R. E.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Kasperson</surname> <given-names>R. E.</given-names></name> (<span class=\"yearStyle\">2012</span>). The social amplification of risk and low-level radiation. <span class=\"sourceStyle\"><i>Bulletin of the Atomic Scientists</i></span>, <span class=\"volStyele\"><i>68</i></span>(3), 59-66. ",
+            "url": "https://www.tandfonline.com/doi/full/10.1177/0096340212444871",
+            "doi": "10.1177/0096340212444871"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Risk Analysis",
+        "bodyP_ids": [
+          "mag_rich_body_p_4",
+          "mag_rich_body_p_11",
+          "mag_rich_body_p_12",
+          "mag_rich_body_p_15"
+        ],
+        "publicationType": "journal",
+        "id": "b37",
+        "label": "[37]",
+        "nian": 1988,
+        "citedCount": 4,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Kasperson R. E.",
+                "personType": "author"
+              },
+              {
+                "name": "Renn O.",
+                "personType": "author"
+              },
+              {
+                "name": "Slovic P.",
+                "personType": "author"
+              },
+              {
+                "name": "Brown H. S.",
+                "personType": "author"
+              },
+              {
+                "name": "Emel J.",
+                "personType": "author"
+              },
+              {
+                "name": "Goble R.",
+                "personType": "author"
+              },
+              {
+                "name": "Ratick S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Kasperson</surname> <given-names>R. E.</given-names></name>, <name><surname>Renn</surname> <given-names>O.</given-names></name>, <name><surname>Slovic</surname> <given-names>P.</given-names></name>, <name><surname>Brown</surname> <given-names>H. S.</given-names></name>, <name><surname>Emel</surname> <given-names>J.</given-names></name>, <name><surname>Goble</surname> <given-names>R.</given-names></name>,... &amp; <name><surname>Ratick</surname> <given-names>S.</given-names></name> (<span class=\"yearStyle\">1988</span>). The social amplification of risk: A conceptual framework. <span class=\"sourceStyle\"><i>Risk Analysis</i></span>, <span class=\"volStyele\"><i>8</i></span>(2), 177-187. ",
+            "url": "https://onlinelibrary.wiley.com/toc/15396924/8/2",
+            "doi": "10.1111/risk.1988.8.issue-2"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Public Understanding of Science",
+        "bodyP_ids": [
+          "mag_rich_body_p_4",
+          "mag_rich_body_p_19"
+        ],
+        "publicationType": "journal",
+        "id": "b38",
+        "label": "[38]",
+        "nian": 2021,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "annotation": "The spread of science misinformation harms efforts to mitigate threats like climate change or coronavirus. Construal-level theory suggests that mediated messages can prime psychological proximity to threats, having consequences for behavior. Via two MTurk experiments, I tested a serial mediation process model predicting misinformation sharing from lexical concreteness, through psychological proximity and perceived threat. In Study 1, concrete misinformation primed psychological proximity which, in turn, increased perceived threat. Perceived threat then increased the likelihood that misinformation would be shared. Source credibility was also shown to positively influence misinformation sharing. Study 2 advanced this by showing this process was moderated by subjective knowledge. Specifically, the effect of perceived threat on misinformation sharing was stronger for those with higher subjective knowledge. Furthermore, the indirect effect of lexical concreteness on misinformation sharing was stronger for those with higher subjective knowledge. Results and limitations are discussed within the lens of construal-level theory and science communication.",
+            "personList": [
+              {
+                "name": "Kirkpatrick A. W.",
+                "personType": "author"
+              }
+            ],
+            "pmid": "33103578",
+            "content": "<name><surname>Kirkpatrick</surname> <given-names>A. W.</given-names></name> (<span class=\"yearStyle\">2021</span>). The spread of fake science: Lexical concreteness, proximity, misinformation sharing, and the moderating role of subjective knowledge. <span class=\"sourceStyle\"><i>Public Understanding of Science</i></span>, <span class=\"volStyele\"><i>30</i></span>(1), 55-74. ",
+            "doi": "10.1177/0963662520966165"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Why do people share misinformation during the Covid-19 pandemic",
+        "bodyP_ids": [
+          "mag_rich_body_p_19"
+        ],
+        "publicationType": "journal",
+        "id": "b39",
+        "label": "[39]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Laato S.",
+                "personType": "author"
+              },
+              {
+                "name": "Islam A. K. M.",
+                "personType": "author"
+              },
+              {
+                "name": "Islam M. N.",
+                "personType": "author"
+              },
+              {
+                "name": "Whelan E.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Laato</surname> <given-names>S.</given-names></name>, <name><surname>Islam</surname> <given-names>A. K. M.</given-names></name>, <name><surname>Islam</surname> <given-names>M. N.</given-names></name>, &amp; <name><surname>Whelan</surname> <given-names>E.</given-names></name> (<span class=\"yearStyle\">2020</span>). <span class=\"sourceStyle\"><i>Why do people share misinformation during the Covid-19 pandemic</i></span>?. arXiv preprint arXiv:2004. 09600."
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_14"
+        ],
+        "publicationType": "journal",
+        "id": "b40",
+        "label": "[40]",
+        "nian": 2022,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Larson H. J.",
+                "personType": "author"
+              },
+              {
+                "name": "Lin L.",
+                "personType": "author"
+              },
+              {
+                "name": "Goble R.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Larson</surname> <given-names>H. J.</given-names></name>, <name><surname>Lin</surname> <given-names>L.</given-names></name>, &amp; <name><surname>Goble</surname> <given-names>R.</given-names></name> (<span class=\"yearStyle\">2022</span>). Vaccines and the social amplification of risk. Risk Analysis. Published online. doi:<a href=\"https://doi.org/10.1111/risa.13942\" class=\"mag-xml-ext-link\">https://doi.org/10.1111/risa.13942</a>. ",
+            "url": "https://doi.org/10.1111/risa.13942"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Social and Personality Psychology Compass",
+        "bodyP_ids": [
+          "mag_rich_body_p_18"
+        ],
+        "publicationType": "journal",
+        "id": "b41",
+        "label": "[41]",
+        "nian": 2011,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Maloney E. K.",
+                "personType": "author"
+              },
+              {
+                "name": "Lapinski M. K.",
+                "personType": "author"
+              },
+              {
+                "name": "Witte K.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Maloney</surname> <given-names>E. K.</given-names></name>, <name><surname>Lapinski</surname> <given-names>M. K.</given-names></name>, &amp; <name><surname>Witte</surname> <given-names>K.</given-names></name> (<span class=\"yearStyle\">2011</span>). Fear appeals and persuasion: A review and update of the extended parallel process model. <span class=\"sourceStyle\"><i>Social and Personality Psychology Compass</i></span>, <span class=\"volStyele\"><i>5</i></span>(4), 206-219. ",
+            "url": "https://compass.onlinelibrary.wiley.com/toc/17519004/5/4",
+            "doi": "10.1111/spco.2011.5.issue-4"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Retrieved from",
+        "bodyP_ids": [
+          "mag_rich_body_p_10"
+        ],
+        "publicationType": "online",
+        "id": "b42",
+        "label": "[42]",
+        "nian": 0,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Merriam-Webster",
+                "personType": "author"
+              },
+              {
+                "name": "Misinformation",
+                "personType": "author"
+              }
+            ],
+            "content": "Merriam-Webster. Misinformation. <span class=\"sourceStyle\">Retrieved from</span> https://www.merriam-webster.com/dictionary/misinformation ",
+            "url": "https://www.merriam-webster.com/dictionary/misinformation"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Acceptance of a Covid-19 vaccine is associated with ability to detect fake news and health literacy. Journal of Public Health",
+        "bodyP_ids": [
+          "mag_rich_body_p_27"
+        ],
+        "publicationType": "journal",
+        "id": "b43",
+        "label": "[43]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "During the Covid-19 pandemic fake news has been circulating impacting on the general population’s opinion about a vaccine against the SARS-CoV-2. Health literacy measures the capacity of navigating health information.",
+            "personList": [
+              {
+                "name": "Montagni I.",
+                "personType": "author"
+              },
+              {
+                "name": "Ouazzani-Touhami K.",
+                "personType": "author"
+              },
+              {
+                "name": "Mebarki A.",
+                "personType": "author"
+              },
+              {
+                "name": "Texier N.",
+                "personType": "author"
+              },
+              {
+                "name": "Schück S.",
+                "personType": "author"
+              },
+              {
+                "name": "Tzourio C.",
+                "personType": "author"
+              },
+              {
+                "name": "Confins Group",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Montagni</surname> <given-names>I.</given-names></name>, <name><surname>Ouazzani-Touhami</surname> <given-names>K.</given-names></name>, <name><surname>Mebarki</surname> <given-names>A.</given-names></name>, <name><surname>Texier</surname> <given-names>N.</given-names></name>, <name><surname>Schück</surname> <given-names>S.</given-names></name>, <name><surname>Tzourio</surname> <given-names>C.</given-names></name>, &amp; <name><surname>Confins</surname> <given-names>Group</given-names></name>. (<span class=\"yearStyle\">2021</span>). <span class=\"sourceStyle\">Acceptance of a Covid-19 vaccine is associated with ability to detect fake news and health literacy. <i>Journal of Public Health</i></span>, <span class=\"volStyele\"><i>43</i></span>(4), 695-702. ",
+            "url": "https://academic.oup.com/jpubhealth/article/43/4/695/6157442",
+            "doi": "10.1093/pubmed/fdab028"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of Medical Internet Research",
+        "bodyP_ids": [
+          "mag_rich_body_p_26"
+        ],
+        "publicationType": "journal",
+        "id": "b44",
+        "label": "[44]",
+        "nian": 2006,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Electronic health tools provide little value if the intended users lack the skills to effectively engage them. With nearly half the adult population in the United States and Canada having literacy levels below what is needed to fully engage in an information-rich society, the implications for using information technology to promote health and aid in health care, or for eHealth, are considerable. Engaging with eHealth requires a skill set, or literacy, of its own. The concept of eHealth literacy is introduced and defined as the ability to seek, find, understand, and appraise health information from electronic sources and apply the knowledge gained to addressing or solving a health problem. In this paper, a model of eHealth literacy is introduced, comprised of multiple literacy types, including an outline of a set of fundamental skills consumers require to derive direct benefits from eHealth. A profile of each literacy type with examples of the problems patient-clients might present is provided along with a resource list to aid health practitioners in supporting literacy improvement with their patient-clients across each domain. Facets of the model are illustrated through a set of clinical cases to demonstrate how health practitioners can address eHealth literacy issues in clinical or public health practice. Potential future applications of the model are discussed.",
+            "personList": [
+              {
+                "name": "Norman C. D.",
+                "personType": "author"
+              },
+              {
+                "name": "Skinner H. A.",
+                "personType": "author"
+              }
+            ],
+            "pmid": "16867972",
+            "content": "<name><surname>Norman</surname> <given-names>C. D.</given-names></name>, &amp; <name><surname>Skinner</surname> <given-names>H. A.</given-names></name> (<span class=\"yearStyle\">2006</span>). eHealth literacy: essential skills for consumer health in a networked world. <span class=\"sourceStyle\"><i>Journal of Medical Internet Research</i></span>, <span class=\"volStyele\"><i>8</i></span>(2), e9. ",
+            "doi": "10.2196/jmir.8.2.e9"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Psychometric Theory",
+        "bodyP_ids": [
+          "mag_rich_body_p_45"
+        ],
+        "publicationType": "book",
+        "id": "b45",
+        "label": "[45]",
+        "nian": 1967,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Nunnally J. C.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Nunnally</surname> <given-names>J. C.</given-names></name> (<span class=\"yearStyle\">1967</span>). <span class=\"sourceStyle\"><i>Psychometric Theory</i></span>. New York: McGraw-Hill."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Psychometric Theory",
+        "bodyP_ids": [
+          "mag_rich_body_p_45"
+        ],
+        "publicationType": "book",
+        "id": "b46",
+        "label": "[46]",
+        "nian": 1978,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Nunnally J. C.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Nunnally</surname> <given-names>J. C.</given-names></name> (<span class=\"yearStyle\">1978</span>). <span class=\"sourceStyle\"><i>Psychometric Theory</i></span>, 2nd ed. New York: McGraw-Hill."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of Health Communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_27",
+          "mag_rich_body_p_59"
+        ],
+        "publicationType": "journal",
+        "id": "b47",
+        "label": "[47]",
+        "nian": 2019,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "annotation": "This study explores the roles of perceived message importance, health anxiety, and health literacy in the relationship between message factors (message label and message valence) and behavioral intentions for rumor verification and sharing. 660 Twitter users responded to unverified information regarding the influenza vaccine. A 3 (label: none vs. news vs. rumor) × 2 (valence: positive vs. negative) online semi-experiment, with a survey to measure health anxiety and health literacy, showed the following results: First, perceived message importance mediated the relationship between message factors and behavioral intentions: only in the condition of the negative message, participants considered a news-labeled message more important than a rumor-labeled or a no-label message. Perceived message importance was associated with intentions to verify and share the message. Second, health anxiety interacted with perceived message importance only when predicting an intention to share the message. Last, healthy literacy interacted with perceived message importance when predicting intentions to both verify and share the message. The results will provide implications for health communication research and practices, especially on managing and controlling rumor dissemination on social media.",
+            "personList": [
+              {
+                "name": "Oh H. J.",
+                "personType": "author"
+              },
+              {
+                "name": "Lee H.",
+                "personType": "author"
+              }
+            ],
+            "pmid": "31609678",
+            "content": "<name><surname>Oh</surname> <given-names>H. J.</given-names></name>, &amp; <name><surname>Lee</surname> <given-names>H.</given-names></name> (<span class=\"yearStyle\">2019</span>). When do people verify and share health rumors on social media? The effects of message importance, health anxiety, and health literacy. <span class=\"sourceStyle\"><i>Journal of Health Communication</i></span>, <span class=\"volStyele\"><i>24</i></span>(11), 837-847. ",
+            "doi": "10.1080/10810730.2019.1677824"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Trends in Cognitive Sciences",
+        "bodyP_ids": [
+          "mag_rich_body_p_3"
+        ],
+        "publicationType": "journal",
+        "id": "b48",
+        "label": "[48]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "We synthesize a burgeoning literature investigating why people believe and share false or highly misleading news online. Contrary to a common narrative whereby politics drives susceptibility to fake news, people are 'better' at discerning truth from falsehood (despite greater overall belief) when evaluating politically concordant news. Instead, poor truth discernment is associated with lack of careful reasoning and relevant knowledge, and the use of heuristics such as familiarity. Furthermore, there is a substantial disconnect between what people believe and what they share on social media. This dissociation is largely driven by inattention, more so than by purposeful sharing of misinformation. Thus, interventions can successfully nudge social media users to focus more on accuracy. Crowdsourced veracity ratings can also be leveraged to improve social media ranking algorithms.Copyright © 2021 The Authors. Published by Elsevier Ltd.. All rights reserved.",
+            "personList": [
+              {
+                "name": "Pennycook G.",
+                "personType": "author"
+              },
+              {
+                "name": "Rand D. G.",
+                "personType": "author"
+              }
+            ],
+            "pmid": "33736957",
+            "content": "<name><surname>Pennycook</surname> <given-names>G.</given-names></name>, &amp; <name><surname>Rand</surname> <given-names>D. G.</given-names></name> (<span class=\"yearStyle\">2021</span>). The psychology of fake news. <span class=\"sourceStyle\"><i>Trends in Cognitive Sciences</i></span>, <span class=\"volStyele\"><i>25</i></span>(5), 388-402. ",
+            "doi": "10.1016/j.tics.2021.02.007"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Cognition and Emotion",
+        "bodyP_ids": [
+          "mag_rich_body_p_4"
+        ],
+        "publicationType": "journal",
+        "id": "b49",
+        "label": "[49]",
+        "nian": 2016,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Peschard V",
+                "personType": "author"
+              },
+              {
+                "name": "Philippot P.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Peschard</surname> <given-names>V</given-names></name>. &amp; <name><surname>Philippot</surname> <given-names>P.</given-names></name> (<span class=\"yearStyle\">2016</span>). Social anxiety and information processing biases: An integrated theoretical perspective. <span class=\"sourceStyle\"><i>Cognition and Emotion</i></span>, <span class=\"volStyele\"><i>30</i></span>(4), 762-777. ",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/02699931.2015.1028335",
+            "doi": "10.1080/02699931.2015.1028335"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Basic and Applied Social Psychology",
+        "bodyP_ids": [
+          "mag_rich_body_p_20"
+        ],
+        "publicationType": "journal",
+        "id": "b50",
+        "label": "[50]",
+        "nian": 2006,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Pezzo M. V.",
+                "personType": "author"
+              },
+              {
+                "name": "Beckstead J. W.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Pezzo</surname> <given-names>M. V.</given-names></name>, &amp; <name><surname>Beckstead</surname> <given-names>J. W.</given-names></name> (<span class=\"yearStyle\">2006</span>). A multilevel analysis of rumor transmission: Effects of anxiety and belief in two field experiments. <span class=\"sourceStyle\"><i>Basic and Applied Social Psychology</i></span>, <span class=\"volStyele\"><i>28</i></span>(1), 91-100. ",
+            "url": "https://www.tandfonline.com/doi/full/10.1207/s15324834basp2801_8",
+            "doi": "10.1207/s15324834basp2801_8"
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_18"
+        ],
+        "publicationType": "journal",
+        "id": "b51",
+        "label": "[51]",
+        "nian": 2003,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Rimal R. N.",
+                "personType": "author"
+              },
+              {
+                "name": "Real K.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Rimal</surname> <given-names>R. N.</given-names></name>, &amp; <name><surname>Real</surname> <given-names>K.</given-names></name> (<span class=\"yearStyle\">2003</span>). Understanding the influence of perceived norms on behaviors. <i>Communication Theory</i>, <span class=\"volStyele\"><i>13</i></span>(2), 184-203."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Computers in Human Behavior",
+        "bodyP_ids": [
+          "mag_rich_body_p_2"
+        ],
+        "publicationType": "journal",
+        "id": "b52",
+        "label": "[52]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Shin J.",
+                "personType": "author"
+              },
+              {
+                "name": "Jian L.",
+                "personType": "author"
+              },
+              {
+                "name": "Driscoll K.",
+                "personType": "author"
+              },
+              {
+                "name": "Bar F.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Shin</surname> <given-names>J.</given-names></name>, <name><surname>Jian</surname> <given-names>L.</given-names></name>, <name><surname>Driscoll</surname> <given-names>K.</given-names></name>, &amp; <name><surname>Bar</surname> <given-names>F.</given-names></name> (<span class=\"yearStyle\">2018</span>). The diffusion of misinformation on social media: Temporal pattern, message, and source. <span class=\"sourceStyle\"><i>Computers in Human Behavior</i></span>, <span class=\"volStyele\"><i>83</i></span>, 278-287. ",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S0747563218300669",
+            "doi": "10.1016/j.chb.2018.02.008"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Health Communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_60"
+        ],
+        "publicationType": "journal",
+        "id": "b53",
+        "label": "[53]",
+        "nian": 2013,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "For two decades, the extended parallel process model (EPPM; Witte, 1992 ) has been one of the most widely used theoretical frameworks in health risk communication. The model has gained much popularity because it recognizes that, ironically, preceding fear appeal models do not incorporate the concept of fear as a legitimate and central part of them. As a remedy to this situation, the EPPM aims at \"putting the fear back into fear appeals\" ( Witte, 1992, p. 330). Despite this attempt, however, this article argues that the EPPM still does not fully capture the essence of fear as an emotion. Specifically, drawing upon Lazarus's (1991 ) cognitive appraisal theory of emotion and the concept of dispositional coping style ( Miller, 1995 ), this article seeks to further extend the EPPM. The revised EPPM incorporates a more comprehensive perspective on risk perceptions as a construct involving both cognitive and affective aspects (i.e., fear and anxiety) and integrates the concept of monitoring and blunting coping style as a moderator of further information seeking regarding a given risk topic.",
+            "personList": [
+              {
+                "name": "So J.",
+                "personType": "author"
+              }
+            ],
+            "pmid": "23330860",
+            "content": "<name><surname>So</surname> <given-names>J.</given-names></name> (<span class=\"yearStyle\">2013</span>). A further extension of the extended parallel process model (E-EPPM): Implications of cognitive appraisal theory of emotion and dispositional coping style. <span class=\"sourceStyle\"><i>Health Communication</i></span>, <span class=\"volStyele\"><i>28</i></span>(1), 72-83. ",
+            "doi": "10.1080/10410236.2012.708633"
+          }
+        ]
+      },
+      {
+        "sourceEn": "IEEE International Conference on Healthcare Informatics (ICHI) (pp",
+        "bodyP_ids": [
+          "mag_rich_body_p_27"
+        ],
+        "publicationType": "journal",
+        "id": "b54",
+        "label": "[54]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Song S.",
+                "personType": "author"
+              },
+              {
+                "name": "Zhao Y.",
+                "personType": "author"
+              },
+              {
+                "name": "Song X.",
+                "personType": "author"
+              },
+              {
+                "name": "Zhu Q.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Song</surname> <given-names>S.</given-names></name>, <name><surname>Zhao</surname> <given-names>Y.</given-names></name>, <name><surname>Song</surname> <given-names>X.</given-names></name>, &amp; <name><surname>Zhu</surname> <given-names>Q.</given-names></name> (<span class=\"yearStyle\">2019</span>, June). The role of health literacy on credibility judgment of online health misinformation. In 2019 <span class=\"sourceStyle\"><i>IEEE International Conference on Healthcare Informatics (ICHI)</i> (pp</span>. 1-3). IEEE."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Retrieved from",
+        "bodyP_ids": [
+          "mag_rich_body_p_14"
+        ],
+        "publicationType": "online",
+        "id": "b55",
+        "label": "[55]",
+        "nian": 2015,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Statista",
+                "personType": "author"
+              }
+            ],
+            "content": "Statista (<span class=\"yearStyle\">2015</span>). <span class=\"sourceStyle\">Retrieved from</span> https://www.statista.com/statistics/467097/china-major-public-concerns/. ",
+            "url": "https://www.statista.com/statistics/467097/china-major-public-concerns/"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Retrieved from",
+        "bodyP_ids": [
+          "mag_rich_body_p_14"
+        ],
+        "publicationType": "online",
+        "id": "b56",
+        "label": "[56]",
+        "nian": 2022,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Statista",
+                "personType": "author"
+              }
+            ],
+            "content": "Statista (<span class=\"yearStyle\">2022a</span>). <span class=\"sourceStyle\">Retrieved from</span> https://www.statista.com/statistics/1272675/china-health-and-wellness-concerns-changes/. ",
+            "url": "https://www.statista.com/statistics/1272675/china-health-and-wellness-concerns-changes/"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Retrieved from",
+        "bodyP_ids": [
+          "mag_rich_body_p_33"
+        ],
+        "publicationType": "online",
+        "id": "b57",
+        "label": "[57]",
+        "nian": 2022,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Statista",
+                "personType": "author"
+              }
+            ],
+            "content": "Statista (<span class=\"yearStyle\">2022b</span>). <span class=\"sourceStyle\">Retrieved from</span> https://www.statista.com/statistics/910787/china-monthly-active-users-on-leading-news-apps/. ",
+            "url": "https://www.statista.com/statistics/910787/china-monthly-active-users-on-leading-news-apps/"
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_1",
+          "mag_rich_body_p_2"
+        ],
+        "publicationType": "journal",
+        "id": "b58",
+        "label": "[58]",
+        "nian": 2018,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Vosoughi S.",
+                "personType": "author"
+              },
+              {
+                "name": "Roy D.",
+                "personType": "author"
+              },
+              {
+                "name": "Aral S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Vosoughi</surname> <given-names>S.</given-names></name>, <name><surname>Roy</surname> <given-names>D.</given-names></name>, &amp; <name><surname>Aral</surname> <given-names>S.</given-names></name> (<span class=\"yearStyle\">2018</span>). The spread of true and false news online. <i>Science</i>, <span class=\"volStyele\"><i>359</i></span>(6380), 1146-1151."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Testing the effectiveness of correction placement and type on Instagram. The International Journal of Press/Politics",
+        "bodyP_ids": [
+          "mag_rich_body_p_2"
+        ],
+        "publicationType": "journal",
+        "id": "b59",
+        "label": "[59]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Despite concerns about misinformation across social media platforms, little attention has been paid to how to correct misinformation on visual platforms like Instagram. This study uses an experimental design on a national sample to test two features of user-based correction strategies on Instagram for a divisive issue on which misinformation abounds: the issue of climate change. First, we unite the inoculation and correction literature to test the efficacy of prebunking corrections that come before exposure to the misinformation versus debunking strategies that occur after exposure. Second, we compare fact-focused corrections that provide accurate information to rebut the misinformation against logic-focused corrections that highlight the rhetorical flaw underpinning the misinformation. Our findings suggest that these strategies intersect to reduce misperceptions. Logic-focused corrections effectively reduce misperceptions regardless of their placement before or after the misinformation, and appear to function in part by reducing perceptions of the credibility of the misinformation post. Fact-focused corrections only reduce misperceptions when they occur after the misinformation, but are seen as more credible than logic-focused corrections. We discuss the implications of our findings for understanding the theoretical mechanism by which correction can occur and the practical guidelines to best correct misinformation in visual social media spaces.",
+            "personList": [
+              {
+                "name": "Vraga E. K.",
+                "personType": "author"
+              },
+              {
+                "name": "Kim S. C.",
+                "personType": "author"
+              },
+              {
+                "name": "Cook J.",
+                "personType": "author"
+              },
+              {
+                "name": "Bode L.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Vraga</surname> <given-names>E. K.</given-names></name>, <name><surname>Kim</surname> <given-names>S. C.</given-names></name>, <name><surname>Cook</surname> <given-names>J.</given-names></name>, &amp; <name><surname>Bode</surname> <given-names>L.</given-names></name> (<span class=\"yearStyle\">2020</span>). <span class=\"sourceStyle\">Testing the effectiveness of correction placement and type on Instagram. <i>The International Journal of Press/Politics</i></span>, <span class=\"volStyele\"><i>25</i></span>(4), 632-652. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1940161220919082",
+            "doi": "10.1177/1940161220919082"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Risk perception and the media. Journal of Risk Research",
+        "bodyP_ids": [
+          "mag_rich_body_p_19"
+        ],
+        "publicationType": "journal",
+        "id": "b60",
+        "label": "[60]",
+        "nian": 2000,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Wahlberg A. A. F.",
+                "personType": "author"
+              },
+              {
+                "name": "Sjoberg L.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Wahlberg</surname> <given-names>A. A. F.</given-names></name>, &amp; <name><surname>Sjoberg</surname> <given-names>L.</given-names></name> (<span class=\"yearStyle\">2000</span>). <span class=\"sourceStyle\">Risk perception and the media. <i>Journal of Risk Research</i></span>, <span class=\"volStyele\"><i>3</i></span>(1), 31-50. ",
+            "url": "http://www.tandfonline.com/doi/abs/10.1080/136698700376699",
+            "doi": "10.1080/136698700376699"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Communication Research",
+        "bodyP_ids": [
+          "mag_rich_body_p_10"
+        ],
+        "publicationType": "journal",
+        "id": "b61",
+        "label": "[61]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "\\n A meta-analysis was conducted to examine the extent of continued influence of misinformation in the face of correction and the theoretical explanations of this phenomenon. Aggregation of results from 32 studies (\\n N\\n = 6,527) revealed that, on average, correction does not entirely eliminate the effect of misinformation (\\n r\\n = –.05,\\n p\\n =.045). Corrective messages were found to be more successful when they are coherent, consistent with the audience’s worldview, and delivered by the source of the misinformation itself. Corrections are less effective if the misinformation was attributed to a credible source, the misinformation has been repeated multiple times prior to correction, or when there was a time lag between the delivery of the misinformation and the correction. These findings are consistent with predictions based on theories of mental models and offer concrete recommendations for practitioners.\\n",
+            "personList": [
+              {
+                "name": "Walter N.",
+                "personType": "author"
+              },
+              {
+                "name": "Tukachinsky R.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Walter</surname> <given-names>N.</given-names></name>, &amp; <name><surname>Tukachinsky</surname> <given-names>R.</given-names></name> (<span class=\"yearStyle\">2020</span>). A meta-analytic examination of the continued influence of misinformation in the face of correction: How powerful is it, why does it happen, and how to stop it?. <span class=\"sourceStyle\"><i>Communication Research</i></span>, <span class=\"volStyele\"><i>47</i></span>(2), 155-177. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/0093650219854600",
+            "doi": "10.1177/0093650219854600"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Health Communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_10"
+        ],
+        "publicationType": "journal",
+        "id": "b62",
+        "label": "[62]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Walter N.",
+                "personType": "author"
+              },
+              {
+                "name": "Brooks J. J.",
+                "personType": "author"
+              },
+              {
+                "name": "Saucier C. J.",
+                "personType": "author"
+              },
+              {
+                "name": "Suresh S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Walter</surname> <given-names>N.</given-names></name>, <name><surname>Brooks</surname> <given-names>J. J.</given-names></name>, <name><surname>Saucier</surname> <given-names>C. J.</given-names></name>, &amp; <name><surname>Suresh</surname> <given-names>S.</given-names></name> (<span class=\"yearStyle\">2021</span>). Evaluating the impact of attempts to correct health misinformation on social media: A meta-analysis. <span class=\"sourceStyle\"><i>Health Communication</i></span>, <span class=\"volStyele\"><i>36</i></span>(13), 1776-1784. ",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/10410236.2020.1794553",
+            "doi": "10.1080/10410236.2020.1794553"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Communication Monographs",
+        "bodyP_ids": [
+          "mag_rich_body_p_4",
+          "mag_rich_body_p_18",
+          "mag_rich_body_p_59"
+        ],
+        "publicationType": "journal",
+        "id": "b63",
+        "label": "[63]",
+        "nian": 1992,
+        "citedCount": 3,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Witte K.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Witte</surname> <given-names>K.</given-names></name> (<span class=\"yearStyle\">1992</span>). Putting the fear back into fear appeals: The extended parallel process model. <span class=\"sourceStyle\"><i>Communication Monographs</i></span>, <span class=\"volStyele\"><i>59</i></span>(4), 329-349. ",
+            "url": "http://www.tandfonline.com/doi/abs/10.1080/03637759209376276",
+            "doi": "10.1080/03637759209376276"
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_26"
+        ],
+        "publicationType": "journal",
+        "id": "b64",
+        "label": "[64]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "World Health Organization",
+                "personType": "author"
+              }
+            ],
+            "content": "World Health Organization. (<span class=\"yearStyle\">2021</span>). <i>Health promotion glossary of terms 2021</i>. Geneva: World Health Organization."
+          }
+        ]
+      },
+      {
+        "sourceEn": "In International Conference on Human-Computer Interaction",
+        "bodyP_ids": [
+          "mag_rich_body_p_27"
+        ],
+        "publicationType": "book",
+        "id": "b65",
+        "label": "[65]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Yang M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Yang</surname> <given-names>M.</given-names></name> (<span class=\"yearStyle\">2019</span>, July). Health information literacy of the older adults and their intention to share health rumors:an analysis from the perspective of socioemotional selectivity theory. <span class=\"sourceStyle\"><i>In International Conference on Human-Computer Interaction</i></span> (pp.97-108). Springer, Cham."
+          }
+        ]
+      },
+      {
+        "sourceEn": "The risk construct. In J. F. Yates (Ed.), Risk-taking Behavior",
+        "bodyP_ids": [
+          "mag_rich_body_p_58"
+        ],
+        "publicationType": "book",
+        "id": "b66",
+        "label": "[66]",
+        "nian": 1992,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Yates J. E",
+                "personType": "author"
+              },
+              {
+                "name": "Stone E. R.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Yates</surname> <given-names>J. E</given-names></name>, &amp; <name><surname>Stone</surname> <given-names>E. R.</given-names></name> (<span class=\"yearStyle\">1992</span>). <span class=\"sourceStyle\">The risk construct. In J. F. Yates (Ed.), <i>Risk-taking Behavior</i></span> (pp.1-25). New York, NY: Wiley."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of Personality and Social Psychology",
+        "bodyP_ids": [
+          "mag_rich_body_p_15"
+        ],
+        "publicationType": "journal",
+        "id": "b67",
+        "label": "[67]",
+        "nian": 1968,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Zajonc R. B.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Zajonc</surname> <given-names>R. B.</given-names></name> (<span class=\"yearStyle\">1968</span>). Attitudinal effects of mere exposure. <span class=\"sourceStyle\"><i>Journal of Personality and Social Psychology</i></span>, <span class=\"volStyele\"><i>9</i></span>(2, Pt.2), 1-27."
+          }
+        ]
+      }
+    ],
+    "authorNotesCorresp_cn": [
+      "方洁，中国人民大学新闻学院副教授，中国人民大学新闻与社会发展研究中心研究员。电子邮箱：<a class=\"mag-xml-email-a\" href=\"mailto:20080073@ruc.edu.cn\">20080073@ruc.edu.cn</a>。"
+    ],
+    "bioList_cn": [
+      {
+        "content": "<p id=\"com1\">潘文静，中国人民大学新闻学院副教授，中国人民大学新闻与社会发展研究中心研究员。电子邮箱：<a class=\"mag-xml-email-a\" href=\"mailto:wenjingpan@ruc.edu.cn\">wenjingpan@ruc.edu.cn</a>。</p>"
+      },
+      {
+        "content": "<p id=\"com1\">孙纪开，中国人民大学新闻学院硕士研究生。电子邮箱：<a class=\"mag-xml-email-a\" href=\"mailto:jikaisun@ruc.edu.cn\">jikaisun@ruc.edu.cn</a>。</p>"
+      }
+    ],
+    "fnList": [
+      {
+        "id": "note1",
+        "content": "<p id=\"C1\">1. 第八届中国食品安全论坛 。检索于 <uri>http://www.ce.cn/cysc/ztpd/2016/salt/index.shtml</uri>。</p>"
+      },
+      {
+        "id": "note2",
+        "content": "<p id=\"C2\">2. 2019年网络谣言治理报告 。检索于 <uri>http://society.people.com.cn/n1/2019/1226/c1008-31524533.html</uri>。</p>"
+      },
+      {
+        "id": "note3",
+        "content": "<p id=\"C3\">3. 辟谣：网传女子吃了一个月低钠盐险丢命，低钠盐还能吃吗?检索于 <uri>https://www.thepaper.cn/newsDetail_forward_2119900</uri>。</p>"
+      },
+      {
+        "id": "note4",
+        "content": "<p id=\"C4\">4. 专家辟谣：海南香蕉染病不可信 。检索于 <uri>http://news.cctv.com/society/20070404/100379.shtml</uri>。</p>"
+      }
+    ],
+    "article": {
+      "keywordList_cn": [
+        "虚假信息",
+        "食品安全",
+        "感知威胁",
+        "健康信息素养",
+        "风险的社会放大理论框架"
+      ],
+      "juan": "44",
+      "zhaiyao_cn": "<p id=\"p00015\">社交媒体上传播的假新闻、虚假信息和谣言已经成为一种社会现象，引起了广泛的关注。目前，与虚假信息相关的研究主要集中在政治和健康话题。考虑到食品安全虚假信息在中文社交媒体上的普遍性和其对个人以及社会的负面影响，本研究聚焦食品安全虚假信息接受及其传播机制。基于风险的社会放大理论框架，本研究假设食品安全虚假信息的接触会正向预测个人对其接受程度，并且在这一过程中，感知威胁会起到正向的中介作用，而健康信息素养会起到调节作用。通过对腾讯新闻用户发放APP内置在线调查问卷，本研究共获取22706位用户的回答，进行分析后发现：在控制人口统计学变量影响之后，食品安全虚假信息接触正向预测虚假信息接受，感知威胁在这一过程中的中介作用显著；和健康信息素养高的用户相比，虚假信息接触与感知威胁之间的关系对于健康信息素养低的人来说更强。本研究得出的结论有利于进一步理解虚假信息的传播方式，以及致使其形成的社会心理动因，并为相应的干预实践提供指导。</p>",
+      "endNoteUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=EndNote&id=1271",
+      "bibtexUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=BibTeX&id=1271",
+      "articleType": "A",
+      "abstractUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2022/V44/I10/74",
+      "qi": "10",
+      "id": 1271,
+      "nian": 2022,
+      "bianHao": "20221004",
+      "juanUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2022",
+      "shouCiFaBuRiQi": "2023-03-06",
+      "qiShiYe": "74",
+      "qiUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2022/V44/I10",
+      "lanMu_cn": "研究论文",
+      "pdfSize": "1556KB",
+      "risUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=Ris&id=1271",
+      "title_cn": "食品安全虚假信息的接触和接受：感知威胁的中介作用和健康信息素养的调节作用",
+      "jieShuYe": "95",
+      "keywordList_en": [
+        "misinformation",
+        "food safety",
+        "perceived threats",
+        "health information literacy",
+        "social amplification of risk framework"
+      ],
+      "endNoteUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=EndNote&id=1271",
+      "zhaiyao_en": "<p id=\"p00020\">The prevalence of fake news, misinformation, and rumors on social media has grown into a social phenomenon and raised concerns widely. Misinformation-related studies have mostly focused on topics such as politics and health. The current study focused on food safety misinformation due to its prevalence on Chinese social media and the potential negative consequences it may have on individuals. Based on the social amplification of risk framework, this study examined how exposure to food safety misinformation may contribute to the more or less acceptance of misinformation via perceived threats. Furthermore, we examined whether health information literacy may help individuals to reduce the influences of misinformation exposure to misinformation acceptance. An online survey was conducted in collaboration with Tencent News. The online questionnaire was randomly sent to users of Tencent News Mobile APP and a total number of 22,706 users participated in the survey. After controlling for demographic variables, food safety misinformation exposure positively predicted misinformation acceptance directly and through evoking perceived threats to food safety issues. This study also provided empirical support that health information literacy can help individuals to guard against the potential negative effects of misinformation exposure. Practically, the results of the current study can also inform health practitioners and laypersons with ways to guard against the negative consequences of misinformation.</p>",
+      "bibtexUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=BibTeX&id=1271",
+      "abstractUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2022/V44/I10/74",
+      "juanUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2022",
+      "lanMu_en": "Research Articles",
+      "qiUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2022/V44/I10",
+      "risUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=Ris&id=1271",
+      "title_en": "Food Safety Misinformation Exposure and Acceptance: The Mediating Role of Perceived Threats and the Moderating Role of Health Information Literacy",
+      "hasPdf": "true"
+    },
+    "authorList_en": [
+      {
+        "deceased": false,
+        "name_cn": "潘文静",
+        "email": "wenjingpan@ruc.edu.cn",
+        "name_en": "PAN Wenjing"
+      },
+      {
+        "deceased": false,
+        "name_cn": "孙纪开",
+        "email": "jikaisun@ruc.edu.cn",
+        "name_en": "SUN Jikai"
+      },
+      {
+        "deceased": false,
+        "name_cn": "方洁",
+        "email": "20080073@ruc.edu.cn",
+        "name_en": "FANG Jie"
+      }
+    ],
+    "authorList_cn": [
+      {
+        "deceased": false,
+        "name_cn": "潘文静",
+        "email": "wenjingpan@ruc.edu.cn",
+        "name_en": "PAN Wenjing"
+      },
+      {
+        "deceased": false,
+        "name_cn": "孙纪开",
+        "email": "jikaisun@ruc.edu.cn",
+        "name_en": "SUN Jikai"
+      },
+      {
+        "deceased": false,
+        "name_cn": "方洁",
+        "email": "20080073@ruc.edu.cn",
+        "name_en": "FANG Jie"
+      }
+    ],
+    "tabList": [
+      {
+        "captionCn": "<p id=\"p00185\">所选取的食品安全虚假信息</p>",
+        "magId": "0ed1216b-edb7-43d5-a144-5a5e019bb547",
+        "labelCn": "表1",
+        "titleCn": "表1 所选取的食品安全虚假信息",
+        "id": "T1",
+        "table": "<table class=\"mag_table table\"> <thead> <tr> <th valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1</th> <th valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">用微波炉加热食品时，微波会产生致癌物质</th></tr></thead> <tbody> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">吃小龙虾会让人得一种名为“哈夫病”的恐怖病症，这种病很难治，已经席卷全球</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">有黑心商贩给西瓜注射增红增甜添加剂来谋取暴利</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">4</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">无论什么肉，放冰箱超过3个月，就不能吃了</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">5</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">某地有人因吃樱桃感染H7N9死亡</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">6</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">酸性体质是万病之源，会引发多种疾病，补充碱性食物可恢复健康</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">7</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">大蒜炝锅会引发致癌</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">8</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">经常喝冰水喝饮料会导致肾虚</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">9</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">美国公布了一份果蔬农残的排行榜，草莓连续多年都稳坐最脏水果排行榜冠军的位置</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">10</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">螃蟹和西红柿通吃等同于吃砒霜</td></tr></tbody></table>"
+      },
+      {
+        "captionCn": "<p id=\"p00245\">核心变量描述性统计与相关性</p>",
+        "magId": "64cf99cd-340d-4ec0-a41c-3118b6f2cf96",
+        "labelCn": "表2",
+        "titleCn": "表2 核心变量描述性统计与相关性",
+        "id": "T2",
+        "footFnList": [
+          {
+            "pList": [
+              "注：** p &lt;.01."
+            ]
+          }
+        ],
+        "table": "<table class=\"mag_table table\"> <thead> <tr> <th valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">变量</th> <th valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">均值（Mean）</th> <th valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">标准差（SD）</th> <th valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1</th> <th valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2</th> <th valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3</th></tr></thead> <tbody> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1. 虚假信息接触</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">4.94</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2.53</td> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2. 虚假信息接受</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">6.55</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3.06</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.20**</td> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3. 感知威胁</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3.30</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.80</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.18**</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.31**</td> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">4. 健康信息素养</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3.73</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.75</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-.056**</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-.32**</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-.26**</td></tr></tbody></table>"
+      },
+      {
+        "captionCn": "<p id=\"p00270\">虚假信息接触至虚假信息接受有调节的中介效果</p>",
+        "magId": "3e61e72f-40e8-4c4e-91c0-fe4eb76ff5a0",
+        "labelCn": "表3",
+        "titleCn": "表3 虚假信息接触至虚假信息接受有调节的中介效果",
+        "id": "T3",
+        "footFnList": [
+          {
+            "pList": [
+              "注：LLCI即置信区间下限；ULCI即置信区间上限。"
+            ]
+          }
+        ],
+        "table": "<table class=\"mag_table table\"> <thead> <tr> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;\" rowspan=\"2\">虚假信息接受</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\" colspan=\"5\">虚假信息接触</th></tr> <tr> <th valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">健康信息素养位于：</th> <th valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">b</th> <th valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">p</th> <th valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">LLCI</th> <th valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">ULCI</th></tr></thead> <tbody> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-bottom:1px solid #000;\" rowspan=\"3\"/> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-1标准差</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.047</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">&lt;.05</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.0416</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.0518</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">均值</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.043</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">&lt;.05</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.0383</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.0468</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">+1标准差</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.036</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">&lt;.05</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.0300</td> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.0425</td></tr></tbody></table>"
+      }
+    ],
+    "journal": {
+      "issn": "1002-5685",
+      "qiKanWangZhi": "http://cjjc.ruc.edu.cn",
+      "qiKanMingCheng_CN": "国际新闻界",
+      "id": 1,
+      "qiKanMingCheng_EN": "Chinese Journal of Journalism & Communication"
+    },
+    "ackList": [
+      {
+        "title_cn": "致谢 [Acknowledgement]",
+        "title_en": "",
+        "content": "<p id=\"p00380\">感谢腾讯新闻较真平台对问卷发放和收集提供支持。</p>"
+      }
+    ],
+    "authorList": [
+      {
+        "deceased": false,
+        "name_cn": "潘文静",
+        "email": "wenjingpan@ruc.edu.cn",
+        "name_en": "PAN Wenjing"
+      },
+      {
+        "deceased": false,
+        "name_cn": "孙纪开",
+        "email": "jikaisun@ruc.edu.cn",
+        "name_en": "SUN Jikai"
+      },
+      {
+        "deceased": false,
+        "name_cn": "方洁",
+        "email": "20080073@ruc.edu.cn",
+        "name_en": "FANG Jie"
+      }
+    ],
+    "authorNotes_en": [
+      "Fang Jie is an associate professor at the School of Journalism and Communication,Renmin University of China. Email: <a class=\"mag-xml-email-a\" href=\"mailto:20080073@ruc.edu.cn\">20080073@ruc.edu.cn</a>."
+    ],
+    "fundList_cn": [
+      "中国人民大学2022年度“中央高校建设世界一流大学（学科）和特色发展引导专项资金、中央高校基本科研业务费”(2022XWTD002)"
+    ],
+    "figList": [
+      {
+        "captionCn": "<title>概念模型</title>",
+        "magId": "6256dd10-6439-4b4f-8f96-197025d35bb3",
+        "labelCn": "图1",
+        "pptUrl": "1002-5685-44-10-74/img_1.png.ppt",
+        "figUrl": "1002-5685-44-10-74/img_1.png",
+        "titleCn": "图1 概念模型",
+        "id": "F1",
+        "thumbnailUrl": "1002-5685-44-10-74/thumbnail/img_1.png"
+      },
+      {
+        "captionCn": "<title>实际模型与路径系数</title> <p id=\"p00285\">注：** p &lt;.01, *** p &lt;.001.</p>",
+        "magId": "f7a80062-44ca-43ea-b0a1-69bf3676e255",
+        "labelCn": "图2",
+        "pptUrl": "1002-5685-44-10-74/img_2.png.ppt",
+        "figUrl": "1002-5685-44-10-74/img_2.png",
+        "titleContentCn": "<p id=\"p00285\">注：** p &lt;.01, *** p &lt;.001.</p>",
+        "titleCn": "图2 实际模型与路径系数",
+        "id": "F2",
+        "thumbnailUrl": "1002-5685-44-10-74/thumbnail/img_2.png"
+      }
+    ],
+    "fundList_en": [
+      "fund for building world-class universities (disciplines) of Renmin University of China(2022XWTD002)"
+    ],
+    "backFnGroupList": [
+      {
+        "fnList": [
+          {
+            "pList": [
+              "<p id=\"C1\">第八届中国食品安全论坛 。检索于 <uri>http://www.ce.cn/cysc/ztpd/2016/salt/index.shtml</uri>。</p>"
+            ],
+            "fnType": "note",
+            "id": "note1",
+            "label": "1.",
+            "content": "<p id=\"C1\">1. 第八届中国食品安全论坛 。检索于 <uri>http://www.ce.cn/cysc/ztpd/2016/salt/index.shtml</uri>。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C2\">2019年网络谣言治理报告 。检索于 <uri>http://society.people.com.cn/n1/2019/1226/c1008-31524533.html</uri>。</p>"
+            ],
+            "fnType": "note",
+            "id": "note2",
+            "label": "2.",
+            "content": "<p id=\"C2\">2. 2019年网络谣言治理报告 。检索于 <uri>http://society.people.com.cn/n1/2019/1226/c1008-31524533.html</uri>。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C3\">辟谣：网传女子吃了一个月低钠盐险丢命，低钠盐还能吃吗?检索于 <uri>https://www.thepaper.cn/newsDetail_forward_2119900</uri>。</p>"
+            ],
+            "fnType": "note",
+            "id": "note3",
+            "label": "3.",
+            "content": "<p id=\"C3\">3. 辟谣：网传女子吃了一个月低钠盐险丢命，低钠盐还能吃吗?检索于 <uri>https://www.thepaper.cn/newsDetail_forward_2119900</uri>。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C4\">专家辟谣：海南香蕉染病不可信 。检索于 <uri>http://news.cctv.com/society/20070404/100379.shtml</uri>。</p>"
+            ],
+            "fnType": "note",
+            "id": "note4",
+            "label": "4.",
+            "content": "<p id=\"C4\">4. 专家辟谣：海南香蕉染病不可信 。检索于 <uri>http://news.cctv.com/society/20070404/100379.shtml</uri>。</p>"
+          }
+        ],
+        "title_cn": "注释 [Notes]"
+      }
+    ],
+    "authorNotes_cn": [
+      "方洁，中国人民大学新闻学院副教授，中国人民大学新闻与社会发展研究中心研究员。电子邮箱：<a class=\"mag-xml-email-a\" href=\"mailto:20080073@ruc.edu.cn\">20080073@ruc.edu.cn</a>。"
+    ]
+  },
+  "text": "食品安全虚假信息的接触和接受：感知威胁的中介作用和健康信息素养的调节作用 × 模态框（Modal）标题 在这里添加一些文本 关闭 关闭 提交更改 取消 确定并提交 × 模态框（Modal）标题 × 下载引用文件后，可以用常见的文献管理软件打开和编辑，包括: BibTex, EndNote, ProCite, RefWorks, and Reference Manager. 选择文件类型/文献管理软件名称 RIS (ProCite, Reference Manager, EndNote) BibTeX 选择包含的内容 仅文章引用信息 引用信息及摘要 导出 食品安全虚假信息的接触和接受：感知威胁的中介作用和健康信息素养的调节作用 潘文静, 孙纪开, 方洁 国际新闻界 ›› 2022, Vol. 44 ›› Issue (10) : 74-95. PDF(1556 KB) Toggle navigation 首 页 期刊介绍 编委会 投稿指南 格式规范 期刊订阅 联系我们 English 投稿指南 格式规范 PDF(1556 KB) 国际新闻界 ›› 2022, Vol. 44 ›› Issue (10) : 74-95. 研究论文 食品安全虚假信息的接触和接受：感知威胁的中介作用和健康信息素养的调节作用 潘文静 , 孙纪开 , 方洁 作者信息 + 作者简介: 潘文静，中国人民大学新闻学院副教授，中国人民大学新闻与社会发展研究中心研究员。电子邮箱： wenjingpan@ruc.edu.cn 。 孙纪开，中国人民大学新闻学院硕士研究生。电子邮箱： jikaisun@ruc.edu.cn 。 通信作者: 方洁，中国人民大学新闻学院副教授，中国人民大学新闻与社会发展研究中心研究员。电子邮箱： 20080073@ruc.edu.cn 。 折叠 Food Safety Misinformation Exposure and Acceptance: The Mediating Role of Perceived Threats and the Moderating Role of Health Information Literacy PAN Wenjing , SUN Jikai , FANG Jie Author information + About authors: Pan Wenjing is an associate professor at the School of Journalism and Communication, Renmin University of China. Email: wenjingpan@ruc.edu.cn . Jikai Sun is a M.A. student at the School of Journalism and Communication, Renmin University of China. Email: jikaisun@ruc.edu.cn . Corresponding authors: Fang Jie is an associate professor at the School of Journalism and Communication,Renmin University of China. Email: 20080073@ruc.edu.cn . Show less 文章历史 + 出版日期 2022-10-23 发布日期 2023-03-06 摘要 社交媒体上传播的假新闻、虚假信息和谣言已经成为一种社会现象，引起了广泛的关注。目前，与虚假信息相关的研究主要集中在政治和健康话题。考虑到食品安全虚假信息在中文社交媒体上的普遍性和其对个人以及社会的负面影响，本研究聚焦食品安全虚假信息接受及其传播机制。基于风险的社会放大理论框架，本研究假设食品安全虚假信息的接触会正向预测个人对其接受程度，并且在这一过程中，感知威胁会起到正向的中介作用，而健康信息素养会起到调节作用。通过对腾讯新闻用户发放APP内置在线调查问卷，本研究共获取22706位用户的回答，进行分析后发现：在控制人口统计学变量影响之后，食品安全虚假信息接触正向预测虚假信息接受，感知威胁在这一过程中的中介作用显著；和健康信息素养高的用户相比，虚假信息接触与感知威胁之间的关系对于健康信息素养低的人来说更强。本研究得出的结论有利于进一步理解虚假信息的传播方式，以及致使其形成的社会心理动因，并为相应的干预实践提供指导。 Abstract The prevalence of fake news, misinformation, and rumors on social media has grown into a social phenomenon and raised concerns widely. Misinformation-related studies have mostly focused on topics such as politics and health. The current study focused on food safety misinformation due to its prevalence on Chinese social media and the potential negative consequences it may have on individuals. Based on the social amplification of risk framework, this study examined how exposure to food safety misinformation may contribute to the more or less acceptance of misinformation via perceived threats. Furthermore, we examined whether health information literacy may help individuals to reduce the influences of misinformation exposure to misinformation acceptance. An online survey was conducted in collaboration with Tencent News. The online questionnaire was randomly sent to users of Tencent News Mobile APP and a total number of 22,706 users participated in the survey. After controlling for demographic variables, food safety misinformation exposure positively predicted misinformation acceptance directly and through evoking perceived threats to food safety issues. This study also provided empirical support that health information literacy can help individuals to guard against the potential negative effects of misinformation exposure. Practically, the results of the current study can also inform health practitioners and laypersons with ways to guard against the negative consequences of misinformation. 关键词 虚假信息 / 食品安全 / 感知威胁 / 健康信息素养 / 风险的社会放大理论框架 Key words misinformation / food safety / perceived threats / health information literacy / social amplification of risk framework 引用本文 EndNote Ris (Procite) Bibtex 导出引用 潘文静 , 孙纪开 , 方洁 . 食品安全虚假信息的接触和接受：感知威胁的中介作用和健康信息素养的调节作用[J]. 国际新闻界 . 2022, 44(10): 74-95 PAN Wenjing , SUN Jikai , FANG Jie . Food Safety Misinformation Exposure and Acceptance: The Mediating Role of Perceived Threats and the Moderating Role of Health Information Literacy[J]. Chinese Journal of Journalism & Communication . 2022, 44(10): 74-95 {{custom_sec.title}} {{custom_sec.title}} {{custom_sec.content}} 参考文献 列表( 原文顺序 | 文献年度倒序 | 文中引用次数倒序 ) 可视化分析 [1] 陈慧( 2021 ). 食品安全谣言精准治理的突出问题与实现路径. 《乳业科学与技术》 ,(6),63-68. 本文引用 [1] [2] 陈经超, 黄晨阳( 2020 ). “自我取向”还是“家人取向”?基于中国情境的大学生流感疫苗接种健康传播策略效果研究. 《国际新闻界》 ,(6),98-113. 本文引用 [1] [3] 陈雅赛( 2020 ). 重大突发疫情谣言传播与受众接触研究. 《上海师范大学学报:哲学社会科学版》 ,(6),100-111. 本文引用 [1] [4] 楚亚杰( 2020 ). 人们为何相信不实信息:科学传播视角下的认知偏差与信息鉴别力研究. 《新闻大学》 ,(11),66-82+127. 本文引用 [1] [5] 冯强, 马志浩( 2019 ). 网络谣言的传播效果与社会阶层差异——以网络食品谣言为分析对象. 《新闻与传播评论》 ,(4),28-41. 本文引用 [3] [6] 国家卫生计生委.( 2015 ). 关于印发《中国公民健康素养——基本知识与技能(2015年版)》的通知. 检索于 http://www.nhc.gov.cn/xcs/s3581/201601/e02729e6565a47fea0487a212612705b.shtml. http://www.nhc.gov.cn/xcs/s3581/201601/e02729e6565a47fea0487a212612705b.shtml 本文引用 [1] [7] 居梦菲, 叶中华( 2018 ). 网络食品安全谣言治理研究. 《电子政务》 ,(9),66-76. 本文引用 [1] [8] 匡文波, 武晓立( 2021 ). 重大公共卫生事件中网络谣言传播模型构建与信息治理——基于对新型冠状病毒肺炎的谣言分析. 《现代传播》 ,(10),126-134+155. 本文引用 [1] [9] 赖胜强, 唐雪梅( 2017 ). 基于免疫系统理论的网络谣言治理研究. 《现代情报》 ,(12),30-34. 本文引用 [1] [10] 刘海龙, 于瀛 ( 2021 ). 概念的政治与概念的连接:谣言、传言、误导信息、虚假信息与假新闻的概念的重构. 《新闻界》 ,(12),23-40. 本文引用 [1] [11] 刘鸣筝, 孔泽鸣 ( 2017 ). 媒介素养视阈下公众谣言辨别能力及其影响因素的实证研究. 《新闻大学》 ,(4),102-109+151. 本文引用 [1] [12] 欧阳海燕( 2011 ). 2011中国人最感担忧五大安全问题. 《小康》 ,(7),50-54. 本文引用 [1] [13] 汤景泰, 陈秋怡, 徐铭亮( 2021 ). 情感共同体与协同行动:香港“修例风波”中虚假信息的动员机制. 《新闻与传播研究》 ,(8),58-76+127. 本文引用 [1] [14] 汤景泰, 巫惠娟( 2016 ). 风险表征与放大路径:论社交媒体语境中健康风险的社会放大. 《现代传播》 ,(12),15-20. 本文引用 [2] [15] 唐雪梅, 赖胜强( 2020 ). 网络辟谣信息如何影响受众的感知可信度——信息介入度的调节效应. 《国际新闻界》 ,(8),27-48. 本文引用 [1] [16] 王灿发( 2010 ). 突发公共事件的谣言传播模式建构及消解. 《现代传播》 ,(6),45-48. 本文引用 [1] [17] 王倩, 于风( 2017 ). 奥尔波特和波斯特曼谣言传播公式的改进及其验证:基于东北虎致游客伤亡事件的新浪微博谣言分析. 《国际新闻界》 ,(11),47-67. 本文引用 [1] [18] 吴建, 马超( 2015 ). 谣言传播公式溯源、修正与发展. 《新闻界》 ,(13),20-23. 本文引用 [1] [19] 杨丹( 2016 ). 网络虚假信息传播特点及治理——基于2016年上半年的大数据分析. 《新闻记者》 ,(8),38-43. 本文引用 [1] [20] 曾繁旭, 戴佳, 王宇琦( 2015 ). 技术风险VS感知风险:传播过程与风险社会放大. 《现代传播》 ,(3),40-46. 本文引用 [2] [21] 张振宇, 喻发胜, 王然( 2019 ). 讽刺画,预警器和烟幕弹——对国内假新闻研究的反思与重构(1980-2018) . 《国际新闻界》 ,(11), 156-174. 本文引用 [2] [22] 张志安, 冉桢 ( 2020 ). “风险的社会放大”视角下危机事件的风险沟通研究——以新冠疫情中的政府新闻发布为例. 《新闻界》 ,(6),12-19. 本文引用 [1] [23] 周高琴( 2021 ). 突发事件中恐慌性谣言网络传播的影响因素及治理启示——基于2015-2019年间15起典型案例的扎更研究. 《电子政务》 ,(8),94-104. 本文引用 [2] [24] Beck U. ( 2009 ). World at Risk . UK: Polity . 本文引用 [1] [25] Bearth A. , & Siegrist M. ( 2022 ). The social amplification of risk framework: A normative perspective on trust?. Risk Analysis , 42 (7), 1381-1392. https://doi.org/10.1111/risa.v42.7 https://onlinelibrary.wiley.com/toc/15396924/42/7 本文引用 [1] [26] Bordia P. , & DiFonzo N. ( 2004 ). Problem solving in social interactions on the Internet: Rumor as social cognition. Social Psychology Quarterly , 67 (1), 33-49. https://doi.org/10.1177/019027250406700105 https://journals.sagepub.com/doi/10.1177/019027250406700105 本文引用 [1] 摘要 Rumor discourse has been conceptualized as an attempt to reduce anxiety and uncertainty via a process of social sensemaking. Fourteen rumors transmitted on various Internet discussion groups were observed and content analyzed over the life of each rumor. With this (previously unavailable) more ecologically robust methodology, the intertwined threads of sensemaking and the gaining of interpretive control are clearly evident in the tapestry of rumor discourse. We propose a categorization of statements (the Rumor Interaction Analysis System) and find differences between dread rumors and wish rumors in anxiety-related content categories. Cluster analysis of these statements reveals a typology of voices (“communicative postures”) exhibiting sensemaking activities of the rumor discussion group, such as hypothesizing, skeptical critique, directing of activities to gain information, and presentation of evidence. These findings enrich our understanding of the long-implicated sensemaking function of rumor by clarifying the elements of communication that operate in rumor's social context. [27] Chen X. , Hay J. L. , Waters E. A. , Kiviniemi M. T. , Biddle C. , Schofield E. , … Orom H. ( 2018 ). Health literacy and use and trust in health information. Journal of Health Communication , 23 (8), 724-734. https://doi.org/10.1080/10810730.2018.1511658 https://www.ncbi.nlm.nih.gov/pubmed/30160641 本文引用 [2] 摘要 There is a need to investigate which health information sources are used and trusted by people with limited health literacy to help identify strategies for addressing knowledge gaps that can contribute to preventable illness. We examined whether health literacy was associated with people's use of and trust in a range of potential health information sources. Six hundred participants from a GfK Internet survey panel completed an online survey. We assessed health literacy using the Newest Vital Sign, the sources participants used to get health information, and the extent to which participants trusted health information from these sources. We performed multivariable regressions, controlling for demographic characteristics. Lower health literacy was associated with lower odds of using medical websites for health information and with higher odds of using television, social media, and blogs or celebrity webpages. People with lower health literacy were less likely to trust health information from specialist doctors and dentists, but more likely to trust television, social media, blogs/celebrity webpages, friends, and pharmaceutical companies. People with limited health literacy had higher rates of using and trusting sources such as social media and blogs, which might contain lower quality health information compared to information from healthcare professionals. Thus, it might be necessary to enhance the public's ability to evaluate the quality of health information sources. The results of this study could be used to improve the reach of high-quality health information among people with limited health literacy and thereby increase the effectiveness of health communication programs and campaigns. [28] Chong M. , & Choy M. ( 2018 ). The social amplification of haze-related risks on the internet. Health Communication , 33 (1), 14-21. 本文引用 [1] [29] Chua A. Y. , & Banerjee S. ( 2018 ). Intentions to trust and share online health rumors: An experiment with medical professionals. Computers in Human Behavior , 87 , 1-9. https://doi.org/10.1016/j.chb.2018.05.021 https://linkinghub.elsevier.com/retrieve/pii/S0747563218302474 本文引用 [1] [30] Fiske S. T. ( 2004 ). Social Beings: A Core Motives Approach to Social Psychology. Hoboken, NJ: Wiley . 本文引用 [1] [31] Greenhill K. M. , & Oppenheim B. ( 2017 ). Rumor has it: The adoption of unverified information in conflict zones. International Studies Quarterly , 61 (3), 660-676. https://doi.org/10.1093/isq/sqx015 http://academic.oup.com/isq/article/61/3/660/4557058 本文引用 [4] [32] Greenspan S. ( 2008 ). Annals of Gullibility: Why We Get Duped and How to Avoid It. Praeger. 本文引用 [1] [33] Hayes A. F. ( 2017 ). Introduction To Mediation, Moderation, And Conditional Process Analysis:A Regression-Based Approach . New York, NY: Guilford Publications. 本文引用 [1] [34] Huang Q. ( 2020 ). How does news media exposure amplify publics’ perceived health risks about air pollution in China? A conditional media effect approach. International Journal of Communication , 14 , 1705-1724. 本文引用 [1] [35] Kahneman D. , Knetsch J. L. , & Thaler R. H. ( 1991 ). Anomalies: The endowment effect, loss aversion, and status quo bias. Journal of Economic Perspectives , 5 (1), 193-206. 本文引用 [1] [36] Kasperson R. E. ( 2012 ). The social amplification of risk and low-level radiation. Bulletin of the Atomic Scientists , 68 (3), 59-66. https://doi.org/10.1177/0096340212444871 https://www.tandfonline.com/doi/full/10.1177/0096340212444871 本文引用 [1] [37] Kasperson R. E. , Renn O. , Slovic P. , Brown H. S. , Emel J. , Goble R. ,... & Ratick S. ( 1988 ). The social amplification of risk: A conceptual framework. Risk Analysis , 8 (2), 177-187. https://doi.org/10.1111/risk.1988.8.issue-2 https://onlinelibrary.wiley.com/toc/15396924/8/2 本文引用 [4] [38] Kirkpatrick A. W. ( 2021 ). The spread of fake science: Lexical concreteness, proximity, misinformation sharing, and the moderating role of subjective knowledge. Public Understanding of Science , 30 (1), 55-74. https://doi.org/10.1177/0963662520966165 https://www.ncbi.nlm.nih.gov/pubmed/33103578 本文引用 [2] 摘要 The spread of science misinformation harms efforts to mitigate threats like climate change or coronavirus. Construal-level theory suggests that mediated messages can prime psychological proximity to threats, having consequences for behavior. Via two MTurk experiments, I tested a serial mediation process model predicting misinformation sharing from lexical concreteness, through psychological proximity and perceived threat. In Study 1, concrete misinformation primed psychological proximity which, in turn, increased perceived threat. Perceived threat then increased the likelihood that misinformation would be shared. Source credibility was also shown to positively influence misinformation sharing. Study 2 advanced this by showing this process was moderated by subjective knowledge. Specifically, the effect of perceived threat on misinformation sharing was stronger for those with higher subjective knowledge. Furthermore, the indirect effect of lexical concreteness on misinformation sharing was stronger for those with higher subjective knowledge. Results and limitations are discussed within the lens of construal-level theory and science communication. [39] Laato S. , Islam A. K. M. , Islam M. N. , & Whelan E. ( 2020 ). Why do people share misinformation during the Covid-19 pandemic ?. arXiv preprint arXiv:2004. 09600. 本文引用 [1] [40] Larson H. J. , Lin L. , & Goble R. ( 2022 ). Vaccines and the social amplification of risk. Risk Analysis. Published online. doi: https://doi.org/10.1111/risa.13942 . https://doi.org/10.1111/risa.13942 本文引用 [1] [41] Maloney E. K. , Lapinski M. K. , & Witte K. ( 2011 ). Fear appeals and persuasion: A review and update of the extended parallel process model. Social and Personality Psychology Compass , 5 (4), 206-219. https://doi.org/10.1111/spco.2011.5.issue-4 https://compass.onlinelibrary.wiley.com/toc/17519004/5/4 本文引用 [1] [42] Merriam-Webster. Misinformation. Retrieved from https://www.merriam-webster.com/dictionary/misinformation https://www.merriam-webster.com/dictionary/misinformation 本文引用 [1] [43] Montagni I. , Ouazzani-Touhami K. , Mebarki A. , Texier N. , Schück S. , Tzourio C. , & Confins Group . ( 2021 ). Acceptance of a Covid-19 vaccine is associated with ability to detect fake news and health literacy. Journal of Public Health , 43 (4), 695-702. https://doi.org/10.1093/pubmed/fdab028 https://academic.oup.com/jpubhealth/article/43/4/695/6157442 本文引用 [1] 摘要 During the Covid-19 pandemic fake news has been circulating impacting on the general population’s opinion about a vaccine against the SARS-CoV-2. Health literacy measures the capacity of navigating health information. [44] Norman C. D. , & Skinner H. A. ( 2006 ). eHealth literacy: essential skills for consumer health in a networked world. Journal of Medical Internet Research , 8 (2), e9. https://doi.org/10.2196/jmir.8.2.e9 https://www.ncbi.nlm.nih.gov/pubmed/16867972 本文引用 [1] 摘要 Electronic health tools provide little value if the intended users lack the skills to effectively engage them. With nearly half the adult population in the United States and Canada having literacy levels below what is needed to fully engage in an information-rich society, the implications for using information technology to promote health and aid in health care, or for eHealth, are considerable. Engaging with eHealth requires a skill set, or literacy, of its own. The concept of eHealth literacy is introduced and defined as the ability to seek, find, understand, and appraise health information from electronic sources and apply the knowledge gained to addressing or solving a health problem. In this paper, a model of eHealth literacy is introduced, comprised of multiple literacy types, including an outline of a set of fundamental skills consumers require to derive direct benefits from eHealth. A profile of each literacy type with examples of the problems patient-clients might present is provided along with a resource list to aid health practitioners in supporting literacy improvement with their patient-clients across each domain. Facets of the model are illustrated through a set of clinical cases to demonstrate how health practitioners can address eHealth literacy issues in clinical or public health practice. Potential future applications of the model are discussed. [45] Nunnally J. C. ( 1967 ). Psychometric Theory . New York: McGraw-Hill. 本文引用 [1] [46] Nunnally J. C. ( 1978 ). Psychometric Theory , 2nd ed. New York: McGraw-Hill. 本文引用 [1] [47] Oh H. J. , & Lee H. ( 2019 ). When do people verify and share health rumors on social media? The effects of message importance, health anxiety, and health literacy. Journal of Health Communication , 24 (11), 837-847. https://doi.org/10.1080/10810730.2019.1677824 https://www.ncbi.nlm.nih.gov/pubmed/31609678 本文引用 [2] 摘要 This study explores the roles of perceived message importance, health anxiety, and health literacy in the relationship between message factors (message label and message valence) and behavioral intentions for rumor verification and sharing. 660 Twitter users responded to unverified information regarding the influenza vaccine. A 3 (label: none vs. news vs. rumor) × 2 (valence: positive vs. negative) online semi-experiment, with a survey to measure health anxiety and health literacy, showed the following results: First, perceived message importance mediated the relationship between message factors and behavioral intentions: only in the condition of the negative message, participants considered a news-labeled message more important than a rumor-labeled or a no-label message. Perceived message importance was associated with intentions to verify and share the message. Second, health anxiety interacted with perceived message importance only when predicting an intention to share the message. Last, healthy literacy interacted with perceived message importance when predicting intentions to both verify and share the message. The results will provide implications for health communication research and practices, especially on managing and controlling rumor dissemination on social media. [48] Pennycook G. , & Rand D. G. ( 2021 ). The psychology of fake news. Trends in Cognitive Sciences , 25 (5), 388-402. https://doi.org/10.1016/j.tics.2021.02.007 https://www.ncbi.nlm.nih.gov/pubmed/33736957 本文引用 [1] 摘要 We synthesize a burgeoning literature investigating why people believe and share false or highly misleading news online. Contrary to a common narrative whereby politics drives susceptibility to fake news, people are 'better' at discerning truth from falsehood (despite greater overall belief) when evaluating politically concordant news. Instead, poor truth discernment is associated with lack of careful reasoning and relevant knowledge, and the use of heuristics such as familiarity. Furthermore, there is a substantial disconnect between what people believe and what they share on social media. This dissociation is largely driven by inattention, more so than by purposeful sharing of misinformation. Thus, interventions can successfully nudge social media users to focus more on accuracy. Crowdsourced veracity ratings can also be leveraged to improve social media ranking algorithms.Copyright © 2021 The Authors. Published by Elsevier Ltd.. All rights reserved. [49] Peschard V . & Philippot P. ( 2016 ). Social anxiety and information processing biases: An integrated theoretical perspective. Cognition and Emotion , 30 (4), 762-777. https://doi.org/10.1080/02699931.2015.1028335 https://www.tandfonline.com/doi/full/10.1080/02699931.2015.1028335 本文引用 [1] [50] Pezzo M. V. , & Beckstead J. W. ( 2006 ). A multilevel analysis of rumor transmission: Effects of anxiety and belief in two field experiments. Basic and Applied Social Psychology , 28 (1), 91-100. https://doi.org/10.1207/s15324834basp2801_8 https://www.tandfonline.com/doi/full/10.1207/s15324834basp2801_8 本文引用 [1] [51] Rimal R. N. , & Real K. ( 2003 ). Understanding the influence of perceived norms on behaviors. Communication Theory , 13 (2), 184-203. 本文引用 [1] [52] Shin J. , Jian L. , Driscoll K. , & Bar F. ( 2018 ). The diffusion of misinformation on social media: Temporal pattern, message, and source. Computers in Human Behavior , 83 , 278-287. https://doi.org/10.1016/j.chb.2018.02.008 https://linkinghub.elsevier.com/retrieve/pii/S0747563218300669 本文引用 [1] [53] So J. ( 2013 ). A further extension of the extended parallel process model (E-EPPM): Implications of cognitive appraisal theory of emotion and dispositional coping style. Health Communication , 28 (1), 72-83. https://doi.org/10.1080/10410236.2012.708633 https://www.ncbi.nlm.nih.gov/pubmed/23330860 本文引用 [1] 摘要 For two decades, the extended parallel process model (EPPM; Witte, 1992 ) has been one of the most widely used theoretical frameworks in health risk communication. The model has gained much popularity because it recognizes that, ironically, preceding fear appeal models do not incorporate the concept of fear as a legitimate and central part of them. As a remedy to this situation, the EPPM aims at \"putting the fear back into fear appeals\" ( Witte, 1992, p. 330). Despite this attempt, however, this article argues that the EPPM still does not fully capture the essence of fear as an emotion. Specifically, drawing upon Lazarus's (1991 ) cognitive appraisal theory of emotion and the concept of dispositional coping style ( Miller, 1995 ), this article seeks to further extend the EPPM. The revised EPPM incorporates a more comprehensive perspective on risk perceptions as a construct involving both cognitive and affective aspects (i.e., fear and anxiety) and integrates the concept of monitoring and blunting coping style as a moderator of further information seeking regarding a given risk topic. [54] Song S. , Zhao Y. , Song X. , & Zhu Q. ( 2019 , June). The role of health literacy on credibility judgment of online health misinformation. In 2019 IEEE International Conference on Healthcare Informatics (ICHI) (pp . 1-3). IEEE. 本文引用 [1] [55] Statista ( 2015 ). Retrieved from https://www.statista.com/statistics/467097/china-major-public-concerns/. https://www.statista.com/statistics/467097/china-major-public-concerns/ 本文引用 [1] [56] Statista ( 2022a ). Retrieved from https://www.statista.com/statistics/1272675/china-health-and-wellness-concerns-changes/. https://www.statista.com/statistics/1272675/china-health-and-wellness-concerns-changes/ 本文引用 [1] [57] Statista ( 2022b ). Retrieved from https://www.statista.com/statistics/910787/china-monthly-active-users-on-leading-news-apps/. https://www.statista.com/statistics/910787/china-monthly-active-users-on-leading-news-apps/ 本文引用 [1] [58] Vosoughi S. , Roy D. , & Aral S. ( 2018 ). The spread of true and false news online. Science , 359 (6380), 1146-1151. 本文引用 [2] [59] Vraga E. K. , Kim S. C. , Cook J. , & Bode L. ( 2020 ). Testing the effectiveness of correction placement and type on Instagram. The International Journal of Press/Politics , 25 (4), 632-652. https://doi.org/10.1177/1940161220919082 https://journals.sagepub.com/doi/10.1177/1940161220919082 本文引用 [1] 摘要 Despite concerns about misinformation across social media platforms, little attention has been paid to how to correct misinformation on visual platforms like Instagram. This study uses an experimental design on a national sample to test two features of user-based correction strategies on Instagram for a divisive issue on which misinformation abounds: the issue of climate change. First, we unite the inoculation and correction literature to test the efficacy of prebunking corrections that come before exposure to the misinformation versus debunking strategies that occur after exposure. Second, we compare fact-focused corrections that provide accurate information to rebut the misinformation against logic-focused corrections that highlight the rhetorical flaw underpinning the misinformation. Our findings suggest that these strategies intersect to reduce misperceptions. Logic-focused corrections effectively reduce misperceptions regardless of their placement before or after the misinformation, and appear to function in part by reducing perceptions of the credibility of the misinformation post. Fact-focused corrections only reduce misperceptions when they occur after the misinformation, but are seen as more credible than logic-focused corrections. We discuss the implications of our findings for understanding the theoretical mechanism by which correction can occur and the practical guidelines to best correct misinformation in visual social media spaces. [60] Wahlberg A. A. F. , & Sjoberg L. ( 2000 ). Risk perception and the media. Journal of Risk Research , 3 (1), 31-50. https://doi.org/10.1080/136698700376699 http://www.tandfonline.com/doi/abs/10.1080/136698700376699 本文引用 [1] [61] Walter N. , & Tukachinsky R. ( 2020 ). A meta-analytic examination of the continued influence of misinformation in the face of correction: How powerful is it, why does it happen, and how to stop it?. Communication Research , 47 (2), 155-177. https://doi.org/10.1177/0093650219854600 https://journals.sagepub.com/doi/10.1177/0093650219854600 本文引用 [1] 摘要 \\n A meta-analysis was conducted to examine the extent of continued influence of misinformation in the face of correction and the theoretical explanations of this phenomenon. Aggregation of results from 32 studies (\\n N\\n = 6,527) revealed that, on average, correction does not entirely eliminate the effect of misinformation (\\n r\\n = –.05,\\n p\\n =.045). Corrective messages were found to be more successful when they are coherent, consistent with the audience’s worldview, and delivered by the source of the misinformation itself. Corrections are less effective if the misinformation was attributed to a credible source, the misinformation has been repeated multiple times prior to correction, or when there was a time lag between the delivery of the misinformation and the correction. These findings are consistent with predictions based on theories of mental models and offer concrete recommendations for practitioners.\\n [62] Walter N. , Brooks J. J. , Saucier C. J. , & Suresh S. ( 2021 ). Evaluating the impact of attempts to correct health misinformation on social media: A meta-analysis. Health Communication , 36 (13), 1776-1784. https://doi.org/10.1080/10410236.2020.1794553 https://www.tandfonline.com/doi/full/10.1080/10410236.2020.1794553 本文引用 [1] [63] Witte K. ( 1992 ). Putting the fear back into fear appeals: The extended parallel process model. Communication Monographs , 59 (4), 329-349. https://doi.org/10.1080/03637759209376276 http://www.tandfonline.com/doi/abs/10.1080/03637759209376276 本文引用 [3] [64] World Health Organization. ( 2021 ). Health promotion glossary of terms 2021 . Geneva: World Health Organization. 本文引用 [1] [65] Yang M. ( 2019 , July). Health information literacy of the older adults and their intention to share health rumors:an analysis from the perspective of socioemotional selectivity theory. In International Conference on Human-Computer Interaction (pp.97-108). Springer, Cham. 本文引用 [1] [66] Yates J. E , & Stone E. R. ( 1992 ). The risk construct. In J. F. Yates (Ed.), Risk-taking Behavior (pp.1-25). New York, NY: Wiley. 本文引用 [1] [67] Zajonc R. B. ( 1968 ). Attitudinal effects of mere exposure. Journal of Personality and Social Psychology , 9 (2, Pt.2), 1-27. 本文引用 [1] 文章年度分布 文献类型分布 被引期刊分布 被引用学者 注释 [Notes] 1. 第八届中国食品安全论坛 。检索于 http://www.ce.cn/cysc/ztpd/2016/salt/index.shtml 。 2. 2019年网络谣言治理报告 。检索于 http://society.people.com.cn/n1/2019/1226/c1008-31524533.html 。 3. 辟谣：网传女子吃了一个月低钠盐险丢命，低钠盐还能吃吗?检索于 https://www.thepaper.cn/newsDetail_forward_2119900 。 4. 专家辟谣：海南香蕉染病不可信 。检索于 http://news.cctv.com/society/20070404/100379.shtml 。 致谢 [Acknowledgement] 感谢腾讯新闻较真平台对问卷发放和收集提供支持。 基金 中国人民大学2022年度“中央高校建设世界一流大学（学科）和特色发展引导专项资金、中央高校基本科研业务费”(2022XWTD002) × 微信扫一扫 PDF(1556 KB) 可视化 Accesses Citation Altmetric Detail 段落导航 相关文章 期刊信息 期刊介绍 编委会 投稿指南 格式规范 期刊订阅 联系我们 在线期刊 当期目录 过刊浏览 E-mail Alert RSS 联系我们 地址：北京市海淀区中关村大街59号明德新闻楼 邮编：100872 电话：010-82509362 E-mail:gjxwj@ruc.edu.cn 访问统计 总访问量 ： 今日访问： 在线人数： 版权所有 © 《国际新闻界》编辑部 技术支持： 北京玛格泰克科技发展有限公司 / 〈 〉",
+  "links": [
+    "http://cjjc.ruc.edu.cn",
+    "http://cjjc.ruc.edu.cn/CN/archive/2022",
+    "http://cjjc.ruc.edu.cn/CN/Y2022/V44/I10",
+    "http://cjjc.ruc.edu.cn/CN/home",
+    "http://cjjc.ruc.edu.cn/CN/home",
+    "http://cjjc.ruc.edu.cn/CN/column/column1.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column2.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column5.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column6.shtml",
+    "http://cjjc.ruc.edu.cn/EN/home",
+    "https://www.ruc.edu.cn/",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn",
+    "http://cjjc.ruc.edu.cn/CN/archive/2022",
+    "http://cjjc.ruc.edu.cn/CN/Y2022/V44/I10",
+    "javascript:;",
+    "mailto:wenjingpan@ruc.edu.cn",
+    "javascript:;",
+    "mailto:jikaisun@ruc.edu.cn",
+    "javascript:;",
+    "mailto:20080073@ruc.edu.cn",
+    "mailto:wenjingpan@ruc.edu.cn",
+    "mailto:jikaisun@ruc.edu.cn",
+    "mailto:20080073@ruc.edu.cn",
+    "javascript:;",
+    "mailto:wenjingpan@ruc.edu.cn",
+    "javascript:;",
+    "mailto:jikaisun@ruc.edu.cn",
+    "javascript:;",
+    "mailto:20080073@ruc.edu.cn",
+    "mailto:wenjingpan@ruc.edu.cn",
+    "mailto:jikaisun@ruc.edu.cn",
+    "mailto:20080073@ruc.edu.cn",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=EndNote&id=1271",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=Ris&id=1271",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=BibTeX&id=1271",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "http://www.nhc.gov.cn/xcs/s3581/201601/e02729e6565a47fea0487a212612705b.shtml",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1111/risa.v42.7",
+    "https://onlinelibrary.wiley.com/toc/15396924/42/7",
+    "javascript:;",
+    "https://doi.org/10.1177/019027250406700105",
+    "https://journals.sagepub.com/doi/10.1177/019027250406700105",
+    "javascript:;",
+    "https://doi.org/10.1080/10810730.2018.1511658",
+    "https://www.ncbi.nlm.nih.gov/pubmed/30160641",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1016/j.chb.2018.05.021",
+    "https://linkinghub.elsevier.com/retrieve/pii/S0747563218302474",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1093/isq/sqx015",
+    "http://academic.oup.com/isq/article/61/3/660/4557058",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1177/0096340212444871",
+    "https://www.tandfonline.com/doi/full/10.1177/0096340212444871",
+    "javascript:;",
+    "https://doi.org/10.1111/risk.1988.8.issue-2",
+    "https://onlinelibrary.wiley.com/toc/15396924/8/2",
+    "javascript:;",
+    "https://doi.org/10.1177/0963662520966165",
+    "https://www.ncbi.nlm.nih.gov/pubmed/33103578",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1111/risa.13942",
+    "https://doi.org/10.1111/risa.13942",
+    "javascript:;",
+    "https://doi.org/10.1111/spco.2011.5.issue-4",
+    "https://compass.onlinelibrary.wiley.com/toc/17519004/5/4",
+    "javascript:;",
+    "https://www.merriam-webster.com/dictionary/misinformation",
+    "javascript:;",
+    "https://doi.org/10.1093/pubmed/fdab028",
+    "https://academic.oup.com/jpubhealth/article/43/4/695/6157442",
+    "javascript:;",
+    "https://doi.org/10.2196/jmir.8.2.e9",
+    "https://www.ncbi.nlm.nih.gov/pubmed/16867972",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1080/10810730.2019.1677824",
+    "https://www.ncbi.nlm.nih.gov/pubmed/31609678",
+    "javascript:;",
+    "https://doi.org/10.1016/j.tics.2021.02.007",
+    "https://www.ncbi.nlm.nih.gov/pubmed/33736957",
+    "javascript:;",
+    "https://doi.org/10.1080/02699931.2015.1028335",
+    "https://www.tandfonline.com/doi/full/10.1080/02699931.2015.1028335",
+    "javascript:;",
+    "https://doi.org/10.1207/s15324834basp2801_8",
+    "https://www.tandfonline.com/doi/full/10.1207/s15324834basp2801_8",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1016/j.chb.2018.02.008",
+    "https://linkinghub.elsevier.com/retrieve/pii/S0747563218300669",
+    "javascript:;",
+    "https://doi.org/10.1080/10410236.2012.708633",
+    "https://www.ncbi.nlm.nih.gov/pubmed/23330860",
+    "javascript:;",
+    "javascript:;",
+    "https://www.statista.com/statistics/467097/china-major-public-concerns/",
+    "javascript:;",
+    "https://www.statista.com/statistics/1272675/china-health-and-wellness-concerns-changes/",
+    "javascript:;",
+    "https://www.statista.com/statistics/910787/china-monthly-active-users-on-leading-news-apps/",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1177/1940161220919082",
+    "https://journals.sagepub.com/doi/10.1177/1940161220919082",
+    "javascript:;",
+    "https://doi.org/10.1080/136698700376699",
+    "http://www.tandfonline.com/doi/abs/10.1080/136698700376699",
+    "javascript:;",
+    "https://doi.org/10.1177/0093650219854600",
+    "https://journals.sagepub.com/doi/10.1177/0093650219854600",
+    "javascript:;",
+    "https://doi.org/10.1080/10410236.2020.1794553",
+    "https://www.tandfonline.com/doi/full/10.1080/10410236.2020.1794553",
+    "javascript:;",
+    "https://doi.org/10.1080/03637759209376276",
+    "http://www.tandfonline.com/doi/abs/10.1080/03637759209376276",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "http://www.facebook.com/sharer.php?u=http://cjjc.ruc.edu.cn/CN/Y2022/V44/I10/74",
+    "http://twitter.com/share?url=http://cjjc.ruc.edu.cn/CN/Y2022/V44/I10/74",
+    "http://service.weibo.com/share/share.php?url=http://cjjc.ruc.edu.cn/CN/Y2022/V44/I10/74&title=食品安全虚假信息的接触和接受：感知威胁的中介作用和健康信息素养的调节作用",
+    "javascript:;",
+    "javascript:;",
+    "http://cjjc.ruc.edu.cn/CN/column/column1.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column2.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column5.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column6.shtml",
+    "http://cjjc.ruc.edu.cn/CN/current",
+    "http://cjjc.ruc.edu.cn/CN/archive_by_years",
+    "http://cjjc.ruc.edu.cn/CN/alert/showAlertInfo.do",
+    "http://cjjc.ruc.edu.cn/CN/rss/showRssInfo.do",
+    "https://www.magtech.com.cn/"
+  ]
+}

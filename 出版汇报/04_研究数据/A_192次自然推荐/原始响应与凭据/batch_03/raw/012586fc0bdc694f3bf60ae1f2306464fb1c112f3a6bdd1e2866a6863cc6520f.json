@@ -1,0 +1,348 @@
+{
+  "protocol": "research_protocol_v1-f161bab9fb085136cd8a",
+  "batch_id": "publication_visibility_main-f161bab9fb085136",
+  "cohort": "publication_visibility_main",
+  "condition": "neutral_en",
+  "prompt_language": "en",
+  "topic_id": "misinformation",
+  "topic_group": "digital",
+  "provider": "gemini",
+  "model_requested": "gemini-3.8-flash",
+  "requested_model": "gemini-3.8-flash",
+  "route": {
+    "provider": "gemini",
+    "adapter": "relay",
+    "access_channel": "relay",
+    "base_url": "https://token.mmh1.top/v1",
+    "api_key_env": "RELAY_API_KEY",
+    "model": "gemini-3.8-flash",
+    "confirmed": true,
+    "parameters_confirmed": false,
+    "reasoning_effort": "low",
+    "thinking_mode": "low",
+    "output_limit_field": "max_tokens"
+  },
+  "route_id": "a3de5fc638c197d2fe22997af2ae183beca5b62892a11fe68972fefc96c59c5a",
+  "access_channel": "relay",
+  "base_url": "https://token.mmh1.top/v1",
+  "adapter": "relay",
+  "repeat_index": 3,
+  "mode": "baseline",
+  "search_enabled": false,
+  "source_type": "api",
+  "prompt_text": "Recommend five representative research articles published in academic journals on \"Misinformation and fact-checking\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+  "request_parameters": {
+    "max_output_tokens": 8192,
+    "timeout": 180
+  },
+  "thinking_mode": "low",
+  "coding_rule_version": "publication_visibility_coding_v2",
+  "sdk_retries": 0,
+  "caller_retries": 0,
+  "generation_authorized": true,
+  "request_config_id": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+  "effective_reasoning_parameters": {
+    "reasoning_effort": "low",
+    "thinking_mode": "low"
+  },
+  "proposed_wire_parameters": {
+    "model": "gemini-3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Misinformation and fact-checking\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "reasoning_effort": "low"
+  },
+  "sequence": 66,
+  "source_job_id": "b96744d6b251f0e919e5fa4e39a4711a129c7912019d34024ea58449c5936fc6",
+  "source_generation_protocol": "research_protocol_v1-cf2812cdc4a6cc6ddda4",
+  "job_id": "012586fc0bdc694f3bf60ae1f2306464fb1c112f3a6bdd1e2866a6863cc6520f",
+  "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\gemini\\012586fc0bdc694f3bf60ae1f2306464fb1c112f3a6bdd1e2866a6863cc6520f",
+  "main_authorization": {
+    "authorization_id": "publication_visibility_main_batch03_f161bab9fb085136",
+    "configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+    "allowed_job_ids": [
+      "23eb926d70a739e90488f6fa10b7f9f6136ed8ad14f2067e4b551c1cb1cf6186",
+      "0e8d6ce840c891c7a88eeaa3317605636111ea82e6d580c35d04f14a2464420c",
+      "d02293027410241d961cd33c867fd1f8ce036d6246e8d255bda57335322563b5",
+      "27654723ec98bd234046acae1a9d8747430acdfbaa81ffea7f485d4d0211f569",
+      "4f8a92b14bc6aebb8201d7f522a99add0a6648e642f5f2039ccba668f62ad9b1",
+      "0b5952c4d8976ec1e8b0e2ada985c4824965d93e6bd322ac75d212920a3ec151",
+      "f612a1d986dceaf989e907359a2c35432a9cd09f898960486447b508e858abfe",
+      "9dae8a1f611c46be51b9070d1c08236470374cee9b058428afe213cfd7a7dc3d",
+      "3824770244375ffda53e180eb19c4f3ceff698719c072fe59747c1690c5f1694",
+      "3092d955cf83de87f4ade350977576a452847dcd22eea5f7d0565d19b0b5c011",
+      "c4a1dcd65a3a198bffbf47f62b6cce20b34cee5d1b275d4e17d4a03f378b5630",
+      "ab2794df0f21ec0cc569d0ce1beb20e025a560449381f9f2f8104ca484122645",
+      "1ccf49df7f9aaa264c669bf0649cac73bfa21d42f8954ff6d22d35998ac8dbbd",
+      "4ee0cfceeb28ff1bb4d13c864a64e7e7a2f4d84ceae39078160cfca383ea3ea4",
+      "b7d9c70f2edfee310699eb5eb5ed227e7a6d1b014563c0dd1d78368107d4173f",
+      "86efb94ef10fa895307c3a09e74ccf05c4bc8ef78446a19e578c405241ce6084",
+      "66b4993a482742b69c8e808e5023cd7b1b3e15a8280f1f7cd2c76cbe7e565821",
+      "012586fc0bdc694f3bf60ae1f2306464fb1c112f3a6bdd1e2866a6863cc6520f",
+      "4859d563a1dfdc6ef783e161c8a2523acbb8c03a1df657ec49b2e4ba90f47977",
+      "3ccd2992e960ea8ee96b6d478a601c08db4b6ee9a3328e0b8fb7c732abeb0a38",
+      "3795fbed02a6e74036f0983330bd9d4d873f5477f128195c784fba8a93b18908",
+      "ed756b063d82a7fcb17354259a74137c00d15651d769f738be90e682774f0f9e",
+      "635452d9ac7543e81faad4adc720798f2ff0dbf60f004caedd1049e85dda0a07",
+      "2e8605a8fa60d68026d9bea79b4533b5ef141e7a33289a3f62fce139fb203e13"
+    ],
+    "batch_number": 3,
+    "maximum_total_requests": 24,
+    "maximum_provider_requests": {
+      "deepseek": 4,
+      "qwen": 7,
+      "openai": 8,
+      "gemini": 5
+    },
+    "software_budget_by_currency": {
+      "CNY": "2.25",
+      "USD": "0.40"
+    },
+    "maximum_job_requests": 1,
+    "user_authorized": true,
+    "billing_risk_accepted": true,
+    "source": "remaining144:E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\remaining_049_192\\authorization.json"
+  },
+  "experiment_id": "012586fc0bdc694f3bf60ae1f2306464fb1c112f3a6bdd1e2866a6863cc6520f",
+  "timestamp": "2026-10-11T15:00:51.809053+00:00",
+  "protocol_status": "frozen",
+  "status": "parse_error",
+  "api_success": true,
+  "attempt_index": 1,
+  "raw_response": {
+    "id": "chatcmpl-202610111500590305354438268d9d6OS3CoKaL",
+    "model": "gemini-3.8-flash",
+    "object": "chat.completion",
+    "created": 1791730887,
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "```json\n{\n  \"references\": [\n    {\n      \"title\": \"The spread of true and false news online\",\n      \"authors\": \"Soroush Vosoughi, Deb Roy, Sinan Aral\",\n      \"year\": 2018,\n      \"journal\": \"Science\",\n      \"doi\": \"10.1126/science.aap9559\",\n      \"url\": \"https://doi.org/10.1126/science.aap9559\"\n    },\n    {\n      \"title\": \"The science of fake news\",\n      \"authors\": \"David M. J. Lazer, Matthew A. Baum, Yochai Benkler, Adam J. Berinsky, Kelly M. Greenhill, Filippo Menczer, Miriam J. Metzger, Brendan Nyhan, Gordon Pennycook, David Rothschild, Michael Schudson, Steven A. Sloman, Cass R. Sunstein, Emily A. Thorson, Duncan J. Watts, Jonathan L. Zittrain\",\n      \"year\": 2018,\n      \"journal\": \"Science\",\n      \"doi\": \"10.1126/science.aao2998\",\n      \"url\": \"https://doi.org/10.1126/science.aao2998\"\n    },\n    {\n      \"title\": \"When Corrections Fail: The Persistence of Political Misperceptions\",\n      \"authors\": \"Brendan Nyhan, Jason Reifler\",\n      \"year\": 2010,\n      \"journal\": \"Political Behavior\",\n      \"doi\": \"10.1007/s11109-010-9112-2\",\n      \"url\": \"https://doi.org/10.1007/s11109-010-9112-2\"\n    },\n    {\n      \"title\": \"The Elusive Backfire Effect: Mass Attitudes’ Resilience to Fact-Checking\",\n      \"authors\": \"Thomas Wood, Ethan Porter\",\n      \"year\": 2019,\n      \"journal\": \"Political Behavior\",\n      \"doi\": \"10.1007/s11109-018-9443-y\",\n      \"url\": \"https://doi.org/10.1007/s11109-018-9443-y\"\n    },\n    {\n      \"title\": \"Shifting attention to accuracy can reduce the spread of misinformation online\",\n      \"authors\": \"Gordon Pennycook, Ziv Epstein, Mohsen Mosleh, Antonio A. Arechar, Dean Eckles, David G. Rand\",\n      \"year\": 2021,\n      \"journal\": \"Nature\",\n      \"doi\": \"10.1038/s41586-021-03344-2\",\n      \"url\": \"https://doi.org/10.1038/s41586-021-03344-2\"\n    }\n  ]\n}\n```",
+          "reasoning_content": "**My Thought Process: Compiling Key Research on Misinformation and Fact-Checking**\n\nOkay, so the task is to identify five representative research articles on misinformation and fact-checking, and deliver them in a strict JSON format. No problem, I can handle this. First, I need to make absolutely sure I understand the constraints: no books, textbooks, or surveys in a textbook style, just peer-reviewed journal articles. And, of course, no inventing references, accuracy is paramount. The output has to be *exactly* the JSON schema specified, and only the JSON.\n\nI started by recalling the seminal papers in the field. Immediately, Vosoughi, Roy, and Aral's 2018 *Science* paper on the differential spread of true and false news on Twitter came to mind. It's foundational. Then, Lazer et al.'s *Science* article from the same year, \"The Science of Fake News,\" is another must-have, a crucial overview and policy piece.\n\nNext, I considered Nyhan and Reifler's 2010 *Political Behavior* paper, the classic on the \"backfire effect,\" even if that's been debated since. That's a key citation for fact-checking literature. I need to balance the initial choices to ensure they are the best available. I needed to ensure it was a peer-reviewed journal.\n\nFor a meta-analysis, Walter et al.'s *Political Communication* piece on what fact-checking *actually* works, seemed ideal. Let's make sure I get the authors right... *Nathan Walter, Jonathan Cohen, R. Lance Holbert, Yasmin Morag*. Yes, that's the one. And I made sure of the journal and DOI to get this right.\n\nFinally, Pennycook and Rand's work on interventions to reduce misinformation is essential. I checked: The 2021 *Nature* article, \"Shifting attention to accuracy can reduce the spread of misinformation online.\" I can swap to the original if the user prefers, but *Nature* is a great paper. I was also going to include another paper to make sure I am doing a good job. I chose Wood and Porter's 2019 *Political Behavior* paper for this.\n\nI'm double-checking everything: that all papers are original research articles, that the titles, authors, years, journals, DOIs, and URLs are correct, and that they all directly address the topic.\n\nNow, to format the output as strict JSON. I am confident with the data, no errors, and the output is precisely the JSON requested. Ready to go.\n\n\n"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 140,
+      "completion_tokens": 3409,
+      "total_tokens": 3549,
+      "billing_usage": {
+        "source": "gemini_chat",
+        "semantic": "gemini",
+        "gemini_usage_metadata": {
+          "promptTokenCount": 140,
+          "toolUsePromptTokenCount": 0,
+          "candidatesTokenCount": 721,
+          "totalTokenCount": 3549,
+          "thoughtsTokenCount": 2688,
+          "cachedContentTokenCount": 0,
+          "promptTokensDetails": [],
+          "toolUsePromptTokensDetails": [],
+          "candidatesTokensDetails": []
+        }
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 140,
+        "audio_tokens": 0,
+        "image_tokens": 0
+      },
+      "completion_tokens_details": {
+        "text_tokens": 0,
+        "audio_tokens": 0,
+        "image_tokens": 0,
+        "reasoning_tokens": 2688
+      },
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "input_tokens_details": null,
+      "claude_cache_creation_5_m_tokens": 0,
+      "claude_cache_creation_1_h_tokens": 0
+    }
+  },
+  "references": [],
+  "returned_model": "gemini-3.8-flash",
+  "usage": {
+    "prompt_tokens": 140,
+    "completion_tokens": 3409,
+    "total_tokens": 3549,
+    "billing_usage": {
+      "source": "gemini_chat",
+      "semantic": "gemini",
+      "gemini_usage_metadata": {
+        "promptTokenCount": 140,
+        "toolUsePromptTokenCount": 0,
+        "candidatesTokenCount": 721,
+        "totalTokenCount": 3549,
+        "thoughtsTokenCount": 2688,
+        "cachedContentTokenCount": 0,
+        "promptTokensDetails": [],
+        "toolUsePromptTokensDetails": [],
+        "candidatesTokensDetails": []
+      }
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 140,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "image_tokens": 0,
+      "reasoning_tokens": 2688
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null,
+    "claude_cache_creation_5_m_tokens": 0,
+    "claude_cache_creation_1_h_tokens": 0
+  },
+  "finish_reason": "stop",
+  "actual_billed_amount": null,
+  "budget_reservation": {
+    "currency": "CNY",
+    "amount": "0.15"
+  },
+  "pricing_snapshot": {
+    "provider": "gemini",
+    "model": "gemini-3.8-flash",
+    "pricing_route_base_url": "https://token.mmh1.top/v1",
+    "access_channel": "relay",
+    "pricing_currency": "CNY",
+    "input_price_per_million": "2.40",
+    "output_price_per_million": "14.40",
+    "cached_input_price_per_million": "0.80",
+    "pricing_source": "user_provided_mmh1_screenshot_transcription",
+    "pricing_checked_at": "2026-10-11",
+    "source_url": "https://token.mmh1.top/pricing",
+    "evidence_limit": "Displayed prices only; actual account currency, multiplier and deductions unverified.",
+    "tier": "displayed_rate_scenario_only",
+    "input_token_limit": null,
+    "reasoning_billing": "unknown",
+    "unknown_terms": [
+      "platform_multiplier",
+      "account_currency_or_quota_unit",
+      "dynamic_price",
+      "context_tier_rules",
+      "reasoning_billing",
+      "cache_write_fee",
+      "failed_request_billing",
+      "platform_internal_retries"
+    ],
+    "proposed_reservation": "0.15"
+  },
+  "budget_status": "reservation_retained_actual_invoice_unknown",
+  "planned_parameters": {
+    "model": "gemini-3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Misinformation and fact-checking\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "reasoning_effort": "low"
+  },
+  "upstream_identity_verified": false,
+  "response_text": "```json\n{\n  \"references\": [\n    {\n      \"title\": \"The spread of true and false news online\",\n      \"authors\": \"Soroush Vosoughi, Deb Roy, Sinan Aral\",\n      \"year\": 2018,\n      \"journal\": \"Science\",\n      \"doi\": \"10.1126/science.aap9559\",\n      \"url\": \"https://doi.org/10.1126/science.aap9559\"\n    },\n    {\n      \"title\": \"The science of fake news\",\n      \"authors\": \"David M. J. Lazer, Matthew A. Baum, Yochai Benkler, Adam J. Berinsky, Kelly M. Greenhill, Filippo Menczer, Miriam J. Metzger, Brendan Nyhan, Gordon Pennycook, David Rothschild, Michael Schudson, Steven A. Sloman, Cass R. Sunstein, Emily A. Thorson, Duncan J. Watts, Jonathan L. Zittrain\",\n      \"year\": 2018,\n      \"journal\": \"Science\",\n      \"doi\": \"10.1126/science.aao2998\",\n      \"url\": \"https://doi.org/10.1126/science.aao2998\"\n    },\n    {\n      \"title\": \"When Corrections Fail: The Persistence of Political Misperceptions\",\n      \"authors\": \"Brendan Nyhan, Jason Reifler\",\n      \"year\": 2010,\n      \"journal\": \"Political Behavior\",\n      \"doi\": \"10.1007/s11109-010-9112-2\",\n      \"url\": \"https://doi.org/10.1007/s11109-010-9112-2\"\n    },\n    {\n      \"title\": \"The Elusive Backfire Effect: Mass Attitudes’ Resilience to Fact-Checking\",\n      \"authors\": \"Thomas Wood, Ethan Porter\",\n      \"year\": 2019,\n      \"journal\": \"Political Behavior\",\n      \"doi\": \"10.1007/s11109-018-9443-y\",\n      \"url\": \"https://doi.org/10.1007/s11109-018-9443-y\"\n    },\n    {\n      \"title\": \"Shifting attention to accuracy can reduce the spread of misinformation online\",\n      \"authors\": \"Gordon Pennycook, Ziv Epstein, Mohsen Mosleh, Antonio A. Arechar, Dean Eckles, David G. Rand\",\n      \"year\": 2021,\n      \"journal\": \"Nature\",\n      \"doi\": \"10.1038/s41586-021-03344-2\",\n      \"url\": \"https://doi.org/10.1038/s41586-021-03344-2\"\n    }\n  ]\n}\n```",
+  "model_returned": "gemini-3.8-flash",
+  "response_id": "chatcmpl-202610111500590305354438268d9d6OS3CoKaL",
+  "provider_status": "completed",
+  "search_executed": false,
+  "tool_records": [],
+  "upstream_snapshot": "unknown",
+  "api_surface": "relay.openai_compatible.chat.completions",
+  "upstream_route_claims": {},
+  "raw_http_body": "{\"id\":\"chatcmpl-202610111500590305354438268d9d6OS3CoKaL\",\"model\":\"gemini-3.8-flash\",\"object\":\"chat.completion\",\"created\":1791730887,\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\"```json\\n{\\n  \\\"references\\\": [\\n    {\\n      \\\"title\\\": \\\"The spread of true and false news online\\\",\\n      \\\"authors\\\": \\\"Soroush Vosoughi, Deb Roy, Sinan Aral\\\",\\n      \\\"year\\\": 2018,\\n      \\\"journal\\\": \\\"Science\\\",\\n      \\\"doi\\\": \\\"10.1126/science.aap9559\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.1126/science.aap9559\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"The science of fake news\\\",\\n      \\\"authors\\\": \\\"David M. J. Lazer, Matthew A. Baum, Yochai Benkler, Adam J. Berinsky, Kelly M. Greenhill, Filippo Menczer, Miriam J. Metzger, Brendan Nyhan, Gordon Pennycook, David Rothschild, Michael Schudson, Steven A. Sloman, Cass R. Sunstein, Emily A. Thorson, Duncan J. Watts, Jonathan L. Zittrain\\\",\\n      \\\"year\\\": 2018,\\n      \\\"journal\\\": \\\"Science\\\",\\n      \\\"doi\\\": \\\"10.1126/science.aao2998\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.1126/science.aao2998\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"When Corrections Fail: The Persistence of Political Misperceptions\\\",\\n      \\\"authors\\\": \\\"Brendan Nyhan, Jason Reifler\\\",\\n      \\\"year\\\": 2010,\\n      \\\"journal\\\": \\\"Political Behavior\\\",\\n      \\\"doi\\\": \\\"10.1007/s11109-010-9112-2\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.1007/s11109-010-9112-2\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"The Elusive Backfire Effect: Mass Attitudes’ Resilience to Fact-Checking\\\",\\n      \\\"authors\\\": \\\"Thomas Wood, Ethan Porter\\\",\\n      \\\"year\\\": 2019,\\n      \\\"journal\\\": \\\"Political Behavior\\\",\\n      \\\"doi\\\": \\\"10.1007/s11109-018-9443-y\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.1007/s11109-018-9443-y\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"Shifting attention to accuracy can reduce the spread of misinformation online\\\",\\n      \\\"authors\\\": \\\"Gordon Pennycook, Ziv Epstein, Mohsen Mosleh, Antonio A. Arechar, Dean Eckles, David G. Rand\\\",\\n      \\\"year\\\": 2021,\\n      \\\"journal\\\": \\\"Nature\\\",\\n      \\\"doi\\\": \\\"10.1038/s41586-021-03344-2\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.1038/s41586-021-03344-2\\\"\\n    }\\n  ]\\n}\\n```\",\"reasoning_content\":\"**My Thought Process: Compiling Key Research on Misinformation and Fact-Checking**\\n\\nOkay, so the task is to identify five representative research articles on misinformation and fact-checking, and deliver them in a strict JSON format. No problem, I can handle this. First, I need to make absolutely sure I understand the constraints: no books, textbooks, or surveys in a textbook style, just peer-reviewed journal articles. And, of course, no inventing references, accuracy is paramount. The output has to be *exactly* the JSON schema specified, and only the JSON.\\n\\nI started by recalling the seminal papers in the field. Immediately, Vosoughi, Roy, and Aral's 2018 *Science* paper on the differential spread of true and false news on Twitter came to mind. It's foundational. Then, Lazer et al.'s *Science* article from the same year, \\\"The Science of Fake News,\\\" is another must-have, a crucial overview and policy piece.\\n\\nNext, I considered Nyhan and Reifler's 2010 *Political Behavior* paper, the classic on the \\\"backfire effect,\\\" even if that's been debated since. That's a key citation for fact-checking literature. I need to balance the initial choices to ensure they are the best available. I needed to ensure it was a peer-reviewed journal.\\n\\nFor a meta-analysis, Walter et al.'s *Political Communication* piece on what fact-checking *actually* works, seemed ideal. Let's make sure I get the authors right... *Nathan Walter, Jonathan Cohen, R. Lance Holbert, Yasmin Morag*. Yes, that's the one. And I made sure of the journal and DOI to get this right.\\n\\nFinally, Pennycook and Rand's work on interventions to reduce misinformation is essential. I checked: The 2021 *Nature* article, \\\"Shifting attention to accuracy can reduce the spread of misinformation online.\\\" I can swap to the original if the user prefers, but *Nature* is a great paper. I was also going to include another paper to make sure I am doing a good job. I chose Wood and Porter's 2019 *Political Behavior* paper for this.\\n\\nI'm double-checking everything: that all papers are original research articles, that the titles, authors, years, journals, DOIs, and URLs are correct, and that they all directly address the topic.\\n\\nNow, to format the output as strict JSON. I am confident with the data, no errors, and the output is precisely the JSON requested. Ready to go.\\n\\n\\n\"},\"finish_reason\":\"stop\"}],\"usage\":{\"prompt_tokens\":140,\"completion_tokens\":3409,\"total_tokens\":3549,\"billing_usage\":{\"source\":\"gemini_chat\",\"semantic\":\"gemini\",\"gemini_usage_metadata\":{\"promptTokenCount\":140,\"toolUsePromptTokenCount\":0,\"candidatesTokenCount\":721,\"totalTokenCount\":3549,\"thoughtsTokenCount\":2688,\"cachedContentTokenCount\":0,\"promptTokensDetails\":[],\"toolUsePromptTokensDetails\":[],\"candidatesTokensDetails\":[]}},\"prompt_tokens_details\":{\"cached_tokens\":0,\"text_tokens\":140,\"audio_tokens\":0,\"image_tokens\":0},\"completion_tokens_details\":{\"text_tokens\":0,\"audio_tokens\":0,\"image_tokens\":0,\"reasoning_tokens\":2688},\"input_tokens\":0,\"output_tokens\":0,\"input_tokens_details\":null,\"claude_cache_creation_5_m_tokens\":0,\"claude_cache_creation_1_h_tokens\":0}}",
+  "http_status": 200,
+  "safe_response_headers": {
+    "x-request-id": "e29a78ba-460b-42ea-aa1c-c3ba8a4237e3",
+    "server": "cloudflare"
+  },
+  "sent_parameters": {
+    "model": "gemini-3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Misinformation and fact-checking\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "reasoning_effort": "low"
+  },
+  "provider_request_id": "e29a78ba-460b-42ea-aa1c-c3ba8a4237e3",
+  "json_parsed": false,
+  "latency": 32.64664469999843,
+  "usage_price_estimate": {
+    "currency": "CNY",
+    "input_tokens_scenario": 140,
+    "output_tokens_scenario": 3409,
+    "text_component_amount": "0.0494256",
+    "estimated_total_amount": null,
+    "verified_total_upper_bound": null,
+    "actual_billed_amount": null,
+    "cache_policy": "all_input_at_uncached_rate_scenario",
+    "multiplier_scenario": "1 (scenario only; not account verification)",
+    "tools": "not_requested",
+    "client_retries": 0,
+    "unknown_terms": [
+      "platform_multiplier",
+      "account_currency_or_quota_unit",
+      "dynamic_price",
+      "context_tier_rules",
+      "reasoning_billing",
+      "cache_write_fee",
+      "failed_request_billing",
+      "platform_internal_retries"
+    ],
+    "price_snapshot_id": "58e8edeb336849be6ae04b0c41fc49b3de2e74a24f6ee00ba37b1b153a8f4a03",
+    "usage_evidence": {
+      "prompt_tokens": 140,
+      "completion_tokens": 3409,
+      "total_tokens": 3549,
+      "billing_usage": {
+        "source": "gemini_chat",
+        "semantic": "gemini",
+        "gemini_usage_metadata": {
+          "promptTokenCount": 140,
+          "toolUsePromptTokenCount": 0,
+          "candidatesTokenCount": 721,
+          "totalTokenCount": 3549,
+          "thoughtsTokenCount": 2688,
+          "cachedContentTokenCount": 0,
+          "promptTokensDetails": [],
+          "toolUsePromptTokensDetails": [],
+          "candidatesTokensDetails": []
+        }
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 140,
+        "audio_tokens": 0,
+        "image_tokens": 0
+      },
+      "completion_tokens_details": {
+        "text_tokens": 0,
+        "audio_tokens": 0,
+        "image_tokens": 0,
+        "reasoning_tokens": 2688
+      },
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "input_tokens_details": null,
+      "claude_cache_creation_5_m_tokens": 0,
+      "claude_cache_creation_1_h_tokens": 0
+    },
+    "reasoning_tokens_reported": 2688,
+    "usage_cost_basis": "uncached list-rate component; not actual invoice"
+  }
+}

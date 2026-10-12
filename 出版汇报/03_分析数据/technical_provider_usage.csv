@@ -1,0 +1,5 @@
+﻿provider,sent,api_success,failures,successful_latency_mean_seconds,all_latency_seconds,input_tokens,output_tokens,reasoning_tokens_reported,currency,reservation_total,successful_text_component_estimate,failed_request_actual_charges,actual_invoice,upstream_identity_verified
+openai,4,2,2,83.44551710000087,"[115.99770949999947, 129.49188880000293, 99.8954251000032, 66.99560909999855]",938,3329,2686,CNY,0.40,0.0271856,unknown,unknown,False
+gemini,4,2,2,108.37572229999569,"[129.76674440000352, 124.21639849999337, 129.43518149999727, 92.535046099998]",310,23283,22329,CNY,0.60,0.3360192,unknown,unknown,False
+deepseek,4,4,0,7.356835450002109,"[8.162626299999829, 5.8235464000026695, 9.860553600003186, 5.58061550000275]",602,2072,0,USD,0.40,0.0026670,unknown,unknown,False
+qwen,4,4,0,11.808044825000252,"[8.56543740000052, 15.307700600002136, 11.384026799998537, 11.975014499999816]",668,1868,0,CNY,0.40,0.0055780,unknown,unknown,False

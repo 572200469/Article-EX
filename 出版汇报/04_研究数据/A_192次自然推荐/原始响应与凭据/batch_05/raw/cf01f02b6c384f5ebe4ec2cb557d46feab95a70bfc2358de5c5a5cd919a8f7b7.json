@@ -1,0 +1,332 @@
+{
+  "protocol": "research_protocol_v1-f161bab9fb085136cd8a",
+  "batch_id": "publication_visibility_main-f161bab9fb085136",
+  "cohort": "publication_visibility_main",
+  "condition": "neutral_en",
+  "prompt_language": "en",
+  "topic_id": "platform_labor",
+  "topic_group": "digital",
+  "provider": "qwen",
+  "model_requested": "qwen3.8-flash",
+  "requested_model": "qwen3.8-flash",
+  "route": {
+    "provider": "qwen",
+    "adapter": "qwen",
+    "access_channel": "official",
+    "base_url_env": "QWEN_BASE_URL",
+    "api_key_env": "DASHSCOPE_API_KEY",
+    "api_key_env_fallback": "QWEN_API_KEY",
+    "model": "qwen3.8-flash",
+    "confirmed": true,
+    "parameters_confirmed": true,
+    "thinking_mode": "disabled",
+    "output_limit_field": "max_tokens",
+    "extra_body": {
+      "enable_thinking": false
+    },
+    "base_url_configured": true,
+    "base_url": "https://ws-18kq1brc00g4ilrj.cn-beijing.maas.aliyuncs.com/compatible-mode/v1"
+  },
+  "route_id": "ae189316847bd67ccdfa1e1ecc37cb3cbd45761f39d89dfe18dba2844c6737c7",
+  "access_channel": "official",
+  "base_url": "https://ws-18kq1brc00g4ilrj.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
+  "adapter": "qwen",
+  "repeat_index": 2,
+  "mode": "baseline",
+  "search_enabled": false,
+  "source_type": "api",
+  "prompt_text": "Recommend five representative research articles published in academic journals on \"Platform labor and digital labor\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+  "request_parameters": {
+    "max_output_tokens": 8192,
+    "timeout": 180
+  },
+  "thinking_mode": "disabled",
+  "coding_rule_version": "publication_visibility_coding_v2",
+  "sdk_retries": 0,
+  "caller_retries": 0,
+  "generation_authorized": true,
+  "request_config_id": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+  "effective_reasoning_parameters": {
+    "thinking_mode": "disabled",
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "proposed_wire_parameters": {
+    "model": "qwen3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Platform labor and digital labor\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "sequence": 102,
+  "source_job_id": "ecf2ae11063476b610e0fd5dd6133ebc3ee133faf5e87de3ada1d11c32f990bb",
+  "source_generation_protocol": "research_protocol_v1-cf2812cdc4a6cc6ddda4",
+  "job_id": "cf01f02b6c384f5ebe4ec2cb557d46feab95a70bfc2358de5c5a5cd919a8f7b7",
+  "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\qwen\\cf01f02b6c384f5ebe4ec2cb557d46feab95a70bfc2358de5c5a5cd919a8f7b7",
+  "main_authorization": {
+    "authorization_id": "publication_visibility_main_batch05_f161bab9fb085136",
+    "configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+    "allowed_job_ids": [
+      "10c8931c03d9975d53c6e25309c06199899e0b6868a38e6fddf876bcbd44d667",
+      "0766b7e2a1dc693bb5058332d6aebd2f3d7c7578b219236d0c8963732a7a979b",
+      "ec97e1708dd66fc157f4358d728bbc8a0e6e7bd4268863ca6339405075ced803",
+      "96bee1f6b70478d7722a7c9bb00abe53c443a82fba7bf062aaa110153483b1a5",
+      "e5e0f0bf51f05c12bafcd7ca0217543423ccd40edbbbc238ecc757750024477d",
+      "cf01f02b6c384f5ebe4ec2cb557d46feab95a70bfc2358de5c5a5cd919a8f7b7",
+      "b3853eb679c7970f3c66968fc3713d6a4c42795c61f5c567fdee76545e490358",
+      "801bd3691d3dfe6f17858710d7c05289c056cbc77823881bc8dfca1d68b62664",
+      "b2c2dd79c7638e245a7cb6d1b1e11a7ae381abbc90e6330582d75ab03247a3ff",
+      "6b2b2bb1faace337866696bd022799ff5d6fea16e2503fc880c8287addfc00b5",
+      "103ba09c7100e2886138273b52f2718652b536ebe7d92fc224122e32700ca721",
+      "37d5ddef4d772ee9e8963610486d75fe969c9e88351512677296f70536f3c6ce",
+      "4d030833646eaa1334db168c4db3889fe69b1c1e880905a2811966a04a206df1",
+      "c108c8932fea1fe3b03c68a1136e38d5b400a67ad529af2f4c97d2c171dfcd28",
+      "409dbb93da12a41dbd2927f9c157cd4333fdf0adcfc0bc3ae1aa6662f2f9fffd",
+      "d8e0513162a352b26de3139f4157db53ec10c2688232f71b47eddf82401d2374",
+      "9d0af2cdb7724e7cdf373ab674b418c9fa9f51a09e41026de0b278683182e01e",
+      "2e854c3f2a02b522c89e37e035c7a16da7a1d12a4e833ce855f9578ad560cb1a",
+      "aa9428925e82bd7cf769d7c689776c82884c5fd5c61c2c7d1dbc66173a0dd26e",
+      "6f291253df585022ed9ecf2e920baea17b59d93504d07118a3ec0d83b943df79",
+      "537f15d198b1978e74ff8aecbf4d65cf881e7c344c10aaf5e9e84edb61f995ff",
+      "6c5939a9a3e63ae3a5f0b83fc91dfa66c2a65607d8fb6369b8d213cdd8d25ab2",
+      "c366fc06604451f33979b6f87d3a16c0960f840d32e1562d4384b36aae30ad4f",
+      "8f91463dc1071a9fb93ee11bc166bc525c5d2d5ecb17ed557dd3befb4bbef71a"
+    ],
+    "batch_number": 5,
+    "maximum_total_requests": 24,
+    "maximum_provider_requests": {
+      "qwen": 6,
+      "deepseek": 6,
+      "openai": 6,
+      "gemini": 6
+    },
+    "software_budget_by_currency": {
+      "CNY": "2.10",
+      "USD": "0.60"
+    },
+    "maximum_job_requests": 1,
+    "user_authorized": true,
+    "billing_risk_accepted": true,
+    "source": "remaining144:E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\remaining_049_192\\authorization.json"
+  },
+  "experiment_id": "cf01f02b6c384f5ebe4ec2cb557d46feab95a70bfc2358de5c5a5cd919a8f7b7",
+  "timestamp": "2026-10-11T15:13:39.853552+00:00",
+  "protocol_status": "frozen",
+  "status": "success",
+  "api_success": true,
+  "attempt_index": 1,
+  "raw_response": {
+    "id": "chatcmpl-f7e3db1d-04b0-953b-9cfc-581e846ef36f",
+    "object": "chat.completion",
+    "created": 1791731626,
+    "model": "qwen3.8-flash",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"references\": [\n    {\n      \"title\": \"The Gig Economy and the Future of Work\",\n      \"authors\": [\n        \"Alex Rosenblat\",\n        \"Aaron Booth\"\n      ],\n      \"year\": 2017,\n      \"journal\": \"Big Data & Society\",\n      \"doi\": \"10.1177/2053951717748961\",\n      \"url\": \"https://journals.sagepub.com/doi/full/10.1177/2053951717748961\"\n    },\n    {\n      \"title\": \"Digital Labor: The Internet as Playground and Factory\",\n      \"authors\": [\n        \"Trebor Scholz\"\n      ],\n      \"year\": 2013,\n      \"journal\": null,\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"Algorithmic Management in the Digital Workplace\",\n      \"authors\": [\n        \"Min Kyung Lee\",\n        \"Daniel Kusbit\",\n        \"Alan Metsky\",\n        \"Loren Terveen\"\n      ],\n      \"year\": 2015,\n      \"journal\": \"Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI '15)\",\n      \"doi\": \"10.1145/2702123.2702510\",\n      \"url\": \"https://dl.acm.org/doi/10.1145/2702123.2702510\"\n    },\n    {\n      \"title\": \"Crowdsourcing as a Model for Research: An Introduction to Mechanical Turk\",\n      \"authors\": [\n        \"Matthew K. Crump\",\n        \"Jeremy R. Wolfe\",\n        \"Evan M. Johnson\",\n        \"Derek J. Taylor\",\n        \"Hannah H. Kremer\",\n        \"David C. Plaut\"\n      ],\n      \"year\": 2013,\n      \"journal\": \"SAGE Open\",\n      \"doi\": \"10.1177/2158244013493592\",\n      \"url\": \"https://journals.sagepub.com/doi/full/10.1177/2158244013493592\"\n    },\n    {\n      \"title\": \"The Social Structure of Algorithmic Management: A Case Study of Amazon's Mechanical Turk\",\n      \"authors\": [\n        \"J. Nathan Matias\"\n      ],\n      \"year\": 2016,\n      \"journal\": \"Social Media + Society\",\n      \"doi\": \"10.1177/2056305116655273\",\n      \"url\": \"https://journals.sagepub.com/doi/full/10.1177/2056305116655273\"\n    }\n  ]\n}"
+        },
+        "finish_reason": "stop",
+        "logprobs": null
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 162,
+      "total_tokens": 881,
+      "completion_tokens": 719,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 162
+      }
+    }
+  },
+  "references": [
+    {
+      "title": "The Gig Economy and the Future of Work",
+      "authors": [
+        "Alex Rosenblat",
+        "Aaron Booth"
+      ],
+      "year": 2017,
+      "journal": "Big Data & Society",
+      "doi": "10.1177/2053951717748961",
+      "url": "https://journals.sagepub.com/doi/full/10.1177/2053951717748961"
+    },
+    {
+      "title": "Digital Labor: The Internet as Playground and Factory",
+      "authors": [
+        "Trebor Scholz"
+      ],
+      "year": 2013,
+      "journal": null,
+      "doi": null,
+      "url": null
+    },
+    {
+      "title": "Algorithmic Management in the Digital Workplace",
+      "authors": [
+        "Min Kyung Lee",
+        "Daniel Kusbit",
+        "Alan Metsky",
+        "Loren Terveen"
+      ],
+      "year": 2015,
+      "journal": "Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI '15)",
+      "doi": "10.1145/2702123.2702510",
+      "url": "https://dl.acm.org/doi/10.1145/2702123.2702510"
+    },
+    {
+      "title": "Crowdsourcing as a Model for Research: An Introduction to Mechanical Turk",
+      "authors": [
+        "Matthew K. Crump",
+        "Jeremy R. Wolfe",
+        "Evan M. Johnson",
+        "Derek J. Taylor",
+        "Hannah H. Kremer",
+        "David C. Plaut"
+      ],
+      "year": 2013,
+      "journal": "SAGE Open",
+      "doi": "10.1177/2158244013493592",
+      "url": "https://journals.sagepub.com/doi/full/10.1177/2158244013493592"
+    },
+    {
+      "title": "The Social Structure of Algorithmic Management: A Case Study of Amazon's Mechanical Turk",
+      "authors": [
+        "J. Nathan Matias"
+      ],
+      "year": 2016,
+      "journal": "Social Media + Society",
+      "doi": "10.1177/2056305116655273",
+      "url": "https://journals.sagepub.com/doi/full/10.1177/2056305116655273"
+    }
+  ],
+  "returned_model": "qwen3.8-flash",
+  "usage": {
+    "prompt_tokens": 162,
+    "total_tokens": 881,
+    "completion_tokens": 719,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 162
+    }
+  },
+  "finish_reason": "stop",
+  "actual_billed_amount": null,
+  "budget_reservation": {
+    "currency": "CNY",
+    "amount": "0.10"
+  },
+  "pricing_snapshot": {
+    "provider": "qwen",
+    "model": "qwen3.8-flash",
+    "pricing_route_host_suffix": ".cn-beijing.maas.aliyuncs.com",
+    "access_channel": "official",
+    "pricing_currency": "CNY",
+    "input_price_per_million": "0.80",
+    "output_price_per_million": "2.70",
+    "cached_input_price_per_million": null,
+    "pricing_source": "alibaba_official_beijing_model_pricing",
+    "pricing_checked_at": "2026-10-11",
+    "source_url": "https://help.aliyun.com/zh/model-studio/model-pricing",
+    "evidence_limit": "Public Beijing list price; private account bill and free quota not verified.",
+    "tier": "beijing_input_up_to_1M",
+    "input_token_limit": 1000000,
+    "reasoning_billing": "included_in_output_tokens",
+    "unknown_terms": [
+      "account_currency_confirmation",
+      "actual_account_discounts",
+      "cache_billing",
+      "failed_request_billing",
+      "billing_rounding"
+    ],
+    "proposed_reservation": "0.10"
+  },
+  "budget_status": "reservation_retained_actual_invoice_unknown",
+  "planned_parameters": {
+    "model": "qwen3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Platform labor and digital labor\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "upstream_identity_verified": false,
+  "response_text": "{\n  \"references\": [\n    {\n      \"title\": \"The Gig Economy and the Future of Work\",\n      \"authors\": [\n        \"Alex Rosenblat\",\n        \"Aaron Booth\"\n      ],\n      \"year\": 2017,\n      \"journal\": \"Big Data & Society\",\n      \"doi\": \"10.1177/2053951717748961\",\n      \"url\": \"https://journals.sagepub.com/doi/full/10.1177/2053951717748961\"\n    },\n    {\n      \"title\": \"Digital Labor: The Internet as Playground and Factory\",\n      \"authors\": [\n        \"Trebor Scholz\"\n      ],\n      \"year\": 2013,\n      \"journal\": null,\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"Algorithmic Management in the Digital Workplace\",\n      \"authors\": [\n        \"Min Kyung Lee\",\n        \"Daniel Kusbit\",\n        \"Alan Metsky\",\n        \"Loren Terveen\"\n      ],\n      \"year\": 2015,\n      \"journal\": \"Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI '15)\",\n      \"doi\": \"10.1145/2702123.2702510\",\n      \"url\": \"https://dl.acm.org/doi/10.1145/2702123.2702510\"\n    },\n    {\n      \"title\": \"Crowdsourcing as a Model for Research: An Introduction to Mechanical Turk\",\n      \"authors\": [\n        \"Matthew K. Crump\",\n        \"Jeremy R. Wolfe\",\n        \"Evan M. Johnson\",\n        \"Derek J. Taylor\",\n        \"Hannah H. Kremer\",\n        \"David C. Plaut\"\n      ],\n      \"year\": 2013,\n      \"journal\": \"SAGE Open\",\n      \"doi\": \"10.1177/2158244013493592\",\n      \"url\": \"https://journals.sagepub.com/doi/full/10.1177/2158244013493592\"\n    },\n    {\n      \"title\": \"The Social Structure of Algorithmic Management: A Case Study of Amazon's Mechanical Turk\",\n      \"authors\": [\n        \"J. Nathan Matias\"\n      ],\n      \"year\": 2016,\n      \"journal\": \"Social Media + Society\",\n      \"doi\": \"10.1177/2056305116655273\",\n      \"url\": \"https://journals.sagepub.com/doi/full/10.1177/2056305116655273\"\n    }\n  ]\n}",
+  "model_returned": "qwen3.8-flash",
+  "response_id": "chatcmpl-f7e3db1d-04b0-953b-9cfc-581e846ef36f",
+  "provider_status": "completed",
+  "search_executed": false,
+  "tool_records": [],
+  "upstream_snapshot": "unknown",
+  "api_surface": "qwen.official.chat.completions",
+  "upstream_route_claims": {},
+  "raw_http_body": "{\"id\":\"chatcmpl-f7e3db1d-04b0-953b-9cfc-581e846ef36f\",\"object\":\"chat.completion\",\"created\":1791731626,\"model\":\"qwen3.8-flash\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\"{\\n  \\\"references\\\": [\\n    {\\n      \\\"title\\\": \\\"The Gig Economy and the Future of Work\\\",\\n      \\\"authors\\\": [\\n        \\\"Alex Rosenblat\\\",\\n        \\\"Aaron Booth\\\"\\n      ],\\n      \\\"year\\\": 2017,\\n      \\\"journal\\\": \\\"Big Data & Society\\\",\\n      \\\"doi\\\": \\\"10.1177/2053951717748961\\\",\\n      \\\"url\\\": \\\"https://journals.sagepub.com/doi/full/10.1177/2053951717748961\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"Digital Labor: The Internet as Playground and Factory\\\",\\n      \\\"authors\\\": [\\n        \\\"Trebor Scholz\\\"\\n      ],\\n      \\\"year\\\": 2013,\\n      \\\"journal\\\": null,\\n      \\\"doi\\\": null,\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"Algorithmic Management in the Digital Workplace\\\",\\n      \\\"authors\\\": [\\n        \\\"Min Kyung Lee\\\",\\n        \\\"Daniel Kusbit\\\",\\n        \\\"Alan Metsky\\\",\\n        \\\"Loren Terveen\\\"\\n      ],\\n      \\\"year\\\": 2015,\\n      \\\"journal\\\": \\\"Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI '15)\\\",\\n      \\\"doi\\\": \\\"10.1145/2702123.2702510\\\",\\n      \\\"url\\\": \\\"https://dl.acm.org/doi/10.1145/2702123.2702510\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"Crowdsourcing as a Model for Research: An Introduction to Mechanical Turk\\\",\\n      \\\"authors\\\": [\\n        \\\"Matthew K. Crump\\\",\\n        \\\"Jeremy R. Wolfe\\\",\\n        \\\"Evan M. Johnson\\\",\\n        \\\"Derek J. Taylor\\\",\\n        \\\"Hannah H. Kremer\\\",\\n        \\\"David C. Plaut\\\"\\n      ],\\n      \\\"year\\\": 2013,\\n      \\\"journal\\\": \\\"SAGE Open\\\",\\n      \\\"doi\\\": \\\"10.1177/2158244013493592\\\",\\n      \\\"url\\\": \\\"https://journals.sagepub.com/doi/full/10.1177/2158244013493592\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"The Social Structure of Algorithmic Management: A Case Study of Amazon's Mechanical Turk\\\",\\n      \\\"authors\\\": [\\n        \\\"J. Nathan Matias\\\"\\n      ],\\n      \\\"year\\\": 2016,\\n      \\\"journal\\\": \\\"Social Media + Society\\\",\\n      \\\"doi\\\": \\\"10.1177/2056305116655273\\\",\\n      \\\"url\\\": \\\"https://journals.sagepub.com/doi/full/10.1177/2056305116655273\\\"\\n    }\\n  ]\\n}\"},\"finish_reason\":\"stop\",\"logprobs\":null}],\"usage\":{\"prompt_tokens\":162,\"total_tokens\":881,\"completion_tokens\":719,\"prompt_tokens_details\":{\"cached_tokens\":0,\"text_tokens\":162}}}",
+  "http_status": 200,
+  "safe_response_headers": {
+    "x-request-id": "f7e3db1d-04b0-953b-9cfc-581e846ef36f",
+    "server": "istio-envoy"
+  },
+  "sent_parameters": {
+    "model": "qwen3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Platform labor and digital labor\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "provider_request_id": "f7e3db1d-04b0-953b-9cfc-581e846ef36f",
+  "entry_errors": [],
+  "json_parsed": true,
+  "latency": 16.770811499998672,
+  "usage_price_estimate": {
+    "currency": "CNY",
+    "input_tokens_scenario": 162,
+    "output_tokens_scenario": 719,
+    "text_component_amount": "0.0020709",
+    "estimated_total_amount": null,
+    "verified_total_upper_bound": null,
+    "actual_billed_amount": null,
+    "cache_policy": "all_input_at_uncached_rate_scenario",
+    "multiplier_scenario": "1 (scenario only; not account verification)",
+    "tools": "not_requested",
+    "client_retries": 0,
+    "unknown_terms": [
+      "account_currency_confirmation",
+      "actual_account_discounts",
+      "cache_billing",
+      "failed_request_billing",
+      "billing_rounding"
+    ],
+    "price_snapshot_id": "51176537e343ad9e1d4e441ebf841a781aba65eda97a8275da5e9729f8327a04",
+    "usage_evidence": {
+      "prompt_tokens": 162,
+      "total_tokens": 881,
+      "completion_tokens": 719,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 162
+      }
+    },
+    "reasoning_tokens_reported": null,
+    "usage_cost_basis": "uncached list-rate component; not actual invoice"
+  }
+}

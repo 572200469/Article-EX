@@ -1,0 +1,348 @@
+{
+  "protocol": "research_protocol_v1-f161bab9fb085136cd8a",
+  "batch_id": "publication_visibility_main-f161bab9fb085136",
+  "cohort": "publication_visibility_main",
+  "condition": "neutral_zh",
+  "prompt_language": "zh",
+  "topic_id": "spiral_of_silence",
+  "topic_group": "classical",
+  "provider": "openai",
+  "model_requested": "gpt-5.6-terra",
+  "requested_model": "gpt-5.6-terra",
+  "route": {
+    "provider": "openai",
+    "adapter": "relay",
+    "access_channel": "relay",
+    "base_url": "https://token.mmh1.top/v1",
+    "api_key_env": "RELAY_API_KEY",
+    "model": "gpt-5.6-terra",
+    "confirmed": true,
+    "parameters_confirmed": false,
+    "reasoning_effort": "none",
+    "thinking_mode": "none",
+    "output_limit_field": "max_completion_tokens"
+  },
+  "route_id": "80c1a0800214d59a110d079ba69bfd04955cbdd093fcc0077d0e7fc4b8f144f2",
+  "access_channel": "relay",
+  "base_url": "https://token.mmh1.top/v1",
+  "adapter": "relay",
+  "repeat_index": 3,
+  "mode": "baseline",
+  "search_enabled": false,
+  "source_type": "api",
+  "prompt_text": "请推荐关于「沉默的螺旋」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+  "request_parameters": {
+    "max_output_tokens": 8192,
+    "timeout": 180
+  },
+  "thinking_mode": "none",
+  "coding_rule_version": "publication_visibility_coding_v2",
+  "sdk_retries": 0,
+  "caller_retries": 0,
+  "generation_authorized": true,
+  "request_config_id": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+  "effective_reasoning_parameters": {
+    "reasoning_effort": "none",
+    "thinking_mode": "none"
+  },
+  "proposed_wire_parameters": {
+    "model": "gpt-5.6-terra",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「沉默的螺旋」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_completion_tokens": 8192,
+    "reasoning_effort": "none"
+  },
+  "sequence": 15,
+  "source_job_id": "0106c0f33affe04fb09226d1d7a7b93f62552fc52c377a4f9e899aeca3cf7474",
+  "source_generation_protocol": "research_protocol_v1-cf2812cdc4a6cc6ddda4",
+  "job_id": "cf40e9cf31c85f1a2765e93a19daa4a24578370a69f558538efd289091c6f791",
+  "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\openai\\cf40e9cf31c85f1a2765e93a19daa4a24578370a69f558538efd289091c6f791",
+  "main_authorization": {
+    "authorization_id": "publication_visibility_main_batch01_f161bab9fb085136",
+    "configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+    "allowed_job_ids": [
+      "ae241feeaf8727a494b0aa89cb63b4ef06013f84ab32957da1e4e34c7baaab13",
+      "6e5853897802f9464214b25e5211f1c6d61ee845753b970d3e5a0fdf21bdd52d",
+      "ef13351091e330b212061f52fbf1dde3e41c285f0b67fd14487321b5f1586a05",
+      "3083c69d1fd04cc327c49534c0e7346ae8a6eebd04d27676e8a9f8b843902c1f",
+      "64f7c462a5037cbc05ba16ee1c952bcc27de8eec311992baebad37fc592ecd9e",
+      "c5d7a2e3c8ace231041ad3a2d813c3e2c643ef96447dceb64838de4117ed787f",
+      "8d965638ea6e12aa5966ee4ecfb71c8b18d2b522b5294c407adff998f9d1cc17",
+      "865953f2eda5cc9812695a4acf3c1c576947a4df82e14dd5b7b6dbede47b1109",
+      "64cee3c300d4890e83ad68d77ca12ed7610f7c4529d7b8a81b0dd492009aaee5",
+      "2e5b0c1837d4cc3186adc8bc19ca5c9dd6390688905e8236236d31fca846e7e5",
+      "e3065184bf3b8fca8fc63dd500ca674e534f5f3ef0c122b220be611b6de9972f",
+      "0eef724a85feeda99fa18edb4dcaf38c2e941dd1ff0a4661a821a2c796d9638d",
+      "72565ac927968172a01e8adda7cb6b9c019ebf05f2e061a7a95004020bb85d3a",
+      "6a3d065d31c051359d7be69b92d186d21687cdfd9451a7b2102aa02d1c77d5d4",
+      "cf40e9cf31c85f1a2765e93a19daa4a24578370a69f558538efd289091c6f791",
+      "6e7387a1bd0ebbae4cba9e350e78a8a32c8b038fc01cd6503a9d9d546c7df780",
+      "0872f3fdafd2580b01560ced65134924675fbe9ec0f3ec6f7a787f41990f63d9",
+      "cf7e36b999ea41778012a6876d6308a20dc527d4f3f999e654d1885108107337",
+      "37ee0cf5e98d7c2bdeaf7b4e1c7985551246fc5e830dbd9a644b53b0078bc3c2",
+      "e0e19755a9459f5191745a84e201496a2a521636e3b782c3ea900c4bf4645667",
+      "d0449ae2b0134ceca2cc8225c5b32a8191e8c1ecfb1067c60ba2665c173ac609",
+      "842dc0abee067ae981f92cc59ec86f5b13cac9cd8eef9cff3d1be8720149efae",
+      "c1cf2d83a82f1a8e349b5acbed8ee06a6662bc7d58e5c5b570bc9c3548eb742a",
+      "f4c0e0cea8ed2e66d7b50afd9319167e93efc04e52a56ff13a084d0e2b33d849"
+    ],
+    "batch_number": 1,
+    "maximum_total_requests": 24,
+    "maximum_provider_requests": {
+      "openai": 8,
+      "gemini": 7,
+      "deepseek": 5,
+      "qwen": 4
+    },
+    "software_budget_by_currency": {
+      "CNY": "2.25",
+      "USD": "0.50"
+    },
+    "maximum_job_requests": 1,
+    "user_authorized": true,
+    "billing_risk_accepted": true,
+    "source": "Explicit researcher authorization in current conversation on2026-10-11: first fixed24 main-experiment jobs only, GPT8 Gemini7 DeepSeek5 Qwen4, CNY2.25 and USD0.50; accepts disclosed relay multiplier/failure billing/account billing uncertainties; no subsequent168, no retry or diagnostic."
+  },
+  "experiment_id": "cf40e9cf31c85f1a2765e93a19daa4a24578370a69f558538efd289091c6f791",
+  "timestamp": "2026-10-11T13:01:17.219899+00:00",
+  "protocol_status": "frozen",
+  "status": "success",
+  "api_success": true,
+  "attempt_index": 1,
+  "raw_response": {
+    "id": "resp_0f7ed9b2a4db1d40016acb88a45e7c87d0aeb39e930a42b6d3",
+    "object": "chat.completion",
+    "created": 1791723684,
+    "model": "gpt-5.6-terra",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"references\":[{\"title\":\"The Spiral of Silence: A Theory of Public Opinion\",\"authors\":\"Elisabeth Noelle-Neumann\",\"year\":1974,\"journal\":\"Journal of Communication\",\"doi\":\"10.1111/j.1460-2466.1974.tb00367.x\",\"url\":\"https://doi.org/10.1111/j.1460-2466.1974.tb00367.x\"},{\"title\":\"Turbulences in the Climate of Opinion: Methodological Applications of the Spiral of Silence Theory\",\"authors\":\"Elisabeth Noelle-Neumann\",\"year\":1977,\"journal\":\"Public Opinion Quarterly\",\"doi\":\"10.1086/268371\",\"url\":\"https://doi.org/10.1086/268371\"},{\"title\":\"Perceived Support for One's Opinions and Willingness to Speak Out: A Meta-Analysis of Survey Studies on the 'Spiral of Silence'\",\"authors\":\"Thomas J. Glynn; Michael E. Hayes; David C. Shanahan\",\"year\":1997,\"journal\":\"Public Opinion Quarterly\",\"doi\":\"10.1086/297809\",\"url\":\"https://doi.org/10.1086/297809\"},{\"title\":\"The Spiral of Silence and Public Opinion on Affirmative Action\",\"authors\":\"Patricia Moy; David Domke; Keith Stamm\",\"year\":2001,\"journal\":\"Journalism & Mass Communication Quarterly\",\"doi\":\"10.1177/107769900107800102\",\"url\":\"https://doi.org/10.1177/107769900107800102\"},{\"title\":\"Social-Psychological Influences on Opinion Expression in Face-to-Face and Computer-Mediated Communication\",\"authors\":\"S. Shyam Sundar Ho; Douglas M. McLeod\",\"year\":2008,\"journal\":\"Communication Research\",\"doi\":\"10.1177/0093650207313169\",\"url\":\"https://doi.org/10.1177/0093650207313169\"}]}",
+          "reasoning_content": null,
+          "tool_calls": null
+        },
+        "finish_reason": "stop",
+        "native_finish_reason": "stop"
+      }
+    ],
+    "service_tier": "default",
+    "usage": {
+      "completion_tokens": 1813,
+      "total_tokens": 2268,
+      "prompt_tokens": 455,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_creation_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1408
+      }
+    }
+  },
+  "references": [
+    {
+      "title": "The Spiral of Silence: A Theory of Public Opinion",
+      "authors": "Elisabeth Noelle-Neumann",
+      "year": 1974,
+      "journal": "Journal of Communication",
+      "doi": "10.1111/j.1460-2466.1974.tb00367.x",
+      "url": "https://doi.org/10.1111/j.1460-2466.1974.tb00367.x"
+    },
+    {
+      "title": "Turbulences in the Climate of Opinion: Methodological Applications of the Spiral of Silence Theory",
+      "authors": "Elisabeth Noelle-Neumann",
+      "year": 1977,
+      "journal": "Public Opinion Quarterly",
+      "doi": "10.1086/268371",
+      "url": "https://doi.org/10.1086/268371"
+    },
+    {
+      "title": "Perceived Support for One's Opinions and Willingness to Speak Out: A Meta-Analysis of Survey Studies on the 'Spiral of Silence'",
+      "authors": "Thomas J. Glynn; Michael E. Hayes; David C. Shanahan",
+      "year": 1997,
+      "journal": "Public Opinion Quarterly",
+      "doi": "10.1086/297809",
+      "url": "https://doi.org/10.1086/297809"
+    },
+    {
+      "title": "The Spiral of Silence and Public Opinion on Affirmative Action",
+      "authors": "Patricia Moy; David Domke; Keith Stamm",
+      "year": 2001,
+      "journal": "Journalism & Mass Communication Quarterly",
+      "doi": "10.1177/107769900107800102",
+      "url": "https://doi.org/10.1177/107769900107800102"
+    },
+    {
+      "title": "Social-Psychological Influences on Opinion Expression in Face-to-Face and Computer-Mediated Communication",
+      "authors": "S. Shyam Sundar Ho; Douglas M. McLeod",
+      "year": 2008,
+      "journal": "Communication Research",
+      "doi": "10.1177/0093650207313169",
+      "url": "https://doi.org/10.1177/0093650207313169"
+    }
+  ],
+  "returned_model": "gpt-5.6-terra",
+  "usage": {
+    "completion_tokens": 1813,
+    "total_tokens": 2268,
+    "prompt_tokens": 455,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "cached_creation_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1408
+    }
+  },
+  "finish_reason": "stop",
+  "actual_billed_amount": null,
+  "budget_reservation": {
+    "currency": "CNY",
+    "amount": "0.10"
+  },
+  "pricing_snapshot": {
+    "provider": "openai",
+    "model": "gpt-5.6-terra",
+    "pricing_route_base_url": "https://token.mmh1.top/v1",
+    "access_channel": "relay",
+    "pricing_currency": "CNY",
+    "input_price_per_million": "1.30",
+    "output_price_per_million": "7.80",
+    "cached_input_price_per_million": "0.80",
+    "pricing_source": "user_provided_mmh1_screenshot_transcription",
+    "pricing_checked_at": "2026-10-11",
+    "source_url": "https://token.mmh1.top/pricing",
+    "evidence_limit": "Displayed prices only; original screenshot not available locally; actual deductions unverified.",
+    "tier": "standard_scenario_only",
+    "input_token_limit": null,
+    "reasoning_billing": "unknown",
+    "unknown_terms": [
+      "platform_multiplier",
+      "account_currency_or_quota_unit",
+      "dynamic_price",
+      "long_context_tier_threshold",
+      "long_context_rates",
+      "reasoning_billing",
+      "cache_write_fee",
+      "failed_request_billing",
+      "platform_internal_retries"
+    ],
+    "proposed_reservation": "0.10"
+  },
+  "budget_status": "reservation_retained_actual_invoice_unknown",
+  "planned_parameters": {
+    "model": "gpt-5.6-terra",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「沉默的螺旋」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_completion_tokens": 8192,
+    "reasoning_effort": "none"
+  },
+  "upstream_identity_verified": false,
+  "response_text": "{\"references\":[{\"title\":\"The Spiral of Silence: A Theory of Public Opinion\",\"authors\":\"Elisabeth Noelle-Neumann\",\"year\":1974,\"journal\":\"Journal of Communication\",\"doi\":\"10.1111/j.1460-2466.1974.tb00367.x\",\"url\":\"https://doi.org/10.1111/j.1460-2466.1974.tb00367.x\"},{\"title\":\"Turbulences in the Climate of Opinion: Methodological Applications of the Spiral of Silence Theory\",\"authors\":\"Elisabeth Noelle-Neumann\",\"year\":1977,\"journal\":\"Public Opinion Quarterly\",\"doi\":\"10.1086/268371\",\"url\":\"https://doi.org/10.1086/268371\"},{\"title\":\"Perceived Support for One's Opinions and Willingness to Speak Out: A Meta-Analysis of Survey Studies on the 'Spiral of Silence'\",\"authors\":\"Thomas J. Glynn; Michael E. Hayes; David C. Shanahan\",\"year\":1997,\"journal\":\"Public Opinion Quarterly\",\"doi\":\"10.1086/297809\",\"url\":\"https://doi.org/10.1086/297809\"},{\"title\":\"The Spiral of Silence and Public Opinion on Affirmative Action\",\"authors\":\"Patricia Moy; David Domke; Keith Stamm\",\"year\":2001,\"journal\":\"Journalism & Mass Communication Quarterly\",\"doi\":\"10.1177/107769900107800102\",\"url\":\"https://doi.org/10.1177/107769900107800102\"},{\"title\":\"Social-Psychological Influences on Opinion Expression in Face-to-Face and Computer-Mediated Communication\",\"authors\":\"S. Shyam Sundar Ho; Douglas M. McLeod\",\"year\":2008,\"journal\":\"Communication Research\",\"doi\":\"10.1177/0093650207313169\",\"url\":\"https://doi.org/10.1177/0093650207313169\"}]}",
+  "model_returned": "gpt-5.6-terra",
+  "response_id": "resp_0f7ed9b2a4db1d40016acb88a45e7c87d0aeb39e930a42b6d3",
+  "provider_status": "completed",
+  "search_executed": false,
+  "tool_records": [],
+  "upstream_snapshot": "unknown",
+  "api_surface": "relay.openai_compatible.chat.completions",
+  "upstream_route_claims": {},
+  "raw_http_body": "{\"id\":\"resp_0f7ed9b2a4db1d40016acb88a45e7c87d0aeb39e930a42b6d3\",\"object\":\"chat.completion\",\"created\":1791723684,\"model\":\"gpt-5.6-terra\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\"{\\\"references\\\":[{\\\"title\\\":\\\"The Spiral of Silence: A Theory of Public Opinion\\\",\\\"authors\\\":\\\"Elisabeth Noelle-Neumann\\\",\\\"year\\\":1974,\\\"journal\\\":\\\"Journal of Communication\\\",\\\"doi\\\":\\\"10.1111/j.1460-2466.1974.tb00367.x\\\",\\\"url\\\":\\\"https://doi.org/10.1111/j.1460-2466.1974.tb00367.x\\\"},{\\\"title\\\":\\\"Turbulences in the Climate of Opinion: Methodological Applications of the Spiral of Silence Theory\\\",\\\"authors\\\":\\\"Elisabeth Noelle-Neumann\\\",\\\"year\\\":1977,\\\"journal\\\":\\\"Public Opinion Quarterly\\\",\\\"doi\\\":\\\"10.1086/268371\\\",\\\"url\\\":\\\"https://doi.org/10.1086/268371\\\"},{\\\"title\\\":\\\"Perceived Support for One's Opinions and Willingness to Speak Out: A Meta-Analysis of Survey Studies on the 'Spiral of Silence'\\\",\\\"authors\\\":\\\"Thomas J. Glynn; Michael E. Hayes; David C. Shanahan\\\",\\\"year\\\":1997,\\\"journal\\\":\\\"Public Opinion Quarterly\\\",\\\"doi\\\":\\\"10.1086/297809\\\",\\\"url\\\":\\\"https://doi.org/10.1086/297809\\\"},{\\\"title\\\":\\\"The Spiral of Silence and Public Opinion on Affirmative Action\\\",\\\"authors\\\":\\\"Patricia Moy; David Domke; Keith Stamm\\\",\\\"year\\\":2001,\\\"journal\\\":\\\"Journalism \\u0026 Mass Communication Quarterly\\\",\\\"doi\\\":\\\"10.1177/107769900107800102\\\",\\\"url\\\":\\\"https://doi.org/10.1177/107769900107800102\\\"},{\\\"title\\\":\\\"Social-Psychological Influences on Opinion Expression in Face-to-Face and Computer-Mediated Communication\\\",\\\"authors\\\":\\\"S. Shyam Sundar Ho; Douglas M. McLeod\\\",\\\"year\\\":2008,\\\"journal\\\":\\\"Communication Research\\\",\\\"doi\\\":\\\"10.1177/0093650207313169\\\",\\\"url\\\":\\\"https://doi.org/10.1177/0093650207313169\\\"}]}\",\"reasoning_content\":null,\"tool_calls\":null},\"finish_reason\":\"stop\",\"native_finish_reason\":\"stop\"}],\"service_tier\":\"default\",\"usage\":{\"completion_tokens\":1813,\"total_tokens\":2268,\"prompt_tokens\":455,\"prompt_tokens_details\":{\"cached_tokens\":0,\"cache_write_tokens\":0,\"cached_creation_tokens\":0},\"completion_tokens_details\":{\"reasoning_tokens\":1408}}}",
+  "http_status": 200,
+  "safe_response_headers": {
+    "server": "cloudflare"
+  },
+  "sent_parameters": {
+    "model": "gpt-5.6-terra",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「沉默的螺旋」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_completion_tokens": 8192,
+    "reasoning_effort": "none"
+  },
+  "provider_request_id": null,
+  "entry_errors": [
+    {
+      "rank": 1,
+      "field": "authors",
+      "error": "field_type_error"
+    },
+    {
+      "rank": 2,
+      "field": "authors",
+      "error": "field_type_error"
+    },
+    {
+      "rank": 3,
+      "field": "authors",
+      "error": "field_type_error"
+    },
+    {
+      "rank": 4,
+      "field": "authors",
+      "error": "field_type_error"
+    },
+    {
+      "rank": 5,
+      "field": "authors",
+      "error": "field_type_error"
+    }
+  ],
+  "json_parsed": true,
+  "latency": 99.26523199999792,
+  "usage_price_estimate": {
+    "currency": "CNY",
+    "input_tokens_scenario": 455,
+    "output_tokens_scenario": 1813,
+    "text_component_amount": "0.0147329",
+    "estimated_total_amount": null,
+    "verified_total_upper_bound": null,
+    "actual_billed_amount": null,
+    "cache_policy": "all_input_at_uncached_rate_scenario",
+    "multiplier_scenario": "1 (scenario only; not account verification)",
+    "tools": "not_requested",
+    "client_retries": 0,
+    "unknown_terms": [
+      "platform_multiplier",
+      "account_currency_or_quota_unit",
+      "dynamic_price",
+      "long_context_tier_threshold",
+      "long_context_rates",
+      "reasoning_billing",
+      "cache_write_fee",
+      "failed_request_billing",
+      "platform_internal_retries"
+    ],
+    "price_snapshot_id": "b803fd4ec7337a37f4ecbe02196da14a829c73077c25250a9bba6e9de9e18525",
+    "usage_evidence": {
+      "completion_tokens": 1813,
+      "total_tokens": 2268,
+      "prompt_tokens": 455,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_creation_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1408
+      }
+    },
+    "reasoning_tokens_reported": 1408,
+    "usage_cost_basis": "uncached list-rate component; not actual invoice"
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "protocol": "research_protocol_v1-f161bab9fb085136cd8a",
+  "batch_id": "publication_visibility_main-f161bab9fb085136",
+  "cohort": "publication_visibility_main",
+  "condition": "neutral_zh",
+  "prompt_language": "zh",
+  "topic_id": "misinformation",
+  "topic_group": "digital",
+  "provider": "openai",
+  "model_requested": "gpt-5.6-terra",
+  "requested_model": "gpt-5.6-terra",
+  "route": {
+    "provider": "openai",
+    "adapter": "relay",
+    "access_channel": "relay",
+    "base_url": "https://token.mmh1.top/v1",
+    "api_key_env": "RELAY_API_KEY",
+    "model": "gpt-5.6-terra",
+    "confirmed": true,
+    "parameters_confirmed": false,
+    "reasoning_effort": "none",
+    "thinking_mode": "none",
+    "output_limit_field": "max_completion_tokens"
+  },
+  "route_id": "80c1a0800214d59a110d079ba69bfd04955cbdd093fcc0077d0e7fc4b8f144f2",
+  "access_channel": "relay",
+  "base_url": "https://token.mmh1.top/v1",
+  "adapter": "relay",
+  "repeat_index": 3,
+  "mode": "baseline",
+  "search_enabled": false,
+  "source_type": "api",
+  "prompt_text": "请推荐关于「虚假信息与事实核查」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+  "request_parameters": {
+    "max_output_tokens": 8192,
+    "timeout": 180
+  },
+  "thinking_mode": "none",
+  "coding_rule_version": "publication_visibility_coding_v2",
+  "sdk_retries": 0,
+  "caller_retries": 0,
+  "generation_authorized": true,
+  "request_config_id": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+  "effective_reasoning_parameters": {
+    "reasoning_effort": "none",
+    "thinking_mode": "none"
+  },
+  "proposed_wire_parameters": {
+    "model": "gpt-5.6-terra",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「虚假信息与事实核查」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_completion_tokens": 8192,
+    "reasoning_effort": "none"
+  },
+  "sequence": 146,
+  "source_job_id": "d3dfce660c8079e85c5461ce26a27a807ae369f9b5ce46af9dcd01af4fbbee04",
+  "source_generation_protocol": "research_protocol_v1-cf2812cdc4a6cc6ddda4",
+  "job_id": "4ef957e0c90492c86edb7993acb717f49e9ab601e626889f811e22e957f58d1d",
+  "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\openai\\4ef957e0c90492c86edb7993acb717f49e9ab601e626889f811e22e957f58d1d",
+  "main_authorization": {
+    "authorization_id": "publication_visibility_main_batch07_f161bab9fb085136",
+    "configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+    "allowed_job_ids": [
+      "0c41f3409812e79e8cb5c133358ac25a19db9e863916540a40eecefe30c0925a",
+      "4ef957e0c90492c86edb7993acb717f49e9ab601e626889f811e22e957f58d1d",
+      "31de82294ed339109a46aebd1fc4a2ce834fd483262602de2e0d7cd422bc5bee",
+      "062a9b0946739a7f0757ae5333b627dcff457c04c105eafe81e2646a9f1ae10a",
+      "91be8431492ac67430c444c2b88c1bea0253f8533b5e12a657210858093fd9fb",
+      "f03b364150f41b31a5f649c8f5d681a6f4d10c47e185ac055790d6cbe40c023a",
+      "6d7efe3af7f643bf374235512fd39a8414044300c390d4f5f44bf9212f74c0ee",
+      "460fb219956288741aceeb7af48b40eeb1bbc084e50e2dd87b3c3db013343152",
+      "40dcea2cb0a0db596c902ac284a319defec39333655b2c90915eb23a7fbace90",
+      "973cb1169c727b34918081685e21f3b39548322845c994e1fecfd50b5ccf5b79",
+      "8208b0518640302b7fa13f8a15325e2333ea791aa1cd476ee52fe3b3a8731b14",
+      "3ca84d8bb1503622abdb032bf027d94e11e68c83f2238ad36e112efaa8376b60",
+      "e7d20436b90881624535eec24c6d2c61b6e119ad326443e25487ddbe0fbce624",
+      "9c9aa427558189abadf1093b1b1fcbfc76f838b48ab12dbb6c94e3cc68472976",
+      "ea72f0e73b8178764021c12b252bdbd6e30a3561a6cc764357e314c4590e014d",
+      "6525a0837fbcf949c447ff0f8c90e0256e8032c521f1f524923f391f43616de5",
+      "1ba428e8581796e100f510d0e15923714cde9cafff0f410ef09bc30028807ff9",
+      "9e5bd2838e29e3b375b0d4ee24445dfc85ca34efd347121a0cae6b3cc05f116c",
+      "d18ec339b4f211fbffa7e0b632352e569d5734f737664f4c5da20527748129f0",
+      "84aaef9b93d3843f12787c35246fefaa1f39a7896a6e18bb67c8db3938fbe32a",
+      "353b00e3d0c558499d54b6b861ae004294647edbb3e421a5c7df7489475a7a5f",
+      "f9eeb1525a9dd18616b2494768dd5a690d6ccd3462d1e5d011c39059f955a7c0",
+      "a338e961e79ca0532a178b0d68a87ed0f217e46ee1af66fe6321b732d0e0d60d",
+      "48c1a8398e4735f8957b22ec381b64bb9725f2b1d7c92b555863b9a4ddd6710c"
+    ],
+    "batch_number": 7,
+    "maximum_total_requests": 24,
+    "maximum_provider_requests": {
+      "qwen": 5,
+      "openai": 6,
+      "gemini": 10,
+      "deepseek": 3
+    },
+    "software_budget_by_currency": {
+      "CNY": "2.60",
+      "USD": "0.30"
+    },
+    "maximum_job_requests": 1,
+    "user_authorized": true,
+    "billing_risk_accepted": true,
+    "source": "remaining144:E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\remaining_049_192\\authorization.json"
+  },
+  "experiment_id": "4ef957e0c90492c86edb7993acb717f49e9ab601e626889f811e22e957f58d1d",
+  "timestamp": "2026-10-11T15:31:20.584534+00:00",
+  "protocol_status": "frozen",
+  "status": "success",
+  "api_success": true,
+  "attempt_index": 1,
+  "raw_response": {
+    "id": "resp_ft_a03695b25d154bb39078a312dcdf0ac2",
+    "object": "chat.completion",
+    "created": 1791732752,
+    "model": "gpt-5.6-terra",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": " {\"references\":[{\"title\":\"The Spreading of Misinformation Online\",\"authors\":[\"Walter Quattrociocchi\",\"Antonio Scala\",\"Cass R. Sunstein\"],\"year\":2016,\"journal\":\"Proceedings of the National Academy of Sciences\",\"doi\":\"10.1073/pnas.1517441113\",\"url\":\"https://doi.org/10.1073/pnas.1517441113\"},{\"title\":\"The Spread of True and False News Online\",\"authors\":[\"Soroush Vosoughi\",\"Deb Roy\",\"Sinan Aral\"],\"year\":2018,\"journal\":\"Science\",\"doi\":\"10.1126/science.aap9559\",\"url\":\"https://doi.org/10.1126/science.aap9559\"},{\"title\":\"When Corrections Fail: The Persistence of Political Misperceptions\",\"authors\":[\"Brendan Nyhan\",\"Jason Reifler\"],\"year\":2010,\"journal\":\"Political Behavior\",\"doi\":\"10.1007/s11109-010-9112-2\",\"url\":\"https://doi.org/10.1007/s11109-010-9112-2\"},{\"title\":\"Taking Fact-Checks Literally But Not Seriously? The Effects of Journalistic Fact-Checking on Factual Beliefs and Candidate Favorability\",\"authors\":[\"Brendan Nyhan\",\"Thomas Porter\",\"Jason Reifler\",\"Ethan J. Wood\"],\"year\":2020,\"journal\":\"The Journal of Politics\",\"doi\":\"10.1086/703887\",\"url\":\"https://doi.org/10.1086/703887\"},{\"title\":\"Fighting COVID-19 Misinformation on Social Media: Experimental Evidence for a Scalable Accuracy-Nudge Intervention\",\"authors\":[\"Gordon Pennycook\",\"Jonathon McPhetres\",\"Yilun Zhang\",\"Jennifer K. Lu\",\"David G. Rand\"],\"year\":2020,\"journal\":\"Psychological Science\",\"doi\":\"10.1177/0956797620939054\",\"url\":\"https://doi.org/10.1177/0956797620939054\"}]}",
+          "reasoning_content": "**Selecting primary journal articles with accurate DOIs****Filtering primary fact-checking studies for JSON output**"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 3715,
+      "completion_tokens": 802,
+      "total_tokens": 4517,
+      "prompt_tokens_details": {
+        "cached_tokens": 2816
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 379
+      }
+    },
+    "service_tier": "default"
+  },
+  "references": [
+    {
+      "title": "The Spreading of Misinformation Online",
+      "authors": [
+        "Walter Quattrociocchi",
+        "Antonio Scala",
+        "Cass R. Sunstein"
+      ],
+      "year": 2016,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.1517441113",
+      "url": "https://doi.org/10.1073/pnas.1517441113"
+    },
+    {
+      "title": "The Spread of True and False News Online",
+      "authors": [
+        "Soroush Vosoughi",
+        "Deb Roy",
+        "Sinan Aral"
+      ],
+      "year": 2018,
+      "journal": "Science",
+      "doi": "10.1126/science.aap9559",
+      "url": "https://doi.org/10.1126/science.aap9559"
+    },
+    {
+      "title": "When Corrections Fail: The Persistence of Political Misperceptions",
+      "authors": [
+        "Brendan Nyhan",
+        "Jason Reifler"
+      ],
+      "year": 2010,
+      "journal": "Political Behavior",
+      "doi": "10.1007/s11109-010-9112-2",
+      "url": "https://doi.org/10.1007/s11109-010-9112-2"
+    },
+    {
+      "title": "Taking Fact-Checks Literally But Not Seriously? The Effects of Journalistic Fact-Checking on Factual Beliefs and Candidate Favorability",
+      "authors": [
+        "Brendan Nyhan",
+        "Thomas Porter",
+        "Jason Reifler",
+        "Ethan J. Wood"
+      ],
+      "year": 2020,
+      "journal": "The Journal of Politics",
+      "doi": "10.1086/703887",
+      "url": "https://doi.org/10.1086/703887"
+    },
+    {
+      "title": "Fighting COVID-19 Misinformation on Social Media: Experimental Evidence for a Scalable Accuracy-Nudge Intervention",
+      "authors": [
+        "Gordon Pennycook",
+        "Jonathon McPhetres",
+        "Yilun Zhang",
+        "Jennifer K. Lu",
+        "David G. Rand"
+      ],
+      "year": 2020,
+      "journal": "Psychological Science",
+      "doi": "10.1177/0956797620939054",
+      "url": "https://doi.org/10.1177/0956797620939054"
+    }
+  ],
+  "returned_model": "gpt-5.6-terra",
+  "usage": {
+    "prompt_tokens": 3715,
+    "completion_tokens": 802,
+    "total_tokens": 4517,
+    "prompt_tokens_details": {
+      "cached_tokens": 2816
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 379
+    }
+  },
+  "finish_reason": "stop",
+  "actual_billed_amount": null,
+  "budget_reservation": {
+    "currency": "CNY",
+    "amount": "0.10"
+  },
+  "pricing_snapshot": {
+    "provider": "openai",
+    "model": "gpt-5.6-terra",
+    "pricing_route_base_url": "https://token.mmh1.top/v1",
+    "access_channel": "relay",
+    "pricing_currency": "CNY",
+    "input_price_per_million": "1.30",
+    "output_price_per_million": "7.80",
+    "cached_input_price_per_million": "0.80",
+    "pricing_source": "user_provided_mmh1_screenshot_transcription",
+    "pricing_checked_at": "2026-10-11",
+    "source_url": "https://token.mmh1.top/pricing",
+    "evidence_limit": "Displayed prices only; original screenshot not available locally; actual deductions unverified.",
+    "tier": "standard_scenario_only",
+    "input_token_limit": null,
+    "reasoning_billing": "unknown",
+    "unknown_terms": [
+      "platform_multiplier",
+      "account_currency_or_quota_unit",
+      "dynamic_price",
+      "long_context_tier_threshold",
+      "long_context_rates",
+      "reasoning_billing",
+      "cache_write_fee",
+      "failed_request_billing",
+      "platform_internal_retries"
+    ],
+    "proposed_reservation": "0.10"
+  },
+  "budget_status": "reservation_retained_actual_invoice_unknown",
+  "planned_parameters": {
+    "model": "gpt-5.6-terra",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「虚假信息与事实核查」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_completion_tokens": 8192,
+    "reasoning_effort": "none"
+  },
+  "upstream_identity_verified": false,
+  "response_text": " {\"references\":[{\"title\":\"The Spreading of Misinformation Online\",\"authors\":[\"Walter Quattrociocchi\",\"Antonio Scala\",\"Cass R. Sunstein\"],\"year\":2016,\"journal\":\"Proceedings of the National Academy of Sciences\",\"doi\":\"10.1073/pnas.1517441113\",\"url\":\"https://doi.org/10.1073/pnas.1517441113\"},{\"title\":\"The Spread of True and False News Online\",\"authors\":[\"Soroush Vosoughi\",\"Deb Roy\",\"Sinan Aral\"],\"year\":2018,\"journal\":\"Science\",\"doi\":\"10.1126/science.aap9559\",\"url\":\"https://doi.org/10.1126/science.aap9559\"},{\"title\":\"When Corrections Fail: The Persistence of Political Misperceptions\",\"authors\":[\"Brendan Nyhan\",\"Jason Reifler\"],\"year\":2010,\"journal\":\"Political Behavior\",\"doi\":\"10.1007/s11109-010-9112-2\",\"url\":\"https://doi.org/10.1007/s11109-010-9112-2\"},{\"title\":\"Taking Fact-Checks Literally But Not Seriously? The Effects of Journalistic Fact-Checking on Factual Beliefs and Candidate Favorability\",\"authors\":[\"Brendan Nyhan\",\"Thomas Porter\",\"Jason Reifler\",\"Ethan J. Wood\"],\"year\":2020,\"journal\":\"The Journal of Politics\",\"doi\":\"10.1086/703887\",\"url\":\"https://doi.org/10.1086/703887\"},{\"title\":\"Fighting COVID-19 Misinformation on Social Media: Experimental Evidence for a Scalable Accuracy-Nudge Intervention\",\"authors\":[\"Gordon Pennycook\",\"Jonathon McPhetres\",\"Yilun Zhang\",\"Jennifer K. Lu\",\"David G. Rand\"],\"year\":2020,\"journal\":\"Psychological Science\",\"doi\":\"10.1177/0956797620939054\",\"url\":\"https://doi.org/10.1177/0956797620939054\"}]}",
+  "model_returned": "gpt-5.6-terra",
+  "response_id": "resp_ft_a03695b25d154bb39078a312dcdf0ac2",
+  "provider_status": "completed",
+  "search_executed": false,
+  "tool_records": [],
+  "upstream_snapshot": "unknown",
+  "api_surface": "relay.openai_compatible.chat.completions",
+  "upstream_route_claims": {},
+  "raw_http_body": "{\"id\":\"resp_ft_a03695b25d154bb39078a312dcdf0ac2\",\"object\":\"chat.completion\",\"created\":1791732752,\"model\":\"gpt-5.6-terra\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\" {\\\"references\\\":[{\\\"title\\\":\\\"The Spreading of Misinformation Online\\\",\\\"authors\\\":[\\\"Walter Quattrociocchi\\\",\\\"Antonio Scala\\\",\\\"Cass R. Sunstein\\\"],\\\"year\\\":2016,\\\"journal\\\":\\\"Proceedings of the National Academy of Sciences\\\",\\\"doi\\\":\\\"10.1073/pnas.1517441113\\\",\\\"url\\\":\\\"https://doi.org/10.1073/pnas.1517441113\\\"},{\\\"title\\\":\\\"The Spread of True and False News Online\\\",\\\"authors\\\":[\\\"Soroush Vosoughi\\\",\\\"Deb Roy\\\",\\\"Sinan Aral\\\"],\\\"year\\\":2018,\\\"journal\\\":\\\"Science\\\",\\\"doi\\\":\\\"10.1126/science.aap9559\\\",\\\"url\\\":\\\"https://doi.org/10.1126/science.aap9559\\\"},{\\\"title\\\":\\\"When Corrections Fail: The Persistence of Political Misperceptions\\\",\\\"authors\\\":[\\\"Brendan Nyhan\\\",\\\"Jason Reifler\\\"],\\\"year\\\":2010,\\\"journal\\\":\\\"Political Behavior\\\",\\\"doi\\\":\\\"10.1007/s11109-010-9112-2\\\",\\\"url\\\":\\\"https://doi.org/10.1007/s11109-010-9112-2\\\"},{\\\"title\\\":\\\"Taking Fact-Checks Literally But Not Seriously? The Effects of Journalistic Fact-Checking on Factual Beliefs and Candidate Favorability\\\",\\\"authors\\\":[\\\"Brendan Nyhan\\\",\\\"Thomas Porter\\\",\\\"Jason Reifler\\\",\\\"Ethan J. Wood\\\"],\\\"year\\\":2020,\\\"journal\\\":\\\"The Journal of Politics\\\",\\\"doi\\\":\\\"10.1086/703887\\\",\\\"url\\\":\\\"https://doi.org/10.1086/703887\\\"},{\\\"title\\\":\\\"Fighting COVID-19 Misinformation on Social Media: Experimental Evidence for a Scalable Accuracy-Nudge Intervention\\\",\\\"authors\\\":[\\\"Gordon Pennycook\\\",\\\"Jonathon McPhetres\\\",\\\"Yilun Zhang\\\",\\\"Jennifer K. Lu\\\",\\\"David G. Rand\\\"],\\\"year\\\":2020,\\\"journal\\\":\\\"Psychological Science\\\",\\\"doi\\\":\\\"10.1177/0956797620939054\\\",\\\"url\\\":\\\"https://doi.org/10.1177/0956797620939054\\\"}]}\",\"reasoning_content\":\"**Selecting primary journal articles with accurate DOIs****Filtering primary fact-checking studies for JSON output**\"},\"finish_reason\":\"stop\"}],\"usage\":{\"prompt_tokens\":3715,\"completion_tokens\":802,\"total_tokens\":4517,\"prompt_tokens_details\":{\"cached_tokens\":2816},\"completion_tokens_details\":{\"reasoning_tokens\":379}},\"service_tier\":\"default\"}",
+  "http_status": 200,
+  "safe_response_headers": {
+    "server": "cloudflare"
+  },
+  "sent_parameters": {
+    "model": "gpt-5.6-terra",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「虚假信息与事实核查」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_completion_tokens": 8192,
+    "reasoning_effort": "none"
+  },
+  "provider_request_id": null,
+  "entry_errors": [],
+  "json_parsed": true,
+  "latency": 69.03108420000353,
+  "usage_price_estimate": {
+    "currency": "CNY",
+    "input_tokens_scenario": 3715,
+    "output_tokens_scenario": 802,
+    "text_component_amount": "0.0110851",
+    "estimated_total_amount": null,
+    "verified_total_upper_bound": null,
+    "actual_billed_amount": null,
+    "cache_policy": "all_input_at_uncached_rate_scenario",
+    "multiplier_scenario": "1 (scenario only; not account verification)",
+    "tools": "not_requested",
+    "client_retries": 0,
+    "unknown_terms": [
+      "platform_multiplier",
+      "account_currency_or_quota_unit",
+      "dynamic_price",
+      "long_context_tier_threshold",
+      "long_context_rates",
+      "reasoning_billing",
+      "cache_write_fee",
+      "failed_request_billing",
+      "platform_internal_retries"
+    ],
+    "price_snapshot_id": "b803fd4ec7337a37f4ecbe02196da14a829c73077c25250a9bba6e9de9e18525",
+    "usage_evidence": {
+      "prompt_tokens": 3715,
+      "completion_tokens": 802,
+      "total_tokens": 4517,
+      "prompt_tokens_details": {
+        "cached_tokens": 2816
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 379
+      }
+    },
+    "reasoning_tokens_reported": 379,
+    "usage_cost_basis": "uncached list-rate component; not actual invoice"
+  }
+}

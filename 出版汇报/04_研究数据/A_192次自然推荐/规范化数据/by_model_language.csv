@@ -1,0 +1,9 @@
+﻿provider,condition,positions,journal_positions,nonjournal_positions,historical_pending,identity_unknown,identity_resolved,identity_coverage,unique_works,unique_journals,institutional_system_known,institutional_geography_known,journal_geography_unknown,geography_journal_coverage,geography_all_position_coverage,mainland_independent,crossborder_mainland,non_mainland,china_author_confirmed,china_author_unknown,language_zh_metadata,body_language_manual_confirmed
+openai,neutral_zh,114,92,6,0,16,98,0.8596491228070176,61,27,62,47,45,0.5108695652173914,0.41228070175438597,0,0,47,0,46,0,0
+openai,neutral_en,115,82,5,0,28,87,0.7565217391304347,57,30,59,47,35,0.573170731707317,0.40869565217391307,0,0,47,0,50,0,0
+gemini,neutral_zh,120,104,7,0,9,111,0.925,57,30,74,61,43,0.5865384615384616,0.5083333333333333,0,0,61,1,42,0,0
+gemini,neutral_en,120,109,3,0,8,112,0.9333333333333333,53,29,76,64,45,0.5871559633027523,0.5333333333333333,0,0,64,0,36,0,0
+deepseek,neutral_zh,120,53,8,0,59,61,0.5083333333333333,35,17,36,30,23,0.5660377358490566,0.25,0,0,30,0,83,0,0
+deepseek,neutral_en,120,47,10,0,63,57,0.475,31,17,41,34,13,0.723404255319149,0.2833333333333333,0,0,34,0,85,0,0
+qwen,neutral_zh,120,14,0,0,106,14,0.11666666666666667,5,3,14,12,2,0.8571428571428571,0.1,0,0,12,0,107,0,0
+qwen,neutral_en,120,9,2,0,109,11,0.09166666666666666,9,6,7,6,3,0.6666666666666666,0.05,0,0,6,0,113,0,0

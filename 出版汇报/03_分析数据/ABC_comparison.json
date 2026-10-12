@@ -1,0 +1,62 @@
+[
+  {
+    "group": "A全部自然推荐",
+    "positions": 949,
+    "identity_confirmed": 551,
+    "identity_unknown": 398,
+    "mainland_independent_confirmed": 0,
+    "non_mainland_confirmed": 301,
+    "nonjournal_confirmed": 41,
+    "institutional_unknown_or_unresolved": 607,
+    "cnki_article_confirmed": 0,
+    "cnki_article_unknown": 949,
+    "cnki_scope": "not_article_level_audited",
+    "actual_jobs": 190,
+    "raw_title_Han": 0
+  },
+  {
+    "group": "A可比中文两主题",
+    "positions": 114,
+    "identity_confirmed": 72,
+    "identity_unknown": 42,
+    "mainland_independent_confirmed": 0,
+    "non_mainland_confirmed": 51,
+    "nonjournal_confirmed": 4,
+    "institutional_unknown_or_unresolved": 59,
+    "cnki_article_confirmed": 0,
+    "cnki_article_unknown": 114,
+    "cnki_scope": "not_article_level_audited",
+    "actual_jobs": 23,
+    "raw_title_Han": 0
+  },
+  {
+    "group": "B大陆定向",
+    "positions": 25,
+    "identity_confirmed": 1,
+    "identity_unknown": 24,
+    "mainland_independent_confirmed": 1,
+    "non_mainland_confirmed": 0,
+    "nonjournal_confirmed": 0,
+    "institutional_unknown_or_unresolved": 24,
+    "cnki_article_confirmed": 0,
+    "cnki_article_unknown": 25,
+    "cnki_scope": "article_level_CJFQ",
+    "actual_jobs": 6,
+    "raw_title_Han": 25
+  },
+  {
+    "group": "C知网定向",
+    "positions": 25,
+    "identity_confirmed": 10,
+    "identity_unknown": 15,
+    "mainland_independent_confirmed": 0,
+    "non_mainland_confirmed": 7,
+    "nonjournal_confirmed": 0,
+    "institutional_unknown_or_unresolved": 18,
+    "cnki_article_confirmed": 0,
+    "cnki_article_unknown": 25,
+    "cnki_scope": "article_level_CJFQ",
+    "actual_jobs": 5,
+    "raw_title_Han": 15
+  }
+]

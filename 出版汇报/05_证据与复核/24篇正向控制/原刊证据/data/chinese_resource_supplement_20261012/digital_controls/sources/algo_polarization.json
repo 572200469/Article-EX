@@ -1,0 +1,2142 @@
+{
+  "source_id": "algo_polarization",
+  "requested_url": "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7/25",
+  "checked_at": "2026-10-12T09:16:56.368610+00:00",
+  "access_scope": "public_no_login",
+  "method": "GET",
+  "paid_request": false,
+  "http_status": 200,
+  "final_url": "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7/25",
+  "sha256": "5c79f34552a1c4fb00de7012142f6e7b8e04d4c1dfac557adb9b0d856417b7c7",
+  "content_length": 304397,
+  "metadata": {
+    "viewport": [
+      "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+      "width=device-width, initial-scale=1"
+    ],
+    "description": [
+      "社交媒体是否存在“回音室效应”仍存有较大争议。过往研究多将算法视为信息茧房和态度极化的“罪魁祸首”，因为它营造了单一同质的信息环境，不利于公共领域的健康发展，而异质、多元偶遇的信息则被当作“破茧”良方。本文借助在线-实验法，基于精细加工可能性模型设计了3（亲态度/反态度/平衡态度）×2（高论证质量/低论证质量）的多因素组间实验，尝试探究反态度信息和平衡信息接触对用户态度的实际影响。结果表明，多元信息共存的社交媒体并不必然带来开放理性的舆论环境，同质信息也不必然引发“过滤泡”效应。高质量反态度信息能够缓和或改变个人态度，但对高议题卷入度的人来说，反态度信息反而抑制态度去极化；人们同样会以处理片面信息的确认偏误方式理解平衡信息，但那些无明确立场、低说服意图的平衡信息具备态度修正潜力。因此，在考虑信息质量以及投放信息人群的议题卷入度的前提下，偶然信息投放能够有效缓解舆论极化问题。"
+    ],
+    "authors": [
+      "郭小安, 何君琼"
+    ],
+    "keywords": [
+      "回音室,舆论极化,反态度信息,平衡信息,“破茧”"
+    ],
+    "robots": [
+      "index"
+    ],
+    "renderer": [
+      "webkit"
+    ],
+    "format-detection": [
+      "telephone=no"
+    ],
+    "apple-mobile-web-app-capable": [
+      "yes"
+    ],
+    "apple-mobile-web-app-title": [
+      "反态度信息与平衡信息接触对舆论极化的影响——一项在线实验的实证检验"
+    ],
+    "mobile-web-app-capable": [
+      "yes"
+    ],
+    "screen-orientation": [
+      "portrait"
+    ],
+    "x5-orientation": [
+      "portrait"
+    ],
+    "full-screen": [
+      "yes"
+    ],
+    "x5-fullscreen": [
+      "true"
+    ],
+    "browsermode": [
+      "application"
+    ],
+    "x5-page-mode": [
+      "app"
+    ],
+    "msapplication-tap-highlight": [
+      "no"
+    ],
+    "dc.relation.is": [
+      "国际新闻界"
+    ],
+    "dc.citation.volume": [
+      "45"
+    ],
+    "dc.citation.issue": [
+      "7"
+    ],
+    "dc.citation.spage": [
+      "25"
+    ],
+    "dc.citation.epage": [
+      "46"
+    ],
+    "dc.title": [
+      "反态度信息与平衡信息接触对舆论极化的影响——一项在线实验的实证检验"
+    ],
+    "dc.source": [
+      "国际新闻界"
+    ],
+    "dc.format": [
+      "text/html"
+    ],
+    "dc.publisher": [
+      ""
+    ],
+    "dc.date": [
+      "2023-07-23"
+    ],
+    "dc.type": [
+      ""
+    ],
+    "dc.language": [
+      "Cn"
+    ],
+    "dc.copyright": [
+      ""
+    ],
+    "dc.description": [
+      "社交媒体是否存在“回音室效应”仍存有较大争议。过往研究多将算法视为信息茧房和态度极化的“罪魁祸首”，因为它营造了单一同质的信息环境，不利于公共领域的健康发展，而异质、多元偶遇的信息则被当作“破茧”良方。本文借助在线-实验法，基于精细加工可能性模型设计了3（亲态度/反态度/平衡态度）×2（高论证质量/低论证质量）的多因素组间实验，尝试探究反态度信息和平衡信息接触对用户态度的实际影响。结果表明，多元信息共存的社交媒体并不必然带来开放理性的舆论环境，同质信息也不必然引发“过滤泡”效应。高质量反态度信息能够缓和或改变个人态度，但对高议题卷入度的人来说，反态度信息反而抑制态度去极化；人们同样会以处理片面信息的确认偏误方式理解平衡信息，但那些无明确立场、低说服意图的平衡信息具备态度修正潜力。因此，在考虑信息质量以及投放信息人群的议题卷入度的前提下，偶然信息投放能够有效缓解舆论极化问题。"
+    ],
+    "dc.relation.ispartof": [
+      "国际新闻界"
+    ],
+    "dc.creator": [
+      "郭小安",
+      "何君琼"
+    ],
+    "dc.subject": [
+      "回音室",
+      "舆论极化",
+      "反态度信息",
+      "平衡信息",
+      "“破茧”"
+    ],
+    "prism.issn": [
+      "1002-5685"
+    ],
+    "prism.publicationDate": [
+      "2023-07-23"
+    ],
+    "prism.section": [
+      ""
+    ],
+    "prism.volume": [
+      "45"
+    ],
+    "prism.number": [
+      "7"
+    ],
+    "prism.startingPage": [
+      "25"
+    ],
+    "prism.endingPage": [
+      "46"
+    ],
+    "prism.copyright": [
+      ""
+    ],
+    "prism.url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7/25"
+    ],
+    "citation_pdf_url": [
+      "http://cjjc.ruc.edu.cn/CN/PDF/1583"
+    ],
+    "citation_abstract_html_url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7/25"
+    ],
+    "citation_fulltext_html_url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7/25"
+    ],
+    "citation_journal_title": [
+      "国际新闻界"
+    ],
+    "citation_publisher": [
+      ""
+    ],
+    "citation_issn": [
+      "1002-5685"
+    ],
+    "citation_title": [
+      "反态度信息与平衡信息接触对舆论极化的影响——一项在线实验的实证检验"
+    ],
+    "citation_authors": [
+      "郭小安, 何君琼"
+    ],
+    "citation_volume": [
+      "45"
+    ],
+    "citation_issue": [
+      "7"
+    ],
+    "citation_publication_date": [
+      "2023/07/23"
+    ],
+    "citation_online_date": [
+      "2023/07/23"
+    ],
+    "citation_firstpage": [
+      "25"
+    ],
+    "citation_lastpage": [
+      "46"
+    ],
+    "citation_article_type": [
+      ""
+    ],
+    "citation_language": [
+      "zh"
+    ],
+    "citation_doi": [
+      ""
+    ],
+    "citation_abstract": [
+      "社交媒体是否存在“回音室效应”仍存有较大争议。过往研究多将算法视为信息茧房和态度极化的“罪魁祸首”，因为它营造了单一同质的信息环境，不利于公共领域的健康发展，而异质、多元偶遇的信息则被当作“破茧”良方。本文借助在线-实验法，基于精细加工可能性模型设计了3（亲态度/反态度/平衡态度）×2（高论证质量/低论证质量）的多因素组间实验，尝试探究反态度信息和平衡信息接触对用户态度的实际影响。结果表明，多元信息共存的社交媒体并不必然带来开放理性的舆论环境，同质信息也不必然引发“过滤泡”效应。高质量反态度信息能够缓和或改变个人态度，但对高议题卷入度的人来说，反态度信息反而抑制态度去极化；人们同样会以处理片面信息的确认偏误方式理解平衡信息，但那些无明确立场、低说服意图的平衡信息具备态度修正潜力。因此，在考虑信息质量以及投放信息人群的议题卷入度的前提下，偶然信息投放能够有效缓解舆论极化问题。"
+    ],
+    "citation_keywords": [
+      "回音室",
+      "舆论极化",
+      "反态度信息",
+      "平衡信息",
+      "“破茧”"
+    ],
+    "citation_date": [
+      "2023/07/23"
+    ],
+    "citation_author": [
+      "郭小安",
+      "何君琼"
+    ],
+    "article_references": [
+      "郭小安, 何君琼. 反态度信息与平衡信息接触对舆论极化的影响——一项在线实验的实证检验. 国际新闻界. 2023, 45 (7): 25-46."
+    ],
+    "google-site-verification": [
+      "GqftDyjkbLznCjwJH3xdvsEi1ZnXlVqxWMeQ5H2MD38"
+    ]
+  },
+  "structured_article": {
+    "bioList_en": [
+      {
+        "content": "<p id=\"com3\">Guo Xiaoan is a professor at the School of Journalism, Chongqing University. Email: <a class=\"mag-xml-email-a\" href=\"mailto:guoxiaoan2004@126.com\">guoxiaoan2004@126.com</a>.</p>"
+      },
+      {
+        "content": "<p id=\"com4\">He Junqiong is a master student at the School of Journalism, Chongqing University. Email: <a class=\"mag-xml-email-a\" href=\"mailto:jade7979@163.com\">jade7979@163.com</a></p>"
+      }
+    ],
+    "authorList_cn": [
+      {
+        "deceased": false,
+        "name_cn": "郭小安",
+        "email": "guoxiaoan2004@126.com",
+        "name_en": "GUO Xiaoan"
+      },
+      {
+        "deceased": false,
+        "name_cn": "何君琼",
+        "email": "jade7979@163.com",
+        "name_en": "HE Junqiong"
+      }
+    ],
+    "referenceList": [
+      {
+        "sourceCn": "《新闻与写作》",
+        "bodyP_ids": [
+          "mag_rich_body_p_1"
+        ],
+        "publicationType": "journal",
+        "id": "b1",
+        "label": "[1]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "陈昌凤",
+                "personType": "author"
+              },
+              {
+                "name": "仇筠茜",
+                "personType": "author"
+              }
+            ],
+            "content": "陈昌凤, 仇筠茜(<span class=\"yearStyle\">2020a</span>). “信息茧房”在中国:望文生义的概念与算法的破茧求解. <span class=\"sourceStyle\">《新闻与写作》</span>,(1),58-63."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻大学》",
+        "bodyP_ids": [
+          "mag_rich_body_p_4"
+        ],
+        "publicationType": "journal",
+        "id": "b2",
+        "label": "[2]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "陈昌凤",
+                "personType": "author"
+              },
+              {
+                "name": "仇筠茜",
+                "personType": "author"
+              }
+            ],
+            "content": "陈昌凤, 仇筠茜(<span class=\"yearStyle\">2020b</span>). “信息茧房”在西方:似是而非的概念与算法的“破茧”求解. <span class=\"sourceStyle\">《新闻大学》</span>,(1),1-14+124."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《现代情报》",
+        "bodyP_ids": [
+          "mag_rich_body_p_39"
+        ],
+        "publicationType": "journal",
+        "id": "b3",
+        "label": "[3]",
+        "nian": 2023,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "曹雅宁",
+                "personType": "author"
+              },
+              {
+                "name": "柯青",
+                "personType": "author"
+              }
+            ],
+            "content": "曹雅宁, 柯青(<span class=\"yearStyle\">2023</span>). 为什么人们对虚假健康信息的易感性不同?——基于信息加工过程组态的分析. <span class=\"sourceStyle\">《现代情报》</span>,(1),40-54."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《全球传媒学刊》",
+        "bodyP_ids": [
+          "mag_rich_body_p_5"
+        ],
+        "publicationType": "journal",
+        "id": "b4",
+        "label": "[4]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "郭小安",
+                "personType": "author"
+              },
+              {
+                "name": "甘馨月",
+                "personType": "author"
+              }
+            ],
+            "content": "郭小安, 甘馨月(<span class=\"yearStyle\">2018</span>). “戳掉你的泡泡”——算法推荐时代“过滤气泡”的形成及消解. <span class=\"sourceStyle\">《全球传媒学刊》</span>,(2),76-90."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻大学》",
+        "bodyP_ids": [
+          "mag_rich_body_p_19"
+        ],
+        "publicationType": "journal",
+        "id": "b5",
+        "label": "[5]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "黄河",
+                "personType": "author"
+              },
+              {
+                "name": "杨小涵",
+                "personType": "author"
+              }
+            ],
+            "content": "黄河, 杨小涵(<span class=\"yearStyle\">2021</span>). 绿色逆营销广告如何更好地说服消费者?——基于详尽可能性模型的新能源汽车广告研究. <span class=\"sourceStyle\">《新闻大学》</span>,(3), 24."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻与传播研究》",
+        "bodyP_ids": [
+          "mag_rich_body_p_38"
+        ],
+        "publicationType": "journal",
+        "id": "b6",
+        "label": "[6]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "蒋忠波",
+                "personType": "author"
+              }
+            ],
+            "content": "蒋忠波(<span class=\"yearStyle\">2019</span>). “群体极化”之考辨. <span class=\"sourceStyle\">《新闻与传播研究》</span>,(3),7-27+127."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《网络共和国:网络社会中的民主问题》(黄维明译)(第1版)",
+        "bodyP_ids": [
+          "mag_rich_body_p_1"
+        ],
+        "publicationType": "book",
+        "id": "b7",
+        "label": "[7]",
+        "nian": 2003,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "凯斯·桑斯坦著",
+                "personType": "author"
+              }
+            ],
+            "content": "凯斯·桑斯坦著(<span class=\"yearStyle\">2003</span>). <span class=\"sourceStyle\">《网络共和国:网络社会中的民主问题》(黄维明译)(第1版)</span>. 上海: 上海人民出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《标签:社交媒体时代的众声喧哗》(陈颀,孙竞超译)(第1版)",
+        "bodyP_ids": [
+          "mag_rich_body_p_5"
+        ],
+        "publicationType": "book",
+        "id": "b8",
+        "label": "[8]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "凯斯·桑斯坦",
+                "personType": "author"
+              }
+            ],
+            "content": "凯斯·桑斯坦(<span class=\"yearStyle\">2021</span>). <span class=\"sourceStyle\">《标签:社交媒体时代的众声喧哗》(陈颀,孙竞超译)(第1版)</span>. 北京: 中国民主法制出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻与传播研究》",
+        "bodyP_ids": [
+          "mag_rich_body_p_40"
+        ],
+        "publicationType": "journal",
+        "id": "b9",
+        "label": "[9]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "李晓静",
+                "personType": "author"
+              }
+            ],
+            "content": "李晓静(<span class=\"yearStyle\">2017</span>). 社交媒体用户的信息加工与信任判断——基于眼动追踪的实验研究. <span class=\"sourceStyle\">《新闻与传播研究》</span>, (10),49-67+127-128."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻界》",
+        "bodyP_ids": [
+          "mag_rich_body_p_4"
+        ],
+        "publicationType": "journal",
+        "id": "b10",
+        "label": "[10]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "刘强",
+                "personType": "author"
+              },
+              {
+                "name": "赵茜",
+                "personType": "author"
+              }
+            ],
+            "content": "刘强, 赵茜(<span class=\"yearStyle\">2021</span>). 算法中选择的同化与异化——国外回音室效应研究20年述评与展望. <span class=\"sourceStyle\">《新闻界》</span>,(6),29-38."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《西南民族大学学报(人文社科版)》",
+        "bodyP_ids": [
+          "mag_rich_body_p_19",
+          "mag_rich_body_p_39"
+        ],
+        "publicationType": "journal",
+        "id": "b11",
+        "label": "[11]",
+        "nian": 2020,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "牟怡",
+                "personType": "author"
+              },
+              {
+                "name": "张林",
+                "personType": "author"
+              }
+            ],
+            "content": "牟怡, 张林(<span class=\"yearStyle\">2020</span>). 个体差异与信息特征对健康信息信任和行为意向的影响——基于ELM的实验研究. <span class=\"sourceStyle\">《西南民族大学学报(人文社科版)》</span>,(8),137-142."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻与传播研究》",
+        "bodyP_ids": [
+          "mag_rich_body_p_6"
+        ],
+        "publicationType": "journal",
+        "id": "b12",
+        "label": "[12]",
+        "nian": 2022,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "施颖婕",
+                "personType": "author"
+              },
+              {
+                "name": "桂勇",
+                "personType": "author"
+              },
+              {
+                "name": "黄荣贵",
+                "personType": "author"
+              },
+              {
+                "name": "郑雯",
+                "personType": "author"
+              }
+            ],
+            "content": "施颖婕, 桂勇, 黄荣贵, 郑雯(<span class=\"yearStyle\">2022</span>). 网络媒介“茧房效应”的类型化、机制及其影响——基于“中国大学生社会心态调查(2020)”的中介分析. <span class=\"sourceStyle\">《新闻与传播研究》</span>,(5),43-59+126-127."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《情报科学》",
+        "bodyP_ids": [
+          "mag_rich_body_p_17",
+          "mag_rich_body_p_25"
+        ],
+        "publicationType": "journal",
+        "id": "b13",
+        "label": "[13]",
+        "nian": 2021,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "王巍",
+                "personType": "author"
+              }
+            ],
+            "content": "王巍(<span class=\"yearStyle\">2021</span>). 网络用户对虚假社会新闻的态度及行为:基于ELM模型的实证分析. <span class=\"sourceStyle\">《情报科学》</span>,(12),126-132+145."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《情报杂志》",
+        "bodyP_ids": [
+          "mag_rich_body_p_3"
+        ],
+        "publicationType": "journal",
+        "id": "b14",
+        "label": "[14]",
+        "nian": 2022,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "吴越",
+                "personType": "author"
+              },
+              {
+                "name": "李发根",
+                "personType": "author"
+              }
+            ],
+            "content": "吴越, 李发根(<span class=\"yearStyle\">2022</span>). 舆论极化研究综述. <span class=\"sourceStyle\">《情报杂志》</span>,(4),98-103+110."
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_36"
+        ],
+        "publicationType": "report",
+        "id": "b15",
+        "label": "[15]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "新浪微博数据中心",
+                "personType": "author"
+              }
+            ],
+            "content": "新浪微博数据中心(<span class=\"yearStyle\">2021</span>). 微博2020用户发展报告.检索于 https://data.weibo.com/report/reportDetail?id=456. ",
+            "url": "https://data.weibo.com/report/reportDetail?id=456"
+          }
+        ]
+      },
+      {
+        "sourceCn": "《北京理工大学学报(社会科学版)》",
+        "bodyP_ids": [
+          "mag_rich_body_p_2"
+        ],
+        "publicationType": "journal",
+        "id": "b16",
+        "label": "[16]",
+        "nian": 2023,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "徐翔",
+                "personType": "author"
+              },
+              {
+                "name": "余珺君",
+                "personType": "author"
+              }
+            ],
+            "content": "徐翔, 余珺君(<span class=\"yearStyle\">2023</span>). 社交网络内容用户“茧房趋同性”——基于BERT模型的新浪微博样本研究. <span class=\"sourceStyle\">《北京理工大学学报(社会科学版)》</span>,(4),182-191."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《山东社会科学》",
+        "bodyP_ids": [
+          "mag_rich_body_p_4"
+        ],
+        "publicationType": "journal",
+        "id": "b17",
+        "label": "[17]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "喻国明",
+                "personType": "author"
+              },
+              {
+                "name": "方可人",
+                "personType": "author"
+              }
+            ],
+            "content": "喻国明, 方可人(<span class=\"yearStyle\">2020</span>). 算法型内容推送会导致信息茧房吗?——基于媒介多样性和信源信任的一项实证分析. <span class=\"sourceStyle\">《山东社会科学》</span>,(11),170-174+169."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻大学》",
+        "bodyP_ids": [
+          "mag_rich_body_p_4"
+        ],
+        "publicationType": "journal",
+        "id": "b18",
+        "label": "[18]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "杨洸",
+                "personType": "author"
+              },
+              {
+                "name": "佘佳玲",
+                "personType": "author"
+              }
+            ],
+            "content": "杨洸, 佘佳玲(<span class=\"yearStyle\">2020</span>). 新闻算法推荐的信息可见性、用户主动性与信息茧房效应:算法与用户互动的视角. <span class=\"sourceStyle\">《新闻大学》</span>,(2),102-118+123."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《心理科学》",
+        "bodyP_ids": [
+          "mag_rich_body_p_68"
+        ],
+        "publicationType": "journal",
+        "id": "b19",
+        "label": "[19]",
+        "nian": 2023,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "杨晓莉",
+                "personType": "author"
+              },
+              {
+                "name": "刘肖会",
+                "personType": "author"
+              }
+            ],
+            "content": "杨晓莉, 刘肖会(<span class=\"yearStyle\">2023</span>). “讳疾忌医”:健康信息回避的影响因素与理论解释. <span class=\"sourceStyle\">《心理科学》</span>,(1),238-244."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《logistic回归中的交互效应》(缪佳译)(第1版)",
+        "bodyP_ids": [
+          "mag_rich_body_p_51"
+        ],
+        "publicationType": "book",
+        "id": "b20",
+        "label": "[20]",
+        "nian": 2014,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "詹姆斯·杰卡德",
+                "personType": "author"
+              }
+            ],
+            "content": "詹姆斯·杰卡德(<span class=\"yearStyle\">2014</span>). <span class=\"sourceStyle\">《logistic回归中的交互效应》(缪佳译)(第1版)</span>. 上海: 上海人民出版社."
+          }
+        ]
+      },
+      {
+        "sourceEn": "In annual meeting of the Midwest Political Science Association,Chicago, IL, USA",
+        "bodyP_ids": [
+          "mag_rich_body_p_13"
+        ],
+        "publicationType": "journal",
+        "id": "b21",
+        "label": "[21]",
+        "nian": 2015,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Arceneaux K.",
+                "personType": "author"
+              },
+              {
+                "name": "Johnson M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Arceneaux</surname> <given-names>K.</given-names></name>, &amp; <name><surname>Johnson</surname> <given-names>M.</given-names></name> (<span class=\"yearStyle\">2015</span>). How Mainstream News Can Polarize America, Too. <span class=\"sourceStyle\"><i>In annual meeting of the Midwest Political Science Association,Chicago, IL, USA</i></span>."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Job Market Paper, New York University",
+        "bodyP_ids": [
+          "mag_rich_body_p_2"
+        ],
+        "publicationType": "book",
+        "id": "b22",
+        "label": "[22]",
+        "nian": 2014,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Barberá P.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Barberá</surname> <given-names>P.</given-names></name> (<span class=\"yearStyle\">2014</span>). How social media reduces mass political polarization. Evidence from Germany, Spain, and the US. <span class=\"sourceStyle\"><i>Job Market Paper, New York University</i></span>, <span class=\"volStyele\"><i>46</i></span>, 1-46."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Polit Behav",
+        "bodyP_ids": [
+          "mag_rich_body_p_66"
+        ],
+        "publicationType": "journal",
+        "id": "b23",
+        "label": "[23]",
+        "nian": 2014,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Bolsen T.",
+                "personType": "author"
+              },
+              {
+                "name": "Druckman J.N.",
+                "personType": "author"
+              },
+              {
+                "name": "Cook F.L.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Bolsen</surname> <given-names>T.</given-names></name>, <name><surname>Druckman</surname> <given-names>J.N.</given-names></name> &amp; <name><surname>Cook</surname> <given-names>F.L.</given-names></name>(<span class=\"yearStyle\">2014</span>). The Influence of Partisan Motivated Reasoning on Public Opinion. <span class=\"sourceStyle\"><i>Polit Behav</i></span> (36), 235-262."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Information, Communication &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_2"
+        ],
+        "publicationType": "patent",
+        "id": "b24",
+        "label": "[24]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Beam M. A.",
+                "personType": "author"
+              },
+              {
+                "name": "Hutchens M. J.",
+                "personType": "author"
+              },
+              {
+                "name": "Hmielowski J. D.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Beam</surname> <given-names>M. A.</given-names></name>, <name><surname>Hutchens</surname> <given-names>M. J.</given-names></name>, &amp; <name><surname>Hmielowski</surname> <given-names>J. D.</given-names></name> (<span class=\"yearStyle\">2018</span>). Facebook news and (de) polarization: Reinforcing spirals in the 2016 US election. <span class=\"sourceStyle\"><i>Information, Communication &amp; Society</i></span>, <span class=\"volStyele\"><i>21</i></span>(7), 940-958."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Human Communication Research",
+        "bodyP_ids": [
+          "mag_rich_body_p_10",
+          "mag_rich_body_p_64"
+        ],
+        "publicationType": "journal",
+        "id": "b25",
+        "label": "[25]",
+        "nian": 2022,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "annotation": "Calls to “break up” radical echo chambers by injecting them with alternative viewpoints are common. Yet, thus far there is little evidence about the impact of such counter-messaging. To what extent and how do individuals who inhabit a radical echo chamber engage with messages that challenge their core beliefs? Drawing on data from the radical right forum Stormfront we address this question with a large-scale content and longitudinal analysis of users’ posting behavior, which analyses more than 35,000 English language contributions to the forum spanning 2011 through 2013. Our findings show that engaging with oppositional views is actually a core practice among Stromfront users which invites active participation and encourages engagement. Indeed, many “echoes” in the echo chamber we studied were not core beliefs being restated, but the sound of opposing viewpoints being undermined and marginalized. These findings underscore the limited potential for counter-messages to undermine radical echo chambers.",
+            "personList": [
+              {
+                "name": "Bright J.",
+                "personType": "author"
+              },
+              {
+                "name": "Marchal N.",
+                "personType": "author"
+              },
+              {
+                "name": "Ganesh B",
+                "personType": "author"
+              },
+              {
+                "name": "Rudinac S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Bright</surname> <given-names>J.</given-names></name>, <name><surname>Marchal</surname> <given-names>N.</given-names></name>, <name><surname>Ganesh</surname> <given-names>B</given-names></name>. &amp; <name><surname>Rudinac</surname> <given-names>S.</given-names></name> (<span class=\"yearStyle\">2022</span>). How Do Individuals in a Radical Echo Chamber React to Opposing Views? Evidence from a Content Analysis of Stormfront. <span class=\"sourceStyle\"><i>Human Communication Research</i></span>, <span class=\"volStyele\"><i>48</i></span>(1), 116-145. ",
+            "url": "https://academic.oup.com/hcr/article/48/1/116/6430397",
+            "doi": "10.1093/hcr/hqab020"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Human Communication Research",
+        "bodyP_ids": [
+          "mag_rich_body_p_68"
+        ],
+        "publicationType": "journal",
+        "id": "b26",
+        "label": "[26]",
+        "nian": 2015,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Christopher J. Carpenter",
+                "personType": "author"
+              }
+            ],
+            "content": "Christopher J. Carpenter.(<span class=\"yearStyle\">2015</span>). A Meta-Analysis of the Elm’s Argument Quality × Processing Type Predictions. <span class=\"sourceStyle\"><i>Human Communication Research</i></span>, <span class=\"volStyele\"><i>41</i></span>(4), 501-534. ",
+            "url": "http://doi.wiley.com/10.1111/hcre.2015.41.issue-4",
+            "doi": "10.1111/hcre.2015.41.issue-4"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Information &amp; Management",
+        "bodyP_ids": [
+          "mag_rich_body_p_25",
+          "mag_rich_body_p_46"
+        ],
+        "publicationType": "journal",
+        "id": "b27",
+        "label": "[27]",
+        "nian": 2018,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Cyr D.",
+                "personType": "author"
+              },
+              {
+                "name": "Head M.",
+                "personType": "author"
+              },
+              {
+                "name": "Lim E.",
+                "personType": "author"
+              },
+              {
+                "name": "Stibe A.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Cyr</surname> <given-names>D.</given-names></name>, <name><surname>Head</surname> <given-names>M.</given-names></name>, <name><surname>Lim</surname> <given-names>E.</given-names></name>, &amp; <name><surname>Stibe</surname> <given-names>A.</given-names></name> (<span class=\"yearStyle\">2018</span>). Using the elaboration likelihood model to examine online persuasion through website design. <span class=\"sourceStyle\"><i>Information &amp; Management</i></span>, <span class=\"volStyele\"><i>55</i></span>(7), 807-821. ",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S0378720617303488",
+            "doi": "10.1016/j.im.2018.03.009"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Asia Pacific Journal of Marketing and Logistics",
+        "bodyP_ids": [
+          "mag_rich_body_p_25"
+        ],
+        "publicationType": "journal",
+        "id": "b28",
+        "label": "[28]",
+        "nian": 2022,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Cho H.",
+                "personType": "author"
+              },
+              {
+                "name": "Chiu W.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Cho</surname> <given-names>H.</given-names></name>, &amp; <name><surname>Chiu</surname> <given-names>W.</given-names></name> (<span class=\"yearStyle\">2022</span>). “COVID-19 pandemic: consumers’ purchase intention of indoor fitness products during the partial lockdown period in Singapore”, <span class=\"sourceStyle\"><i>Asia Pacific Journal of Marketing and Logistics</i></span>, <span class=\"volStyele\"><i>34</i></span>(10), 2299-2313. ",
+            "url": "http://www.emerald.com/apjml/article/34/10/2299-2313/62104",
+            "doi": "10.1108/APJML-04-2021-0235"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Communication &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_4"
+        ],
+        "publicationType": "journal",
+        "id": "b29",
+        "label": "[29]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Dubois E.",
+                "personType": "author"
+              },
+              {
+                "name": "Blank G.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Dubois</surname> <given-names>E.</given-names></name>, &amp; <name><surname>Blank</surname> <given-names>G.</given-names></name> (<span class=\"yearStyle\">2018</span>). The echo chamber is overstated: the moderating effect of political interest and diverse media, Information. <span class=\"sourceStyle\"><i>Communication &amp; Society</i></span>, <span class=\"volStyele\"><i>21</i></span>(5), 729-745."
+          }
+        ]
+      },
+      {
+        "sourceEn": "British Journal of Political Science",
+        "bodyP_ids": [
+          "mag_rich_body_p_10"
+        ],
+        "publicationType": "journal",
+        "id": "b30",
+        "label": "[30]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Several theoretical perspectives suggest that when individuals are exposed to counter-attitudinal evidence or arguments, their pre-existing opinions and beliefs are reinforced, resulting in a phenomenon sometimes known as ‘backlash’. This article formalizes the concept of backlash and specifies how it can be measured. It then presents the results from three survey experiments – two on Mechanical Turk and one on a nationally representative sample – that find no evidence of backlash, even under theoretically favorable conditions. While a casual reading of the literature on information processing suggests that backlash is rampant, these results indicate that it is much rarer than commonly supposed.",
+            "personList": [
+              {
+                "name": "Guess A",
+                "personType": "author"
+              },
+              {
+                "name": "Coppock A.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Guess</surname> <given-names>A</given-names></name>. &amp; <name><surname>Coppock</surname> <given-names>A.</given-names></name> (<span class=\"yearStyle\">2020</span>). Does counter-attitudinal information cause backlash? Results from three large survey experiments. <span class=\"sourceStyle\"><i>British Journal of Political Science</i></span>, <span class=\"volStyele\"><i>50</i></span>(4), 1497-1515. ",
+            "url": "https://www.cambridge.org/core/product/identifier/S0007123418000327/type/journal_article",
+            "doi": "10.1017/S0007123418000327"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Digital Journalism",
+        "bodyP_ids": [
+          "mag_rich_body_p_4"
+        ],
+        "publicationType": "journal",
+        "id": "b31",
+        "label": "[31]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Geiß S.",
+                "personType": "author"
+              },
+              {
+                "name": "Magin M.",
+                "personType": "author"
+              },
+              {
+                "name": "Jürgens P",
+                "personType": "author"
+              },
+              {
+                "name": "Stark B.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Geiß</surname> <given-names>S.</given-names></name>, <name><surname>Magin</surname> <given-names>M.</given-names></name>, <name><surname>Jürgens</surname> <given-names>P</given-names></name>. &amp; <name><surname>Stark</surname> <given-names>B.</given-names></name> (<span class=\"yearStyle\">2021</span>). Loopholes in the Echo Chambers: How the Echo Chamber Metaphor Oversimplifies the Effects of Information Gateways on Opinion Expression. <span class=\"sourceStyle\"><i>Digital Journalism</i></span>, <span class=\"volStyele\"><i>9</i></span>(5), 660-686. ",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/21670811.2021.1873811",
+            "doi": "10.1080/21670811.2021.1873811"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Comput Hum Behav",
+        "bodyP_ids": [
+          "mag_rich_body_p_38"
+        ],
+        "publicationType": "journal",
+        "id": "b32",
+        "label": "[32]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Johnson BK",
+                "personType": "author"
+              },
+              {
+                "name": "Neo RL",
+                "personType": "author"
+              },
+              {
+                "name": "Heijnen MEM",
+                "personType": "author"
+              },
+              {
+                "name": "Smits L",
+                "personType": "author"
+              },
+              {
+                "name": "van Veen C",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Johnson</surname> <given-names>BK</given-names></name>, <name><surname>Neo</surname> <given-names>RL</given-names></name>, <name><surname>Heijnen</surname> <given-names>MEM</given-names></name>, <name><surname>Smits</surname> <given-names>L</given-names></name>, <name><surname>van Veen</surname> <given-names>C</given-names></name>. (<span class=\"yearStyle\">2020</span>). Issues, involvement, and influence: Effects of selective exposure and sharing on polarization and participation. <span class=\"sourceStyle\"><i>Comput Hum Behav</i></span> <span class=\"volStyele\"><i>104</i></span>:106155. ",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S074756321930367X",
+            "doi": "10.1016/j.chb.2019.09.031"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Computers in Human Behavior",
+        "bodyP_ids": [
+          "mag_rich_body_p_19"
+        ],
+        "publicationType": "journal",
+        "id": "b33",
+        "label": "[33]",
+        "nian": 2022,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Kim Y.",
+                "personType": "author"
+              },
+              {
+                "name": "Gonzales A. L.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Kim</surname> <given-names>Y.</given-names></name>, &amp; <name><surname>Gonzales</surname> <given-names>A. L.</given-names></name> (<span class=\"yearStyle\">2022</span>). When we tolerate online incivility: Dual-Process Effects of Argument Strength and Heuristic Cues in Uncivil User Comments. <span class=\"sourceStyle\"><i>Computers in Human Behavior</i></span>, <span class=\"volStyele\"><i>131</i></span>, 107235. ",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S0747563222000577",
+            "doi": "10.1016/j.chb.2022.107235"
+          }
+        ]
+      },
+      {
+        "sourceEn": "European Journal of Communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_13",
+          "mag_rich_body_p_38"
+        ],
+        "publicationType": "journal",
+        "id": "b34",
+        "label": "[34]",
+        "nian": 2017,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "annotation": "In this article, we take issue with the claim by Sunstein and others that online discussion takes place in echo chambers, and suggest that the dynamics of online debates could be more aptly described by the logic of 'trench warfare', in which opinions are reinforced through contradiction as well as confirmation. We use a unique online survey and an experimental approach to investigate and test echo chamber and trench warfare dynamics in online debates. The results show that people do indeed claim to discuss with those who hold opposite views from themselves. Furthermore, our survey experiments suggest that both confirming and contradicting arguments have similar effects on attitude reinforcement. Together, this indicates that both echo chamber and trench warfare dynamics - a situation where attitudes are reinforced through both confirmation and disconfirmation biases - characterize online debates. However, we also find that two-sided neutral arguments have weaker effects on reinforcement than one-sided confirming and contradicting arguments, suggesting that online debates could contribute to collective learning and qualification of arguments.",
+            "personList": [
+              {
+                "name": "Karlsen R.",
+                "personType": "author"
+              },
+              {
+                "name": "Steen-Johnsen K.",
+                "personType": "author"
+              },
+              {
+                "name": "Wollebæk D.",
+                "personType": "author"
+              },
+              {
+                "name": "Enjolras B.",
+                "personType": "author"
+              }
+            ],
+            "pmid": "28690351",
+            "content": "<name><surname>Karlsen</surname> <given-names>R.</given-names></name>, <name><surname>Steen-Johnsen</surname> <given-names>K.</given-names></name>, <name><surname>Wollebæk</surname> <given-names>D.</given-names></name>, &amp; <name><surname>Enjolras</surname> <given-names>B.</given-names></name> (<span class=\"yearStyle\">2017</span>). Echo chamber and trench warfare dynamics in online debates. <span class=\"sourceStyle\"><i>European Journal of Communication</i></span>, <span class=\"volStyele\"><i>32</i></span>(3), 257-273. ",
+            "doi": "10.1177/0267323117695734"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Br J Psychol",
+        "bodyP_ids": [
+          "mag_rich_body_p_39"
+        ],
+        "publicationType": "journal",
+        "id": "b35",
+        "label": "[35]",
+        "nian": 2016,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Liu C.-H.",
+                "personType": "author"
+              },
+              {
+                "name": "Lee H.-W.",
+                "personType": "author"
+              },
+              {
+                "name": "Huang P.-S.",
+                "personType": "author"
+              },
+              {
+                "name": "Chen H.-C.",
+                "personType": "author"
+              },
+              {
+                "name": "Sommers S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Liu</surname> <given-names>C.-H.</given-names></name>, <name><surname>Lee</surname> <given-names>H.-W.</given-names></name>, <name><surname>Huang</surname> <given-names>P.-S.</given-names></name>, <name><surname>Chen</surname> <given-names>H.-C.</given-names></name> and <name><surname>Sommers</surname> <given-names>S.</given-names></name> (<span class=\"yearStyle\">2016</span>). Do incompatible arguments cause extensive processing in the evaluation of arguments? The role of congruence between argument compatibility and argument quality. <span class=\"sourceStyle\"><i>Br J Psychol</i></span>, <span class=\"volStyele\"><i>107</i></span>(1): 179-198. ",
+            "url": "https://bpspsychub.onlinelibrary.wiley.com/toc/20448295/107/1",
+            "doi": "10.1111/bjop.2016.107.issue-1"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Annual Review of Economics",
+        "bodyP_ids": [
+          "mag_rich_body_p_2"
+        ],
+        "publicationType": "journal",
+        "id": "b36",
+        "label": "[36]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Levy G.",
+                "personType": "author"
+              },
+              {
+                "name": "Razin R.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Levy</surname> <given-names>G.</given-names></name>, &amp; <name><surname>Razin</surname> <given-names>R.</given-names></name> (<span class=\"yearStyle\">2019</span>). Echo chambers and their effects on economic and political outcomes. <span class=\"sourceStyle\"><i>Annual Review of Economics</i></span>, (11), 303-328."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Cyberpsychology: Journal of Psychosocial Research on Cyberspace",
+        "bodyP_ids": [
+          "mag_rich_body_p_2"
+        ],
+        "publicationType": "journal",
+        "id": "b37",
+        "label": "[37]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Luzsa R.",
+                "personType": "author"
+              },
+              {
+                "name": "Mayr S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Luzsa</surname> <given-names>R.</given-names></name>, &amp; <name><surname>Mayr</surname> <given-names>S.</given-names></name> (<span class=\"yearStyle\">2021</span>). False consensus in the echo chamber: Exposure to favorably biased social media news feeds leads to increased perception of public support for own opinions. <span class=\"sourceStyle\"><i>Cyberpsychology: Journal of Psychosocial Research on Cyberspace</i></span>, <span class=\"volStyele\"><i>15</i></span>(1)."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Management Communication Quarterly",
+        "bodyP_ids": [
+          "mag_rich_body_p_68"
+        ],
+        "publicationType": "journal",
+        "id": "b38",
+        "label": "[38]",
+        "nian": 2022,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Lee S. Y.",
+                "personType": "author"
+              },
+              {
+                "name": "Chung S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Lee</surname> <given-names>S. Y.</given-names></name>, &amp; <name><surname>Chung</surname> <given-names>S.</given-names></name> (<span class=\"yearStyle\">2022</span>). Publics’ Views of Corporate Social Advocacy Initiatives: Exploring Prior Issue Stance, Attitude Toward a Company, and News Credibility. <span class=\"sourceStyle\"><i>Management Communication Quarterly</i></span>, <span class=\"volStyele\"><i>37</i></span>(2),281-309. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/08933189221105808",
+            "doi": "10.1177/08933189221105808"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Media and Communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_4"
+        ],
+        "publicationType": "journal",
+        "id": "b39",
+        "label": "[39]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Masip P.",
+                "personType": "author"
+              },
+              {
+                "name": "Suau J.",
+                "personType": "author"
+              },
+              {
+                "name": "Ruiz-Caballero C.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Masip</surname> <given-names>P.</given-names></name>, <name><surname>Suau</surname> <given-names>J.</given-names></name>, &amp; <name><surname>Ruiz-Caballero</surname> <given-names>C.</given-names></name> (<span class=\"yearStyle\">2020</span>). Incidental exposure to non-like-minded news through social media: Opposing voices in echo-chambers’ news feeds. <span class=\"sourceStyle\"><i>Media and Communication</i></span>, <span class=\"volStyele\"><i>8</i></span>(4), 53-62. ",
+            "url": "https://www.cogitatiopress.com/mediaandcommunication/article/view/3146",
+            "doi": "10.17645/mac.v8i4.3146"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Environment and Behavior",
+        "bodyP_ids": [
+          "mag_rich_body_p_25"
+        ],
+        "publicationType": "journal",
+        "id": "b40",
+        "label": "[40]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Persuasive communication campaigns are often used to promote proenvironmental actions, even though their effectiveness has been mixed. Previous research has tested cognitive-based models in explaining proenvironmental choice, but few studies have examined the potential impact of emotional dimensions. This experimental study tests the persuasive effect of argument quality, source expertise, and emotions on the implicit attitudes toward sustainable travel choices. This was a 2 x 2 x 2 between-subjects research design with an additional measured variable of involvement with the topic of sustainable transport. A video including the experimental manipulations was presented, followed by the Implicit Association Test (IAT). Consistent with the Elaboration Likelihood Model (ELM), in the case of high involvement, implicit attitudes were more positive in the condition of high-quality arguments, while in case of low involvement, implicit attitudes were more positive in the condition of high source expertise. In addition, the main effect of anticipated negative emotions was significant.",
+            "personList": [
+              {
+                "name": "Manca S.",
+                "personType": "author"
+              },
+              {
+                "name": "Altoè G.",
+                "personType": "author"
+              },
+              {
+                "name": "Schultz P. W.",
+                "personType": "author"
+              },
+              {
+                "name": "Fornara F.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Manca</surname> <given-names>S.</given-names></name>, <name><surname>Altoè</surname> <given-names>G.</given-names></name>, <name><surname>Schultz</surname> <given-names>P. W.</given-names></name>, &amp; <name><surname>Fornara</surname> <given-names>F.</given-names></name> (<span class=\"yearStyle\">2020</span>). The persuasive route to sustainable mobility: Elaboration likelihood model and emotions predict implicit attitudes. <span class=\"sourceStyle\"><i>Environment and Behavior</i></span>, <span class=\"volStyele\"><i>52</i></span>(8), 830-860. ",
+            "doi": "10.1177/0013916518820898"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Communication Research",
+        "bodyP_ids": [
+          "mag_rich_body_p_13"
+        ],
+        "publicationType": "journal",
+        "id": "b41",
+        "label": "[41]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Selective exposure research indicates that news consumers tend to seek out attitude-consistent information and avoid attitude-challenging information. This study examines online news credibility and cognitive dissonance as theoretical explanations for partisan selective exposure behavior. After viewing an attitudinally consistent, challenging, or politically balanced online news source, cognitive dissonance, credibility perceptions, and likelihood of selective exposure were measured. Results showed that people judge attitude-consistent and neutral news sources as more credible than attitude-challenging news sources, and although people experience slightly more cognitive dissonance when exposed to attitude-challenging news sources, overall dissonance levels were quite low. These results refute the cognitive dissonance explanation for selective exposure and suggest a new explanation that is based on credibility perceptions rather than psychological discomfort with attitude-challenging information.",
+            "personList": [
+              {
+                "name": "Metzger M. J.",
+                "personType": "author"
+              },
+              {
+                "name": "Hartsell E. H.",
+                "personType": "author"
+              },
+              {
+                "name": "Flanagin A. J.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Metzger</surname> <given-names>M. J.</given-names></name>, <name><surname>Hartsell</surname> <given-names>E. H.</given-names></name>, &amp; <name><surname>Flanagin</surname> <given-names>A. J.</given-names></name> (<span class=\"yearStyle\">2020</span>). Cognitive Dissonance or Credibility? A Comparison of Two Theoretical Explanations for Selective Exposure to Partisan News. <span class=\"sourceStyle\"><i>Communication Research</i></span>, <span class=\"volStyele\"><i>47</i></span>(1), 3-28. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/0093650215613136",
+            "doi": "10.1177/0093650215613136"
+          }
+        ]
+      },
+      {
+        "sourceEn": "International Communication Gazette",
+        "bodyP_ids": [
+          "mag_rich_body_p_1"
+        ],
+        "publicationType": "journal",
+        "id": "b42",
+        "label": "[42]",
+        "nian": 2022,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Countering conventional theory, this study found that online homophily and heterophily—connectivity with both similar and dissimilar others—are not necessarily countervailing phenomena, among representative surveys of internet users from five Arab countries: Saudi Arabia, Tunisia, Lebanon, Qatar, and UAE (N = 4,198). Respondents who said the Internet has increased their contact with politically and religiously similar people also tended to say it increased their contact with politically and religiously dissimilar people. A four-item scale measuring online political and religious homophily and heterophily was reliable (a = .754 overall;.79 among Arab nationals), and is referred to in this article as an ‘idea chamber’ index. Confirmatory Factor Analysis and inter-item correlations of scale items are two additional tests that affirm the internal consistency of the measure. Implications for research on digital communication are discussed.",
+            "personList": [
+              {
+                "name": "Martin J. D.",
+                "personType": "author"
+              },
+              {
+                "name": "Hassan F.",
+                "personType": "author"
+              },
+              {
+                "name": "Anghelcev G.",
+                "personType": "author"
+              },
+              {
+                "name": "Abunabaa N.",
+                "personType": "author"
+              },
+              {
+                "name": "Shaath S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Martin</surname> <given-names>J. D.</given-names></name>, <name><surname>Hassan</surname> <given-names>F.</given-names></name>, <name><surname>Anghelcev</surname> <given-names>G.</given-names></name>, <name><surname>Abunabaa</surname> <given-names>N.</given-names></name>, &amp; <name><surname>Shaath</surname> <given-names>S.</given-names></name> (<span class=\"yearStyle\">2022</span>). From echo chambers to ‘idea chambers’: Concurrent online interactions with similar and dissimilar others. <span class=\"sourceStyle\"><i>International Communication Gazette</i></span>, <span class=\"volStyele\"><i>84</i></span>(3), 252-275. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1748048521992486",
+            "doi": "10.1177/1748048521992486"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Public Understanding of Science",
+        "bodyP_ids": [
+          "mag_rich_body_p_3"
+        ],
+        "publicationType": "journal",
+        "id": "b43",
+        "label": "[43]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "According to cultural cognition theory, individuals hold opinions about politically contested issues like climate change that are consistent with their \"cultural way of life,\" conforming their opinions to how they think society should be organized and to what they perceive are the attitudes of their cultural peers. Yet despite dozens of cultural cognition studies, none have directly examined the role of the news media in facilitating these differential interpretations. To address this gap, drawing on a national survey of US adults administered in 2015, we statistically modeled the cultural cognition process in relation to news choices and media effects on public attitudes about climate change. Individuals possessing strongly held cultural worldviews, our findings show, not only choose news outlets where they expect to find culturally congruent arguments about climate change, but they also selectively process the arguments they encounter. Overall, our study demonstrates the substantial role that cultural cognition in combination with news media choices play in contributing to opinion polarization on climate change and other politicized science topics.",
+            "personList": [
+              {
+                "name": "Newman T. P.",
+                "personType": "author"
+              },
+              {
+                "name": "Nisbet E. C.",
+                "personType": "author"
+              },
+              {
+                "name": "Nisbet M. C.",
+                "personType": "author"
+              }
+            ],
+            "pmid": "30253695",
+            "content": "<name><surname>Newman</surname> <given-names>T. P.</given-names></name>, <name><surname>Nisbet</surname> <given-names>E. C.</given-names></name>, &amp; <name><surname>Nisbet</surname> <given-names>M. C.</given-names></name> (<span class=\"yearStyle\">2018</span>). Climate change, cultural cognition, and media effects: Worldviews drive news selectivity, biased processing, and polarized attitudes. <span class=\"sourceStyle\"><i>Public Understanding of Science</i></span>, <span class=\"volStyele\"><i>27</i></span>(8), 985-1002. ",
+            "doi": "10.1177/0963662518801170"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Communication Monographs",
+        "bodyP_ids": [
+          "mag_rich_body_p_44"
+        ],
+        "publicationType": "journal",
+        "id": "b44",
+        "label": "[44]",
+        "nian": 2022,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Oschatz C.",
+                "personType": "author"
+              },
+              {
+                "name": "Niederdeppe J.",
+                "personType": "author"
+              },
+              {
+                "name": "Liu J.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Oschatz</surname> <given-names>C.</given-names></name>, <name><surname>Niederdeppe</surname> <given-names>J.</given-names></name>, &amp; <name><surname>Liu</surname> <given-names>J.</given-names></name> (<span class=\"yearStyle\">2022</span>). The role of prior attitudes in narrative persuasion: Evidence from a cross-national study in Germany and the United States. <span class=\"sourceStyle\"><i>Communication Monographs</i></span>, <span class=\"volStyele\"><i>89</i></span>(3), 376-395. ",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/03637751.2021.2011344",
+            "doi": "10.1080/03637751.2021.2011344"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Advances in Consumer Research",
+        "bodyP_ids": [
+          "mag_rich_body_p_25"
+        ],
+        "publicationType": "journal",
+        "id": "b45",
+        "label": "[45]",
+        "nian": 1981,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Petty R.E.",
+                "personType": "author"
+              },
+              {
+                "name": "Cacioppo J.T.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Petty</surname> <given-names>R.E.</given-names></name> &amp; <name><surname>Cacioppo</surname> <given-names>J.T.</given-names></name> (<span class=\"yearStyle\">1981</span>). “Issue involvement as a moderator of the effects on attitude of advertising content and context”. <span class=\"sourceStyle\"><i>Advances in Consumer Research</i></span>, <span class=\"volStyele\"><i>8</i></span>, 20-24."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Advances in Experimental Social Psychology",
+        "bodyP_ids": [
+          "mag_rich_body_p_19",
+          "mag_rich_body_p_25"
+        ],
+        "publicationType": "journal",
+        "id": "b46",
+        "label": "[46]",
+        "nian": 1986,
+        "citedCount": 3,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Petty R. E.",
+                "personType": "author"
+              },
+              {
+                "name": "Cacioppo J. T.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Petty</surname> <given-names>R. E.</given-names></name> &amp; <name><surname>Cacioppo</surname> <given-names>J. T.</given-names></name> (<span class=\"yearStyle\">1986</span>). The elaboration likelihood model of persuasion. In Berkowitz. <span class=\"sourceStyle\"><i>Advances in Experimental Social Psychology</i></span>, 19(01), 123-205."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Human Communication Research",
+        "bodyP_ids": [
+          "mag_rich_body_p_68"
+        ],
+        "publicationType": "journal",
+        "id": "b47",
+        "label": "[47]",
+        "nian": 2007,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Park H. S.",
+                "personType": "author"
+              },
+              {
+                "name": "Levine T. R.",
+                "personType": "author"
+              },
+              {
+                "name": "Kingsley Westerman C. Y.",
+                "personType": "author"
+              },
+              {
+                "name": "Orfgen T",
+                "personType": "author"
+              },
+              {
+                "name": "Foregger S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Park</surname> <given-names>H. S.</given-names></name>, <name><surname>Levine</surname> <given-names>T. R.</given-names></name>, <name><surname>Kingsley Westerman</surname> <given-names>C. Y.</given-names></name>, <name><surname>Orfgen</surname> <given-names>T</given-names></name>. &amp; <name><surname>Foregger</surname> <given-names>S.</given-names></name> (<span class=\"yearStyle\">2007</span>). The Effects of Argument Quality and Involvement Type on Attitude Formation and Attitude Change: A Test of Dual-Process and Social Judgment Predictions. <span class=\"sourceStyle\"><i>Human Communication Research</i></span>, <span class=\"volStyele\"><i>33</i></span>(1), 81-102."
+          }
+        ]
+      },
+      {
+        "sourceEn": "The International Journal of Press/Politics",
+        "bodyP_ids": [
+          "mag_rich_body_p_37"
+        ],
+        "publicationType": "journal",
+        "id": "b48",
+        "label": "[48]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "\\n The psychological bases of the selection and attitudinal response to news media have received ample attention in political communication research. However, the\\n interplay\\n between three crucial factors in today’s online, high-choice news media settings remains understudied: (1) textual versus multimodal (text-plus-visual) communication; (2) attitude congruent versus attitude incongruent versus balanced content; and (3) political versus nonpolitical genres. Relying on an experimental study of refugee and gun control news in the United States (\\n N\\n = 1,159), this paper investigates how people select and avoid, and also the extent to which they agree with, congenial, uncongenial, and balanced political news in a realistic multimodal selective-exposure setting in which political news is presented alongside sports and entertainment news. Although the findings partially depend on the issue, we find that the presence of multimodal (compared to textual) entertainment and sport items can increase avoidance of political news. Multimodal (compared to textual) political news augments attitude congruent selective exposure instead of encouraging cross-cutting selective exposure. Once selected, multimodal political news articles evoke stronger emotions and lead to higher issue agreement than textual news, regardless of an article’s attitude congruence. By linking research on text-alone to multimodal selective exposure, this study shows that visuals in high-choice media environments can contribute to the selective avoidance of political news generally and cross-cutting political news more specifically.\\n",
+            "personList": [
+              {
+                "name": "Powell T. E.",
+                "personType": "author"
+              },
+              {
+                "name": "Hameleers M.",
+                "personType": "author"
+              },
+              {
+                "name": "van der Meer T. G. L. A.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Powell</surname> <given-names>T. E.</given-names></name>, <name><surname>Hameleers</surname> <given-names>M.</given-names></name>, &amp; <name><surname>van der Meer</surname> <given-names>T. G. L. A.</given-names></name>(<span class=\"yearStyle\">2021</span>). Selection in a Snapshot? The Contribution of Visuals to the Selection and Avoidance of Political News in Information-Rich Media Settings. <span class=\"sourceStyle\"><i>The International Journal of Press/Politics</i></span>, <span class=\"volStyele\"><i>26</i></span>(1), 46-68. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1940161220966730",
+            "doi": "10.1177/1940161220966730"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Information Systems Research",
+        "bodyP_ids": [
+          "mag_rich_body_p_46"
+        ],
+        "publicationType": "journal",
+        "id": "b49",
+        "label": "[49]",
+        "nian": 2003,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Sussman S. W.",
+                "personType": "author"
+              },
+              {
+                "name": "Siegal W. S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Sussman</surname> <given-names>S. W.</given-names></name>, &amp; <name><surname>Siegal</surname> <given-names>W. S.</given-names></name> (<span class=\"yearStyle\">2003</span>). Informational influence in organizations: An integrated approach to knowledge adoption. <span class=\"sourceStyle\"><i>Information Systems Research</i></span>, <span class=\"volStyele\"><i>14</i></span>(1), 47-65. ",
+            "url": "https://pubsonline.informs.org/doi/10.1287/isre.14.1.47.14767",
+            "doi": "10.1287/isre.14.1.47.14767"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Communication Monographs",
+        "bodyP_ids": [
+          "mag_rich_body_p_10"
+        ],
+        "publicationType": "journal",
+        "id": "b50",
+        "label": "[50]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Sude D. J.",
+                "personType": "author"
+              },
+              {
+                "name": "Knobloch-Westerwick S.",
+                "personType": "author"
+              },
+              {
+                "name": "Robinson M. J.",
+                "personType": "author"
+              },
+              {
+                "name": "Westerwick A.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Sude</surname> <given-names>D. J.</given-names></name>, <name><surname>Knobloch-Westerwick</surname> <given-names>S.</given-names></name>, <name><surname>Robinson</surname> <given-names>M. J.</given-names></name> &amp; <name><surname>Westerwick</surname> <given-names>A.</given-names></name> (<span class=\"yearStyle\">2019</span>). “Pick and choose” opinion climate: How browsing of political messages shapes public opinion perceptions and attitudes. <span class=\"sourceStyle\"><i>Communication Monographs</i></span>, <span class=\"volStyele\"><i>86</i></span>(4), 457-478. ",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/03637751.2019.1612528",
+            "doi": "10.1080/03637751.2019.1612528"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Polit Behav",
+        "bodyP_ids": [
+          "mag_rich_body_p_13"
+        ],
+        "publicationType": "journal",
+        "id": "b51",
+        "label": "[51]",
+        "nian": 2009,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Taber C. S.",
+                "personType": "author"
+              },
+              {
+                "name": "Cann D",
+                "personType": "author"
+              },
+              {
+                "name": "Kucsova S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Taber</surname> <given-names>C. S.</given-names></name>, <name><surname>Cann</surname> <given-names>D</given-names></name>. &amp; <name><surname>Kucsova</surname> <given-names>S.</given-names></name> (<span class=\"yearStyle\">2009</span>). The Motivated Processing of Political Arguments. <span class=\"sourceStyle\"><i>Polit Behav</i></span>, <span class=\"volStyele\"><i>31</i></span>, 137-155. ",
+            "url": "http://link.springer.com/10.1007/s11109-008-9075-8",
+            "doi": "10.1007/s11109-008-9075-8"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Public Relations Review",
+        "bodyP_ids": [
+          "mag_rich_body_p_40"
+        ],
+        "publicationType": "journal",
+        "id": "b52",
+        "label": "[52]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Vafeiadis M.",
+                "personType": "author"
+              },
+              {
+                "name": "Xiao A.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Vafeiadis</surname> <given-names>M.</given-names></name>, &amp; <name><surname>Xiao</surname> <given-names>A.</given-names></name> (<span class=\"yearStyle\">2021</span>). Fake news: How emotions, involvement, need for cognition and rebuttal evidence (story vs. informational) influence consumer reactions toward a targeted organization. <span class=\"sourceStyle\"><i>Public Relations Review</i></span>, <span class=\"volStyele\"><i>47</i></span>(4), 102088."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Communication Monographs",
+        "bodyP_ids": [
+          "mag_rich_body_p_64"
+        ],
+        "publicationType": "journal",
+        "id": "b53",
+        "label": "[53]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Zhao Xinyan",
+                "personType": "author"
+              },
+              {
+                "name": "Fink E. L.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Zhao</surname> <given-names>Xinyan</given-names></name> &amp; <name><surname>Fink</surname> <given-names>E. L.</given-names></name> (<span class=\"yearStyle\">2021</span>). Proattitudinal versus counterattitudinal messages: Message discrepancy, reactance, and the boomerang effect. <span class=\"sourceStyle\"><i>Communication Monographs</i></span>, <span class=\"volStyele\"><i>88</i></span>(3), 286-305. ",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/03637751.2020.1813317",
+            "doi": "10.1080/03637751.2020.1813317"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Communication Research",
+        "bodyP_ids": [
+          "mag_rich_body_p_8"
+        ],
+        "publicationType": "journal",
+        "id": "b54",
+        "label": "[54]",
+        "nian": 2022,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Zhou Y.",
+                "personType": "author"
+              },
+              {
+                "name": "Shen L.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Zhou</surname> <given-names>Y.</given-names></name>, &amp; <name><surname>Shen</surname> <given-names>L.</given-names></name> (<span class=\"yearStyle\">2022</span>). Confirmation bias and the persistence of misinformation on climate change. <span class=\"sourceStyle\"><i>Communication Research</i></span>, <span class=\"volStyele\"><i>49</i></span>(4), 500-523. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/00936502211028049",
+            "doi": "10.1177/00936502211028049"
+          }
+        ]
+      }
+    ],
+    "tabList": [
+      {
+        "captionCn": "<p id=\"p00195\">3（支持/平衡/反对）×2（高质量/低质量）组别设置及实验材料</p>",
+        "magId": "835646ee-9c6c-4e5a-a0a9-11e28732ec14",
+        "labelCn": "表1",
+        "titleCn": "表1 3（支持/平衡/反对）×2（高质量/低质量）组别设置及实验材料",
+        "id": "T1",
+        "table": "<table class=\"mag_table table\"> <thead> <tr> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">分组</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">信息框架</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">实验材料内容</th></tr></thead> <tbody> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">第一组</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">支持×高质量</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">包含支持安乐死合法化的核心观点+相应论据</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">第二组</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">支持×低质量</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">包含支持安乐死合法化的口号循环与牵强理由。</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">第三组</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">反对×高质量</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">包含反对安乐死合法化的核心观点+相应论据。</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">第四组</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">反对×低质量</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">包含质疑安乐死合法化的阴谋论与牵强理由。</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">第五组</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">平衡×高质量</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">综合第一组与第三组高质量支持和高质量反对论点</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">第六组</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">平衡×低质量</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">无明确学理观点的中立表达：如自己所学有限，无法选择等</td></tr></tbody></table>"
+      },
+      {
+        "captionCn": "<p id=\"p00250\">材料立场操作检验</p>",
+        "magId": "1fd55383-ad10-457b-8506-dd054e14866d",
+        "labelCn": "表2",
+        "titleCn": "表2 材料立场操作检验",
+        "id": "T2",
+        "footFnList": [
+          {
+            "pList": [
+              "*p&lt;0.05 **p&lt;0.01 ***p&lt;0.001"
+            ]
+          }
+        ],
+        "table": "<table class=\"mag_table table\"> <thead> <tr> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">名称</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">样本量</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">平均值</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">标准差</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Welch F</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">P</th></tr></thead> <tbody> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">支持立场组</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">208</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">6.04</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.80</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\" rowspan=\"4\">1055.996</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\" rowspan=\"4\">0.000***</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">反对立场组</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">214</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.92</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.03</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">平衡立场组</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">256</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">4.25</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.76</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">总计</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\" colspan=\"3\">678</td></tr></tbody></table>"
+      },
+      {
+        "captionCn": "<p id=\"p00260\">事后多重比较分析</p>",
+        "magId": "05136851-e94d-46a3-be87-8aa63b01809d",
+        "labelCn": "表3",
+        "titleCn": "表3 事后多重比较分析",
+        "id": "T3",
+        "footFnList": [
+          {
+            "pList": [
+              "*p&lt;0.05 **p&lt;0.01 ***p&lt;0.001"
+            ]
+          }
+        ],
+        "table": "<table class=\"mag_table table\"> <thead> <tr> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">（I）名称</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">（J）名称</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">（I）平均值</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">（J）平均值</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">差值（I-J）</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">P</th></tr></thead> <tbody> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">支持安乐死合法化</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">反对安乐死合法化</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">6.038</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.916</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">4.123</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.000**</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">支持安乐死合法化</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">中立</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">6.038</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">4.246</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.792</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.000**</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">反对安乐死合法化</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">中立</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.916</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">4.246</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-2.330</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.000**</td></tr></tbody></table>"
+      },
+      {
+        "captionCn": "<p id=\"p00275\">信息质量操作检验</p>",
+        "magId": "64b69b4d-8175-4290-b1cf-62ab1274a0e2",
+        "labelCn": "表4",
+        "titleCn": "表4 信息质量操作检验",
+        "id": "T4",
+        "footFnList": [
+          {
+            "pList": [
+              "*p&lt;0.05 **p&lt;0.01 ***p&lt;0.001"
+            ]
+          }
+        ],
+        "table": "<table class=\"mag_table table\"> <thead> <tr> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">名称</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">样本量</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">平均值</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Welch F</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">P</th></tr></thead> <tbody> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">高质量</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">353</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">4.51</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\" rowspan=\"3\">72.685</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\" rowspan=\"3\">0.000***</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">低质量</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">325</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3.82</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">总计</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\" colspan=\"2\">678</td></tr></tbody></table>"
+      },
+      {
+        "captionCn": "<p id=\"p00290\">态度一致性与态度去极化的回归分析：论证质量与卷入度的调节作用</p>",
+        "magId": "fe1c1429-eadc-44d6-a6ad-2d26906a6352",
+        "labelCn": "表5",
+        "titleCn": "表5 态度一致性与态度去极化的回归分析：论证质量与卷入度的调节作用",
+        "id": "T5",
+        "footFnList": [
+          {
+            "pList": [
+              "* p&lt;0.05 ** p&lt;0.01 ***p&lt;0.001"
+            ]
+          }
+        ],
+        "table": "<table class=\"mag_table table\"> <thead> <tr> <th valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">模型1</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">模型2</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">模型3</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">模型4</th></tr></thead> <tbody> <tr> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">β（EXP）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">β（EXP）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">β（EXP）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">β（EXP）</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">反态度</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.335***<br/>（3.800）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.417（1.518）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.976***（7.211）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.13**（3.095）</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">平衡态度</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.988***<br/>（2.686）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.686**（1.985）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.424***（4.154）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.848*（2.334）</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">高论证质量</td> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-1.064**（0.345）</td> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-1.075**（0.341）</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">反态度*高论证质量</td> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2.121***（8.343）</td> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2.132***（8.430）</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">平衡×高论证质量</td> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.855（2.350）</td> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.49**（4.438）</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">高卷入度</td> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.33（1.391）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.359（1.432）</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">反态度×高卷入度</td> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-1.291**（0.275）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-1.624*（0.197）</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">平衡×高卷入度</td> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-0.86（0.423）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-0.298（0.743）</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">反态度×高论证质量×高卷入度</td> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.301（1.351）</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">平衡×高论证质量×高卷入度</td> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-1.199*（0.302）</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">卡方检验</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">39.747***</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">62.382***</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">56.466***</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">86.759***</td></tr></tbody></table>"
+      }
+    ],
+    "journal": {
+      "issn": "1002-5685",
+      "qiKanWangZhi": "http://cjjc.ruc.edu.cn",
+      "qiKanMingCheng_CN": "国际新闻界",
+      "id": 1,
+      "qiKanMingCheng_EN": "Chinese Journal of Journalism & Communication"
+    },
+    "authorList": [
+      {
+        "deceased": false,
+        "name_cn": "郭小安",
+        "email": "guoxiaoan2004@126.com",
+        "name_en": "GUO Xiaoan"
+      },
+      {
+        "deceased": false,
+        "name_cn": "何君琼",
+        "email": "jade7979@163.com",
+        "name_en": "HE Junqiong"
+      }
+    ],
+    "bioList_cn": [
+      {
+        "content": "<p id=\"com1\">郭小安，重庆大学新闻学院教授。电子邮箱：<a class=\"mag-xml-email-a\" href=\"mailto:guoxiaoan2004@126.com\">guoxiaoan2004@126.com</a>。</p>"
+      },
+      {
+        "content": "<p id=\"com2\">何君琼，重庆大学新闻学院硕士研究生。电子邮箱：<a class=\"mag-xml-email-a\" href=\"mailto:jade7979@163.com\">jade7979@163.com</a>。</p>"
+      }
+    ],
+    "fundList_cn": [
+      "国家社科基金一般项目“重大风险事件中的社会情绪传播及舆论引导策略研究”(22BXW015)"
+    ],
+    "fundList_en": [
+      "This paper is a phased research result of the National Social Science Foundation’s general project “Research on Social Emotion Communication and Public Opinion Guidance Strategies in Major Risk Events”(22BXW015)"
+    ],
+    "article": {
+      "keywordList_cn": [
+        "回音室",
+        "舆论极化",
+        "反态度信息",
+        "平衡信息",
+        "“破茧”"
+      ],
+      "juan": "45",
+      "zhaiyao_cn": "<p id=\"p00020\">社交媒体是否存在“回音室效应”仍存有较大争议。过往研究多将算法视为信息茧房和态度极化的“罪魁祸首”，因为它营造了单一同质的信息环境，不利于公共领域的健康发展，而异质、多元偶遇的信息则被当作“破茧”良方。本文借助在线-实验法，基于精细加工可能性模型设计了3（亲态度/反态度/平衡态度）×2（高论证质量/低论证质量）的多因素组间实验，尝试探究反态度信息和平衡信息接触对用户态度的实际影响。结果表明，多元信息共存的社交媒体并不必然带来开放理性的舆论环境，同质信息也不必然引发“过滤泡”效应。高质量反态度信息能够缓和或改变个人态度，但对高议题卷入度的人来说，反态度信息反而抑制态度去极化；人们同样会以处理片面信息的确认偏误方式理解平衡信息，但那些无明确立场、低说服意图的平衡信息具备态度修正潜力。因此，在考虑信息质量以及投放信息人群的议题卷入度的前提下，偶然信息投放能够有效缓解舆论极化问题。</p>",
+      "endNoteUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=EndNote&id=1583",
+      "bibtexUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=BibTeX&id=1583",
+      "articleType": "A",
+      "abstractUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2023/V45/I7/25",
+      "qi": "7",
+      "id": 1583,
+      "nian": 2023,
+      "bianHao": "1777363991155-406659105",
+      "juanUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2023",
+      "shouCiFaBuRiQi": "2026-04-28",
+      "qiShiYe": "25",
+      "qiUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7",
+      "lanMu_cn": "本期话题 / 网络舆论研究",
+      "pdfSize": "1602KB",
+      "risUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=Ris&id=1583",
+      "title_cn": "反态度信息与平衡信息接触对舆论极化的影响——一项在线实验的实证检验",
+      "jieShuYe": "46",
+      "keywordList_en": [
+        "Echo chamber",
+        "polarization",
+        "counter-attitudinal information",
+        "balanced information",
+        "Break the cocoon"
+      ],
+      "endNoteUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=EndNote&id=1583",
+      "zhaiyao_en": "<p id=\"p00025\">The echo chamber effect of social media is controversial, and algorithms are often considered to be the “culprits” that lead to information cocoons and attitude polarization, because it creates a homogeneous information environment, which is not conducive to the healthy development of the public domain, so that providing heterogeneous and multi-encounter information is regarded as a “cocoon” remedy. This paper uses an online-experimental method to explore the actual influence of anti-attitude information and balanced information exposure on user’s attitude polarization. Based on the elaboration likelihood model, the multi-factor inter-group experiment of 3 (pro-attitude / counter-attitudinal / balanced attitude)×2 (high argumentation quality / low argumentation quality). It is found that social media with multiple information does not necessarily bring an open and moderate public opinion environment, and high-quality anti-attitude information can moderate or change personal attitudes, but for people with high degree of involvement in issues, anti-attitude information will inhibit attitude depolarization; Balanced information can prevent further polarization of attitudes, and although people also understand balance information in a way that deals with the confirmation bias of one-sided information, balanced information that has no clear position and low persuasive intent has the potential to depolarize public opinion.</p>",
+      "bibtexUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=BibTeX&id=1583",
+      "abstractUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7/25",
+      "juanUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2023",
+      "lanMu_en": "Specific Topic / Internet Public Opinion Research",
+      "qiUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2023/V45/I7",
+      "risUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=Ris&id=1583",
+      "title_en": "The influence of anti-attitude information and balanced information contact on the polarization ——Empirical test based on an online experiment",
+      "hasPdf": "true"
+    },
+    "authorList_en": [
+      {
+        "deceased": false,
+        "name_cn": "郭小安",
+        "email": "guoxiaoan2004@126.com",
+        "name_en": "GUO Xiaoan"
+      },
+      {
+        "deceased": false,
+        "name_cn": "何君琼",
+        "email": "jade7979@163.com",
+        "name_en": "HE Junqiong"
+      }
+    ]
+  },
+  "text": "反态度信息与平衡信息接触对舆论极化的影响——一项在线实验的实证检验 × 模态框（Modal）标题 在这里添加一些文本 关闭 关闭 提交更改 取消 确定并提交 × 模态框（Modal）标题 × 下载引用文件后，可以用常见的文献管理软件打开和编辑，包括: BibTex, EndNote, ProCite, RefWorks, and Reference Manager. 选择文件类型/文献管理软件名称 RIS (ProCite, Reference Manager, EndNote) BibTeX 选择包含的内容 仅文章引用信息 引用信息及摘要 导出 反态度信息与平衡信息接触对舆论极化的影响——一项在线实验的实证检验 郭小安, 何君琼 国际新闻界 ›› 2023, Vol. 45 ›› Issue (7) : 25-46. PDF(1602 KB) Toggle navigation 首 页 期刊介绍 编委会 投稿指南 格式规范 期刊订阅 联系我们 English 投稿指南 格式规范 PDF(1602 KB) 国际新闻界 ›› 2023, Vol. 45 ›› Issue (7) : 25-46. 本期话题 / 网络舆论研究 反态度信息与平衡信息接触对舆论极化的影响——一项在线实验的实证检验 郭小安 , 何君琼 作者信息 + 作者简介: 郭小安，重庆大学新闻学院教授。电子邮箱： guoxiaoan2004@126.com 。 何君琼，重庆大学新闻学院硕士研究生。电子邮箱： jade7979@163.com 。 折叠 The influence of anti-attitude information and balanced information contact on the polarization ——Empirical test based on an online experiment GUO Xiaoan , HE Junqiong Author information + About authors: Guo Xiaoan is a professor at the School of Journalism, Chongqing University. Email: guoxiaoan2004@126.com . He Junqiong is a master student at the School of Journalism, Chongqing University. Email: jade7979@163.com Show less 文章历史 + 出版日期 2023-07-23 发布日期 2026-04-28 摘要 社交媒体是否存在“回音室效应”仍存有较大争议。过往研究多将算法视为信息茧房和态度极化的“罪魁祸首”，因为它营造了单一同质的信息环境，不利于公共领域的健康发展，而异质、多元偶遇的信息则被当作“破茧”良方。本文借助在线-实验法，基于精细加工可能性模型设计了3（亲态度/反态度/平衡态度）×2（高论证质量/低论证质量）的多因素组间实验，尝试探究反态度信息和平衡信息接触对用户态度的实际影响。结果表明，多元信息共存的社交媒体并不必然带来开放理性的舆论环境，同质信息也不必然引发“过滤泡”效应。高质量反态度信息能够缓和或改变个人态度，但对高议题卷入度的人来说，反态度信息反而抑制态度去极化；人们同样会以处理片面信息的确认偏误方式理解平衡信息，但那些无明确立场、低说服意图的平衡信息具备态度修正潜力。因此，在考虑信息质量以及投放信息人群的议题卷入度的前提下，偶然信息投放能够有效缓解舆论极化问题。 Abstract The echo chamber effect of social media is controversial, and algorithms are often considered to be the “culprits” that lead to information cocoons and attitude polarization, because it creates a homogeneous information environment, which is not conducive to the healthy development of the public domain, so that providing heterogeneous and multi-encounter information is regarded as a “cocoon” remedy. This paper uses an online-experimental method to explore the actual influence of anti-attitude information and balanced information exposure on user’s attitude polarization. Based on the elaboration likelihood model, the multi-factor inter-group experiment of 3 (pro-attitude / counter-attitudinal / balanced attitude)×2 (high argumentation quality / low argumentation quality). It is found that social media with multiple information does not necessarily bring an open and moderate public opinion environment, and high-quality anti-attitude information can moderate or change personal attitudes, but for people with high degree of involvement in issues, anti-attitude information will inhibit attitude depolarization; Balanced information can prevent further polarization of attitudes, and although people also understand balance information in a way that deals with the confirmation bias of one-sided information, balanced information that has no clear position and low persuasive intent has the potential to depolarize public opinion. 关键词 回音室 / 舆论极化 / 反态度信息 / 平衡信息 / “破茧” Key words Echo chamber / polarization / counter-attitudinal information / balanced information / Break the cocoon 引用本文 EndNote Ris (Procite) Bibtex 导出引用 郭小安 , 何君琼 . 反态度信息与平衡信息接触对舆论极化的影响——一项在线实验的实证检验[J]. 国际新闻界 . 2023, 45(7): 25-46 GUO Xiaoan , HE Junqiong . The influence of anti-attitude information and balanced information contact on the polarization ——Empirical test based on an online experiment[J]. Chinese Journal of Journalism & Communication . 2023, 45(7): 25-46 {{custom_sec.title}} {{custom_sec.title}} {{custom_sec.content}} 参考文献 列表( 原文顺序 | 文献年度倒序 | 文中引用次数倒序 ) 可视化分析 [1] 陈昌凤, 仇筠茜( 2020a ). “信息茧房”在中国:望文生义的概念与算法的破茧求解. 《新闻与写作》 ,(1),58-63. 本文引用 [1] [2] 陈昌凤, 仇筠茜( 2020b ). “信息茧房”在西方:似是而非的概念与算法的“破茧”求解. 《新闻大学》 ,(1),1-14+124. 本文引用 [1] [3] 曹雅宁, 柯青( 2023 ). 为什么人们对虚假健康信息的易感性不同?——基于信息加工过程组态的分析. 《现代情报》 ,(1),40-54. 本文引用 [1] [4] 郭小安, 甘馨月( 2018 ). “戳掉你的泡泡”——算法推荐时代“过滤气泡”的形成及消解. 《全球传媒学刊》 ,(2),76-90. 本文引用 [1] [5] 黄河, 杨小涵( 2021 ). 绿色逆营销广告如何更好地说服消费者?——基于详尽可能性模型的新能源汽车广告研究. 《新闻大学》 ,(3), 24. 本文引用 [1] [6] 蒋忠波( 2019 ). “群体极化”之考辨. 《新闻与传播研究》 ,(3),7-27+127. 本文引用 [1] [7] 凯斯·桑斯坦著( 2003 ). 《网络共和国:网络社会中的民主问题》(黄维明译)(第1版) . 上海: 上海人民出版社. 本文引用 [1] [8] 凯斯·桑斯坦( 2021 ). 《标签:社交媒体时代的众声喧哗》(陈颀,孙竞超译)(第1版) . 北京: 中国民主法制出版社. 本文引用 [1] [9] 李晓静( 2017 ). 社交媒体用户的信息加工与信任判断——基于眼动追踪的实验研究. 《新闻与传播研究》 , (10),49-67+127-128. 本文引用 [1] [10] 刘强, 赵茜( 2021 ). 算法中选择的同化与异化——国外回音室效应研究20年述评与展望. 《新闻界》 ,(6),29-38. 本文引用 [1] [11] 牟怡, 张林( 2020 ). 个体差异与信息特征对健康信息信任和行为意向的影响——基于ELM的实验研究. 《西南民族大学学报(人文社科版)》 ,(8),137-142. 本文引用 [2] [12] 施颖婕, 桂勇, 黄荣贵, 郑雯( 2022 ). 网络媒介“茧房效应”的类型化、机制及其影响——基于“中国大学生社会心态调查(2020)”的中介分析. 《新闻与传播研究》 ,(5),43-59+126-127. 本文引用 [1] [13] 王巍( 2021 ). 网络用户对虚假社会新闻的态度及行为:基于ELM模型的实证分析. 《情报科学》 ,(12),126-132+145. 本文引用 [2] [14] 吴越, 李发根( 2022 ). 舆论极化研究综述. 《情报杂志》 ,(4),98-103+110. 本文引用 [1] [15] 新浪微博数据中心( 2021 ). 微博2020用户发展报告.检索于 https://data.weibo.com/report/reportDetail?id=456. https://data.weibo.com/report/reportDetail?id=456 本文引用 [1] [16] 徐翔, 余珺君( 2023 ). 社交网络内容用户“茧房趋同性”——基于BERT模型的新浪微博样本研究. 《北京理工大学学报(社会科学版)》 ,(4),182-191. 本文引用 [1] [17] 喻国明, 方可人( 2020 ). 算法型内容推送会导致信息茧房吗?——基于媒介多样性和信源信任的一项实证分析. 《山东社会科学》 ,(11),170-174+169. 本文引用 [1] [18] 杨洸, 佘佳玲( 2020 ). 新闻算法推荐的信息可见性、用户主动性与信息茧房效应:算法与用户互动的视角. 《新闻大学》 ,(2),102-118+123. 本文引用 [1] [19] 杨晓莉, 刘肖会( 2023 ). “讳疾忌医”:健康信息回避的影响因素与理论解释. 《心理科学》 ,(1),238-244. 本文引用 [1] [20] 詹姆斯·杰卡德( 2014 ). 《logistic回归中的交互效应》(缪佳译)(第1版) . 上海: 上海人民出版社. 本文引用 [1] [21] Arceneaux K. , & Johnson M. ( 2015 ). How Mainstream News Can Polarize America, Too. In annual meeting of the Midwest Political Science Association,Chicago, IL, USA . 本文引用 [1] [22] Barberá P. ( 2014 ). How social media reduces mass political polarization. Evidence from Germany, Spain, and the US. Job Market Paper, New York University , 46 , 1-46. 本文引用 [1] [23] Bolsen T. , Druckman J.N. & Cook F.L. ( 2014 ). The Influence of Partisan Motivated Reasoning on Public Opinion. Polit Behav (36), 235-262. 本文引用 [1] [24] Beam M. A. , Hutchens M. J. , & Hmielowski J. D. ( 2018 ). Facebook news and (de) polarization: Reinforcing spirals in the 2016 US election. Information, Communication & Society , 21 (7), 940-958. 本文引用 [1] [25] Bright J. , Marchal N. , Ganesh B . & Rudinac S. ( 2022 ). How Do Individuals in a Radical Echo Chamber React to Opposing Views? Evidence from a Content Analysis of Stormfront. Human Communication Research , 48 (1), 116-145. https://doi.org/10.1093/hcr/hqab020 https://academic.oup.com/hcr/article/48/1/116/6430397 本文引用 [2] 摘要 Calls to “break up” radical echo chambers by injecting them with alternative viewpoints are common. Yet, thus far there is little evidence about the impact of such counter-messaging. To what extent and how do individuals who inhabit a radical echo chamber engage with messages that challenge their core beliefs? Drawing on data from the radical right forum Stormfront we address this question with a large-scale content and longitudinal analysis of users’ posting behavior, which analyses more than 35,000 English language contributions to the forum spanning 2011 through 2013. Our findings show that engaging with oppositional views is actually a core practice among Stromfront users which invites active participation and encourages engagement. Indeed, many “echoes” in the echo chamber we studied were not core beliefs being restated, but the sound of opposing viewpoints being undermined and marginalized. These findings underscore the limited potential for counter-messages to undermine radical echo chambers. [26] Christopher J. Carpenter.( 2015 ). A Meta-Analysis of the Elm’s Argument Quality × Processing Type Predictions. Human Communication Research , 41 (4), 501-534. https://doi.org/10.1111/hcre.2015.41.issue-4 http://doi.wiley.com/10.1111/hcre.2015.41.issue-4 本文引用 [1] [27] Cyr D. , Head M. , Lim E. , & Stibe A. ( 2018 ). Using the elaboration likelihood model to examine online persuasion through website design. Information & Management , 55 (7), 807-821. https://doi.org/10.1016/j.im.2018.03.009 https://linkinghub.elsevier.com/retrieve/pii/S0378720617303488 本文引用 [2] [28] Cho H. , & Chiu W. ( 2022 ). “COVID-19 pandemic: consumers’ purchase intention of indoor fitness products during the partial lockdown period in Singapore”, Asia Pacific Journal of Marketing and Logistics , 34 (10), 2299-2313. https://doi.org/10.1108/APJML-04-2021-0235 http://www.emerald.com/apjml/article/34/10/2299-2313/62104 本文引用 [1] [29] Dubois E. , & Blank G. ( 2018 ). The echo chamber is overstated: the moderating effect of political interest and diverse media, Information. Communication & Society , 21 (5), 729-745. 本文引用 [1] [30] Guess A . & Coppock A. ( 2020 ). Does counter-attitudinal information cause backlash? Results from three large survey experiments. British Journal of Political Science , 50 (4), 1497-1515. https://doi.org/10.1017/S0007123418000327 https://www.cambridge.org/core/product/identifier/S0007123418000327/type/journal_article 本文引用 [1] 摘要 Several theoretical perspectives suggest that when individuals are exposed to counter-attitudinal evidence or arguments, their pre-existing opinions and beliefs are reinforced, resulting in a phenomenon sometimes known as ‘backlash’. This article formalizes the concept of backlash and specifies how it can be measured. It then presents the results from three survey experiments – two on Mechanical Turk and one on a nationally representative sample – that find no evidence of backlash, even under theoretically favorable conditions. While a casual reading of the literature on information processing suggests that backlash is rampant, these results indicate that it is much rarer than commonly supposed. [31] Geiß S. , Magin M. , Jürgens P . & Stark B. ( 2021 ). Loopholes in the Echo Chambers: How the Echo Chamber Metaphor Oversimplifies the Effects of Information Gateways on Opinion Expression. Digital Journalism , 9 (5), 660-686. https://doi.org/10.1080/21670811.2021.1873811 https://www.tandfonline.com/doi/full/10.1080/21670811.2021.1873811 本文引用 [1] [32] Johnson BK , Neo RL , Heijnen MEM , Smits L , van Veen C . ( 2020 ). Issues, involvement, and influence: Effects of selective exposure and sharing on polarization and participation. Comput Hum Behav 104 :106155. https://doi.org/10.1016/j.chb.2019.09.031 https://linkinghub.elsevier.com/retrieve/pii/S074756321930367X 本文引用 [1] [33] Kim Y. , & Gonzales A. L. ( 2022 ). When we tolerate online incivility: Dual-Process Effects of Argument Strength and Heuristic Cues in Uncivil User Comments. Computers in Human Behavior , 131 , 107235. https://doi.org/10.1016/j.chb.2022.107235 https://linkinghub.elsevier.com/retrieve/pii/S0747563222000577 本文引用 [1] [34] Karlsen R. , Steen-Johnsen K. , Wollebæk D. , & Enjolras B. ( 2017 ). Echo chamber and trench warfare dynamics in online debates. European Journal of Communication , 32 (3), 257-273. https://doi.org/10.1177/0267323117695734 https://www.ncbi.nlm.nih.gov/pubmed/28690351 本文引用 [2] 摘要 In this article, we take issue with the claim by Sunstein and others that online discussion takes place in echo chambers, and suggest that the dynamics of online debates could be more aptly described by the logic of 'trench warfare', in which opinions are reinforced through contradiction as well as confirmation. We use a unique online survey and an experimental approach to investigate and test echo chamber and trench warfare dynamics in online debates. The results show that people do indeed claim to discuss with those who hold opposite views from themselves. Furthermore, our survey experiments suggest that both confirming and contradicting arguments have similar effects on attitude reinforcement. Together, this indicates that both echo chamber and trench warfare dynamics - a situation where attitudes are reinforced through both confirmation and disconfirmation biases - characterize online debates. However, we also find that two-sided neutral arguments have weaker effects on reinforcement than one-sided confirming and contradicting arguments, suggesting that online debates could contribute to collective learning and qualification of arguments. [35] Liu C.-H. , Lee H.-W. , Huang P.-S. , Chen H.-C. and Sommers S. ( 2016 ). Do incompatible arguments cause extensive processing in the evaluation of arguments? The role of congruence between argument compatibility and argument quality. Br J Psychol , 107 (1): 179-198. https://doi.org/10.1111/bjop.2016.107.issue-1 https://bpspsychub.onlinelibrary.wiley.com/toc/20448295/107/1 本文引用 [1] [36] Levy G. , & Razin R. ( 2019 ). Echo chambers and their effects on economic and political outcomes. Annual Review of Economics , (11), 303-328. 本文引用 [1] [37] Luzsa R. , & Mayr S. ( 2021 ). False consensus in the echo chamber: Exposure to favorably biased social media news feeds leads to increased perception of public support for own opinions. Cyberpsychology: Journal of Psychosocial Research on Cyberspace , 15 (1). 本文引用 [1] [38] Lee S. Y. , & Chung S. ( 2022 ). Publics’ Views of Corporate Social Advocacy Initiatives: Exploring Prior Issue Stance, Attitude Toward a Company, and News Credibility. Management Communication Quarterly , 37 (2),281-309. https://doi.org/10.1177/08933189221105808 https://journals.sagepub.com/doi/10.1177/08933189221105808 本文引用 [1] [39] Masip P. , Suau J. , & Ruiz-Caballero C. ( 2020 ). Incidental exposure to non-like-minded news through social media: Opposing voices in echo-chambers’ news feeds. Media and Communication , 8 (4), 53-62. https://doi.org/10.17645/mac.v8i4.3146 https://www.cogitatiopress.com/mediaandcommunication/article/view/3146 本文引用 [1] [40] Manca S. , Altoè G. , Schultz P. W. , & Fornara F. ( 2020 ). The persuasive route to sustainable mobility: Elaboration likelihood model and emotions predict implicit attitudes. Environment and Behavior , 52 (8), 830-860. https://doi.org/10.1177/0013916518820898 本文引用 [1] 摘要 Persuasive communication campaigns are often used to promote proenvironmental actions, even though their effectiveness has been mixed. Previous research has tested cognitive-based models in explaining proenvironmental choice, but few studies have examined the potential impact of emotional dimensions. This experimental study tests the persuasive effect of argument quality, source expertise, and emotions on the implicit attitudes toward sustainable travel choices. This was a 2 x 2 x 2 between-subjects research design with an additional measured variable of involvement with the topic of sustainable transport. A video including the experimental manipulations was presented, followed by the Implicit Association Test (IAT). Consistent with the Elaboration Likelihood Model (ELM), in the case of high involvement, implicit attitudes were more positive in the condition of high-quality arguments, while in case of low involvement, implicit attitudes were more positive in the condition of high source expertise. In addition, the main effect of anticipated negative emotions was significant. [41] Metzger M. J. , Hartsell E. H. , & Flanagin A. J. ( 2020 ). Cognitive Dissonance or Credibility? A Comparison of Two Theoretical Explanations for Selective Exposure to Partisan News. Communication Research , 47 (1), 3-28. https://doi.org/10.1177/0093650215613136 https://journals.sagepub.com/doi/10.1177/0093650215613136 本文引用 [1] 摘要 Selective exposure research indicates that news consumers tend to seek out attitude-consistent information and avoid attitude-challenging information. This study examines online news credibility and cognitive dissonance as theoretical explanations for partisan selective exposure behavior. After viewing an attitudinally consistent, challenging, or politically balanced online news source, cognitive dissonance, credibility perceptions, and likelihood of selective exposure were measured. Results showed that people judge attitude-consistent and neutral news sources as more credible than attitude-challenging news sources, and although people experience slightly more cognitive dissonance when exposed to attitude-challenging news sources, overall dissonance levels were quite low. These results refute the cognitive dissonance explanation for selective exposure and suggest a new explanation that is based on credibility perceptions rather than psychological discomfort with attitude-challenging information. [42] Martin J. D. , Hassan F. , Anghelcev G. , Abunabaa N. , & Shaath S. ( 2022 ). From echo chambers to ‘idea chambers’: Concurrent online interactions with similar and dissimilar others. International Communication Gazette , 84 (3), 252-275. https://doi.org/10.1177/1748048521992486 https://journals.sagepub.com/doi/10.1177/1748048521992486 本文引用 [1] 摘要 Countering conventional theory, this study found that online homophily and heterophily—connectivity with both similar and dissimilar others—are not necessarily countervailing phenomena, among representative surveys of internet users from five Arab countries: Saudi Arabia, Tunisia, Lebanon, Qatar, and UAE (N = 4,198). Respondents who said the Internet has increased their contact with politically and religiously similar people also tended to say it increased their contact with politically and religiously dissimilar people. A four-item scale measuring online political and religious homophily and heterophily was reliable (a = .754 overall;.79 among Arab nationals), and is referred to in this article as an ‘idea chamber’ index. Confirmatory Factor Analysis and inter-item correlations of scale items are two additional tests that affirm the internal consistency of the measure. Implications for research on digital communication are discussed. [43] Newman T. P. , Nisbet E. C. , & Nisbet M. C. ( 2018 ). Climate change, cultural cognition, and media effects: Worldviews drive news selectivity, biased processing, and polarized attitudes. Public Understanding of Science , 27 (8), 985-1002. https://doi.org/10.1177/0963662518801170 https://www.ncbi.nlm.nih.gov/pubmed/30253695 本文引用 [1] 摘要 According to cultural cognition theory, individuals hold opinions about politically contested issues like climate change that are consistent with their \"cultural way of life,\" conforming their opinions to how they think society should be organized and to what they perceive are the attitudes of their cultural peers. Yet despite dozens of cultural cognition studies, none have directly examined the role of the news media in facilitating these differential interpretations. To address this gap, drawing on a national survey of US adults administered in 2015, we statistically modeled the cultural cognition process in relation to news choices and media effects on public attitudes about climate change. Individuals possessing strongly held cultural worldviews, our findings show, not only choose news outlets where they expect to find culturally congruent arguments about climate change, but they also selectively process the arguments they encounter. Overall, our study demonstrates the substantial role that cultural cognition in combination with news media choices play in contributing to opinion polarization on climate change and other politicized science topics. [44] Oschatz C. , Niederdeppe J. , & Liu J. ( 2022 ). The role of prior attitudes in narrative persuasion: Evidence from a cross-national study in Germany and the United States. Communication Monographs , 89 (3), 376-395. https://doi.org/10.1080/03637751.2021.2011344 https://www.tandfonline.com/doi/full/10.1080/03637751.2021.2011344 本文引用 [1] [45] Petty R.E. & Cacioppo J.T. ( 1981 ). “Issue involvement as a moderator of the effects on attitude of advertising content and context”. Advances in Consumer Research , 8 , 20-24. 本文引用 [1] [46] Petty R. E. & Cacioppo J. T. ( 1986 ). The elaboration likelihood model of persuasion. In Berkowitz. Advances in Experimental Social Psychology , 19(01), 123-205. 本文引用 [3] [47] Park H. S. , Levine T. R. , Kingsley Westerman C. Y. , Orfgen T . & Foregger S. ( 2007 ). The Effects of Argument Quality and Involvement Type on Attitude Formation and Attitude Change: A Test of Dual-Process and Social Judgment Predictions. Human Communication Research , 33 (1), 81-102. 本文引用 [1] [48] Powell T. E. , Hameleers M. , & van der Meer T. G. L. A. ( 2021 ). Selection in a Snapshot? The Contribution of Visuals to the Selection and Avoidance of Political News in Information-Rich Media Settings. The International Journal of Press/Politics , 26 (1), 46-68. https://doi.org/10.1177/1940161220966730 https://journals.sagepub.com/doi/10.1177/1940161220966730 本文引用 [1] 摘要 \\n The psychological bases of the selection and attitudinal response to news media have received ample attention in political communication research. However, the\\n interplay\\n between three crucial factors in today’s online, high-choice news media settings remains understudied: (1) textual versus multimodal (text-plus-visual) communication; (2) attitude congruent versus attitude incongruent versus balanced content; and (3) political versus nonpolitical genres. Relying on an experimental study of refugee and gun control news in the United States (\\n N\\n = 1,159), this paper investigates how people select and avoid, and also the extent to which they agree with, congenial, uncongenial, and balanced political news in a realistic multimodal selective-exposure setting in which political news is presented alongside sports and entertainment news. Although the findings partially depend on the issue, we find that the presence of multimodal (compared to textual) entertainment and sport items can increase avoidance of political news. Multimodal (compared to textual) political news augments attitude congruent selective exposure instead of encouraging cross-cutting selective exposure. Once selected, multimodal political news articles evoke stronger emotions and lead to higher issue agreement than textual news, regardless of an article’s attitude congruence. By linking research on text-alone to multimodal selective exposure, this study shows that visuals in high-choice media environments can contribute to the selective avoidance of political news generally and cross-cutting political news more specifically.\\n [49] Sussman S. W. , & Siegal W. S. ( 2003 ). Informational influence in organizations: An integrated approach to knowledge adoption. Information Systems Research , 14 (1), 47-65. https://doi.org/10.1287/isre.14.1.47.14767 https://pubsonline.informs.org/doi/10.1287/isre.14.1.47.14767 本文引用 [1] [50] Sude D. J. , Knobloch-Westerwick S. , Robinson M. J. & Westerwick A. ( 2019 ). “Pick and choose” opinion climate: How browsing of political messages shapes public opinion perceptions and attitudes. Communication Monographs , 86 (4), 457-478. https://doi.org/10.1080/03637751.2019.1612528 https://www.tandfonline.com/doi/full/10.1080/03637751.2019.1612528 本文引用 [1] [51] Taber C. S. , Cann D . & Kucsova S. ( 2009 ). The Motivated Processing of Political Arguments. Polit Behav , 31 , 137-155. https://doi.org/10.1007/s11109-008-9075-8 http://link.springer.com/10.1007/s11109-008-9075-8 本文引用 [1] [52] Vafeiadis M. , & Xiao A. ( 2021 ). Fake news: How emotions, involvement, need for cognition and rebuttal evidence (story vs. informational) influence consumer reactions toward a targeted organization. Public Relations Review , 47 (4), 102088. 本文引用 [1] [53] Zhao Xinyan & Fink E. L. ( 2021 ). Proattitudinal versus counterattitudinal messages: Message discrepancy, reactance, and the boomerang effect. Communication Monographs , 88 (3), 286-305. https://doi.org/10.1080/03637751.2020.1813317 https://www.tandfonline.com/doi/full/10.1080/03637751.2020.1813317 本文引用 [1] [54] Zhou Y. , & Shen L. ( 2022 ). Confirmation bias and the persistence of misinformation on climate change. Communication Research , 49 (4), 500-523. https://doi.org/10.1177/00936502211028049 https://journals.sagepub.com/doi/10.1177/00936502211028049 本文引用 [1] 文章年度分布 文献类型分布 被引期刊分布 被引用学者 基金 国家社科基金一般项目“重大风险事件中的社会情绪传播及舆论引导策略研究”(22BXW015) × 微信扫一扫 PDF(1602 KB) 可视化 Accesses Citation Altmetric Detail 段落导航 相关文章 期刊信息 期刊介绍 编委会 投稿指南 格式规范 期刊订阅 联系我们 在线期刊 当期目录 过刊浏览 E-mail Alert RSS 联系我们 地址：北京市海淀区中关村大街59号明德新闻楼 邮编：100872 电话：010-82509362 E-mail:gjxwj@ruc.edu.cn 访问统计 总访问量 ： 今日访问： 在线人数： 版权所有 © 《国际新闻界》编辑部 技术支持： 北京玛格泰克科技发展有限公司 / 〈 〉",
+  "links": [
+    "http://cjjc.ruc.edu.cn",
+    "http://cjjc.ruc.edu.cn/CN/archive/2023",
+    "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7",
+    "http://cjjc.ruc.edu.cn/CN/home",
+    "http://cjjc.ruc.edu.cn/CN/home",
+    "http://cjjc.ruc.edu.cn/CN/column/column1.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column2.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column5.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column6.shtml",
+    "http://cjjc.ruc.edu.cn/EN/home",
+    "https://www.ruc.edu.cn/",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn",
+    "http://cjjc.ruc.edu.cn/CN/archive/2023",
+    "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7",
+    "javascript:;",
+    "mailto:guoxiaoan2004@126.com",
+    "javascript:;",
+    "mailto:jade7979@163.com",
+    "mailto:guoxiaoan2004@126.com",
+    "mailto:jade7979@163.com",
+    "javascript:;",
+    "mailto:guoxiaoan2004@126.com",
+    "javascript:;",
+    "mailto:jade7979@163.com",
+    "mailto:guoxiaoan2004@126.com",
+    "mailto:jade7979@163.com",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=EndNote&id=1583",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=Ris&id=1583",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=BibTeX&id=1583",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://data.weibo.com/report/reportDetail?id=456",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1093/hcr/hqab020",
+    "https://academic.oup.com/hcr/article/48/1/116/6430397",
+    "javascript:;",
+    "https://doi.org/10.1111/hcre.2015.41.issue-4",
+    "http://doi.wiley.com/10.1111/hcre.2015.41.issue-4",
+    "javascript:;",
+    "https://doi.org/10.1016/j.im.2018.03.009",
+    "https://linkinghub.elsevier.com/retrieve/pii/S0378720617303488",
+    "javascript:;",
+    "https://doi.org/10.1108/APJML-04-2021-0235",
+    "http://www.emerald.com/apjml/article/34/10/2299-2313/62104",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1017/S0007123418000327",
+    "https://www.cambridge.org/core/product/identifier/S0007123418000327/type/journal_article",
+    "javascript:;",
+    "https://doi.org/10.1080/21670811.2021.1873811",
+    "https://www.tandfonline.com/doi/full/10.1080/21670811.2021.1873811",
+    "javascript:;",
+    "https://doi.org/10.1016/j.chb.2019.09.031",
+    "https://linkinghub.elsevier.com/retrieve/pii/S074756321930367X",
+    "javascript:;",
+    "https://doi.org/10.1016/j.chb.2022.107235",
+    "https://linkinghub.elsevier.com/retrieve/pii/S0747563222000577",
+    "javascript:;",
+    "https://doi.org/10.1177/0267323117695734",
+    "https://www.ncbi.nlm.nih.gov/pubmed/28690351",
+    "javascript:;",
+    "https://doi.org/10.1111/bjop.2016.107.issue-1",
+    "https://bpspsychub.onlinelibrary.wiley.com/toc/20448295/107/1",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1177/08933189221105808",
+    "https://journals.sagepub.com/doi/10.1177/08933189221105808",
+    "javascript:;",
+    "https://doi.org/10.17645/mac.v8i4.3146",
+    "https://www.cogitatiopress.com/mediaandcommunication/article/view/3146",
+    "javascript:;",
+    "https://doi.org/10.1177/0013916518820898",
+    "javascript:;",
+    "https://doi.org/10.1177/0093650215613136",
+    "https://journals.sagepub.com/doi/10.1177/0093650215613136",
+    "javascript:;",
+    "https://doi.org/10.1177/1748048521992486",
+    "https://journals.sagepub.com/doi/10.1177/1748048521992486",
+    "javascript:;",
+    "https://doi.org/10.1177/0963662518801170",
+    "https://www.ncbi.nlm.nih.gov/pubmed/30253695",
+    "javascript:;",
+    "https://doi.org/10.1080/03637751.2021.2011344",
+    "https://www.tandfonline.com/doi/full/10.1080/03637751.2021.2011344",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1177/1940161220966730",
+    "https://journals.sagepub.com/doi/10.1177/1940161220966730",
+    "javascript:;",
+    "https://doi.org/10.1287/isre.14.1.47.14767",
+    "https://pubsonline.informs.org/doi/10.1287/isre.14.1.47.14767",
+    "javascript:;",
+    "https://doi.org/10.1080/03637751.2019.1612528",
+    "https://www.tandfonline.com/doi/full/10.1080/03637751.2019.1612528",
+    "javascript:;",
+    "https://doi.org/10.1007/s11109-008-9075-8",
+    "http://link.springer.com/10.1007/s11109-008-9075-8",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1080/03637751.2020.1813317",
+    "https://www.tandfonline.com/doi/full/10.1080/03637751.2020.1813317",
+    "javascript:;",
+    "https://doi.org/10.1177/00936502211028049",
+    "https://journals.sagepub.com/doi/10.1177/00936502211028049",
+    "javascript:;",
+    "http://www.facebook.com/sharer.php?u=http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7/25",
+    "http://twitter.com/share?url=http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7/25",
+    "http://service.weibo.com/share/share.php?url=http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7/25&title=反态度信息与平衡信息接触对舆论极化的影响——一项在线实验的实证检验",
+    "javascript:;",
+    "javascript:;",
+    "http://cjjc.ruc.edu.cn/CN/column/column1.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column2.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column5.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column6.shtml",
+    "http://cjjc.ruc.edu.cn/CN/current",
+    "http://cjjc.ruc.edu.cn/CN/archive_by_years",
+    "http://cjjc.ruc.edu.cn/CN/alert/showAlertInfo.do",
+    "http://cjjc.ruc.edu.cn/CN/rss/showRssInfo.do",
+    "https://www.magtech.com.cn/"
+  ]
+}

@@ -1,0 +1,17 @@
+﻿provider,condition,topic_group,positions,journal_positions,nonjournal_positions,historical_pending,identity_unknown,identity_resolved,identity_coverage,unique_works,unique_journals,institutional_system_known,institutional_geography_known,journal_geography_unknown,geography_journal_coverage,geography_all_position_coverage,mainland_independent,crossborder_mainland,non_mainland,china_author_confirmed,china_author_unknown,language_zh_metadata,body_language_manual_confirmed
+openai,neutral_zh,classic,54,40,4,0,10,44,0.8148148148148148,29,10,33,25,15,0.625,0.46296296296296297,0,0,25,0,30,0,0
+openai,neutral_zh,digital,60,52,2,0,6,54,0.9,32,21,29,22,30,0.4230769230769231,0.36666666666666664,0,0,22,0,16,0,0
+openai,neutral_en,classic,55,45,3,0,7,48,0.8727272727272727,31,16,37,31,14,0.6888888888888889,0.5636363636363636,0,0,31,0,27,0,0
+openai,neutral_en,digital,60,37,2,0,21,39,0.65,26,17,22,16,21,0.43243243243243246,0.26666666666666666,0,0,16,0,23,0,0
+gemini,neutral_zh,classic,60,49,5,0,6,54,0.9,29,13,43,33,16,0.673469387755102,0.55,0,0,33,0,27,0,0
+gemini,neutral_zh,digital,60,55,2,0,3,57,0.95,28,20,31,28,27,0.509090909090909,0.4666666666666667,0,0,28,1,15,0,0
+gemini,neutral_en,classic,60,53,2,0,5,55,0.9166666666666666,27,13,48,40,13,0.7547169811320755,0.6666666666666666,0,0,40,0,27,0,0
+gemini,neutral_en,digital,60,56,1,0,3,57,0.95,26,18,28,24,32,0.42857142857142855,0.4,0,0,24,0,9,0,0
+deepseek,neutral_zh,classic,60,29,3,0,28,32,0.5333333333333333,21,11,21,15,14,0.5172413793103449,0.25,0,0,15,0,39,0,0
+deepseek,neutral_zh,digital,60,24,5,0,31,29,0.48333333333333334,14,8,15,15,9,0.625,0.25,0,0,15,0,44,0,0
+deepseek,neutral_en,classic,60,23,1,0,36,24,0.4,15,7,22,16,7,0.6956521739130435,0.26666666666666666,0,0,16,0,47,0,0
+deepseek,neutral_en,digital,60,24,9,0,27,33,0.55,16,11,19,18,6,0.75,0.3,0,0,18,0,38,0,0
+qwen,neutral_zh,classic,60,9,0,0,51,9,0.15,3,2,9,7,2,0.7777777777777778,0.11666666666666667,0,0,7,0,52,0,0
+qwen,neutral_zh,digital,60,5,0,0,55,5,0.08333333333333333,2,1,5,5,0,1.0,0.08333333333333333,0,0,5,0,55,0,0
+qwen,neutral_en,classic,60,3,0,0,57,3,0.05,3,3,3,2,1,0.6666666666666666,0.03333333333333333,0,0,2,0,58,0,0
+qwen,neutral_en,digital,60,6,2,0,52,8,0.13333333333333333,6,4,4,4,2,0.6666666666666666,0.06666666666666667,0,0,4,0,55,0,0

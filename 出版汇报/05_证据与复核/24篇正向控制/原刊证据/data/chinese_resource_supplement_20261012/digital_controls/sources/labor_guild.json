@@ -1,0 +1,2272 @@
+{
+  "source_id": "labor_guild",
+  "requested_url": "http://cjjc.ruc.edu.cn/CN/abstract/abstract1189.shtml",
+  "checked_at": "2026-10-12T09:17:00.132399+00:00",
+  "access_scope": "public_no_login",
+  "method": "GET",
+  "paid_request": false,
+  "http_status": 200,
+  "final_url": "http://cjjc.ruc.edu.cn/CN/abstract/abstract1189.shtml",
+  "sha256": "57b1a35d09964bf2d820871d9389c19c12e5c867a6a9192db324ba2f34f591d9",
+  "content_length": 347609,
+  "metadata": {
+    "viewport": [
+      "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+      "width=device-width, initial-scale=1"
+    ],
+    "description": [
+      "算法转向影响媒体行业，加剧创意产业的不确定性和商品化。作为一个数字内容产业，网络直播面对何种市场环境?关键行动者如何组织内容生产?本研究将人类数字生产活动置于理解社会过程的中心，以网络直播行业为传播政治经济学研究提供中国案例。研究综合采用内容分析、深度访谈和民族志方法，分析以平台、公会和主播为代表的直播行业关键行动者，在不确定的市场环境中获得地位和结果的过程和机制。网络直播是独特性与共同性两个特点之间博弈的集体艺术生产活动，直播公会对内组织生产（招募、培训和管理）、对外管理可见性（运营、导流与打榜），呈现出平台背书、系统组织、人机合作和劳务中介的特征，完成对于可见性的追求以获得地位。"
+    ],
+    "authors": [
+      "叶韦明, 金一丹"
+    ],
+    "keywords": [
+      "网络主播,公会,数字生产组织,可见性,不确定性"
+    ],
+    "robots": [
+      "index"
+    ],
+    "renderer": [
+      "webkit"
+    ],
+    "format-detection": [
+      "telephone=no"
+    ],
+    "apple-mobile-web-app-capable": [
+      "yes"
+    ],
+    "apple-mobile-web-app-title": [
+      "平台·公会·主播：不确定数字产业中的生产组织"
+    ],
+    "mobile-web-app-capable": [
+      "yes"
+    ],
+    "screen-orientation": [
+      "portrait"
+    ],
+    "x5-orientation": [
+      "portrait"
+    ],
+    "full-screen": [
+      "yes"
+    ],
+    "x5-fullscreen": [
+      "true"
+    ],
+    "browsermode": [
+      "application"
+    ],
+    "x5-page-mode": [
+      "app"
+    ],
+    "msapplication-tap-highlight": [
+      "no"
+    ],
+    "dc.relation.is": [
+      "国际新闻界"
+    ],
+    "dc.citation.volume": [
+      "43"
+    ],
+    "dc.citation.issue": [
+      "12"
+    ],
+    "dc.citation.spage": [
+      "96"
+    ],
+    "dc.citation.epage": [
+      "119"
+    ],
+    "dc.title": [
+      "平台·公会·主播：不确定数字产业中的生产组织"
+    ],
+    "dc.source": [
+      "国际新闻界"
+    ],
+    "dc.format": [
+      "text/html"
+    ],
+    "dc.publisher": [
+      ""
+    ],
+    "dc.date": [
+      "2021-12-23"
+    ],
+    "dc.type": [
+      ""
+    ],
+    "dc.language": [
+      "Cn"
+    ],
+    "dc.copyright": [
+      ""
+    ],
+    "dc.description": [
+      "算法转向影响媒体行业，加剧创意产业的不确定性和商品化。作为一个数字内容产业，网络直播面对何种市场环境?关键行动者如何组织内容生产?本研究将人类数字生产活动置于理解社会过程的中心，以网络直播行业为传播政治经济学研究提供中国案例。研究综合采用内容分析、深度访谈和民族志方法，分析以平台、公会和主播为代表的直播行业关键行动者，在不确定的市场环境中获得地位和结果的过程和机制。网络直播是独特性与共同性两个特点之间博弈的集体艺术生产活动，直播公会对内组织生产（招募、培训和管理）、对外管理可见性（运营、导流与打榜），呈现出平台背书、系统组织、人机合作和劳务中介的特征，完成对于可见性的追求以获得地位。"
+    ],
+    "dc.relation.ispartof": [
+      "国际新闻界"
+    ],
+    "dc.creator": [
+      "叶韦明",
+      "金一丹"
+    ],
+    "dc.subject": [
+      "网络主播",
+      "公会",
+      "数字生产组织",
+      "可见性",
+      "不确定性"
+    ],
+    "prism.issn": [
+      "1002-5685"
+    ],
+    "prism.publicationDate": [
+      "2021-12-23"
+    ],
+    "prism.section": [
+      ""
+    ],
+    "prism.volume": [
+      "43"
+    ],
+    "prism.number": [
+      "12"
+    ],
+    "prism.startingPage": [
+      "96"
+    ],
+    "prism.endingPage": [
+      "119"
+    ],
+    "prism.copyright": [
+      ""
+    ],
+    "prism.url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/96"
+    ],
+    "citation_pdf_url": [
+      "http://cjjc.ruc.edu.cn/CN/PDF/1189"
+    ],
+    "citation_abstract_html_url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/96"
+    ],
+    "citation_fulltext_html_url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/96"
+    ],
+    "citation_journal_title": [
+      "国际新闻界"
+    ],
+    "citation_publisher": [
+      ""
+    ],
+    "citation_issn": [
+      "1002-5685"
+    ],
+    "citation_title": [
+      "平台·公会·主播：不确定数字产业中的生产组织"
+    ],
+    "citation_authors": [
+      "叶韦明, 金一丹"
+    ],
+    "citation_volume": [
+      "43"
+    ],
+    "citation_issue": [
+      "12"
+    ],
+    "citation_publication_date": [
+      "2021/12/23"
+    ],
+    "citation_online_date": [
+      "2021/12/23"
+    ],
+    "citation_firstpage": [
+      "96"
+    ],
+    "citation_lastpage": [
+      "119"
+    ],
+    "citation_article_type": [
+      ""
+    ],
+    "citation_language": [
+      "zh"
+    ],
+    "citation_doi": [
+      ""
+    ],
+    "citation_abstract": [
+      "算法转向影响媒体行业，加剧创意产业的不确定性和商品化。作为一个数字内容产业，网络直播面对何种市场环境?关键行动者如何组织内容生产?本研究将人类数字生产活动置于理解社会过程的中心，以网络直播行业为传播政治经济学研究提供中国案例。研究综合采用内容分析、深度访谈和民族志方法，分析以平台、公会和主播为代表的直播行业关键行动者，在不确定的市场环境中获得地位和结果的过程和机制。网络直播是独特性与共同性两个特点之间博弈的集体艺术生产活动，直播公会对内组织生产（招募、培训和管理）、对外管理可见性（运营、导流与打榜），呈现出平台背书、系统组织、人机合作和劳务中介的特征，完成对于可见性的追求以获得地位。"
+    ],
+    "citation_keywords": [
+      "网络主播",
+      "公会",
+      "数字生产组织",
+      "可见性",
+      "不确定性"
+    ],
+    "citation_date": [
+      "2021/12/23"
+    ],
+    "citation_author": [
+      "叶韦明",
+      "金一丹"
+    ],
+    "article_references": [
+      "叶韦明, 金一丹. 平台·公会·主播：不确定数字产业中的生产组织. 国际新闻界. 2021, 43 (12): 96-119."
+    ],
+    "google-site-verification": [
+      "GqftDyjkbLznCjwJH3xdvsEi1ZnXlVqxWMeQ5H2MD38"
+    ]
+  },
+  "structured_article": {
+    "bioList_en": [
+      {
+        "content": "<p id=\"com2\">Ye WeiMing is an associate professor of HSBC Business School, Peking University. Email: <a class=\"mag-xml-email-a\" href=\"mailto:yewm@phbs.pku.edu.cn\">yewm@phbs.pku.edu.cn</a>.</p>"
+      },
+      {
+        "content": "<p id=\"com4\">Jin Yidan is a reporter of China Securities Journal, Xinhua News Agency. Email: <a class=\"mag-xml-email-a\" href=\"mailto:18811736488@126.com\">18811736488@126.com</a>.</p>"
+      }
+    ],
+    "referenceList": [
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_22"
+        ],
+        "publicationType": "report",
+        "id": "b1",
+        "label": "[1]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "艾瑞咨询",
+                "personType": "author"
+              }
+            ],
+            "content": "艾瑞咨询(<span class=\"yearStyle\">2017a</span>). 2017年中国泛娱乐直播用户白皮书.检索于 http://report.iresearch.cn/report_pdf.aspx?id=2955. ",
+            "url": "http://report.iresearch.cn/report_pdf.aspx?id=2955"
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_13"
+        ],
+        "publicationType": "report",
+        "id": "b2",
+        "label": "[2]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "艾瑞咨询",
+                "personType": "author"
+              }
+            ],
+            "content": "艾瑞咨询(<span class=\"yearStyle\">2017b</span>). 中国泛娱乐直播平台发展盘点报告.检索于 https://report.iresearch.cn/wx/report.aspx?id=2962. ",
+            "url": "https://report.iresearch.cn/wx/report.aspx?id=2962"
+          }
+        ]
+      },
+      {
+        "sourceCn": "《福建师范大学学报(哲学社会科学版)》",
+        "bodyP_ids": [
+          "mag_rich_body_p_6",
+          "mag_rich_body_p_30",
+          "mag_rich_body_p_54"
+        ],
+        "publicationType": "journal",
+        "id": "b3",
+        "label": "[3]",
+        "nian": 2021,
+        "citedCount": 3,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "董晨宇",
+                "personType": "author"
+              },
+              {
+                "name": "丁依然",
+                "personType": "author"
+              },
+              {
+                "name": "叶蓁",
+                "personType": "author"
+              }
+            ],
+            "content": "董晨宇, 丁依然, 叶蓁(<span class=\"yearStyle\">2021</span>). 《制造亲密:中国网络秀场直播中的商品化关系及其不稳定性》. <span class=\"sourceStyle\">《福建师范大学学报(哲学社会科学版)》</span>,(3),137-151."
+          }
+        ]
+      },
+      {
+        "sourceCn": "看MC天佑如何统治直播江湖.检索于",
+        "publicationType": "journal",
+        "id": "b4",
+        "label": "[4]",
+        "nian": 0,
+        "citedCount": 0,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "GQ",
+                "personType": "author"
+              }
+            ],
+            "content": "GQ(2016年9月22日).追踪三个月, <span class=\"sourceStyle\">看MC天佑如何统治直播江湖.检索于</span> http://www.gq.com.cn/magazine/news_143298c5c0e7348a.html. ",
+            "url": "http://www.gq.com.cn/magazine/news_143298c5c0e7348a.html"
+          }
+        ]
+      },
+      {
+        "sourceCn": "互联网视听节目服务持证机构名单",
+        "bodyP_ids": [
+          "mag_rich_body_p_15"
+        ],
+        "publicationType": "journal",
+        "id": "b5",
+        "label": "[5]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "国家广播电视总局",
+                "personType": "author"
+              }
+            ],
+            "content": "国家广播电视总局(<span class=\"yearStyle\">2017</span>). <span class=\"sourceStyle\">互联网视听节目服务持证机构名单</span> (截止2017年12月31日).检索于 https://report.iresearch.cn/wx/report.aspx?id=2962. ",
+            "url": "https://report.iresearch.cn/wx/report.aspx?id=2962"
+          }
+        ]
+      },
+      {
+        "sourceCn": "2020年全国广播电视行业统计公报.检索于",
+        "bodyP_ids": [
+          "mag_rich_body_p_15"
+        ],
+        "publicationType": "journal",
+        "id": "b6",
+        "label": "[6]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "国家广播电视总局",
+                "personType": "author"
+              }
+            ],
+            "content": "国家广播电视总局(<span class=\"yearStyle\">2021</span>). <span class=\"sourceStyle\">2020年全国广播电视行业统计公报.检索于</span> http://www.nrta.gov.cn/art/2021/4/19/art_2555_55908.html. ",
+            "url": "http://www.nrta.gov.cn/art/2021/4/19/art_2555_55908.html"
+          }
+        ]
+      },
+      {
+        "sourceCn": "《艺术为社会学带来什么》(何蒨译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_4",
+          "mag_rich_body_p_66"
+        ],
+        "publicationType": "book",
+        "id": "b7",
+        "label": "[7]",
+        "nian": 20012016,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "纳塔莉·海因里希",
+                "personType": "author"
+              }
+            ],
+            "content": "纳塔莉·海因里希(<span class=\"yearStyle\">2001/2016</span>). <span class=\"sourceStyle\">《艺术为社会学带来什么》(何蒨译)</span>. 上海: 华东师范大学出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "斗鱼转发.检索于",
+        "publicationType": "journal",
+        "id": "b8",
+        "label": "[8]",
+        "nian": 0,
+        "citedCount": 0,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "南方都市报(2019年2月15日)",
+                "personType": "author"
+              }
+            ],
+            "content": "南方都市报(2019年2月15日). 违约跳槽主播禁止直播腾讯游戏！腾讯发布直播行为规范, <span class=\"sourceStyle\">斗鱼转发.检索于</span> https://www.sohu.com/a/294935264_161795. ",
+            "url": "https://www.sohu.com/a/294935264_161795"
+          }
+        ]
+      },
+      {
+        "sourceCn": "网络视听许可证“市价”几近翻番.检索于",
+        "publicationType": "journal",
+        "id": "b9",
+        "label": "[9]",
+        "nian": 0,
+        "citedCount": 0,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "孙妍(2017年2月10日)",
+                "personType": "author"
+              }
+            ],
+            "content": "孙妍(2017年2月10日). 3500万, <span class=\"sourceStyle\">网络视听许可证“市价”几近翻番.检索于</span> https://mp.weixin.qq.com/s/P5_DQEFcvj28uuABBCEn2g. ",
+            "url": "https://mp.weixin.qq.com/s/P5_DQEFcvj28uuABBCEn2g"
+          }
+        ]
+      },
+      {
+        "sourceCn": "天眼查大数据:我国现有超2.8万家网络直播营销相关企业",
+        "bodyP_ids": [
+          "mag_rich_body_p_2"
+        ],
+        "publicationType": "journal",
+        "id": "b10",
+        "label": "[10]",
+        "nian": 0,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "天眼查商业查询(2021年5月28日)",
+                "personType": "author"
+              }
+            ],
+            "content": "天眼查商业查询(2021年5月28日). <span class=\"sourceStyle\">天眼查大数据:我国现有超2.8万家网络直播营销相关企业</span>.检索于 https://baijiahao.baidu.com/s?id=1700989080638411329&amp;wfr=spider&amp;for=pc. ",
+            "url": "https://baijiahao.baidu.com/s?id=1700989080638411329&amp;wfr=spider&amp;for=pc"
+          }
+        ]
+      },
+      {
+        "sourceCn": "《文化部举办第二十五批违法违规互联网文化活动查处工作新闻通气会》",
+        "bodyP_ids": [
+          "mag_rich_body_p_14"
+        ],
+        "publicationType": "book",
+        "id": "b11",
+        "label": "[11]",
+        "nian": 2016,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "文化部",
+                "personType": "author"
+              }
+            ],
+            "content": "文化部(<span class=\"yearStyle\">2016</span>). <span class=\"sourceStyle\">《文化部举办第二十五批违法违规互联网文化活动查处工作新闻通气会》</span>. 北京: 文化部."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《艺术社会学》(章浩,沈杨译)",
+        "publicationType": "book",
+        "id": "b12",
+        "label": "[12]",
+        "nian": 20032009,
+        "citedCount": 0,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "维多利亚·D·亚历山大",
+                "personType": "author"
+              }
+            ],
+            "content": "维多利亚·D·亚历山大(<span class=\"yearStyle\">2003/2009</span>). <span class=\"sourceStyle\">《艺术社会学》(章浩,沈杨译)</span>. 南京: 江苏美术出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《制造网红——直播时代的情感、算法与数码资本主义》",
+        "bodyP_ids": [
+          "mag_rich_body_p_6"
+        ],
+        "publicationType": "thesis",
+        "id": "b13",
+        "label": "[13]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "郑肯",
+                "personType": "author"
+              }
+            ],
+            "content": "郑肯(<span class=\"yearStyle\">2020</span>). <span class=\"sourceStyle\">《制造网红——直播时代的情感、算法与数码资本主义》</span>.北京大学社会学系人类学硕士论文.北京."
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_1",
+          "mag_rich_body_p_10"
+        ],
+        "publicationType": "report",
+        "id": "b14",
+        "label": "[14]",
+        "nian": 2021,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "中国互联网络信息中心(CNNIC)",
+                "personType": "author"
+              }
+            ],
+            "content": "中国互联网络信息中心(CNNIC)(<span class=\"yearStyle\">2021</span>). 第47次《中国互联网络发展状况统计报告》.检索于 http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/202102/P020210203334633480104.pdf. ",
+            "url": "http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/202102/P020210203334633480104.pdf"
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_1"
+        ],
+        "publicationType": "report",
+        "id": "b15",
+        "label": "[15]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "中国信息通信研究院",
+                "personType": "author"
+              }
+            ],
+            "content": "中国信息通信研究院(<span class=\"yearStyle\">2017</span>). 中国网络直播行业景气指数及短视频报告.检索于 https://www.sohu.com/a/167868464_735021. ",
+            "url": "https://www.sohu.com/a/167868464_735021"
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_1"
+        ],
+        "publicationType": "report",
+        "id": "b16",
+        "label": "[16]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "中国演出行业协会",
+                "personType": "author"
+              }
+            ],
+            "content": "中国演出行业协会(<span class=\"yearStyle\">2017</span>). 网络表演(直播)社会价值报告.检索于 https://www.tisi.org/4897. ",
+            "url": "https://www.tisi.org/4897"
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_1",
+          "mag_rich_body_p_2"
+        ],
+        "publicationType": "report",
+        "id": "b17",
+        "label": "[17]",
+        "nian": 2021,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "中国演出行业协会",
+                "personType": "author"
+              }
+            ],
+            "content": "中国演出行业协会(<span class=\"yearStyle\">2021</span>). 重磅|《2020年中国网络表演(直播)行业发展报告》发布.检索于 http://www.capa.com.cn/news/showDetail/170763. ",
+            "url": "http://www.capa.com.cn/news/showDetail/170763"
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻记者》",
+        "bodyP_ids": [
+          "mag_rich_body_p_2"
+        ],
+        "publicationType": "journal",
+        "id": "b18",
+        "label": "[18]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "周葆华",
+                "personType": "author"
+              }
+            ],
+            "content": "周葆华(<span class=\"yearStyle\">2017</span>). 《谁在使用视频直播?——网络视频直播用户的构成、行为与评价分析》. <span class=\"sourceStyle\">《新闻记者》</span>,(3), 54-64."
+          }
+        ]
+      },
+      {
+        "sourceCn": "检索于",
+        "bodyP_ids": [
+          "mag_rich_body_p_18"
+        ],
+        "publicationType": "newspaper",
+        "id": "b19",
+        "label": "[19]",
+        "nian": 0,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "中国日报网(2012年6月11日)",
+                "personType": "author"
+              }
+            ],
+            "content": "中国日报网(2012年6月11日). 多玩启用新品牌“欢聚时代” 公布公司愿景和使命. <span class=\"sourceStyle\">检索于</span> http://www.chinadaily.com.cn/hqcj/2012-06/11/content_15493715.htm. ",
+            "url": "http://www.chinadaily.com.cn/hqcj/2012-06/11/content_15493715.htm"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Media International Australia",
+        "bodyP_ids": [
+          "mag_rich_body_p_7",
+          "mag_rich_body_p_66"
+        ],
+        "publicationType": "journal",
+        "id": "b20",
+        "label": "[20]",
+        "nian": 2016,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "annotation": "Influencer commerce has experienced an exponential growth, resulting in new forms of digital practices among young women. Influencers are one form of microcelebrity who accumulate a following on blogs and social media through textual and visual narrations of their personal, everyday lives, upon which advertorials for products and services are premised. In Singapore, Influencers are predominantly young women whose commercial practices are most noted on Instagram. In response, everyday users are beginning to model after Influencers through tags, reposts and #OOTDs (Outfit Of The Day), unwittingly producing volumes of advertising content that is not only encouraged by Influencers and brands but also publicly utilised with little compensation. Drawing on ethnographic fieldwork among Instagram Influencers and followers in Singapore, this article investigates the visibility labour in which followers engage on follower-anchored Instagram advertorials, in an attention economy that has swiftly profited off work that is quietly creative but insidiously exploitative.",
+            "personList": [
+              {
+                "name": "Abidin C.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Abidin</surname> <given-names>C.</given-names></name> (<span class=\"yearStyle\">2016</span>). Visibility labour: Engaging with Influencers’ fashion brands and #OOTD advertorial campaigns on Instagram. <span class=\"sourceStyle\">Media International Australia</span>, <span class=\"volStyele\">161</span>(1), 86-100. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1329878X16665177",
+            "doi": "10.1177/1329878X16665177"
+          }
+        ]
+      },
+      {
+        "sourceEn": "AEJMC 2015, Annual Conference, San Fransisco, CA, August 6-9",
+        "bodyP_ids": [
+          "mag_rich_body_p_8"
+        ],
+        "publicationType": "conf-proc",
+        "id": "b21",
+        "label": "[21]",
+        "nian": 2015,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Abidin C.",
+                "personType": "author"
+              },
+              {
+                "name": "Ots M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Abidin</surname> <given-names>C.</given-names></name>, &amp; <name><surname>Ots</surname> <given-names>M.</given-names></name> (<span class=\"yearStyle\">2015</span>). The Influencer’s dilemma: The shaping of new brand professions between credibility and commerce. In <span class=\"sourceStyle\">AEJMC 2015, Annual Conference, San Fransisco, CA, August 6-9</span>."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Art Worlds",
+        "bodyP_ids": [
+          "mag_rich_body_p_4"
+        ],
+        "publicationType": "book",
+        "id": "b22",
+        "label": "[22]",
+        "nian": 1982,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Becker H. S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Becker</surname> <given-names>H. S.</given-names></name> (<span class=\"yearStyle\">1982</span>). <span class=\"sourceStyle\">Art Worlds</span>. Berkeley, CA: University of California Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "New Media &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_7"
+        ],
+        "publicationType": "journal",
+        "id": "b23",
+        "label": "[23]",
+        "nian": 2009,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "The movement toward what is often described as Web 2.0 is usually understood as a large-scale shift toward a participatory and collaborative version of the web, where users are able to get involved and create content. As things stand we have so far had little opportunity to explore how new forms of power play out in this context of apparent ‘empowerment’ and ‘democratization’. This article suggests that this is a pressing issue that requires urgent attention. To begin to open up this topic this article situates Web 2.0 in the context of the broader transformations that are occurring in new media by drawing on the work of a number of leading writers who, in various ways, consider the implications of software ‘sinking’ into and ‘sorting’ aspects of our everyday lives. The article begins with this broader literature before exploring in detail Scott Lash’s notion of ‘post-hegemonic power’ and more specifically his concept of ‘power through the algorithm’. The piece concludes by discussing how this relates to work on Web 2.0 and how this work might be developed in the future.",
+            "personList": [
+              {
+                "name": "Beer D.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Beer</surname> <given-names>D.</given-names></name> (<span class=\"yearStyle\">2009</span>). Power through the algorithm? Participatory web cultures and the technological unconscious. <span class=\"sourceStyle\">New Media &amp; Society</span>, <span class=\"volStyele\">11</span>(6), 985-1002. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1461444809336551",
+            "doi": "10.1177/1461444809336551"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Social Media+ Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_2",
+          "mag_rich_body_p_19",
+          "mag_rich_body_p_61",
+          "mag_rich_body_p_66"
+        ],
+        "publicationType": "journal",
+        "id": "b24",
+        "label": "[24]",
+        "nian": 2020,
+        "citedCount": 4,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Bishop S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Bishop</surname> <given-names>S.</given-names></name> (<span class=\"yearStyle\">2020</span>). Algorithmic experts: Selling algorithmic lore on YouTube. <span class=\"sourceStyle\">Social Media+ Society</span>, <span class=\"volStyele\">6</span>(1), 1-11."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Distinction:A Social Critique of the Judgement of Taste",
+        "bodyP_ids": [
+          "mag_rich_body_p_66"
+        ],
+        "publicationType": "book",
+        "id": "b25",
+        "label": "[25]",
+        "nian": 1984,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Bourdieu P.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Bourdieu</surname> <given-names>P.</given-names></name> (<span class=\"yearStyle\">1984</span>). <span class=\"sourceStyle\">Distinction:A Social Critique of the Judgement of Taste</span>. Cambridge, MA: Harvard University Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "The Leadership Quarterly",
+        "bodyP_ids": [
+          "mag_rich_body_p_11"
+        ],
+        "publicationType": "journal",
+        "id": "b26",
+        "label": "[26]",
+        "nian": 2004,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Bryman A.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Bryman</surname> <given-names>A.</given-names></name> (<span class=\"yearStyle\">2004</span>). Qualitative research on leadership: A critical but appreciative review. <span class=\"sourceStyle\">The Leadership Quarterly</span>, <span class=\"volStyele\">15</span>(6), 729-769. ",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S1048984304000840",
+            "doi": "10.1016/j.leaqua.2004.09.007"
+          }
+        ]
+      },
+      {
+        "sourceEn": "New Media &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_7",
+          "mag_rich_body_p_19",
+          "mag_rich_body_p_61"
+        ],
+        "publicationType": "journal",
+        "id": "b27",
+        "label": "[27]",
+        "nian": 2012,
+        "citedCount": 4,
+        "citationList": [
+          {
+            "annotation": "This article explores the new modalities of visibility engendered by new media, with a focus on the social networking site Facebook. Influenced by Foucault’s writings on Panopticism – that is, the architectural structuring of visibility – this article argues for understanding the construction of visibility on Facebook through an architectural framework that pays particular attention to underlying software processes and algorithmic power. Through an analysis of EdgeRank, the algorithm structuring the flow of information and communication on Facebook’s ‘News Feed’, I argue that the regime of visibility constructed imposes a perceived ‘threat of invisibility’ on the part of the participatory subject. As a result, I reverse Foucault’s notion of surveillance as a form of permanent visibility, arguing that participatory subjectivity is not constituted through the imposed threat of an all-seeing vision machine, but by the constant possibility of disappearing and becoming obsolete.",
+            "personList": [
+              {
+                "name": "Bucher T.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Bucher</surname> <given-names>T.</given-names></name> (<span class=\"yearStyle\">2012</span>). Want to be on the top? Algorithmic power and the threat of invisibility on Facebook. <span class=\"sourceStyle\">New Media &amp; Society</span>, <span class=\"volStyele\">14</span>(7), 1164-1180. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1461444812440159",
+            "doi": "10.1177/1461444812440159"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Social Media+ Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_3",
+          "mag_rich_body_p_9"
+        ],
+        "publicationType": "journal",
+        "id": "b28",
+        "label": "[28]",
+        "nian": 2020,
+        "citedCount": 3,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Caplan R.",
+                "personType": "author"
+              },
+              {
+                "name": "Gillespie T.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Caplan</surname> <given-names>R.</given-names></name>, &amp; <name><surname>Gillespie</surname> <given-names>T.</given-names></name> (<span class=\"yearStyle\">2020</span>). Tiered governance and demonetization: The shifting terms of labor and compensation in the platform economy. <span class=\"sourceStyle\">Social Media+ Society</span>, <span class=\"volStyele\">6</span>(2), 1-13."
+          }
+        ]
+      },
+      {
+        "sourceEn": "New Media &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_6"
+        ],
+        "publicationType": "journal",
+        "id": "b29",
+        "label": "[29]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "This article examines how brands have iteratively experimented with mobile and social media. The activities of brands – including Coca-Cola, Virgin and Smirnoff – at music festivals in Australia since 2005 are used as an instructive case. The article demonstrates how these brands imagined social media, attempted to instruct consumers to use mobile devices, and used cultural events to stimulate image production tuned to the decision-making of social media algorithms. The article contributes to debate by articulating how brands are important actors in the development of algorithmic media infrastructure and devices. Accounts of algorithmic media need to examine how the analytic capacities of social and mobile media are interdependent with orchestrating the creative participation of users.",
+            "personList": [
+              {
+                "name": "Carah N.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Carah</surname> <given-names>N.</given-names></name> (<span class=\"yearStyle\">2017</span>). Algorithmic brands: A decade of brand experiments with mobile and social media. <span class=\"sourceStyle\">New Media &amp; Society</span>, <span class=\"volStyele\">19</span>(3), 384-400. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1461444815605463",
+            "doi": "10.1177/1461444815605463"
+          }
+        ]
+      },
+      {
+        "sourceEn": "New Media &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_7",
+          "mag_rich_body_p_8",
+          "mag_rich_body_p_9",
+          "mag_rich_body_p_19"
+        ],
+        "publicationType": "journal",
+        "id": "b30",
+        "label": "[30]",
+        "nian": 2019,
+        "citedCount": 5,
+        "citationList": [
+          {
+            "annotation": "Algorithms are said to affect social realities, often in unseen ways. This article explores conscious, instrumental interactions with algorithms, as a window into the complexities and extent of algorithmic power. Through a thematic analysis of online discussions among Instagram influencers, I observed that influencers’ pursuit of influence resembles a game constructed around “rules” encoded in algorithms. Within the “visibility game,” influencers’ interpretations of Instagram’s algorithmic architecture—and the “game” more broadly—act as a lens through which to view and mechanize the rules of the game. Illustrating this point, this article describes two prominent interpretations, which combine information influencers glean about Instagram’s algorithms with preexisting discourses within influencer communities on authenticity and entrepreneurship. This article shows how directing inquiries toward the visibility game makes present the interdependency between users, algorithms, and platform owners and demonstrates how algorithms structure, but do not unilaterally determine user behavior.",
+            "personList": [
+              {
+                "name": "Cotter K.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Cotter</surname> <given-names>K.</given-names></name> (<span class=\"yearStyle\">2019</span>). Playing the visibility game: How digital influencers and algorithms negotiate influence on Instagram. <span class=\"sourceStyle\">New Media &amp; Society</span>, <span class=\"volStyele\">21</span>(4), 895-913. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1461444818815684",
+            "doi": "10.1177/1461444818815684"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Convergence",
+        "bodyP_ids": [
+          "mag_rich_body_p_2",
+          "mag_rich_body_p_6",
+          "mag_rich_body_p_9",
+          "mag_rich_body_p_67"
+        ],
+        "publicationType": "journal",
+        "id": "b31",
+        "label": "[31]",
+        "nian": 2016,
+        "citedCount": 6,
+        "citationList": [
+          {
+            "annotation": "In attempting to break with a ‘fall from grace’ narrative that may structure analysis of the rapid professionalization and monetization of previously amateur online video content on the main global platform, YouTube, this article outlines histories of key institutions in the new screen ecology as outcomes of the increased interpenetration of very different, often clashing industry cultures. Google/YouTube, Apple’s iTunes, Netflix, Amazon, Yahoo! and Facebook (‘NoCal’) are largely Internet ‘pure-play’ companies, whilst Hollywood’s incumbents (‘SoCal’) practice time-honoured mass media and premium content strategies. The ‘history of the present’ of the new screen ecology is the history of the clash of these cultures. The less than 10-year history of Google’s YouTube can be written as a history of Google seeking to come to terms with the conditions of possibility for entertainment, content and talent development from its base as an IT company dedicated to scale, automation, permanent beta, rapid prototyping and iteration. These efforts reflect both continuities and contestations with traditional media models, particularly business models. As emerging intermediaries in the middle of the convergent space between NoCal and SoCal, multichannel networks’ (MCNs’) placement sees them needing to innovate on both the NoCal and SoCal side. On the former side, MCNs are attempting to provide value-added services superior to basic YouTube analytics, with programmatics and pioneering attempts at management of scale and volume. On the latter side, they are managing a quite different class of entry- to mid-level talent, who bring successful audience development and clear ideas about the roots of their success with them. The new screen ecology is a space of unimagined scale and scope of flourishing online creativity and culture, which is at the same time turbulent and precarious for creators and MCNs alike.",
+            "personList": [
+              {
+                "name": "Cunningham S.",
+                "personType": "author"
+              },
+              {
+                "name": "Craig D.",
+                "personType": "author"
+              },
+              {
+                "name": "Silver J.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Cunningham</surname> <given-names>S.</given-names></name>, <name><surname>Craig</surname> <given-names>D.</given-names></name>, &amp; <name><surname>Silver</surname> <given-names>J.</given-names></name> (<span class=\"yearStyle\">2016</span>). YouTube, multichannel networks and the accelerated evolution of the new screen ecology. <span class=\"sourceStyle\">Convergence</span>, <span class=\"volStyele\">22</span>(4), 376-391. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1354856516641620",
+            "doi": "10.1177/1354856516641620"
+          }
+        ]
+      },
+      {
+        "sourceEn": "International Journal of Communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_6"
+        ],
+        "publicationType": "journal",
+        "id": "b32",
+        "label": "[32]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Duffy B. E.",
+                "personType": "author"
+              },
+              {
+                "name": "Hund E.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Duffy</surname> <given-names>B. E.</given-names></name>, &amp; <name><surname>Hund</surname> <given-names>E.</given-names></name> (<span class=\"yearStyle\">2019</span>). Gendered visibility on social media: Navigating Instagram’s authenticity bind. <span class=\"sourceStyle\">International Journal of Communication</span>, <span class=\"volStyele\">13</span>(2019), 4983-5002."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Critical Sociology",
+        "bodyP_ids": [
+          "mag_rich_body_p_66"
+        ],
+        "publicationType": "journal",
+        "id": "b33",
+        "label": "[33]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "This article asks: How can understanding the relationship of exploitation and oppression inform the study of digital labour and digital capitalism? It combines the analysis of capitalism, patriarchy, slavery, and racism in order to analyse digital labour. The approach taken also engages with a generalization of David Roediger’s wages of whiteness approach, Marxist feminism, Angela Davis’s Marxist black feminism, Rosa Luxemburg, Kylie Jarrett’s concept of the digital housewife, Jack Qiu’s notion of iSlavery, Eileen Meehan’s concept of the gendered audience commodity, and Carter Wilson and Audrey Smedley’s historical analyses of racism and class. The article presents a typology of differences and commonalities between wage-labour, slave-labour, reproductive labour, and Facebook labour. It shows that the digital data commodity is both gendered and racialized. It analyses how class, patriarchy, slavery, and racism overgrasp into each other in the realm of digital capitalism. It also introduces the notions of the organic composition of labour and the rate of reproductive labour and shows, based on example data, how to calculate these ratios that provide insights into the reality of unpaid labour in capitalism.",
+            "personList": [
+              {
+                "name": "Fuchs C.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Fuchs</surname> <given-names>C.</given-names></name> (<span class=\"yearStyle\">2018</span>). Capitalism, patriarchy, slavery, and racism in the age of digital capitalism and digital labor. <span class=\"sourceStyle\">Critical Sociology</span>, <span class=\"volStyele\">44</span>(4-5), 677-702. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/0896920517691108",
+            "doi": "10.1177/0896920517691108"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Marketing Theory",
+        "bodyP_ids": [
+          "mag_rich_body_p_7",
+          "mag_rich_body_p_66"
+        ],
+        "publicationType": "journal",
+        "id": "b34",
+        "label": "[34]",
+        "nian": 2016,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "annotation": "Existing research shows that self-branding in the knowledge economy is a key promotional device for the pursuit of self-realization in a context that reifies entrepreneurialism as the main ideological stance. However, there is still reluctance to fully acknowledge the processes of sociality that constitute self-branding practice. While the relationship between branding and the affective dynamics of social production of value fostered by the diffusion of Web 2.0 is widely acknowledged in the literature, there still seems to be a lack of understanding of the extent to which self-branding relates to social relationships in the production of socialized value for individuals. The study of self-branding practices across digital freelance professions in the knowledge economy reveals how social media has come to represent a working tool that serves the curation of a professional image and the management of social relationships via the enactment of performative practices of sociality, which exist around a shared notion of reputation as value. Here, self-branding becomes an investment in social relationships with expected return for the acquisition of a reputation. This substantially equates self-branding with what social theory calls social capital, being instrumental to secure employment in the freelance-based labour market of the digital knowledge economy.",
+            "personList": [
+              {
+                "name": "Gandini A.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Gandini</surname> <given-names>A.</given-names></name> (<span class=\"yearStyle\">2016</span>). Digital work: Self-branding and social capital in the freelance knowledge economy. <span class=\"sourceStyle\">Marketing Theory</span>, <span class=\"volStyele\">16</span>(1), 123-141. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1470593115607942",
+            "doi": "10.1177/1470593115607942"
+          }
+        ]
+      },
+      {
+        "sourceEn": "How multi-channel networks work with content creators. Business Horizons",
+        "bodyP_ids": [
+          "mag_rich_body_p_9"
+        ],
+        "publicationType": "journal",
+        "id": "b35",
+        "label": "[35]",
+        "nian": 2016,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Gardner J.",
+                "personType": "author"
+              },
+              {
+                "name": "Lehnert K.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Gardner</surname> <given-names>J.</given-names></name>, &amp; <name><surname>Lehnert</surname> <given-names>K.</given-names></name> (<span class=\"yearStyle\">2016</span>). What’s new about new media? <span class=\"sourceStyle\">How multi-channel networks work with content creators. Business Horizons</span>, <span class=\"volStyele\">59</span>(3), 293-302."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Custodians of the Internet",
+        "bodyP_ids": [
+          "mag_rich_body_p_8",
+          "mag_rich_body_p_61"
+        ],
+        "publicationType": "book",
+        "id": "b36",
+        "label": "[36]",
+        "nian": 2018,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Gillespie T.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Gillespie</surname> <given-names>T.</given-names></name> (<span class=\"yearStyle\">2018</span>). <span class=\"sourceStyle\">Custodians of the Internet</span>. New Haven: Yale University Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "The Presentation of Self in Everyday Life",
+        "bodyP_ids": [
+          "mag_rich_body_p_10"
+        ],
+        "publicationType": "book",
+        "id": "b37",
+        "label": "[37]",
+        "nian": 1959,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Goffman E.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Goffman</surname> <given-names>E.</given-names></name> (<span class=\"yearStyle\">1959</span>). <span class=\"sourceStyle\">The Presentation of Self in Everyday Life</span>. New York, NY: Doubleday."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Sociological Spectrum",
+        "bodyP_ids": [
+          "mag_rich_body_p_54"
+        ],
+        "publicationType": "journal",
+        "id": "b38",
+        "label": "[38]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Hair L.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Hair</surname> <given-names>L.</given-names></name> (<span class=\"yearStyle\">2021</span>). Friends, not ATMs: Parasocial relational work and the construction of intimacy by artists on Patreon. <span class=\"sourceStyle\">Sociological Spectrum</span>, <span class=\"volStyele\">41</span>(2), 196-212. ",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/02732173.2021.1875090",
+            "doi": "10.1080/02732173.2021.1875090"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Structuring feeling: Web 2.0, online ranking and rating, and the digital ‘reputation’ economy",
+        "bodyP_ids": [
+          "mag_rich_body_p_6",
+          "mag_rich_body_p_66"
+        ],
+        "publicationType": "journal",
+        "id": "b39",
+        "label": "[39]",
+        "nian": 2010,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Hearn A.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Hearn</surname> <given-names>A.</given-names></name> (<span class=\"yearStyle\">2010</span>). <span class=\"sourceStyle\">Structuring feeling: Web 2.0, online ranking and rating, and the digital ‘reputation’ economy</span>. Ephemera: Theory &amp; Politics in Organization, <span class=\"volStyele\">10</span>(3/4), 421-438."
+          }
+        ]
+      },
+      {
+        "sourceEn": "International Journal of Communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_6"
+        ],
+        "publicationType": "journal",
+        "id": "b40",
+        "label": "[40]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Klawitter E.",
+                "personType": "author"
+              },
+              {
+                "name": "Hargittai E.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Klawitter</surname> <given-names>E.</given-names></name>, &amp; <name><surname>Hargittai</surname> <given-names>E.</given-names></name> (<span class=\"yearStyle\">2018</span>). “It’s like learning a whole other language”: The role of algorithmic skills in the curation of creative goods. <span class=\"sourceStyle\">International Journal of Communication</span>, <span class=\"volStyele\">12</span>, 3490-3510."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Television &amp; New Media",
+        "bodyP_ids": [
+          "mag_rich_body_p_54"
+        ],
+        "publicationType": "journal",
+        "id": "b41",
+        "label": "[41]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Levina M.",
+                "personType": "author"
+              },
+              {
+                "name": "Hasinoff A. A.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Levina</surname> <given-names>M.</given-names></name>, &amp; <name><surname>Hasinoff</surname> <given-names>A. A.</given-names></name> (<span class=\"yearStyle\">2017</span>). The Silicon Valley ethos: Tech industry products, discourses, and practices. <span class=\"sourceStyle\">Television &amp; New Media</span>, <span class=\"volStyele\">18</span>(6), 489-495."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Risk, Uncertainty and Profit",
+        "bodyP_ids": [
+          "mag_rich_body_p_5"
+        ],
+        "publicationType": "book",
+        "id": "b42",
+        "label": "[42]",
+        "nian": 1921,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Knight F. H.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Knight</surname> <given-names>F. H.</given-names></name> (<span class=\"yearStyle\">1921</span>). <span class=\"sourceStyle\">Risk, Uncertainty and Profit</span>. Chicago, IL: University of Chicago Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Proceedings of the ACM on Human-Computer Interaction",
+        "bodyP_ids": [
+          "mag_rich_body_p_9"
+        ],
+        "publicationType": "journal",
+        "id": "b43",
+        "label": "[43]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Li J.",
+                "personType": "author"
+              },
+              {
+                "name": "Gui X.",
+                "personType": "author"
+              },
+              {
+                "name": "Kou Y.",
+                "personType": "author"
+              },
+              {
+                "name": "Li Y.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Li</surname> <given-names>J.</given-names></name>, <name><surname>Gui</surname> <given-names>X.</given-names></name>, <name><surname>Kou</surname> <given-names>Y.</given-names></name>, &amp; <name><surname>Li</surname> <given-names>Y.</given-names></name> (<span class=\"yearStyle\">2019</span>). Live Streaming as Co-Performance: Dynamics between Center and Periphery in Theatrical Engagement. <span class=\"sourceStyle\">Proceedings of the ACM on Human-Computer Interaction</span>, <span class=\"volStyele\">3(CSCW)</span>, 1-22."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Information, Communication &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_2"
+        ],
+        "publicationType": "journal",
+        "id": "b44",
+        "label": "[44]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Liu T.",
+                "personType": "author"
+              },
+              {
+                "name": "Tan C. K. K.",
+                "personType": "author"
+              },
+              {
+                "name": "Yang X.",
+                "personType": "author"
+              },
+              {
+                "name": "Li M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Liu</surname> <given-names>T.</given-names></name>, <name><surname>Tan</surname> <given-names>C. K. K.</given-names></name>, <name><surname>Yang</surname> <given-names>X.</given-names></name>, &amp; <name><surname>Li</surname> <given-names>M.</given-names></name> (<span class=\"yearStyle\">2021</span>). Zhibo gonghui: China’s ‘live-streaming guilds’ of manipulation experts. <span class=\"sourceStyle\">Information, Communication &amp; Society</span>, 1-16."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Convergence",
+        "bodyP_ids": [
+          "mag_rich_body_p_2",
+          "mag_rich_body_p_62"
+        ],
+        "publicationType": "journal",
+        "id": "b45",
+        "label": "[45]",
+        "nian": 2016,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "annotation": "How has YouTube evolved as a cultural and commercial infrastructure? What institutional forms has it produced? The present article takes up these questions through a discussion of multichannel networks (MCNs) and their role within the digital video system. MCNs are a new breed of intermediary firm that link entrepreneurial YouTubers with the advertising, marketing and screen production industries. This article considers the functions of MCNs vis-à-vis the existing constellation of screen industry professions, including talent agents, managers and media buyers, who perform similar functions offline. Combining structural analysis of the MCN industry with an assessment of its cultural impacts, I show how Google’s decision to open the YouTube back-end to third-party intermediaries is subtly changing the digital video ecology.",
+            "personList": [
+              {
+                "name": "Lobato R.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Lobato</surname> <given-names>R.</given-names></name> (<span class=\"yearStyle\">2016</span>). The cultural logic of digital intermediaries: YouTube multichannel networks. <span class=\"sourceStyle\">Convergence</span>, <span class=\"volStyele\">22</span>(4), 348-360. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1354856516641628",
+            "doi": "10.1177/1354856516641628"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Capital",
+        "bodyP_ids": [
+          "mag_rich_body_p_66"
+        ],
+        "publicationType": "journal",
+        "id": "b46",
+        "label": "[46]",
+        "nian": 1867,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Marx K.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Marx</surname> <given-names>K.</given-names></name> (<span class=\"yearStyle\">1867</span>). <span class=\"sourceStyle\">Capital</span>, Volume 1. London, UK: Penguin."
+          }
+        ]
+      },
+      {
+        "sourceEn": "To the Cloud:Big Data in a Turbulent World",
+        "bodyP_ids": [
+          "mag_rich_body_p_6"
+        ],
+        "publicationType": "book",
+        "id": "b47",
+        "label": "[47]",
+        "nian": 2014,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Mosco V.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Mosco</surname> <given-names>V.</given-names></name> (<span class=\"yearStyle\">2014</span>). <span class=\"sourceStyle\">To the Cloud:Big Data in a Turbulent World</span>. New York, NY: Routledge."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Lexington, MA: Lexington Books",
+        "bodyP_ids": [
+          "mag_rich_body_p_2"
+        ],
+        "publicationType": "journal",
+        "id": "b48",
+        "label": "[48]",
+        "nian": 2009,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Mosco V.",
+                "personType": "author"
+              },
+              {
+                "name": "McKercher C.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Mosco</surname> <given-names>V.</given-names></name>, &amp; <name><surname>McKercher</surname> <given-names>C.</given-names></name> (<span class=\"yearStyle\">2009</span>). The Laboring of Communication: Will Knowledge Workers of the World Unite? <span class=\"sourceStyle\">Lexington, MA: Lexington Books</span>."
+          }
+        ]
+      },
+      {
+        "sourceEn": "New Media &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_8"
+        ],
+        "publicationType": "journal",
+        "id": "b49",
+        "label": "[49]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Social media platforms play an increasingly important civic role as platforms for discourse, where we discuss, debate, and share information. This article explores how users make sense of the content moderation systems social media platforms use to curate this discourse. Through a survey of users ( n = 519) who have experienced content moderation, I explore users’ folk theories of how content moderation systems work, how they shape the affective relationship between users and platforms, and the steps users take to assert their agency by seeking redress. I find significant impacts of content moderation that go far beyond the questions of freedom of expression that have thus far dominated the debate. Raising questions about what content moderation systems are designed to accomplish, I conclude by conceptualizing an educational, rather than punitive, model for content moderation systems.",
+            "personList": [
+              {
+                "name": "Myers West S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Myers West</surname> <given-names>S.</given-names></name> (<span class=\"yearStyle\">2018</span>). Censored, suspended, shadowbanned: User interpretations of content moderation on social media platforms. <span class=\"sourceStyle\">New Media &amp; Society</span>, <span class=\"volStyele\">20</span>(11), 4366-4383. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1461444818773059",
+            "doi": "10.1177/1461444818773059"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Communication Theory",
+        "bodyP_ids": [
+          "mag_rich_body_p_6",
+          "mag_rich_body_p_7"
+        ],
+        "publicationType": "journal",
+        "id": "b50",
+        "label": "[50]",
+        "nian": 2014,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Napoli P. M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Napoli</surname> <given-names>P. M.</given-names></name> (<span class=\"yearStyle\">2014</span>). Automated media: An institutional theory perspective on algorithmic media production and consumption. <span class=\"sourceStyle\">Communication Theory</span>, <span class=\"volStyele\">24</span>(3), 340-360. ",
+            "url": "http://doi.wiley.com/10.1111/comt.2014.24.issue-3",
+            "doi": "10.1111/comt.2014.24.issue-3"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Cultural Studies",
+        "bodyP_ids": [
+          "mag_rich_body_p_41",
+          "mag_rich_body_p_66"
+        ],
+        "publicationType": "journal",
+        "id": "b51",
+        "label": "[51]",
+        "nian": 2002,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Negus K.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Negus</surname> <given-names>K.</given-names></name> (<span class=\"yearStyle\">2002</span>). The work of cultural intermediaries and the enduring distance between production and consumption. <span class=\"sourceStyle\">Cultural Studies</span>, <span class=\"volStyele\">16</span>(4), 501-515. ",
+            "url": "http://www.tandfonline.com/doi/abs/10.1080/09502380210139089",
+            "doi": "10.1080/09502380210139089"
+          }
+        ]
+      },
+      {
+        "sourceEn": "New Media &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_9"
+        ],
+        "publicationType": "journal",
+        "id": "b52",
+        "label": "[52]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Nieborg D. B.",
+                "personType": "author"
+              },
+              {
+                "name": "Poell T.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Nieborg</surname> <given-names>D. B.</given-names></name>, &amp; <name><surname>Poell</surname> <given-names>T.</given-names></name> (<span class=\"yearStyle\">2018</span>). The platformization of cultural production: Theorizing the contingent cultural commodity. <span class=\"sourceStyle\">New Media &amp; Society</span>, <span class=\"volStyele\">20</span>(11), 4275-4292. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1461444818769694",
+            "doi": "10.1177/1461444818769694"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Social Media+ Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_3",
+          "mag_rich_body_p_6",
+          "mag_rich_body_p_9"
+        ],
+        "publicationType": "journal",
+        "id": "b53",
+        "label": "[53]",
+        "nian": 2019,
+        "citedCount": 4,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Petre C.",
+                "personType": "author"
+              },
+              {
+                "name": "Duffy B. E.",
+                "personType": "author"
+              },
+              {
+                "name": "Hund E.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Petre</surname> <given-names>C.</given-names></name>, <name><surname>Duffy</surname> <given-names>B. E.</given-names></name>, &amp; <name><surname>Hund</surname> <given-names>E.</given-names></name> (<span class=\"yearStyle\">2019</span>). “Gaming the system”: Platform paternalism and the politics of algorithmic visibility. <span class=\"sourceStyle\">Social Media+ Society</span>, <span class=\"volStyele\">5</span>(4), 1-12."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Status Signals:A Sociological Study of Market Competition",
+        "bodyP_ids": [
+          "mag_rich_body_p_42",
+          "mag_rich_body_p_61"
+        ],
+        "publicationType": "book",
+        "id": "b54",
+        "label": "[54]",
+        "nian": 2005,
+        "citedCount": 3,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Podolny J. M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Podolny</surname> <given-names>J. M.</given-names></name> (<span class=\"yearStyle\">2005</span>). <span class=\"sourceStyle\">Status Signals:A Sociological Study of Market Competition</span>. Princeton, NJ: Princeton University Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Canadian Journal of Political and Society Theory",
+        "bodyP_ids": [
+          "mag_rich_body_p_2"
+        ],
+        "publicationType": "journal",
+        "id": "b55",
+        "label": "[55]",
+        "nian": 1977,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Smythe D. W.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Smythe</surname> <given-names>D. W.</given-names></name> (<span class=\"yearStyle\">1977</span>). Communications: Blindspot of Western Marxism. <span class=\"sourceStyle\">Canadian Journal of Political and Society Theory</span>, <span class=\"volStyele\">1</span>(3), 1-28."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Unfree Masters:Popular Music and the Politics of Work",
+        "bodyP_ids": [
+          "mag_rich_body_p_6"
+        ],
+        "publicationType": "book",
+        "id": "b56",
+        "label": "[56]",
+        "nian": 2012,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Stahl M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Stahl</surname> <given-names>M.</given-names></name> (<span class=\"yearStyle\">2012</span>). <span class=\"sourceStyle\">Unfree Masters:Popular Music and the Politics of Work</span>. Durham, NC: Duke University Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Convergence",
+        "bodyP_ids": [
+          "mag_rich_body_p_6"
+        ],
+        "publicationType": "journal",
+        "id": "b57",
+        "label": "[57]",
+        "nian": 2013,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "This article aims to explain how Web 2.0 platforms in general, and Facebook in particular, engineers online connections. Connectivity has become the material and metaphorical wiring of our culture, a culture in which technologies shape and are shaped not only by economic and legal frames, but also by users and content. The emergence of social media platforms is at the heart of a shifting dynamic, where various actors (technology, users, content, legal and economic actors) are building a connective space for communication and information. In order to comprehend this interwovenness, Bruno Latour’s actor-network theory will be invoked to explore how social media platforms can be analysed as techno-socio-cultural artefacts; this theoretical framework will be complemented by Castells’ political-economy approach to arrive at a fuller understanding of how social media operate. The documentary Catfish (2010) serves as an illustration to explore social media platforms in their multiple dimensions.",
+            "personList": [
+              {
+                "name": "Van Dijck J.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Van Dijck</surname> <given-names>J.</given-names></name> (<span class=\"yearStyle\">2013</span>). Facebook and the engineering of connectivity: A multi-layered approach to social media platforms. <span class=\"sourceStyle\">Convergence</span>, <span class=\"volStyele\">19</span>(2), 141-155. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1354856512457548",
+            "doi": "10.1177/1354856512457548"
+          }
+        ]
+      },
+      {
+        "sourceEn": "PloS One",
+        "bodyP_ids": [
+          "mag_rich_body_p_11"
+        ],
+        "publicationType": "journal",
+        "id": "b58",
+        "label": "[58]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Weller S. C.",
+                "personType": "author"
+              },
+              {
+                "name": "Vickers B.",
+                "personType": "author"
+              },
+              {
+                "name": "Bernard H. R.",
+                "personType": "author"
+              },
+              {
+                "name": "Blackburn A. M.",
+                "personType": "author"
+              },
+              {
+                "name": "Borgatti S.",
+                "personType": "author"
+              },
+              {
+                "name": "Gravlee C. C.",
+                "personType": "author"
+              },
+              {
+                "name": "Johnson J. C.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Weller</surname> <given-names>S. C.</given-names></name>, <name><surname>Vickers</surname> <given-names>B.</given-names></name>, <name><surname>Bernard</surname> <given-names>H. R.</given-names></name>, <name><surname>Blackburn</surname> <given-names>A. M.</given-names></name>, <name><surname>Borgatti</surname> <given-names>S.</given-names></name>, <name><surname>Gravlee</surname> <given-names>C. C.</given-names></name>, &amp; <name><surname>Johnson</surname> <given-names>J. C.</given-names></name> (<span class=\"yearStyle\">2018</span>). Open-ended interview questions and saturation. <span class=\"sourceStyle\">PloS One</span>, <span class=\"volStyele\">13</span>(6), e0198606. ",
+            "url": "https://dx.plos.org/10.1371/journal.pone.0198606",
+            "doi": "10.1371/journal.pone.0198606"
+          }
+        ]
+      },
+      {
+        "sourceEn": "American Journal of Sociology",
+        "bodyP_ids": [
+          "mag_rich_body_p_5"
+        ],
+        "publicationType": "journal",
+        "id": "b59",
+        "label": "[59]",
+        "nian": 1981,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "White H. C.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>White</surname> <given-names>H. C.</given-names></name> (<span class=\"yearStyle\">1981</span>). Where do markets come from? <span class=\"sourceStyle\">American Journal of Sociology</span>, <span class=\"volStyele\">87</span>(3), 517-547. ",
+            "url": "https://www.journals.uchicago.edu/doi/10.1086/227495",
+            "doi": "10.1086/227495"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Chinese Journal of Communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_2",
+          "mag_rich_body_p_6"
+        ],
+        "publicationType": "journal",
+        "id": "b60",
+        "label": "[60]",
+        "nian": 2019,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Zhang X.",
+                "personType": "author"
+              },
+              {
+                "name": "Xiang Y.",
+                "personType": "author"
+              },
+              {
+                "name": "Hao L.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Zhang</surname> <given-names>X.</given-names></name>, <name><surname>Xiang</surname> <given-names>Y.</given-names></name>, &amp; <name><surname>Hao</surname> <given-names>L.</given-names></name> (<span class=\"yearStyle\">2019</span>). Virtual gifting on China’s live streaming platforms: Hijacking the online gift economy. <span class=\"sourceStyle\">Chinese Journal of Communication</span>, <span class=\"volStyele\">12</span>(3), 340-355. ",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/17544750.2019.1583260",
+            "doi": "10.1080/17544750.2019.1583260"
+          }
+        ]
+      }
+    ],
+    "bioList_cn": [
+      {
+        "content": "<p id=\"com1\">叶韦明，北京大学汇丰商学院副教授。电子邮箱：<a class=\"mag-xml-email-a\" href=\"mailto:yewm@phbs.pku.edu.cn\">yewm@phbs.pku.edu.cn</a>。</p>"
+      },
+      {
+        "content": "<p id=\"com3\">金一丹，中国证券报记者。电子邮箱：<a class=\"mag-xml-email-a\" href=\"mailto:18811736488@126.com\">18811736488@126.com</a>。</p>"
+      }
+    ],
+    "fnList": [
+      {
+        "id": "note1",
+        "content": "<p id=\"C1\">1. 礼物打赏：用户花钱在网络直播平台充值购买虚拟货币，并用虚拟货币购买直播平台提供的虚拟礼物赠送给主播。</p>"
+      },
+      {
+        "id": "note2",
+        "content": "<p id=\"C2\">2. IT桔子是泛互联网行业结构化的创投数据库和商业信息服务商，基于数据、文本、新闻等多维度信息，搭建有关公司、产品、人物、投资者等行动者的数据平台。</p>"
+      },
+      {
+        "id": "note3",
+        "content": "<p id=\"C3\">3. “千播大战”指2015年至2016年期间，中国出现百余款直播软件，市场竞争激烈。</p>"
+      },
+      {
+        "id": "note4",
+        "content": "<p id=\"C4\">4. 由于国资背景的申请限制，网络视听证成为稀缺品，2017年持牌的壳公司价格达3500万（孙妍，<xref ref-type=\"bibr\" rid=\"b9\">2017</xref>）。</p>"
+      },
+      {
+        "id": "note5",
+        "content": "<p id=\"C5\">5. 互联网企业中快手是最大的直播平台，另有百度、阿里、腾讯、字节跳动、Bilibili等代表企业。</p>"
+      },
+      {
+        "id": "note6",
+        "content": "<p id=\"C6\">6. “大型投资机构”定义为单次参投金额大于1000万，投资次数超过2次的机构。</p>"
+      },
+      {
+        "id": "note7",
+        "content": "<p id=\"C7\">7. 包括个人投资和匿名投资机构。</p>"
+      },
+      {
+        "id": "note8",
+        "content": "<p id=\"C8\">8. 公会起初是平台头部主播牵头成立，可以视为半专业化的、过渡状态的经纪公司。2012年4月，《征途2》天赐一个月内在YY平台刷了1000多万元礼物，同时带动大批网游界“土豪”参与。两个月后天赐成立皇族公会，将大批人气主播招揽至麾下，从礼物打赏中抽取分成。后续China公会、娱加、IR等知名公会先后涌现，逐渐形成当前公会的商业模式（GQ，<xref ref-type=\"bibr\" rid=\"b4\">2016</xref>）。</p>"
+      },
+      {
+        "id": "note9",
+        "content": "<p id=\"C9\">9. 大、中、小规模的公会主要以收录主播人数为衡量标准，大公会中主播人数大于1万名，中公会中主播人数为1000-10000名，小公会中主播人数小于1000名。虽然S公会旗下主播数量不多，但流量主播比例高，在业界影响力较大。</p>"
+      },
+      {
+        "id": "note10",
+        "content": "<p id=\"C10\">10. MC是“microphone controller”的缩写，指“麦克风的掌控者”，原指饶舌歌手（Rapper）。</p>"
+      },
+      {
+        "id": "note11",
+        "content": "<p id=\"C11\">11. 如腾讯与斗鱼曾经联合发布公开信表示，不允许违约跳槽主播在直播过程中通过腾讯旗下的任何一款游戏直播获利（南方都市报，<xref ref-type=\"bibr\" rid=\"b8\">2019</xref>）。</p>"
+      },
+      {
+        "id": "note12",
+        "content": "<p id=\"C12\">12. 麦时全称为上麦时间，指网络主播的直播时长。</p>"
+      },
+      {
+        "id": "note13",
+        "content": "<p id=\"C13\">13. R指revenue，收入。</p>"
+      },
+      {
+        "id": "note14",
+        "content": "<p id=\"C14\">14. 分成比例可能依公会规模发生变动，一般平台得到打赏收入的40%-50%；此外主播的走红程度也影响议价权，可能占余下收入的40%-60%。</p>"
+      }
+    ],
+    "article": {
+      "keywordList_cn": [
+        "网络主播",
+        "公会",
+        "数字生产组织",
+        "可见性",
+        "不确定性"
+      ],
+      "juan": "43",
+      "zhaiyao_cn": "<p id=\"p00010\">算法转向影响媒体行业，加剧创意产业的不确定性和商品化。作为一个数字内容产业，网络直播面对何种市场环境?关键行动者如何组织内容生产?本研究将人类数字生产活动置于理解社会过程的中心，以网络直播行业为传播政治经济学研究提供中国案例。研究综合采用内容分析、深度访谈和民族志方法，分析以平台、公会和主播为代表的直播行业关键行动者，在不确定的市场环境中获得地位和结果的过程和机制。网络直播是独特性与共同性两个特点之间博弈的集体艺术生产活动，直播公会对内组织生产（招募、培训和管理）、对外管理可见性（运营、导流与打榜），呈现出平台背书、系统组织、人机合作和劳务中介的特征，完成对于可见性的追求以获得地位。</p>",
+      "endNoteUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=EndNote&id=1189",
+      "bibtexUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=BibTeX&id=1189",
+      "articleType": "A",
+      "abstractUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2021/V43/I12/96",
+      "qi": "12",
+      "id": 1189,
+      "nian": 2021,
+      "bianHao": "20211205",
+      "juanUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2021",
+      "shouCiFaBuRiQi": "2021-12-23",
+      "qiShiYe": "96",
+      "qiUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12",
+      "lanMu_cn": "本期话题/网络直播研究",
+      "pdfSize": "1682KB",
+      "risUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=Ris&id=1189",
+      "title_cn": "平台·公会·主播：不确定数字产业中的生产组织",
+      "jieShuYe": "119",
+      "keywordList_en": [
+        "live streamer",
+        "guild",
+        "digital production organization",
+        "visibility",
+        "uncertainty"
+      ],
+      "endNoteUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=EndNote&id=1189",
+      "zhaiyao_en": "<p id=\"p00015\">The algorithmic-turn has transformed the media sector, accelerating the uncertainty and commodification of the creative industry. As a digital content industry, what kind of market environment is the live-streaming sector facing? How do key actors organize the entire content production? This study places human digital production activities at the focal point for understanding social processes, and uses the Internet live-streaming industry to provide a case study on platform for research in the field of political economy of communication. Using a combination of content analysis, in-depth interviews and ethnographies, this study analyzes the process and mechanism through which key actors in the live-streaming industry, represented by platforms, guilds and live-streamers, gain status and achievements in the midst of an uncertain market environment. Internet live-streaming is a collective creative production activity that has to balance between the unique and the general, and live-streamers’ guilds organize production internally (recruitment, training and management) and manage visibility externally (operation, traffic acquisition and listing promotion) manifesting the characteristics of platform accreditation, systemic organization, human-machine cooperation, and labor agency to accomplish the quest for visibility and gain status.</p>",
+      "bibtexUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=BibTeX&id=1189",
+      "abstractUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/96",
+      "juanUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2021",
+      "lanMu_en": "Specific Topic / Live Webcast Studies",
+      "qiUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2021/V43/I12",
+      "risUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=Ris&id=1189",
+      "title_en": "Platforms, Guilds, Livestreamers: Production Organization in Uncertain Digital Industry",
+      "hasPdf": "true"
+    },
+    "authorList_en": [
+      {
+        "deceased": false,
+        "name_cn": "叶韦明",
+        "email": "yewm@phbs.pku.edu.cn",
+        "name_en": "YE WeiMing"
+      },
+      {
+        "deceased": false,
+        "name_cn": "金一丹",
+        "email": "18811736488@126.com",
+        "name_en": "JIN Yidan"
+      }
+    ],
+    "authorList_cn": [
+      {
+        "deceased": false,
+        "name_cn": "叶韦明",
+        "email": "yewm@phbs.pku.edu.cn",
+        "name_en": "YE WeiMing"
+      },
+      {
+        "deceased": false,
+        "name_cn": "金一丹",
+        "email": "18811736488@126.com",
+        "name_en": "JIN Yidan"
+      }
+    ],
+    "tabList": [
+      {
+        "captionCn": "<p id=\"p00075\">被访者基本信息</p>",
+        "magId": "84856db9-96a3-4fc5-b027-3c45ac30053c",
+        "labelCn": "表1：",
+        "titleCn": "表1： 被访者基本信息",
+        "id": "T1",
+        "table": "<table class=\"mag_table table\"> <thead> <tr> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">被访者编号</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">性别</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">年龄</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">家乡</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">教育背景</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">身份</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">从事直播/观看直播时（年）</th></tr></thead> <tbody> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">A1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">23</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">城市</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">大学</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">主播</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">A2</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">24</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">城市</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">大学</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">主播</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2.5</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">A3</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">21</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">城市</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">大学</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">主播</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.5</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">A4</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">男</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">28</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">县城</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">大学</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">主播</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">A5</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">男</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">26</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">城市</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">大学</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">主播</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">B1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">20</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">县城</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">高中</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">用户/粉丝</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">B2</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">男</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">29</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">农村</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">专科</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">用户/粉丝</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">B3</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">男</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">26</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">城市</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">大学</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">用户/粉丝</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">4</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">C1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">28</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">县城</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">职高</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">S公会运营</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">4</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">C2</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">26</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">城市</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">大学</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">S公会运营</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">C3</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">26</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">农村</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">职高</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">S公会运营</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">4</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">C4</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">男</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">29</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">城市</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">大学</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">S公会运营</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">C5</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">男</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">25</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">农村</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">职高</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">S公会运营</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.5</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">C6</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">男</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">28</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">县城</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">大学</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">S公会运营</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">D1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">29</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">城市</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">职高</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">S公会经纪人</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.5</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">D2</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">27</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">县城</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">大学</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">S公会经纪人</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">D3</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">28</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">城市</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">大学</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">S公会经纪人</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">D4</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">30</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">城市</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">大学</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">S公会经纪人</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">D5</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">27</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">县城</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">大学</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">S公会经纪人</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3.5</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">D6</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">男</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">29</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">城市</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">职高</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">S公会经纪人</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">D7</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">男</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">32</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">城市</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">大学</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">S公会经纪人</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">4</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">D8</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">男</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">28</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">农村</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">职高</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">S公会经纪人</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">D9</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">男</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">30</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">城市</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">大学</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">S公会经纪人</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3.5</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">D10</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">男</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">27</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">城市</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">专科</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">S公会经纪人</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">E1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">男</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">28</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">县城</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">专科</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">某公会经理</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">5</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">E2</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">男</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">33</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">城市</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">大学</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">某公会总监</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">8</td></tr></tbody></table>"
+      },
+      {
+        "captionCn": "<p id=\"p00100\">资本在网络直播行业的投资布局</p>",
+        "magId": "993a2ff4-80eb-41de-b6b2-a5e96af200bf",
+        "labelCn": "表2：",
+        "titleCn": "表2： 资本在网络直播行业的投资布局",
+        "id": "T2",
+        "table": "<table class=\"mag_table table\"> <thead> <tr> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">投资机构类别</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">占总参投机构比重（%）</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">参投项目总数量（个）</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">娱乐类占比</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">游戏类占比</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">其他类占比</th></tr></thead> <tbody> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">互联网企业 <span href=\"javascript:;\" class=\"mag_content_a mag-rich-xref-fn\" onclick=\"piaofuFn(this,'note5')\"><sup>5</sup><div style=\"display:none;\" id=\"mag-rich-fn-note5\" class=\"mag-rich-fn\"> <p id=\"C5\">5. 互联网企业中快手是最大的直播平台，另有百度、阿里、腾讯、字节跳动、Bilibili等代表企业。</p></div></span></td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">14%</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">230</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">83%</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">10%</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">7%</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">大型投资机构 <span href=\"javascript:;\" class=\"mag_content_a mag-rich-xref-fn\" onclick=\"piaofuFn(this,'note6')\"><sup>6</sup><div style=\"display:none;\" id=\"mag-rich-fn-note6\" class=\"mag-rich-fn\"> <p id=\"C6\">6. “大型投资机构”定义为单次参投金额大于1000万，投资次数超过2次的机构。</p></div></span></td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">19%</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">195</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">78%</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">13%</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">8%</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">其他 <span href=\"javascript:;\" class=\"mag_content_a mag-rich-xref-fn\" onclick=\"piaofuFn(this,'note7')\"><sup>7</sup><div style=\"display:none;\" id=\"mag-rich-fn-note7\" class=\"mag-rich-fn\"> <p id=\"C7\">7. 包括个人投资和匿名投资机构。</p></div></span></td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">66%</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">336</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">72%</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">20%</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">8%</td></tr></tbody></table>"
+      },
+      {
+        "captionCn": "<p id=\"p00135\">泛娱乐平台公会S <span href=\"javascript:;\" class=\"mag_content_a mag-rich-xref-fn\" onclick=\"piaofuFn(this,'note9')\"><sup>9</sup><div style=\"display:none;\" id=\"mag-rich-fn-note9\" class=\"mag-rich-fn\"> <p id=\"C9\">9. 大、中、小规模的公会主要以收录主播人数为衡量标准，大公会中主播人数大于1万名，中公会中主播人数为1000-10000名，小公会中主播人数小于1000名。虽然S公会旗下主播数量不多，但流量主播比例高，在业界影响力较大。</p></div></span>的基本信息</p>",
+        "magId": "80f0f2d7-6fcf-46b8-ab81-69502273a9ef",
+        "labelCn": "表3：",
+        "titleCn": "表3： 泛娱乐平台公会S <span href=\"javascript:;\" class=\"mag_content_a mag-rich-xref-fn\" onclick=\"piaofuFn(this,'note9')\"><sup>9</sup><div style=\"display:none;\" id=\"mag-rich-fn-note9\" class=\"mag-rich-fn\"> <p id=\"C9\">9. 大、中、小规模的公会主要以收录主播人数为衡量标准，大公会中主播人数大于1万名，中公会中主播人数为1000-10000名，小公会中主播人数小于1000名。虽然S公会旗下主播数量不多，但流量主播比例高，在业界影响力较大。</p></div></span>的基本信息",
+        "id": "T3",
+        "footFnList": [
+          {
+            "pList": [
+              "数据来源：S公会公告，2019年8月"
+            ]
+          }
+        ],
+        "table": "<table class=\"mag_table table\"> <thead> <tr> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">项目</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">数量</th></tr></thead> <tbody> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">签约主播（人）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">340</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">日活跃主播（人）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">295</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">收录主播（人）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">480</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">公会月流水（万元）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3623.1</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">日活跃用户数（万人）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">10.48</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">在岗经纪人数（人）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">17</td></tr></tbody></table>"
+      },
+      {
+        "captionCn": "<p id=\"p00185\">S公会主播岗前培训会议内部资料（节选）</p>",
+        "magId": "6c789173-0b32-4d11-8889-7e4282a557fa",
+        "labelCn": "表4：",
+        "titleCn": "表4： S公会主播岗前培训会议内部资料（节选）",
+        "id": "T4",
+        "table": "<table class=\"mag_table table\"> <thead></thead> <tbody> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\" rowspan=\"4\">仪容</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">发型和颜色要搭配脸型和肤色，头发要有厚度，比较薄的话，可以戴假发、帽子</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">底妆用干粉轻压，避免油光，尽量选择偏白的色系，上镜白净</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">眼影颜色选择深色、佩戴假睫毛</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">眉毛修饰，不要画一字眉，颜色比发色浅一号</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\" rowspan=\"3\">服饰</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">选择鲜亮的暖色调，黑白灰不要穿</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">紧身、修身为佳，突出自己的身材优势，不要穿宽松肥大的韩版</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">淘宝即可，平均每件30-50元，上半身正面好看即可</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\" rowspan=\"4\">举止</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">跟随音乐节奏，身体轻轻摇晃，多摆pose，用眼神和肢体语言与镜头交流</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">身体坐直，屁股不要摇摆椅子，尽量不要靠在椅子上</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">左顾右盼、玩手机、剪指甲、吃东西、抽烟喝酒、做不雅动作会掉粉</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">良好的品德、友善的形象、真诚的感情，才是留住用户的法宝，用户的“情变”源自别人比你更好，而非你管束不严</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\" rowspan=\"2\">谈吐</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">主动发起话题，多以问句结束，勿做“话题终结者”</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">善于利用音效带气氛，动感类、DJ 类最能带动气氛</td></tr></tbody></table>"
+      },
+      {
+        "captionCn": "<p id=\"p00195\">S公会主播岗前培训会议内部资料（节选）</p>",
+        "magId": "5ee5ca3c-2fe5-4f40-a3dc-18f3370dab61",
+        "labelCn": "表5：",
+        "titleCn": "表5： S公会主播岗前培训会议内部资料（节选）",
+        "id": "T5",
+        "table": "<table class=\"mag_table table\"> <thead></thead> <tbody> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">亲和力</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">熟练地和新进来的游客、老用户沟通交流，能有效照顾到这两类用户的感受，让人感到直播间氛围很好，主要是好玩，而不是死气沉沉的</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">话题</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">擅长从网络上收集、获取、分享时下用户喜欢的热门话题，能很好地和用户就这些话题点进行讨论。具备很强的话题制造和传递能力，能有效地带动直播间的节奏，促进直播间气氛以及促进和用户互动。女性话题（如逛街、美妆）不要聊，谈男生想了解的女性日常</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">自我暴露</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">把握好节奏，根据不同话题的展示、进行自我暴露，斩获用户及趁机拓展消费粉丝群体。拉近和用户的距离，让他们对主播产生高度的认可。有意识进行自我包装，将自己的人设进行优化，达到人见人爱、花见花开的地步</td></tr></tbody></table>"
+      }
+    ],
+    "journal": {
+      "issn": "1002-5685",
+      "qiKanWangZhi": "http://cjjc.ruc.edu.cn",
+      "qiKanMingCheng_CN": "国际新闻界",
+      "id": 1,
+      "qiKanMingCheng_EN": "Chinese Journal of Journalism & Communication"
+    },
+    "authorList": [
+      {
+        "deceased": false,
+        "name_cn": "叶韦明",
+        "email": "yewm@phbs.pku.edu.cn",
+        "name_en": "YE WeiMing"
+      },
+      {
+        "deceased": false,
+        "name_cn": "金一丹",
+        "email": "18811736488@126.com",
+        "name_en": "JIN Yidan"
+      }
+    ],
+    "fundList_cn": [
+      "国家社科基金项目《算法中介的网络平台劳动研究》(19BXW098)"
+    ],
+    "figList": [
+      {
+        "captionCn": "<title>：网络直播行业主要行动者实践图</title>",
+        "magId": "4a29cbaf-a417-457e-9477-31e7a9b1f1b5",
+        "labelCn": "图1",
+        "pptUrl": "1002-5685-43-12-96/img_1.jpg.ppt",
+        "figUrl": "1002-5685-43-12-96/img_1.jpg",
+        "titleCn": "图1 ：网络直播行业主要行动者实践图",
+        "id": "F1",
+        "thumbnailUrl": "1002-5685-43-12-96/thumbnail/img_1.jpg"
+      }
+    ],
+    "fundList_en": [
+      "National Social Science Fund of China “Research on Algorithm-mediated Internet Platform Labor”(19BXW098)"
+    ],
+    "backFnGroupList": [
+      {
+        "fnList": [
+          {
+            "pList": [
+              "<p id=\"C1\">礼物打赏：用户花钱在网络直播平台充值购买虚拟货币，并用虚拟货币购买直播平台提供的虚拟礼物赠送给主播。</p>"
+            ],
+            "fnType": "note",
+            "id": "note1",
+            "label": "1.",
+            "content": "<p id=\"C1\">1. 礼物打赏：用户花钱在网络直播平台充值购买虚拟货币，并用虚拟货币购买直播平台提供的虚拟礼物赠送给主播。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C2\">IT桔子是泛互联网行业结构化的创投数据库和商业信息服务商，基于数据、文本、新闻等多维度信息，搭建有关公司、产品、人物、投资者等行动者的数据平台。</p>"
+            ],
+            "fnType": "note",
+            "id": "note2",
+            "label": "2.",
+            "content": "<p id=\"C2\">2. IT桔子是泛互联网行业结构化的创投数据库和商业信息服务商，基于数据、文本、新闻等多维度信息，搭建有关公司、产品、人物、投资者等行动者的数据平台。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C3\">“千播大战”指2015年至2016年期间，中国出现百余款直播软件，市场竞争激烈。</p>"
+            ],
+            "fnType": "note",
+            "id": "note3",
+            "label": "3.",
+            "content": "<p id=\"C3\">3. “千播大战”指2015年至2016年期间，中国出现百余款直播软件，市场竞争激烈。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C4\">由于国资背景的申请限制，网络视听证成为稀缺品，2017年持牌的壳公司价格达3500万（孙妍，<xref ref-type=\"bibr\" rid=\"b9\">2017</xref>）。</p>"
+            ],
+            "fnType": "note",
+            "id": "note4",
+            "label": "4.",
+            "content": "<p id=\"C4\">4. 由于国资背景的申请限制，网络视听证成为稀缺品，2017年持牌的壳公司价格达3500万（孙妍，<xref ref-type=\"bibr\" rid=\"b9\">2017</xref>）。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C5\">互联网企业中快手是最大的直播平台，另有百度、阿里、腾讯、字节跳动、Bilibili等代表企业。</p>"
+            ],
+            "fnType": "note",
+            "id": "note5",
+            "label": "5.",
+            "content": "<p id=\"C5\">5. 互联网企业中快手是最大的直播平台，另有百度、阿里、腾讯、字节跳动、Bilibili等代表企业。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C6\">“大型投资机构”定义为单次参投金额大于1000万，投资次数超过2次的机构。</p>"
+            ],
+            "fnType": "note",
+            "id": "note6",
+            "label": "6.",
+            "content": "<p id=\"C6\">6. “大型投资机构”定义为单次参投金额大于1000万，投资次数超过2次的机构。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C7\">包括个人投资和匿名投资机构。</p>"
+            ],
+            "fnType": "note",
+            "id": "note7",
+            "label": "7.",
+            "content": "<p id=\"C7\">7. 包括个人投资和匿名投资机构。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C8\">公会起初是平台头部主播牵头成立，可以视为半专业化的、过渡状态的经纪公司。2012年4月，《征途2》天赐一个月内在YY平台刷了1000多万元礼物，同时带动大批网游界“土豪”参与。两个月后天赐成立皇族公会，将大批人气主播招揽至麾下，从礼物打赏中抽取分成。后续China公会、娱加、IR等知名公会先后涌现，逐渐形成当前公会的商业模式（GQ，<xref ref-type=\"bibr\" rid=\"b4\">2016</xref>）。</p>"
+            ],
+            "fnType": "note",
+            "id": "note8",
+            "label": "8.",
+            "content": "<p id=\"C8\">8. 公会起初是平台头部主播牵头成立，可以视为半专业化的、过渡状态的经纪公司。2012年4月，《征途2》天赐一个月内在YY平台刷了1000多万元礼物，同时带动大批网游界“土豪”参与。两个月后天赐成立皇族公会，将大批人气主播招揽至麾下，从礼物打赏中抽取分成。后续China公会、娱加、IR等知名公会先后涌现，逐渐形成当前公会的商业模式（GQ，<xref ref-type=\"bibr\" rid=\"b4\">2016</xref>）。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C9\">大、中、小规模的公会主要以收录主播人数为衡量标准，大公会中主播人数大于1万名，中公会中主播人数为1000-10000名，小公会中主播人数小于1000名。虽然S公会旗下主播数量不多，但流量主播比例高，在业界影响力较大。</p>"
+            ],
+            "fnType": "note",
+            "id": "note9",
+            "label": "9.",
+            "content": "<p id=\"C9\">9. 大、中、小规模的公会主要以收录主播人数为衡量标准，大公会中主播人数大于1万名，中公会中主播人数为1000-10000名，小公会中主播人数小于1000名。虽然S公会旗下主播数量不多，但流量主播比例高，在业界影响力较大。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C10\">MC是“microphone controller”的缩写，指“麦克风的掌控者”，原指饶舌歌手（Rapper）。</p>"
+            ],
+            "fnType": "note",
+            "id": "note10",
+            "label": "10.",
+            "content": "<p id=\"C10\">10. MC是“microphone controller”的缩写，指“麦克风的掌控者”，原指饶舌歌手（Rapper）。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C11\">如腾讯与斗鱼曾经联合发布公开信表示，不允许违约跳槽主播在直播过程中通过腾讯旗下的任何一款游戏直播获利（南方都市报，<xref ref-type=\"bibr\" rid=\"b8\">2019</xref>）。</p>"
+            ],
+            "fnType": "note",
+            "id": "note11",
+            "label": "11.",
+            "content": "<p id=\"C11\">11. 如腾讯与斗鱼曾经联合发布公开信表示，不允许违约跳槽主播在直播过程中通过腾讯旗下的任何一款游戏直播获利（南方都市报，<xref ref-type=\"bibr\" rid=\"b8\">2019</xref>）。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C12\">麦时全称为上麦时间，指网络主播的直播时长。</p>"
+            ],
+            "fnType": "note",
+            "id": "note12",
+            "label": "12.",
+            "content": "<p id=\"C12\">12. 麦时全称为上麦时间，指网络主播的直播时长。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C13\">R指revenue，收入。</p>"
+            ],
+            "fnType": "note",
+            "id": "note13",
+            "label": "13.",
+            "content": "<p id=\"C13\">13. R指revenue，收入。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C14\">分成比例可能依公会规模发生变动，一般平台得到打赏收入的40%-50%；此外主播的走红程度也影响议价权，可能占余下收入的40%-60%。</p>"
+            ],
+            "fnType": "note",
+            "id": "note14",
+            "label": "14.",
+            "content": "<p id=\"C14\">14. 分成比例可能依公会规模发生变动，一般平台得到打赏收入的40%-50%；此外主播的走红程度也影响议价权，可能占余下收入的40%-60%。</p>"
+          }
+        ],
+        "title_cn": "注释 [Notes]"
+      }
+    ]
+  },
+  "text": "平台·公会·主播：不确定数字产业中的生产组织 × 模态框（Modal）标题 在这里添加一些文本 关闭 关闭 提交更改 取消 确定并提交 × 模态框（Modal）标题 × 下载引用文件后，可以用常见的文献管理软件打开和编辑，包括: BibTex, EndNote, ProCite, RefWorks, and Reference Manager. 选择文件类型/文献管理软件名称 RIS (ProCite, Reference Manager, EndNote) BibTeX 选择包含的内容 仅文章引用信息 引用信息及摘要 导出 平台·公会·主播：不确定数字产业中的生产组织 叶韦明, 金一丹 国际新闻界 ›› 2021, Vol. 43 ›› Issue (12) : 96-119. PDF(1682 KB) Toggle navigation 首 页 期刊介绍 编委会 投稿指南 格式规范 期刊订阅 联系我们 English 投稿指南 格式规范 PDF(1682 KB) 国际新闻界 ›› 2021, Vol. 43 ›› Issue (12) : 96-119. 本期话题/网络直播研究 平台·公会·主播：不确定数字产业中的生产组织 叶韦明 , 金一丹 作者信息 + 作者简介: 叶韦明，北京大学汇丰商学院副教授。电子邮箱： yewm@phbs.pku.edu.cn 。 金一丹，中国证券报记者。电子邮箱： 18811736488@126.com 。 折叠 Platforms, Guilds, Livestreamers: Production Organization in Uncertain Digital Industry YE WeiMing , JIN Yidan Author information + About authors: Ye WeiMing is an associate professor of HSBC Business School, Peking University. Email: yewm@phbs.pku.edu.cn . Jin Yidan is a reporter of China Securities Journal, Xinhua News Agency. Email: 18811736488@126.com . Show less 文章历史 + 出版日期 2021-12-23 发布日期 2021-12-23 摘要 算法转向影响媒体行业，加剧创意产业的不确定性和商品化。作为一个数字内容产业，网络直播面对何种市场环境?关键行动者如何组织内容生产?本研究将人类数字生产活动置于理解社会过程的中心，以网络直播行业为传播政治经济学研究提供中国案例。研究综合采用内容分析、深度访谈和民族志方法，分析以平台、公会和主播为代表的直播行业关键行动者，在不确定的市场环境中获得地位和结果的过程和机制。网络直播是独特性与共同性两个特点之间博弈的集体艺术生产活动，直播公会对内组织生产（招募、培训和管理）、对外管理可见性（运营、导流与打榜），呈现出平台背书、系统组织、人机合作和劳务中介的特征，完成对于可见性的追求以获得地位。 Abstract The algorithmic-turn has transformed the media sector, accelerating the uncertainty and commodification of the creative industry. As a digital content industry, what kind of market environment is the live-streaming sector facing? How do key actors organize the entire content production? This study places human digital production activities at the focal point for understanding social processes, and uses the Internet live-streaming industry to provide a case study on platform for research in the field of political economy of communication. Using a combination of content analysis, in-depth interviews and ethnographies, this study analyzes the process and mechanism through which key actors in the live-streaming industry, represented by platforms, guilds and live-streamers, gain status and achievements in the midst of an uncertain market environment. Internet live-streaming is a collective creative production activity that has to balance between the unique and the general, and live-streamers’ guilds organize production internally (recruitment, training and management) and manage visibility externally (operation, traffic acquisition and listing promotion) manifesting the characteristics of platform accreditation, systemic organization, human-machine cooperation, and labor agency to accomplish the quest for visibility and gain status. 关键词 网络主播 / 公会 / 数字生产组织 / 可见性 / 不确定性 Key words live streamer / guild / digital production organization / visibility / uncertainty 引用本文 EndNote Ris (Procite) Bibtex 导出引用 叶韦明 , 金一丹 . 平台·公会·主播：不确定数字产业中的生产组织[J]. 国际新闻界 . 2021, 43(12): 96-119 YE WeiMing , JIN Yidan . Platforms, Guilds, Livestreamers: Production Organization in Uncertain Digital Industry[J]. Chinese Journal of Journalism & Communication . 2021, 43(12): 96-119 {{custom_sec.title}} {{custom_sec.title}} {{custom_sec.content}} 参考文献 列表( 原文顺序 | 文献年度倒序 | 文中引用次数倒序 ) 可视化分析 [1] 艾瑞咨询( 2017a ). 2017年中国泛娱乐直播用户白皮书.检索于 http://report.iresearch.cn/report_pdf.aspx?id=2955. http://report.iresearch.cn/report_pdf.aspx?id=2955 本文引用 [1] [2] 艾瑞咨询( 2017b ). 中国泛娱乐直播平台发展盘点报告.检索于 https://report.iresearch.cn/wx/report.aspx?id=2962. https://report.iresearch.cn/wx/report.aspx?id=2962 本文引用 [1] [3] 董晨宇, 丁依然, 叶蓁( 2021 ). 《制造亲密:中国网络秀场直播中的商品化关系及其不稳定性》. 《福建师范大学学报(哲学社会科学版)》 ,(3),137-151. 本文引用 [3] [4] GQ(2016年9月22日).追踪三个月, 看MC天佑如何统治直播江湖.检索于 http://www.gq.com.cn/magazine/news_143298c5c0e7348a.html. http://www.gq.com.cn/magazine/news_143298c5c0e7348a.html [5] 国家广播电视总局( 2017 ). 互联网视听节目服务持证机构名单 (截止2017年12月31日).检索于 https://report.iresearch.cn/wx/report.aspx?id=2962. https://report.iresearch.cn/wx/report.aspx?id=2962 本文引用 [1] [6] 国家广播电视总局( 2021 ). 2020年全国广播电视行业统计公报.检索于 http://www.nrta.gov.cn/art/2021/4/19/art_2555_55908.html. http://www.nrta.gov.cn/art/2021/4/19/art_2555_55908.html 本文引用 [1] [7] 纳塔莉·海因里希( 2001/2016 ). 《艺术为社会学带来什么》(何蒨译) . 上海: 华东师范大学出版社. 本文引用 [2] [8] 南方都市报(2019年2月15日). 违约跳槽主播禁止直播腾讯游戏！腾讯发布直播行为规范, 斗鱼转发.检索于 https://www.sohu.com/a/294935264_161795. https://www.sohu.com/a/294935264_161795 [9] 孙妍(2017年2月10日). 3500万, 网络视听许可证“市价”几近翻番.检索于 https://mp.weixin.qq.com/s/P5_DQEFcvj28uuABBCEn2g. https://mp.weixin.qq.com/s/P5_DQEFcvj28uuABBCEn2g [10] 天眼查商业查询(2021年5月28日). 天眼查大数据:我国现有超2.8万家网络直播营销相关企业 .检索于 https://baijiahao.baidu.com/s?id=1700989080638411329&wfr=spider&for=pc. https://baijiahao.baidu.com/s?id=1700989080638411329&wfr=spider&for=pc 本文引用 [1] [11] 文化部( 2016 ). 《文化部举办第二十五批违法违规互联网文化活动查处工作新闻通气会》 . 北京: 文化部. 本文引用 [1] [12] 维多利亚·D·亚历山大( 2003/2009 ). 《艺术社会学》(章浩,沈杨译) . 南京: 江苏美术出版社. [13] 郑肯( 2020 ). 《制造网红——直播时代的情感、算法与数码资本主义》 .北京大学社会学系人类学硕士论文.北京. 本文引用 [1] [14] 中国互联网络信息中心(CNNIC)( 2021 ). 第47次《中国互联网络发展状况统计报告》.检索于 http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/202102/P020210203334633480104.pdf. http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/202102/P020210203334633480104.pdf 本文引用 [2] [15] 中国信息通信研究院( 2017 ). 中国网络直播行业景气指数及短视频报告.检索于 https://www.sohu.com/a/167868464_735021. https://www.sohu.com/a/167868464_735021 本文引用 [1] [16] 中国演出行业协会( 2017 ). 网络表演(直播)社会价值报告.检索于 https://www.tisi.org/4897. https://www.tisi.org/4897 本文引用 [1] [17] 中国演出行业协会( 2021 ). 重磅|《2020年中国网络表演(直播)行业发展报告》发布.检索于 http://www.capa.com.cn/news/showDetail/170763. http://www.capa.com.cn/news/showDetail/170763 本文引用 [2] [18] 周葆华( 2017 ). 《谁在使用视频直播?——网络视频直播用户的构成、行为与评价分析》. 《新闻记者》 ,(3), 54-64. 本文引用 [1] [19] 中国日报网(2012年6月11日). 多玩启用新品牌“欢聚时代” 公布公司愿景和使命. 检索于 http://www.chinadaily.com.cn/hqcj/2012-06/11/content_15493715.htm. http://www.chinadaily.com.cn/hqcj/2012-06/11/content_15493715.htm 本文引用 [1] [20] Abidin C. ( 2016 ). Visibility labour: Engaging with Influencers’ fashion brands and #OOTD advertorial campaigns on Instagram. Media International Australia , 161 (1), 86-100. https://doi.org/10.1177/1329878X16665177 https://journals.sagepub.com/doi/10.1177/1329878X16665177 本文引用 [2] 摘要 Influencer commerce has experienced an exponential growth, resulting in new forms of digital practices among young women. Influencers are one form of microcelebrity who accumulate a following on blogs and social media through textual and visual narrations of their personal, everyday lives, upon which advertorials for products and services are premised. In Singapore, Influencers are predominantly young women whose commercial practices are most noted on Instagram. In response, everyday users are beginning to model after Influencers through tags, reposts and #OOTDs (Outfit Of The Day), unwittingly producing volumes of advertising content that is not only encouraged by Influencers and brands but also publicly utilised with little compensation. Drawing on ethnographic fieldwork among Instagram Influencers and followers in Singapore, this article investigates the visibility labour in which followers engage on follower-anchored Instagram advertorials, in an attention economy that has swiftly profited off work that is quietly creative but insidiously exploitative. [21] Abidin C. , & Ots M. ( 2015 ). The Influencer’s dilemma: The shaping of new brand professions between credibility and commerce. In AEJMC 2015, Annual Conference, San Fransisco, CA, August 6-9 . 本文引用 [1] [22] Becker H. S. ( 1982 ). Art Worlds . Berkeley, CA: University of California Press. 本文引用 [1] [23] Beer D. ( 2009 ). Power through the algorithm? Participatory web cultures and the technological unconscious. New Media & Society , 11 (6), 985-1002. https://doi.org/10.1177/1461444809336551 https://journals.sagepub.com/doi/10.1177/1461444809336551 本文引用 [1] 摘要 The movement toward what is often described as Web 2.0 is usually understood as a large-scale shift toward a participatory and collaborative version of the web, where users are able to get involved and create content. As things stand we have so far had little opportunity to explore how new forms of power play out in this context of apparent ‘empowerment’ and ‘democratization’. This article suggests that this is a pressing issue that requires urgent attention. To begin to open up this topic this article situates Web 2.0 in the context of the broader transformations that are occurring in new media by drawing on the work of a number of leading writers who, in various ways, consider the implications of software ‘sinking’ into and ‘sorting’ aspects of our everyday lives. The article begins with this broader literature before exploring in detail Scott Lash’s notion of ‘post-hegemonic power’ and more specifically his concept of ‘power through the algorithm’. The piece concludes by discussing how this relates to work on Web 2.0 and how this work might be developed in the future. [24] Bishop S. ( 2020 ). Algorithmic experts: Selling algorithmic lore on YouTube. Social Media+ Society , 6 (1), 1-11. 本文引用 [4] [25] Bourdieu P. ( 1984 ). Distinction:A Social Critique of the Judgement of Taste . Cambridge, MA: Harvard University Press. 本文引用 [1] [26] Bryman A. ( 2004 ). Qualitative research on leadership: A critical but appreciative review. The Leadership Quarterly , 15 (6), 729-769. https://doi.org/10.1016/j.leaqua.2004.09.007 https://linkinghub.elsevier.com/retrieve/pii/S1048984304000840 本文引用 [1] [27] Bucher T. ( 2012 ). Want to be on the top? Algorithmic power and the threat of invisibility on Facebook. New Media & Society , 14 (7), 1164-1180. https://doi.org/10.1177/1461444812440159 https://journals.sagepub.com/doi/10.1177/1461444812440159 本文引用 [4] 摘要 This article explores the new modalities of visibility engendered by new media, with a focus on the social networking site Facebook. Influenced by Foucault’s writings on Panopticism – that is, the architectural structuring of visibility – this article argues for understanding the construction of visibility on Facebook through an architectural framework that pays particular attention to underlying software processes and algorithmic power. Through an analysis of EdgeRank, the algorithm structuring the flow of information and communication on Facebook’s ‘News Feed’, I argue that the regime of visibility constructed imposes a perceived ‘threat of invisibility’ on the part of the participatory subject. As a result, I reverse Foucault’s notion of surveillance as a form of permanent visibility, arguing that participatory subjectivity is not constituted through the imposed threat of an all-seeing vision machine, but by the constant possibility of disappearing and becoming obsolete. [28] Caplan R. , & Gillespie T. ( 2020 ). Tiered governance and demonetization: The shifting terms of labor and compensation in the platform economy. Social Media+ Society , 6 (2), 1-13. 本文引用 [3] [29] Carah N. ( 2017 ). Algorithmic brands: A decade of brand experiments with mobile and social media. New Media & Society , 19 (3), 384-400. https://doi.org/10.1177/1461444815605463 https://journals.sagepub.com/doi/10.1177/1461444815605463 本文引用 [1] 摘要 This article examines how brands have iteratively experimented with mobile and social media. The activities of brands – including Coca-Cola, Virgin and Smirnoff – at music festivals in Australia since 2005 are used as an instructive case. The article demonstrates how these brands imagined social media, attempted to instruct consumers to use mobile devices, and used cultural events to stimulate image production tuned to the decision-making of social media algorithms. The article contributes to debate by articulating how brands are important actors in the development of algorithmic media infrastructure and devices. Accounts of algorithmic media need to examine how the analytic capacities of social and mobile media are interdependent with orchestrating the creative participation of users. [30] Cotter K. ( 2019 ). Playing the visibility game: How digital influencers and algorithms negotiate influence on Instagram. New Media & Society , 21 (4), 895-913. https://doi.org/10.1177/1461444818815684 https://journals.sagepub.com/doi/10.1177/1461444818815684 本文引用 [5] 摘要 Algorithms are said to affect social realities, often in unseen ways. This article explores conscious, instrumental interactions with algorithms, as a window into the complexities and extent of algorithmic power. Through a thematic analysis of online discussions among Instagram influencers, I observed that influencers’ pursuit of influence resembles a game constructed around “rules” encoded in algorithms. Within the “visibility game,” influencers’ interpretations of Instagram’s algorithmic architecture—and the “game” more broadly—act as a lens through which to view and mechanize the rules of the game. Illustrating this point, this article describes two prominent interpretations, which combine information influencers glean about Instagram’s algorithms with preexisting discourses within influencer communities on authenticity and entrepreneurship. This article shows how directing inquiries toward the visibility game makes present the interdependency between users, algorithms, and platform owners and demonstrates how algorithms structure, but do not unilaterally determine user behavior. [31] Cunningham S. , Craig D. , & Silver J. ( 2016 ). YouTube, multichannel networks and the accelerated evolution of the new screen ecology. Convergence , 22 (4), 376-391. https://doi.org/10.1177/1354856516641620 https://journals.sagepub.com/doi/10.1177/1354856516641620 本文引用 [6] 摘要 In attempting to break with a ‘fall from grace’ narrative that may structure analysis of the rapid professionalization and monetization of previously amateur online video content on the main global platform, YouTube, this article outlines histories of key institutions in the new screen ecology as outcomes of the increased interpenetration of very different, often clashing industry cultures. Google/YouTube, Apple’s iTunes, Netflix, Amazon, Yahoo! and Facebook (‘NoCal’) are largely Internet ‘pure-play’ companies, whilst Hollywood’s incumbents (‘SoCal’) practice time-honoured mass media and premium content strategies. The ‘history of the present’ of the new screen ecology is the history of the clash of these cultures. The less than 10-year history of Google’s YouTube can be written as a history of Google seeking to come to terms with the conditions of possibility for entertainment, content and talent development from its base as an IT company dedicated to scale, automation, permanent beta, rapid prototyping and iteration. These efforts reflect both continuities and contestations with traditional media models, particularly business models. As emerging intermediaries in the middle of the convergent space between NoCal and SoCal, multichannel networks’ (MCNs’) placement sees them needing to innovate on both the NoCal and SoCal side. On the former side, MCNs are attempting to provide value-added services superior to basic YouTube analytics, with programmatics and pioneering attempts at management of scale and volume. On the latter side, they are managing a quite different class of entry- to mid-level talent, who bring successful audience development and clear ideas about the roots of their success with them. The new screen ecology is a space of unimagined scale and scope of flourishing online creativity and culture, which is at the same time turbulent and precarious for creators and MCNs alike. [32] Duffy B. E. , & Hund E. ( 2019 ). Gendered visibility on social media: Navigating Instagram’s authenticity bind. International Journal of Communication , 13 (2019), 4983-5002. 本文引用 [1] [33] Fuchs C. ( 2018 ). Capitalism, patriarchy, slavery, and racism in the age of digital capitalism and digital labor. Critical Sociology , 44 (4-5), 677-702. https://doi.org/10.1177/0896920517691108 https://journals.sagepub.com/doi/10.1177/0896920517691108 本文引用 [1] 摘要 This article asks: How can understanding the relationship of exploitation and oppression inform the study of digital labour and digital capitalism? It combines the analysis of capitalism, patriarchy, slavery, and racism in order to analyse digital labour. The approach taken also engages with a generalization of David Roediger’s wages of whiteness approach, Marxist feminism, Angela Davis’s Marxist black feminism, Rosa Luxemburg, Kylie Jarrett’s concept of the digital housewife, Jack Qiu’s notion of iSlavery, Eileen Meehan’s concept of the gendered audience commodity, and Carter Wilson and Audrey Smedley’s historical analyses of racism and class. The article presents a typology of differences and commonalities between wage-labour, slave-labour, reproductive labour, and Facebook labour. It shows that the digital data commodity is both gendered and racialized. It analyses how class, patriarchy, slavery, and racism overgrasp into each other in the realm of digital capitalism. It also introduces the notions of the organic composition of labour and the rate of reproductive labour and shows, based on example data, how to calculate these ratios that provide insights into the reality of unpaid labour in capitalism. [34] Gandini A. ( 2016 ). Digital work: Self-branding and social capital in the freelance knowledge economy. Marketing Theory , 16 (1), 123-141. https://doi.org/10.1177/1470593115607942 https://journals.sagepub.com/doi/10.1177/1470593115607942 本文引用 [2] 摘要 Existing research shows that self-branding in the knowledge economy is a key promotional device for the pursuit of self-realization in a context that reifies entrepreneurialism as the main ideological stance. However, there is still reluctance to fully acknowledge the processes of sociality that constitute self-branding practice. While the relationship between branding and the affective dynamics of social production of value fostered by the diffusion of Web 2.0 is widely acknowledged in the literature, there still seems to be a lack of understanding of the extent to which self-branding relates to social relationships in the production of socialized value for individuals. The study of self-branding practices across digital freelance professions in the knowledge economy reveals how social media has come to represent a working tool that serves the curation of a professional image and the management of social relationships via the enactment of performative practices of sociality, which exist around a shared notion of reputation as value. Here, self-branding becomes an investment in social relationships with expected return for the acquisition of a reputation. This substantially equates self-branding with what social theory calls social capital, being instrumental to secure employment in the freelance-based labour market of the digital knowledge economy. [35] Gardner J. , & Lehnert K. ( 2016 ). What’s new about new media? How multi-channel networks work with content creators. Business Horizons , 59 (3), 293-302. 本文引用 [1] [36] Gillespie T. ( 2018 ). Custodians of the Internet . New Haven: Yale University Press. 本文引用 [2] [37] Goffman E. ( 1959 ). The Presentation of Self in Everyday Life . New York, NY: Doubleday. 本文引用 [1] [38] Hair L. ( 2021 ). Friends, not ATMs: Parasocial relational work and the construction of intimacy by artists on Patreon. Sociological Spectrum , 41 (2), 196-212. https://doi.org/10.1080/02732173.2021.1875090 https://www.tandfonline.com/doi/full/10.1080/02732173.2021.1875090 本文引用 [1] [39] Hearn A. ( 2010 ). Structuring feeling: Web 2.0, online ranking and rating, and the digital ‘reputation’ economy . Ephemera: Theory & Politics in Organization, 10 (3/4), 421-438. 本文引用 [2] [40] Klawitter E. , & Hargittai E. ( 2018 ). “It’s like learning a whole other language”: The role of algorithmic skills in the curation of creative goods. International Journal of Communication , 12 , 3490-3510. 本文引用 [1] [41] Levina M. , & Hasinoff A. A. ( 2017 ). The Silicon Valley ethos: Tech industry products, discourses, and practices. Television & New Media , 18 (6), 489-495. 本文引用 [1] [42] Knight F. H. ( 1921 ). Risk, Uncertainty and Profit . Chicago, IL: University of Chicago Press. 本文引用 [1] [43] Li J. , Gui X. , Kou Y. , & Li Y. ( 2019 ). Live Streaming as Co-Performance: Dynamics between Center and Periphery in Theatrical Engagement. Proceedings of the ACM on Human-Computer Interaction , 3(CSCW) , 1-22. 本文引用 [1] [44] Liu T. , Tan C. K. K. , Yang X. , & Li M. ( 2021 ). Zhibo gonghui: China’s ‘live-streaming guilds’ of manipulation experts. Information, Communication & Society , 1-16. 本文引用 [1] [45] Lobato R. ( 2016 ). The cultural logic of digital intermediaries: YouTube multichannel networks. Convergence , 22 (4), 348-360. https://doi.org/10.1177/1354856516641628 https://journals.sagepub.com/doi/10.1177/1354856516641628 本文引用 [2] 摘要 How has YouTube evolved as a cultural and commercial infrastructure? What institutional forms has it produced? The present article takes up these questions through a discussion of multichannel networks (MCNs) and their role within the digital video system. MCNs are a new breed of intermediary firm that link entrepreneurial YouTubers with the advertising, marketing and screen production industries. This article considers the functions of MCNs vis-à-vis the existing constellation of screen industry professions, including talent agents, managers and media buyers, who perform similar functions offline. Combining structural analysis of the MCN industry with an assessment of its cultural impacts, I show how Google’s decision to open the YouTube back-end to third-party intermediaries is subtly changing the digital video ecology. [46] Marx K. ( 1867 ). Capital , Volume 1. London, UK: Penguin. 本文引用 [1] [47] Mosco V. ( 2014 ). To the Cloud:Big Data in a Turbulent World . New York, NY: Routledge. 本文引用 [1] [48] Mosco V. , & McKercher C. ( 2009 ). The Laboring of Communication: Will Knowledge Workers of the World Unite? Lexington, MA: Lexington Books . 本文引用 [1] [49] Myers West S. ( 2018 ). Censored, suspended, shadowbanned: User interpretations of content moderation on social media platforms. New Media & Society , 20 (11), 4366-4383. https://doi.org/10.1177/1461444818773059 https://journals.sagepub.com/doi/10.1177/1461444818773059 本文引用 [1] 摘要 Social media platforms play an increasingly important civic role as platforms for discourse, where we discuss, debate, and share information. This article explores how users make sense of the content moderation systems social media platforms use to curate this discourse. Through a survey of users ( n = 519) who have experienced content moderation, I explore users’ folk theories of how content moderation systems work, how they shape the affective relationship between users and platforms, and the steps users take to assert their agency by seeking redress. I find significant impacts of content moderation that go far beyond the questions of freedom of expression that have thus far dominated the debate. Raising questions about what content moderation systems are designed to accomplish, I conclude by conceptualizing an educational, rather than punitive, model for content moderation systems. [50] Napoli P. M. ( 2014 ). Automated media: An institutional theory perspective on algorithmic media production and consumption. Communication Theory , 24 (3), 340-360. https://doi.org/10.1111/comt.2014.24.issue-3 http://doi.wiley.com/10.1111/comt.2014.24.issue-3 本文引用 [2] [51] Negus K. ( 2002 ). The work of cultural intermediaries and the enduring distance between production and consumption. Cultural Studies , 16 (4), 501-515. https://doi.org/10.1080/09502380210139089 http://www.tandfonline.com/doi/abs/10.1080/09502380210139089 本文引用 [2] [52] Nieborg D. B. , & Poell T. ( 2018 ). The platformization of cultural production: Theorizing the contingent cultural commodity. New Media & Society , 20 (11), 4275-4292. https://doi.org/10.1177/1461444818769694 https://journals.sagepub.com/doi/10.1177/1461444818769694 本文引用 [1] [53] Petre C. , Duffy B. E. , & Hund E. ( 2019 ). “Gaming the system”: Platform paternalism and the politics of algorithmic visibility. Social Media+ Society , 5 (4), 1-12. 本文引用 [4] [54] Podolny J. M. ( 2005 ). Status Signals:A Sociological Study of Market Competition . Princeton, NJ: Princeton University Press. 本文引用 [3] [55] Smythe D. W. ( 1977 ). Communications: Blindspot of Western Marxism. Canadian Journal of Political and Society Theory , 1 (3), 1-28. 本文引用 [1] [56] Stahl M. ( 2012 ). Unfree Masters:Popular Music and the Politics of Work . Durham, NC: Duke University Press. 本文引用 [1] [57] Van Dijck J. ( 2013 ). Facebook and the engineering of connectivity: A multi-layered approach to social media platforms. Convergence , 19 (2), 141-155. https://doi.org/10.1177/1354856512457548 https://journals.sagepub.com/doi/10.1177/1354856512457548 本文引用 [1] 摘要 This article aims to explain how Web 2.0 platforms in general, and Facebook in particular, engineers online connections. Connectivity has become the material and metaphorical wiring of our culture, a culture in which technologies shape and are shaped not only by economic and legal frames, but also by users and content. The emergence of social media platforms is at the heart of a shifting dynamic, where various actors (technology, users, content, legal and economic actors) are building a connective space for communication and information. In order to comprehend this interwovenness, Bruno Latour’s actor-network theory will be invoked to explore how social media platforms can be analysed as techno-socio-cultural artefacts; this theoretical framework will be complemented by Castells’ political-economy approach to arrive at a fuller understanding of how social media operate. The documentary Catfish (2010) serves as an illustration to explore social media platforms in their multiple dimensions. [58] Weller S. C. , Vickers B. , Bernard H. R. , Blackburn A. M. , Borgatti S. , Gravlee C. C. , & Johnson J. C. ( 2018 ). Open-ended interview questions and saturation. PloS One , 13 (6), e0198606. https://doi.org/10.1371/journal.pone.0198606 https://dx.plos.org/10.1371/journal.pone.0198606 本文引用 [1] [59] White H. C. ( 1981 ). Where do markets come from? American Journal of Sociology , 87 (3), 517-547. https://doi.org/10.1086/227495 https://www.journals.uchicago.edu/doi/10.1086/227495 本文引用 [1] [60] Zhang X. , Xiang Y. , & Hao L. ( 2019 ). Virtual gifting on China’s live streaming platforms: Hijacking the online gift economy. Chinese Journal of Communication , 12 (3), 340-355. https://doi.org/10.1080/17544750.2019.1583260 https://www.tandfonline.com/doi/full/10.1080/17544750.2019.1583260 本文引用 [2] 文章年度分布 文献类型分布 被引期刊分布 被引用学者 注释 [Notes] 1. 礼物打赏：用户花钱在网络直播平台充值购买虚拟货币，并用虚拟货币购买直播平台提供的虚拟礼物赠送给主播。 2. IT桔子是泛互联网行业结构化的创投数据库和商业信息服务商，基于数据、文本、新闻等多维度信息，搭建有关公司、产品、人物、投资者等行动者的数据平台。 3. “千播大战”指2015年至2016年期间，中国出现百余款直播软件，市场竞争激烈。 4. 由于国资背景的申请限制，网络视听证成为稀缺品，2017年持牌的壳公司价格达3500万（孙妍， 2017 ）。 5. 互联网企业中快手是最大的直播平台，另有百度、阿里、腾讯、字节跳动、Bilibili等代表企业。 6. “大型投资机构”定义为单次参投金额大于1000万，投资次数超过2次的机构。 7. 包括个人投资和匿名投资机构。 8. 公会起初是平台头部主播牵头成立，可以视为半专业化的、过渡状态的经纪公司。2012年4月，《征途2》天赐一个月内在YY平台刷了1000多万元礼物，同时带动大批网游界“土豪”参与。两个月后天赐成立皇族公会，将大批人气主播招揽至麾下，从礼物打赏中抽取分成。后续China公会、娱加、IR等知名公会先后涌现，逐渐形成当前公会的商业模式（GQ， 2016 ）。 9. 大、中、小规模的公会主要以收录主播人数为衡量标准，大公会中主播人数大于1万名，中公会中主播人数为1000-10000名，小公会中主播人数小于1000名。虽然S公会旗下主播数量不多，但流量主播比例高，在业界影响力较大。 10. MC是“microphone controller”的缩写，指“麦克风的掌控者”，原指饶舌歌手（Rapper）。 11. 如腾讯与斗鱼曾经联合发布公开信表示，不允许违约跳槽主播在直播过程中通过腾讯旗下的任何一款游戏直播获利（南方都市报， 2019 ）。 12. 麦时全称为上麦时间，指网络主播的直播时长。 13. R指revenue，收入。 14. 分成比例可能依公会规模发生变动，一般平台得到打赏收入的40%-50%；此外主播的走红程度也影响议价权，可能占余下收入的40%-60%。 基金 国家社科基金项目《算法中介的网络平台劳动研究》(19BXW098) × 微信扫一扫 PDF(1682 KB) 可视化 Accesses Citation Altmetric Detail 段落导航 相关文章 期刊信息 期刊介绍 编委会 投稿指南 格式规范 期刊订阅 联系我们 在线期刊 当期目录 过刊浏览 E-mail Alert RSS 联系我们 地址：北京市海淀区中关村大街59号明德新闻楼 邮编：100872 电话：010-82509362 E-mail:gjxwj@ruc.edu.cn 访问统计 总访问量 ： 今日访问： 在线人数： 版权所有 © 《国际新闻界》编辑部 技术支持： 北京玛格泰克科技发展有限公司 / 〈 〉",
+  "links": [
+    "http://cjjc.ruc.edu.cn",
+    "http://cjjc.ruc.edu.cn/CN/archive/2021",
+    "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12",
+    "http://cjjc.ruc.edu.cn/CN/home",
+    "http://cjjc.ruc.edu.cn/CN/home",
+    "http://cjjc.ruc.edu.cn/CN/column/column1.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column2.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column5.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column6.shtml",
+    "http://cjjc.ruc.edu.cn/EN/home",
+    "https://www.ruc.edu.cn/",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn",
+    "http://cjjc.ruc.edu.cn/CN/archive/2021",
+    "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12",
+    "javascript:;",
+    "mailto:yewm@phbs.pku.edu.cn",
+    "javascript:;",
+    "mailto:18811736488@126.com",
+    "mailto:yewm@phbs.pku.edu.cn",
+    "mailto:18811736488@126.com",
+    "javascript:;",
+    "mailto:yewm@phbs.pku.edu.cn",
+    "javascript:;",
+    "mailto:18811736488@126.com",
+    "mailto:yewm@phbs.pku.edu.cn",
+    "mailto:18811736488@126.com",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=EndNote&id=1189",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=Ris&id=1189",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=BibTeX&id=1189",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "http://report.iresearch.cn/report_pdf.aspx?id=2955",
+    "javascript:;",
+    "https://report.iresearch.cn/wx/report.aspx?id=2962",
+    "javascript:;",
+    "javascript:;",
+    "http://www.gq.com.cn/magazine/news_143298c5c0e7348a.html",
+    "https://report.iresearch.cn/wx/report.aspx?id=2962",
+    "javascript:;",
+    "http://www.nrta.gov.cn/art/2021/4/19/art_2555_55908.html",
+    "javascript:;",
+    "javascript:;",
+    "https://www.sohu.com/a/294935264_161795",
+    "https://mp.weixin.qq.com/s/P5_DQEFcvj28uuABBCEn2g",
+    "https://baijiahao.baidu.com/s?id=1700989080638411329&wfr=spider&for=pc",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/202102/P020210203334633480104.pdf",
+    "javascript:;",
+    "https://www.sohu.com/a/167868464_735021",
+    "javascript:;",
+    "https://www.tisi.org/4897",
+    "javascript:;",
+    "http://www.capa.com.cn/news/showDetail/170763",
+    "javascript:;",
+    "javascript:;",
+    "http://www.chinadaily.com.cn/hqcj/2012-06/11/content_15493715.htm",
+    "javascript:;",
+    "https://doi.org/10.1177/1329878X16665177",
+    "https://journals.sagepub.com/doi/10.1177/1329878X16665177",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1177/1461444809336551",
+    "https://journals.sagepub.com/doi/10.1177/1461444809336551",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1016/j.leaqua.2004.09.007",
+    "https://linkinghub.elsevier.com/retrieve/pii/S1048984304000840",
+    "javascript:;",
+    "https://doi.org/10.1177/1461444812440159",
+    "https://journals.sagepub.com/doi/10.1177/1461444812440159",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1177/1461444815605463",
+    "https://journals.sagepub.com/doi/10.1177/1461444815605463",
+    "javascript:;",
+    "https://doi.org/10.1177/1461444818815684",
+    "https://journals.sagepub.com/doi/10.1177/1461444818815684",
+    "javascript:;",
+    "https://doi.org/10.1177/1354856516641620",
+    "https://journals.sagepub.com/doi/10.1177/1354856516641620",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1177/0896920517691108",
+    "https://journals.sagepub.com/doi/10.1177/0896920517691108",
+    "javascript:;",
+    "https://doi.org/10.1177/1470593115607942",
+    "https://journals.sagepub.com/doi/10.1177/1470593115607942",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1080/02732173.2021.1875090",
+    "https://www.tandfonline.com/doi/full/10.1080/02732173.2021.1875090",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1177/1354856516641628",
+    "https://journals.sagepub.com/doi/10.1177/1354856516641628",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1177/1461444818773059",
+    "https://journals.sagepub.com/doi/10.1177/1461444818773059",
+    "javascript:;",
+    "https://doi.org/10.1111/comt.2014.24.issue-3",
+    "http://doi.wiley.com/10.1111/comt.2014.24.issue-3",
+    "javascript:;",
+    "https://doi.org/10.1080/09502380210139089",
+    "http://www.tandfonline.com/doi/abs/10.1080/09502380210139089",
+    "javascript:;",
+    "https://doi.org/10.1177/1461444818769694",
+    "https://journals.sagepub.com/doi/10.1177/1461444818769694",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1177/1354856512457548",
+    "https://journals.sagepub.com/doi/10.1177/1354856512457548",
+    "javascript:;",
+    "https://doi.org/10.1371/journal.pone.0198606",
+    "https://dx.plos.org/10.1371/journal.pone.0198606",
+    "javascript:;",
+    "https://doi.org/10.1086/227495",
+    "https://www.journals.uchicago.edu/doi/10.1086/227495",
+    "javascript:;",
+    "https://doi.org/10.1080/17544750.2019.1583260",
+    "https://www.tandfonline.com/doi/full/10.1080/17544750.2019.1583260",
+    "javascript:;",
+    "http://www.facebook.com/sharer.php?u=http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/96",
+    "http://twitter.com/share?url=http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/96",
+    "http://service.weibo.com/share/share.php?url=http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/96&title=平台·公会·主播：不确定数字产业中的生产组织",
+    "javascript:;",
+    "javascript:;",
+    "http://cjjc.ruc.edu.cn/CN/column/column1.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column2.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column5.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column6.shtml",
+    "http://cjjc.ruc.edu.cn/CN/current",
+    "http://cjjc.ruc.edu.cn/CN/archive_by_years",
+    "http://cjjc.ruc.edu.cn/CN/alert/showAlertInfo.do",
+    "http://cjjc.ruc.edu.cn/CN/rss/showRssInfo.do",
+    "https://www.magtech.com.cn/"
+  ]
+}

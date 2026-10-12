@@ -1,0 +1,2673 @@
+{
+  "source_id": "network_polarization",
+  "requested_url": "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7/47",
+  "checked_at": "2026-10-12T09:17:12.811660+00:00",
+  "access_scope": "public_no_login",
+  "method": "GET",
+  "paid_request": false,
+  "http_status": 200,
+  "final_url": "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7/47",
+  "sha256": "126b407cad4f32dd2335a7d418cdcadb3fade613ad4a4440a6d5142dec42d03d",
+  "content_length": 408180,
+  "metadata": {
+    "viewport": [
+      "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+      "width=device-width, initial-scale=1"
+    ],
+    "description": [
+      "既有对中国舆论形态的研究一般认为网络舆论存在极化的现象，但这些研究仍停留在描述性分析层面，对背后的形成机制关注较少。基于网民调查数据，本研究通过两个典型舆论议题对中国舆论态度是否存在极化及其形成机制进行分析。研究发现，中国网民的舆论态度结构并非像一些人认为的双峰型，而是一种单峰型的分布态势。其中在国内争议性话题上网民的态度呈现出一种偏向中立的相对温和中庸的样态，在外交话题上的态度立场则是一种“强烈同意”政府立场的一边倒分布样态。同时，中国网民中普遍存在高估他人与自己持有相同观点的“虚假共识”效应，且实际态度越极端的个体越容易出现这种现象。在舆论极端化的形成机制上，威权人格、政治价值观等心理因素以及媒体接触均能有效地预测人们的态度极端化，但虚假共识效应则是态度极化的内在因果机制。本研究有助于学界了解中国舆论的真实形态，对建设健康正常的舆论场域亦具有启发意义。"
+    ],
+    "authors": [
+      "马得勇, 黄敏璇"
+    ],
+    "keywords": [
+      "舆论极化,虚假共识,政治价值观,威权人格,媒体使用"
+    ],
+    "robots": [
+      "index"
+    ],
+    "renderer": [
+      "webkit"
+    ],
+    "format-detection": [
+      "telephone=no"
+    ],
+    "apple-mobile-web-app-capable": [
+      "yes"
+    ],
+    "apple-mobile-web-app-title": [
+      "网络舆论中的态度极化与虚假共识"
+    ],
+    "mobile-web-app-capable": [
+      "yes"
+    ],
+    "screen-orientation": [
+      "portrait"
+    ],
+    "x5-orientation": [
+      "portrait"
+    ],
+    "full-screen": [
+      "yes"
+    ],
+    "x5-fullscreen": [
+      "true"
+    ],
+    "browsermode": [
+      "application"
+    ],
+    "x5-page-mode": [
+      "app"
+    ],
+    "msapplication-tap-highlight": [
+      "no"
+    ],
+    "dc.relation.is": [
+      "国际新闻界"
+    ],
+    "dc.citation.volume": [
+      "45"
+    ],
+    "dc.citation.issue": [
+      "7"
+    ],
+    "dc.citation.spage": [
+      "47"
+    ],
+    "dc.citation.epage": [
+      "73"
+    ],
+    "dc.title": [
+      "网络舆论中的态度极化与虚假共识"
+    ],
+    "dc.source": [
+      "国际新闻界"
+    ],
+    "dc.format": [
+      "text/html"
+    ],
+    "dc.publisher": [
+      ""
+    ],
+    "dc.date": [
+      "2023-07-23"
+    ],
+    "dc.type": [
+      ""
+    ],
+    "dc.language": [
+      "Cn"
+    ],
+    "dc.copyright": [
+      ""
+    ],
+    "dc.description": [
+      "既有对中国舆论形态的研究一般认为网络舆论存在极化的现象，但这些研究仍停留在描述性分析层面，对背后的形成机制关注较少。基于网民调查数据，本研究通过两个典型舆论议题对中国舆论态度是否存在极化及其形成机制进行分析。研究发现，中国网民的舆论态度结构并非像一些人认为的双峰型，而是一种单峰型的分布态势。其中在国内争议性话题上网民的态度呈现出一种偏向中立的相对温和中庸的样态，在外交话题上的态度立场则是一种“强烈同意”政府立场的一边倒分布样态。同时，中国网民中普遍存在高估他人与自己持有相同观点的“虚假共识”效应，且实际态度越极端的个体越容易出现这种现象。在舆论极端化的形成机制上，威权人格、政治价值观等心理因素以及媒体接触均能有效地预测人们的态度极端化，但虚假共识效应则是态度极化的内在因果机制。本研究有助于学界了解中国舆论的真实形态，对建设健康正常的舆论场域亦具有启发意义。"
+    ],
+    "dc.relation.ispartof": [
+      "国际新闻界"
+    ],
+    "dc.creator": [
+      "马得勇",
+      "黄敏璇"
+    ],
+    "dc.subject": [
+      "舆论极化",
+      "虚假共识",
+      "政治价值观",
+      "威权人格",
+      "媒体使用"
+    ],
+    "prism.issn": [
+      "1002-5685"
+    ],
+    "prism.publicationDate": [
+      "2023-07-23"
+    ],
+    "prism.section": [
+      ""
+    ],
+    "prism.volume": [
+      "45"
+    ],
+    "prism.number": [
+      "7"
+    ],
+    "prism.startingPage": [
+      "47"
+    ],
+    "prism.endingPage": [
+      "73"
+    ],
+    "prism.copyright": [
+      ""
+    ],
+    "prism.url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7/47"
+    ],
+    "citation_pdf_url": [
+      "http://cjjc.ruc.edu.cn/CN/PDF/1343"
+    ],
+    "citation_abstract_html_url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7/47"
+    ],
+    "citation_fulltext_html_url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7/47"
+    ],
+    "citation_journal_title": [
+      "国际新闻界"
+    ],
+    "citation_publisher": [
+      ""
+    ],
+    "citation_issn": [
+      "1002-5685"
+    ],
+    "citation_title": [
+      "网络舆论中的态度极化与虚假共识"
+    ],
+    "citation_authors": [
+      "马得勇, 黄敏璇"
+    ],
+    "citation_volume": [
+      "45"
+    ],
+    "citation_issue": [
+      "7"
+    ],
+    "citation_publication_date": [
+      "2023/07/23"
+    ],
+    "citation_online_date": [
+      "2023/07/23"
+    ],
+    "citation_firstpage": [
+      "47"
+    ],
+    "citation_lastpage": [
+      "73"
+    ],
+    "citation_article_type": [
+      ""
+    ],
+    "citation_language": [
+      "zh"
+    ],
+    "citation_doi": [
+      ""
+    ],
+    "citation_abstract": [
+      "既有对中国舆论形态的研究一般认为网络舆论存在极化的现象，但这些研究仍停留在描述性分析层面，对背后的形成机制关注较少。基于网民调查数据，本研究通过两个典型舆论议题对中国舆论态度是否存在极化及其形成机制进行分析。研究发现，中国网民的舆论态度结构并非像一些人认为的双峰型，而是一种单峰型的分布态势。其中在国内争议性话题上网民的态度呈现出一种偏向中立的相对温和中庸的样态，在外交话题上的态度立场则是一种“强烈同意”政府立场的一边倒分布样态。同时，中国网民中普遍存在高估他人与自己持有相同观点的“虚假共识”效应，且实际态度越极端的个体越容易出现这种现象。在舆论极端化的形成机制上，威权人格、政治价值观等心理因素以及媒体接触均能有效地预测人们的态度极端化，但虚假共识效应则是态度极化的内在因果机制。本研究有助于学界了解中国舆论的真实形态，对建设健康正常的舆论场域亦具有启发意义。"
+    ],
+    "citation_keywords": [
+      "舆论极化",
+      "虚假共识",
+      "政治价值观",
+      "威权人格",
+      "媒体使用"
+    ],
+    "citation_date": [
+      "2023/07/23"
+    ],
+    "citation_author": [
+      "马得勇",
+      "黄敏璇"
+    ],
+    "article_references": [
+      "马得勇, 黄敏璇. 网络舆论中的态度极化与虚假共识. 国际新闻界. 2023, 45 (7): 47-73."
+    ],
+    "google-site-verification": [
+      "GqftDyjkbLznCjwJH3xdvsEi1ZnXlVqxWMeQ5H2MD38"
+    ]
+  },
+  "structured_article": {
+    "bioList_en": [
+      {
+        "content": "<p id=\"com3\">Ma Deyong is a professor of political science at the school of International Studies, Renmin University of China. Email: <a class=\"mag-xml-email-a\" href=\"mailto:madeyong@ruc.edu.cn\">madeyong@ruc.edu.cn</a>.</p>"
+      },
+      {
+        "content": "<p id=\"com4\">Huang Minxuan is a Ph.D. of political science at the school of International Studies, Renmin University of China. Email: <a class=\"mag-xml-email-a\" href=\"mailto:minxuan@ruc.edu.cn\">minxuan@ruc.edu.cn</a>.</p>"
+      }
+    ],
+    "referenceList": [
+      {
+        "sourceCn": "《真相:信息超载时代如何知道该相信什么》(陈佳怡,孙志刚译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_62"
+        ],
+        "publicationType": "book",
+        "id": "b1",
+        "label": "[1]",
+        "nian": 20102014,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "比尔·科瓦奇",
+                "personType": "author"
+              },
+              {
+                "name": "汤姆·罗森斯蒂尔",
+                "personType": "author"
+              }
+            ],
+            "content": "比尔·科瓦奇, 汤姆·罗森斯蒂尔(<span class=\"yearStyle\">2010/2014</span>). <span class=\"sourceStyle\">《真相:信息超载时代如何知道该相信什么》(陈佳怡,孙志刚译)</span>. 北京: 中国人民大学出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《社会》",
+        "bodyP_ids": [
+          "mag_rich_body_p_21"
+        ],
+        "publicationType": "journal",
+        "id": "b2",
+        "label": "[2]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "陈福平",
+                "personType": "author"
+              },
+              {
+                "name": "许丹红",
+                "personType": "author"
+              }
+            ],
+            "content": "陈福平, 许丹红(<span class=\"yearStyle\">2017</span>). 观点与链接:在线社交网络中的群体政治极化——一个微观行为的解释框架. <span class=\"sourceStyle\">《社会》</span>,(4),217-240."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《政治秩序与政治衰败:从工业革命到民主全球化》(毛俊杰译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_3"
+        ],
+        "publicationType": "book",
+        "id": "b3",
+        "label": "[3]",
+        "nian": 20142015,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "弗朗西斯·福山",
+                "personType": "author"
+              }
+            ],
+            "content": "弗朗西斯·福山(<span class=\"yearStyle\">2014/2015</span>). <span class=\"sourceStyle\">《政治秩序与政治衰败:从工业革命到民主全球化》(毛俊杰译)</span>. 桂林: 广西师范大学出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《社会》",
+        "bodyP_ids": [
+          "mag_rich_body_p_24"
+        ],
+        "publicationType": "journal",
+        "id": "b4",
+        "label": "[4]",
+        "nian": 2015,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "桂勇",
+                "personType": "author"
+              },
+              {
+                "name": "李秀玫",
+                "personType": "author"
+              },
+              {
+                "name": "郑雯",
+                "personType": "author"
+              },
+              {
+                "name": "黄荣贵",
+                "personType": "author"
+              }
+            ],
+            "content": "桂勇, 李秀玫, 郑雯, 黄荣贵(<span class=\"yearStyle\">2015</span>). 网络极端情绪人群的类型及其政治与社会意涵——基于中国网络社会心态调查数据(2014)的实证研究. <span class=\"sourceStyle\">《社会》</span>,(5),78-100."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《现代传播(中国传媒大学学报)》",
+        "bodyP_ids": [
+          "mag_rich_body_p_24"
+        ],
+        "publicationType": "journal",
+        "id": "b5",
+        "label": "[5]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "韩运荣",
+                "personType": "author"
+              },
+              {
+                "name": "漆雪",
+                "personType": "author"
+              }
+            ],
+            "content": "韩运荣, 漆雪(<span class=\"yearStyle\">2019</span>). Twitter涉华舆情极化现象研究——以中美贸易争端为例. <span class=\"sourceStyle\">《现代传播(中国传媒大学学报)》</span>,(3),144-150."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻与传播研究》",
+        "bodyP_ids": [
+          "mag_rich_body_p_4"
+        ],
+        "publicationType": "journal",
+        "id": "b6",
+        "label": "[6]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "蒋忠波",
+                "personType": "author"
+              }
+            ],
+            "content": "蒋忠波(<span class=\"yearStyle\">2019</span>). “群体极化”之考辨. <span class=\"sourceStyle\">《新闻与传播研究》</span>,(3),7-27+127."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《现代传播(中国传媒大学学报)》",
+        "bodyP_ids": [
+          "mag_rich_body_p_1"
+        ],
+        "publicationType": "journal",
+        "id": "b7",
+        "label": "[7]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "荆学民",
+                "personType": "author"
+              },
+              {
+                "name": "于淑婧",
+                "personType": "author"
+              }
+            ],
+            "content": "荆学民, 于淑婧(<span class=\"yearStyle\">2019</span>). 互联网时代政治传播输入的变革与挑战. <span class=\"sourceStyle\">《现代传播(中国传媒大学学报)》</span>,(1),67-74."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《网络共和国:网络社会中的民主问题》(黄维明译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_4"
+        ],
+        "publicationType": "book",
+        "id": "b8",
+        "label": "[8]",
+        "nian": 20012003,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "凯斯·桑斯坦",
+                "personType": "author"
+              }
+            ],
+            "content": "凯斯·桑斯坦(<span class=\"yearStyle\">2001/2003</span>). <span class=\"sourceStyle\">《网络共和国:网络社会中的民主问题》(黄维明译)</span>. 上海: 上海人民出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《清华大学学报(哲学社会科学版)》",
+        "bodyP_ids": [
+          "mag_rich_body_p_17"
+        ],
+        "publicationType": "journal",
+        "id": "b9",
+        "label": "[9]",
+        "nian": 2022,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "马得勇",
+                "personType": "author"
+              }
+            ],
+            "content": "马得勇(<span class=\"yearStyle\">2022</span>). 威权人格的起源与演变——一个社会演化论的解释. <span class=\"sourceStyle\">《清华大学学报(哲学社会科学版)》</span>,(2),14-24+213."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《广西师范大学学报(哲学社会科学版)》",
+        "bodyP_ids": [
+          "mag_rich_body_p_18"
+        ],
+        "publicationType": "journal",
+        "id": "b10",
+        "label": "[10]",
+        "nian": 2022,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "马得勇",
+                "personType": "author"
+              },
+              {
+                "name": "黄敏璇",
+                "personType": "author"
+              }
+            ],
+            "content": "马得勇, 黄敏璇(<span class=\"yearStyle\">2022</span>). 国家治理现代化的政治认知基础——基于中国网民和大学生的实证分析. <span class=\"sourceStyle\">《广西师范大学学报(哲学社会科学版)》</span>,(5),1-19."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《社会》",
+        "bodyP_ids": [
+          "mag_rich_body_p_17"
+        ],
+        "publicationType": "journal",
+        "id": "b11",
+        "label": "[11]",
+        "nian": 2015,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "马得勇",
+                "personType": "author"
+              },
+              {
+                "name": "王丽娜",
+                "personType": "author"
+              }
+            ],
+            "content": "马得勇, 王丽娜(<span class=\"yearStyle\">2015</span>). 中国网民的意识形态立场及其形成一个实证的分析. <span class=\"sourceStyle\">《社会》</span>,(5),142-167."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻记者》",
+        "bodyP_ids": [
+          "mag_rich_body_p_24",
+          "mag_rich_body_p_49"
+        ],
+        "publicationType": "book",
+        "id": "b12",
+        "label": "[12]",
+        "nian": 2020,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "吴飞",
+                "personType": "author"
+              },
+              {
+                "name": "徐百灵",
+                "personType": "author"
+              }
+            ],
+            "content": "吴飞, 徐百灵(<span class=\"yearStyle\">2020</span>). 自媒体话语实践中的观点极化与社会流瀑——对方方日记海外出版争论的个案分析. <span class=\"sourceStyle\">《新闻记者》</span>,(6),37-46."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻与传播研究》",
+        "bodyP_ids": [
+          "mag_rich_body_p_3",
+          "mag_rich_body_p_5"
+        ],
+        "publicationType": "journal",
+        "id": "b13",
+        "label": "[13]",
+        "nian": 2017,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "夏倩芳",
+                "personType": "author"
+              },
+              {
+                "name": "原永涛",
+                "personType": "author"
+              }
+            ],
+            "content": "夏倩芳, 原永涛(<span class=\"yearStyle\">2017</span>). 从群体极化到公众极化:极化研究的进路与转向. <span class=\"sourceStyle\">《新闻与传播研究》</span>,(6),5-32+126."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《公共舆论》(陈心想等译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_12"
+        ],
+        "publicationType": "book",
+        "id": "b14",
+        "label": "[14]",
+        "nian": 19922013,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "约翰·R·扎勒",
+                "personType": "author"
+              }
+            ],
+            "content": "约翰·R·扎勒(<span class=\"yearStyle\">1992/2013</span>). <span class=\"sourceStyle\">《公共舆论》(陈心想等译)</span>. 北京: 中国人民大学出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "技术赋权:中国的互联网、国家与社会》(邱道隆译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_58"
+        ],
+        "publicationType": "book",
+        "id": "b15",
+        "label": "[15]",
+        "nian": 20072014,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "郑永年",
+                "personType": "author"
+              }
+            ],
+            "content": "郑永年(<span class=\"yearStyle\">2007/2014</span>). <span class=\"sourceStyle\">技术赋权:中国的互联网、国家与社会》(邱道隆译)</span>. 上海: 东方出版社."
+          }
+        ]
+      },
+      {
+        "sourceEn": "The Journal of Politics",
+        "bodyP_ids": [
+          "mag_rich_body_p_3",
+          "mag_rich_body_p_8",
+          "mag_rich_body_p_31"
+        ],
+        "publicationType": "journal",
+        "id": "b16",
+        "label": "[16]",
+        "nian": 2008,
+        "citedCount": 3,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Abramowitz A. I.",
+                "personType": "author"
+              },
+              {
+                "name": "Saunders K. L.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Abramowitz</surname> <given-names>A. I.</given-names></name>, &amp; <name><surname>Saunders</surname> <given-names>K. L.</given-names></name> (<span class=\"yearStyle\">2008</span>). Is polarization a myth?. <span class=\"sourceStyle\"><i>The Journal of Politics</i></span>, <span class=\"volStyele\"><i>70</i></span>(2), 542-555. ",
+            "url": "https://www.journals.uchicago.edu/doi/10.1017/S0022381608080493",
+            "doi": "10.1017/S0022381608080493"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Winnipeg, CAN: University of Manitoba",
+        "bodyP_ids": [
+          "mag_rich_body_p_17"
+        ],
+        "publicationType": "journal",
+        "id": "b17",
+        "label": "[17]",
+        "nian": 2006,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Altemeyer B.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Altemeyer</surname> <given-names>B.</given-names></name> (<span class=\"yearStyle\">2006</span>). The Authoritarians. <span class=\"sourceStyle\"><i>Winnipeg, CAN: University of Manitoba</i></span>."
+          }
+        ]
+      },
+      {
+        "sourceEn": "American Journal of Sociology",
+        "bodyP_ids": [
+          "mag_rich_body_p_8"
+        ],
+        "publicationType": "journal",
+        "id": "b18",
+        "label": "[18]",
+        "nian": 2008,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Public opinion polarization is here conceived as a process of alignment along multiple lines of potential disagreement and measured as growing constraint in individuals' preferences. Using NES data from 1972 to 2004, the authors model trends in issue partisanship-the correlation of issue attitudes with party identification-and issue alignment-the correlation between pairs of issues-and find a substantive increase in issue partisanship, but little evidence of issue alignment. The findings suggest that opinion changes correspond more to a resorting of party labels among voters than to greater constraint on issue attitudes: since parties are more polarized, they are now better at sorting individuals along ideological lines. Levels of constraint vary across population subgroups: strong partisans and wealthier and politically sophisticated voters have grown more coherent in their beliefs. The authors discuss the consequences of partisan realignment and group sorting on the political process and potential deviations from the classic pluralistic account of American politics.",
+            "personList": [
+              {
+                "name": "Baldassarri D.",
+                "personType": "author"
+              },
+              {
+                "name": "Gelman A.",
+                "personType": "author"
+              }
+            ],
+            "pmid": "24932012",
+            "content": "<name><surname>Baldassarri</surname> <given-names>D.</given-names></name>, &amp; <name><surname>Gelman</surname> <given-names>A.</given-names></name> (<span class=\"yearStyle\">2008</span>). Partisans without constraint: Political polarization and trends in American public opinion. <span class=\"sourceStyle\"><i>American Journal of Sociology</i></span>, <span class=\"volStyele\"><i>114</i></span>(2), 408-446. ",
+            "doi": "10.2139/ssrn.1010098"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Information, Communication &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_20"
+        ],
+        "publicationType": "journal",
+        "id": "b19",
+        "label": "[19]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Beam M. A.",
+                "personType": "author"
+              },
+              {
+                "name": "Hutchens M. J.",
+                "personType": "author"
+              },
+              {
+                "name": "Hmielowski J. D.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Beam</surname> <given-names>M. A.</given-names></name>, <name><surname>Hutchens</surname> <given-names>M. J.</given-names></name>, &amp; <name><surname>Hmielowski</surname> <given-names>J. D.</given-names></name> (<span class=\"yearStyle\">2018</span>). Facebook news and (de)polarization: Reinforcing spirals in the 2016 election. <span class=\"sourceStyle\"><i>Information, Communication &amp; Society</i></span>, <span class=\"volStyele\"><i>21</i></span>(7), 940-958."
+          }
+        ]
+      },
+      {
+        "sourceEn": "American Journal of Sociology",
+        "bodyP_ids": [
+          "mag_rich_body_p_8",
+          "mag_rich_body_p_32"
+        ],
+        "publicationType": "journal",
+        "id": "b20",
+        "label": "[20]",
+        "nian": 1996,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "DiMaggio P.",
+                "personType": "author"
+              },
+              {
+                "name": "Evans J.",
+                "personType": "author"
+              },
+              {
+                "name": "Bryson B.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>DiMaggio</surname> <given-names>P.</given-names></name>, <name><surname>Evans</surname> <given-names>J.</given-names></name>, &amp; <name><surname>Bryson</surname> <given-names>B.</given-names></name> (<span class=\"yearStyle\">1996</span>). Have American’s social attitudes become more polarized?. <span class=\"sourceStyle\"><i>American Journal of Sociology</i></span>, <span class=\"volStyele\"><i>102</i></span>(3), 690-755. ",
+            "url": "https://www.journals.uchicago.edu/doi/10.1086/230995",
+            "doi": "10.1086/230995"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Contemporary Economic Policy",
+        "bodyP_ids": [
+          "mag_rich_body_p_8"
+        ],
+        "publicationType": "journal",
+        "id": "b21",
+        "label": "[21]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Duca J. V.",
+                "personType": "author"
+              },
+              {
+                "name": "Saving J. L.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Duca</surname> <given-names>J. V.</given-names></name>, &amp; <name><surname>Saving</surname> <given-names>J. L.</given-names></name> (<span class=\"yearStyle\">2017</span>). Income Inequality, media fragmentation, and increased political polarization. <span class=\"sourceStyle\"><i>Contemporary Economic Policy</i></span>, <span class=\"volStyele\"><i>35</i></span>(2), 392-413. ",
+            "url": "https://onlinelibrary.wiley.com/toc/14657287/35/2",
+            "doi": "10.1111/coep.2017.35.issue-2"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Public Opinion Quarterly",
+        "bodyP_ids": [
+          "mag_rich_body_p_15"
+        ],
+        "publicationType": "journal",
+        "id": "b22",
+        "label": "[22]",
+        "nian": 2015,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Dvir-Gvirsman S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Dvir-Gvirsman</surname> <given-names>S.</given-names></name> (<span class=\"yearStyle\">2015</span>). Size matters: The effects of political orientation, majority status, and majority size on misperceptions of public opinion. <span class=\"sourceStyle\"><i>Public Opinion Quarterly</i></span>, <span class=\"volStyele\"><i>79</i></span>(1), 1-27. ",
+            "url": "https://academic.oup.com/poq/article-lookup/doi/10.1093/poq/nfu061",
+            "doi": "10.1093/poq/nfu061"
+          }
+        ]
+      },
+      {
+        "sourceEn": "American Public Opinion (Ninth Edition)",
+        "bodyP_ids": [
+          "mag_rich_body_p_14"
+        ],
+        "publicationType": "book",
+        "id": "b23",
+        "label": "[23]",
+        "nian": 2015,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Erikson R. S.",
+                "personType": "author"
+              },
+              {
+                "name": "Tedin K. L.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Erikson</surname> <given-names>R. S.</given-names></name>, &amp; <name><surname>Tedin</surname> <given-names>K. L.</given-names></name> (<span class=\"yearStyle\">2015</span>). <span class=\"sourceStyle\"><i>American Public Opinion (Ninth Edition)</i></span>. New York, NY: Routledge."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Social Science Quarterly",
+        "bodyP_ids": [
+          "mag_rich_body_p_6"
+        ],
+        "publicationType": "journal",
+        "id": "b24",
+        "label": "[24]",
+        "nian": 2003,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Evans J. H.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Evans</surname> <given-names>J. H.</given-names></name> (<span class=\"yearStyle\">2003</span>). Have American’s attitudes become more polarized? —An update. <span class=\"sourceStyle\"><i>Social Science Quarterly</i></span>, <span class=\"volStyele\"><i>84</i></span>(1), 71-90. ",
+            "url": "https://onlinelibrary.wiley.com/toc/15406237/84/1",
+            "doi": "10.1111/ssqu.2003.84.issue-1"
+          }
+        ]
+      },
+      {
+        "sourceEn": "The Psychology of Political Polarization",
+        "bodyP_ids": [
+          "mag_rich_body_p_15"
+        ],
+        "publicationType": "book",
+        "id": "b25",
+        "label": "[25]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Federico C. M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Federico</surname> <given-names>C. M.</given-names></name> (<span class=\"yearStyle\">2021</span>). When do psychological differences predict political differences? Engagement and the psychological bases of political polarization. In Van Prooijen, J. W. (<strong>Ed.</strong>). <span class=\"sourceStyle\"><i>The Psychology of Political Polarization</i></span> (pp.17-37). New York, NY: Routledge."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Annual Review of Political Science",
+        "bodyP_ids": [
+          "mag_rich_body_p_3"
+        ],
+        "publicationType": "journal",
+        "id": "b26",
+        "label": "[26]",
+        "nian": 2008,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Fiorina M. P.",
+                "personType": "author"
+              },
+              {
+                "name": "Abrams S. J.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Fiorina</surname> <given-names>M. P.</given-names></name>, &amp; <name><surname>Abrams</surname> <given-names>S. J.</given-names></name> (<span class=\"yearStyle\">2008</span>). Political polarization in the American public. <span class=\"sourceStyle\"><i>Annual Review of Political Science</i></span>, <span class=\"volStyele\"><i>11</i></span>(1), 563-588. ",
+            "url": "https://www.annualreviews.org/toc/polisci/11/1",
+            "doi": "10.1146/polisci.2008.11.issue-1"
+          }
+        ]
+      },
+      {
+        "sourceEn": "European Journal of Social Psychology",
+        "bodyP_ids": [
+          "mag_rich_body_p_4"
+        ],
+        "publicationType": "journal",
+        "id": "b27",
+        "label": "[27]",
+        "nian": 1971,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Fraser C.",
+                "personType": "author"
+              },
+              {
+                "name": "Gouge C.",
+                "personType": "author"
+              },
+              {
+                "name": "Billig M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Fraser</surname> <given-names>C.</given-names></name>, <name><surname>Gouge</surname> <given-names>C.</given-names></name>, &amp; <name><surname>Billig</surname> <given-names>M.</given-names></name> (<span class=\"yearStyle\">1971</span>). Risky shifts, cautious shifts, and group polarization. <span class=\"sourceStyle\"><i>European Journal of Social Psychology</i></span>, <span class=\"volStyele\"><i>1</i></span>(1), 7-30. ",
+            "url": "https://onlinelibrary.wiley.com/toc/10990992/1/1",
+            "doi": "10.1002/ejsp.v1:1"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of Computer-Mediated Communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_21"
+        ],
+        "publicationType": "journal",
+        "id": "b28",
+        "label": "[28]",
+        "nian": 2009,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Garrett R. K.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Garrett</surname> <given-names>R. K.</given-names></name> (<span class=\"yearStyle\">2009</span>). Echo chambers online?: Politically motivated selective exposure among Internet news users. <span class=\"sourceStyle\"><i>Journal of Computer-Mediated Communication</i></span>, <span class=\"volStyele\"><i>14</i></span>(2), 265-285. ",
+            "url": "http://blackwell-synergy.com/doi/abs/10.1111/jcmc.2009.14.issue-2",
+            "doi": "10.1111/jcmc.2009.14.issue-2"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Red State, Blue State, Rich State, Poor State:Why Americans Vote the Way They Do",
+        "bodyP_ids": [
+          "mag_rich_body_p_6"
+        ],
+        "publicationType": "book",
+        "id": "b29",
+        "label": "[29]",
+        "nian": 2008,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Gelman A.",
+                "personType": "author"
+              },
+              {
+                "name": "Park D.",
+                "personType": "author"
+              },
+              {
+                "name": "Shor B.",
+                "personType": "author"
+              },
+              {
+                "name": "Bafumi J.",
+                "personType": "author"
+              },
+              {
+                "name": "Cortina J.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Gelman</surname> <given-names>A.</given-names></name>, <name><surname>Park</surname> <given-names>D.</given-names></name>, <name><surname>Shor</surname> <given-names>B.</given-names></name>, <name><surname>Bafumi</surname> <given-names>J.</given-names></name>, &amp; <name><surname>Cortina</surname> <given-names>J.</given-names></name> (<span class=\"yearStyle\">2008</span>). <span class=\"sourceStyle\"><i>Red State, Blue State, Rich State, Poor State:Why Americans Vote the Way They Do</i></span>. Princeton, NJ: Princeton University Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "British Journal of Political Science",
+        "bodyP_ids": [
+          "mag_rich_body_p_8"
+        ],
+        "publicationType": "journal",
+        "id": "b30",
+        "label": "[30]",
+        "nian": 2009,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Scholarly research has demonstrated rather conclusively that American political elites have undergone a marked partisan polarization over the past thirty years. There is less agreement, however, as to whether the American electorate is polarized. This review article evaluates the evidence, causes and consequences of polarization on both the elite and mass levels. A marked difference between the two is found. Elites are polarized by almost any definition, although this state of affairs is quite common historically. In contrast, mass attitudes are now better sorted by party, but generally not polarized. While it is unclear whether this potentially troubling disconnect between centrist mass attitudes and extreme elite preferences has negative policy consequences, it appears that the super-majoritarian nature of the US Senate serves as a bulwark against policy outcomes that are more ideologically extreme than the public would prefer. Moreover, a public more centrist than those who represent it has also at times exerted a moderating influence on recent policies.",
+            "personList": [
+              {
+                "name": "Hetherington M. J.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Hetherington</surname> <given-names>M. J.</given-names></name> (<span class=\"yearStyle\">2009</span>). Putting polarization in perspective. <span class=\"sourceStyle\"><i>British Journal of Political Science</i></span>, <span class=\"volStyele\"><i>39</i></span>(2), 413-448. ",
+            "url": "https://www.cambridge.org/core/product/identifier/S0007123408000501/type/journal_article",
+            "doi": "10.1017/S0007123408000501"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Communication Monographs",
+        "bodyP_ids": [
+          "mag_rich_body_p_21"
+        ],
+        "publicationType": "journal",
+        "id": "b31",
+        "label": "[31]",
+        "nian": 2009,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Holbert R. L.",
+                "personType": "author"
+              },
+              {
+                "name": "Benoit W. L.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Holbert</surname> <given-names>R. L.</given-names></name>, &amp; <name><surname>Benoit</surname> <given-names>W. L.</given-names></name> (<span class=\"yearStyle\">2009</span>). A theory of political campaign media connectedness. <span class=\"sourceStyle\"><i>Communication Monographs</i></span>, <span class=\"volStyele\"><i>76</i></span>(3), 303-332. ",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/03637750903074693",
+            "doi": "10.1080/03637750903074693"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Annual Review of Political Science",
+        "bodyP_ids": [
+          "mag_rich_body_p_5"
+        ],
+        "publicationType": "journal",
+        "id": "b32",
+        "label": "[32]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "While previously polarization was primarily seen only in issue-based terms, a new type of division has emerged in the mass public in recent years: Ordinary Americans increasingly dislike and distrust those from the other party. Democrats and Republicans both say that the other party's members are hypocritical, selfish, and closed-minded, and they are unwilling to socialize across party lines. This phenomenon of animosity between the parties is known as affective polarization. We trace its origins to the power of partisanship as a social identity, and explain the factors that intensify partisan animus. We also explore the consequences of affective polarization, highlighting how partisan affect influences attitudes and behaviors well outside the political sphere. Finally, we discuss strategies that might mitigate partisan discord and conclude with suggestions for future work.",
+            "personList": [
+              {
+                "name": "Iyengar S.",
+                "personType": "author"
+              },
+              {
+                "name": "Lelkes Y.",
+                "personType": "author"
+              },
+              {
+                "name": "Levendusky M.",
+                "personType": "author"
+              },
+              {
+                "name": "Malhotra N.",
+                "personType": "author"
+              },
+              {
+                "name": "Westwood S. J.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Iyengar</surname> <given-names>S.</given-names></name>, <name><surname>Lelkes</surname> <given-names>Y.</given-names></name>, <name><surname>Levendusky</surname> <given-names>M.</given-names></name>, <name><surname>Malhotra</surname> <given-names>N.</given-names></name>, &amp; <name><surname>Westwood</surname> <given-names>S. J.</given-names></name> (<span class=\"yearStyle\">2019</span>). The origins and consequences of affective polarization in the United States. <span class=\"sourceStyle\"><i>Annual Review of Political Science</i></span>, <span class=\"volStyele\"><i>22</i></span>, 129-146. ",
+            "doi": "10.1146/annurev-polisci-051117-073034"
+          }
+        ]
+      },
+      {
+        "sourceEn": "American Psychologist",
+        "bodyP_ids": [
+          "mag_rich_body_p_14"
+        ],
+        "publicationType": "journal",
+        "id": "b33",
+        "label": "[33]",
+        "nian": 2006,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "The \"end of ideology\" was declared by social scientists in the aftermath of World War II. They argued that (a) ordinary citizens' political attitudes lack the kind of stability, consistency, and constraint that ideology requires; (b) ideological constructs such as liberalism and conservatism lack motivational potency and behavioral significance; (c) there are no major differences in content (or substance) between liberal and conservative points of view; and (d) there are few important differences in psychological processes (or styles) that underlie liberal versus conservative orientations. The end-of-ideologists were so influential that researchers ignored the topic of ideology for many years. However, current political realities, recent data from the American National Election Studies, and results from an emerging psychological paradigm provide strong grounds for returning to the study of ideology. Studies reveal that there are indeed meaningful political and psychological differences that covary with ideological self-placement. Situational variables--including system threat and mortality salience--and dispositional variables--including openness and conscientiousness--affect the degree to which an individual is drawn to liberal versus conservative leaders, parties, and opinions. A psychological analysis is also useful for understanding the political divide between \"red states\" and \"blue states.\"((c) 2006 APA, all rights reserved).",
+            "personList": [
+              {
+                "name": "Jost J. T.",
+                "personType": "author"
+              }
+            ],
+            "pmid": "17032067",
+            "content": "<name><surname>Jost</surname> <given-names>J. T.</given-names></name> (<span class=\"yearStyle\">2006</span>). The end of the end of ideology. <span class=\"sourceStyle\"><i>American Psychologist</i></span>, <span class=\"volStyele\"><i>61</i></span>(7), 651-670. ",
+            "doi": "10.1037/0003-066X.61.7.651"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Current Opinion in Psychology",
+        "bodyP_ids": [
+          "mag_rich_body_p_15"
+        ],
+        "publicationType": "journal",
+        "id": "b34",
+        "label": "[34]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Ideological belief systems arise from epistemic, existential, and relational motives to reduce uncertainty, threat, and social discord. According to system justification theory, however, some ideologies-such as those that are conservative, religious, and legitimizing of the status quo-are especially appealing to people whose epistemic, existential, and relational motives are chronically or temporarily heightened. In this article, we focus on relational motivation, describing evidence that conservatives are more likely than liberals to: prioritize values of conformity and tradition; possess a strong desire to share reality with like-minded others; perceive within-group consensus when making political and non-political judgments; be influenced by implicit relational cues and sources who are perceived as similar to them; and maintain homogenous social networks and favor an 'echo chamber' environment that is conducive to the spread of misinformation.Copyright © 2018 Elsevier Ltd. All rights reserved.",
+            "personList": [
+              {
+                "name": "Jost J. T.",
+                "personType": "author"
+              },
+              {
+                "name": "van der Linden S.",
+                "personType": "author"
+              },
+              {
+                "name": "Panagopoulos C.",
+                "personType": "author"
+              },
+              {
+                "name": "Hardin C. D.",
+                "personType": "author"
+              }
+            ],
+            "pmid": "29427900",
+            "content": "<name><surname>Jost</surname> <given-names>J. T.</given-names></name>, &amp; <name><surname>van der Linden</surname> <given-names>S.</given-names></name>, <name><surname>Panagopoulos</surname> <given-names>C.</given-names></name>, &amp; <name><surname>Hardin</surname> <given-names>C. D.</given-names></name> (<span class=\"yearStyle\">2018</span>). Ideological asymmetries in conformity, desire for shared reality, and the spread of misinformation. <span class=\"sourceStyle\"><i>Current Opinion in Psychology</i></span>, <span class=\"volStyele\"><i>23</i></span>, 77-83. ",
+            "doi": "S2352-250X(17)30282-8"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Annual Review of Psychology",
+        "bodyP_ids": [
+          "mag_rich_body_p_18"
+        ],
+        "publicationType": "journal",
+        "id": "b35",
+        "label": "[35]",
+        "nian": 2009,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Ideology has re-emerged as an important topic of inquiry among social, personality, and political psychologists. In this review, we examine recent theory and research concerning the structure, contents, and functions of ideological belief systems. We begin by defining the construct and placing it in historical and philosophical context. We then examine different perspectives on how many (and what types of) dimensions individuals use to organize their political opinions. We investigate (a) how and to what extent individuals acquire the discursive contents associated with various ideologies, and (b) the social-psychological functions that these ideologies serve for those who adopt them. Our review highlights \"elective affinities\" between situational and dispositional needs of individuals and groups and the structure and contents of specific ideologies. Finally, we consider the consequences of ideology, especially with respect to attitudes, evaluations, and processes of system justification.",
+            "personList": [
+              {
+                "name": "Jost J. T.",
+                "personType": "author"
+              },
+              {
+                "name": "Federico C. M.",
+                "personType": "author"
+              },
+              {
+                "name": "Napier J. L.",
+                "personType": "author"
+              }
+            ],
+            "pmid": "19035826",
+            "content": "<name><surname>Jost</surname> <given-names>J. T.</given-names></name>, <name><surname>Federico</surname> <given-names>C. M.</given-names></name>, &amp; <name><surname>Napier</surname> <given-names>J. L.</given-names></name> (<span class=\"yearStyle\">2009</span>). Political ideology: its structure, functions, and elective affinities. <span class=\"sourceStyle\"><i>Annual Review of Psychology</i></span>, <span class=\"volStyele\"><i>60</i></span>, 307-337. ",
+            "doi": "10.1146/annurev.psych.60.110707.163600"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Psychological Bulletin",
+        "bodyP_ids": [
+          "mag_rich_body_p_18"
+        ],
+        "publicationType": "journal",
+        "id": "b36",
+        "label": "[36]",
+        "nian": 2003,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Analyzing political conservatism as motivated social cognition integrates theories of personality (authoritarianism, dogmatism-intolerance of ambiguity), epistemic and existential needs (for closure, regulatory focus, terror management), and ideological rationalization (social dominance, system justification). A meta-analysis (88 samples, 12 countries, 22,818 cases) confirms that several psychological variables predict political conservatism: death anxiety (weighted mean r =.50); system instability (.47); dogmatism-intolerance of ambiguity (.34); openness to experience (-.32); uncertainty tolerance (-.27); needs for order, structure, and closure (.26); integrative complexity (-.20); fear of threat and loss (.18); and self-esteem (-.09). The core ideology of conservatism stresses resistance to change and justification of inequality and is motivated by needs that vary situationally and dispositionally to manage uncertainty and threat.",
+            "personList": [
+              {
+                "name": "Jost J. T.",
+                "personType": "author"
+              },
+              {
+                "name": "Glaser J.",
+                "personType": "author"
+              },
+              {
+                "name": "Kruglanski A. W.",
+                "personType": "author"
+              },
+              {
+                "name": "Sulloway F. J.",
+                "personType": "author"
+              }
+            ],
+            "pmid": "12784934",
+            "content": "<name><surname>Jost</surname> <given-names>J. T.</given-names></name>, <name><surname>Glaser</surname> <given-names>J.</given-names></name>, <name><surname>Kruglanski</surname> <given-names>A. W.</given-names></name>, &amp; <name><surname>Sulloway</surname> <given-names>F. J.</given-names></name> (<span class=\"yearStyle\">2003</span>). Political conservatism as motivated social cognition. <span class=\"sourceStyle\"><i>Psychological Bulletin</i></span>, <span class=\"volStyele\"><i>129</i></span>(3), 339-375. ",
+            "doi": "10.1037/0033-2909.129.3.339"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Personality and Social Psychology Bulletin",
+        "bodyP_ids": [
+          "mag_rich_body_p_15"
+        ],
+        "publicationType": "journal",
+        "id": "b37",
+        "label": "[37]",
+        "nian": 2007,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Three studies are conducted to assess the uncertainty- threat model of political conservatism, which posits that psychological needs to manage uncertainty and threat are associated with political orientation. Results from structural equation models provide consistent support for the hypothesis that uncertainty avoidance (e.g., need for order, intolerance of ambiguity, and lack of openness to experience) and threat management (e.g., death anxiety, system threat, and perceptions of a dangerous world) each contributes independently to conservatism (vs. liberalism). No support is obtained for alternative models, which predict that uncertainty and threat management are associated with ideological extremism or extreme forms of conservatism only. Study 3 also reveals that resistance to change fully mediates the association between uncertainty avoidance and conservatism, whereas opposition to equality partially mediates the association between threat and conservatism. Implications for understanding the epistemic and existential bases of political orientation are discussed.",
+            "personList": [
+              {
+                "name": "Jost J. T.",
+                "personType": "author"
+              },
+              {
+                "name": "Napier J. L.",
+                "personType": "author"
+              },
+              {
+                "name": "Thorisdottir H.",
+                "personType": "author"
+              },
+              {
+                "name": "Gosling S. D.",
+                "personType": "author"
+              },
+              {
+                "name": "Palfai T. P.",
+                "personType": "author"
+              },
+              {
+                "name": "Ostafin B.",
+                "personType": "author"
+              }
+            ],
+            "pmid": "17620621",
+            "content": "<name><surname>Jost</surname> <given-names>J. T.</given-names></name>, <name><surname>Napier</surname> <given-names>J. L.</given-names></name>, <name><surname>Thorisdottir</surname> <given-names>H.</given-names></name>, <name><surname>Gosling</surname> <given-names>S. D.</given-names></name>, <name><surname>Palfai</surname> <given-names>T. P.</given-names></name>, &amp; <name><surname>Ostafin</surname> <given-names>B.</given-names></name> (<span class=\"yearStyle\">2007</span>). Are needs to manage uncertainty and threat associated with political conservatism or ideological extremity?. <span class=\"sourceStyle\"><i>Personality and Social Psychology Bulletin</i></span>, <span class=\"volStyele\"><i>33</i></span>(7), 989-1007. ",
+            "doi": "10.1177/0146167207301028"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Asian Journal of Social Psychology",
+        "bodyP_ids": [
+          "mag_rich_body_p_10"
+        ],
+        "publicationType": "journal",
+        "id": "b38",
+        "label": "[38]",
+        "nian": 2003,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Karasawa M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Karasawa</surname> <given-names>M.</given-names></name> (<span class=\"yearStyle\">2003</span>). Projecting group liking and ethnocentrism on in-group members: False consensus effect of attitude strength. <span class=\"sourceStyle\"><i>Asian Journal of Social Psychology</i></span>, <span class=\"volStyele\"><i>6</i></span>(2), 103-116. ",
+            "url": "https://onlinelibrary.wiley.com/toc/1467839x/6/2",
+            "doi": "10.1111/ajsp.2003.6.issue-2"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Social Media+ Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_21"
+        ],
+        "publicationType": "journal",
+        "id": "b39",
+        "label": "[39]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Kligler-Vilenchik N.",
+                "personType": "author"
+              },
+              {
+                "name": "Baden C.",
+                "personType": "author"
+              },
+              {
+                "name": "Yarchi M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Kligler-Vilenchik</surname> <given-names>N.</given-names></name>, <name><surname>Baden</surname> <given-names>C.</given-names></name>, &amp; <name><surname>Yarchi</surname> <given-names>M.</given-names></name> (<span class=\"yearStyle\">2020</span>). Interpretative polarization across platforms: How political disagreement develops over time on Facebook, Twitter,and WhatsApp. <span class=\"sourceStyle\"><i>Social Media+ Society</i></span>, <span class=\"volStyele\"><i>6</i></span>(3), 1-13."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Annals of the International Communication Association",
+        "bodyP_ids": [
+          "mag_rich_body_p_21"
+        ],
+        "publicationType": "journal",
+        "id": "b40",
+        "label": "[40]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Kubin E.",
+                "personType": "author"
+              },
+              {
+                "name": "von Sikorski C.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Kubin</surname> <given-names>E.</given-names></name>, &amp; <name><surname>von Sikorski</surname> <given-names>C.</given-names></name> (<span class=\"yearStyle\">2021</span>). The role of (social) media in political polarization: a systematic review. <span class=\"sourceStyle\"><i>Annals of the International Communication Association</i></span>, <span class=\"volStyele\"><i>45</i></span>(3), 188-206. ",
+            "url": "https://academic.oup.com/anncom/article/45/3/188/7912664",
+            "doi": "10.1080/23808985.2021.1976070"
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_18"
+        ],
+        "publicationType": "journal",
+        "id": "b41",
+        "label": "[41]",
+        "nian": 2005,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Lavine H.",
+                "personType": "author"
+              },
+              {
+                "name": "Lodge M.",
+                "personType": "author"
+              },
+              {
+                "name": "Freitas K.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Lavine</surname> <given-names>H.</given-names></name>, <name><surname>Lodge</surname> <given-names>M.</given-names></name>, &amp; <name><surname>Freitas</surname> <given-names>K.</given-names></name> (<span class=\"yearStyle\">2005</span>). Threat, authoritarianism, and selective exposure to information. <span class=\"volStyele\"><i>26</i></span>(2), 219-244."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Annual Review of Political Science",
+        "bodyP_ids": [
+          "mag_rich_body_p_5"
+        ],
+        "publicationType": "journal",
+        "id": "b42",
+        "label": "[42]",
+        "nian": 2006,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Layman G. C.",
+                "personType": "author"
+              },
+              {
+                "name": "Carsey T. M.",
+                "personType": "author"
+              },
+              {
+                "name": "Horowitz J. M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Layman</surname> <given-names>G. C.</given-names></name>, <name><surname>Carsey</surname> <given-names>T. M.</given-names></name>, &amp; <name><surname>Horowitz</surname> <given-names>J. M.</given-names></name> (<span class=\"yearStyle\">2006</span>). Party polarization in American politics: Characteristics, causes, and consequences. <span class=\"sourceStyle\"><i>Annual Review of Political Science</i></span>, <span class=\"volStyele\"><i>9</i></span>, 83-110. ",
+            "url": "https://www.annualreviews.org/toc/polisci/9/1",
+            "doi": "10.1146/polisci.2006.9.issue-1"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Nature Human Behaviour",
+        "bodyP_ids": [
+          "mag_rich_body_p_9"
+        ],
+        "publicationType": "journal",
+        "id": "b43",
+        "label": "[43]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Across seven experiments and one survey (n = 4,282), people consistently overestimated out-group negativity towards the collective behaviour of their in-group. This negativity bias in group meta-perception was present across multiple competitive (but not cooperative) intergroup contexts and appears to be yoked to group psychology more generally; we observed negativity bias for estimation of out-group, anonymized-group and even fellow in-group members' perceptions. Importantly, in the context of US politics, greater inaccuracy was associated with increased belief that the out-group is motivated by purposeful obstructionism. However, an intervention that informed participants of the inaccuracy of their beliefs reduced negative out-group attributions, and was more effective for those whose group meta-perceptions were more inaccurate. In sum, we highlight a pernicious bias in social judgements of how we believe 'they' see 'our' behaviour, demonstrate how such inaccurate beliefs can exacerbate intergroup conflict and provide an avenue for reducing the negative effects of inaccuracy.",
+            "personList": [
+              {
+                "name": "Lees J.",
+                "personType": "author"
+              },
+              {
+                "name": "Cikara M.",
+                "personType": "author"
+              }
+            ],
+            "pmid": "31712763",
+            "content": "<name><surname>Lees</surname> <given-names>J.</given-names></name>, &amp; <name><surname>Cikara</surname> <given-names>M.</given-names></name> (<span class=\"yearStyle\">2020</span>). Inaccurate group meta-perceptions drive negative out-group attributions in competitive contexts. <span class=\"sourceStyle\"><i>Nature Human Behaviour</i></span>, <span class=\"volStyele\"><i>4</i></span>(3), 279-286. ",
+            "doi": "10.1038/s41562-019-0766-4"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Mass Communication and Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_21"
+        ],
+        "publicationType": "journal",
+        "id": "b44",
+        "label": "[44]",
+        "nian": 2022,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Lee S.",
+                "personType": "author"
+              },
+              {
+                "name": "Rojas H.",
+                "personType": "author"
+              },
+              {
+                "name": "Yamamoto M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Lee</surname> <given-names>S.</given-names></name>, <name><surname>Rojas</surname> <given-names>H.</given-names></name>, &amp; <name><surname>Yamamoto</surname> <given-names>M.</given-names></name> (<span class=\"yearStyle\">2022</span>). Social media, messaging apps, and affective polarization in the United States and Japan. <span class=\"sourceStyle\"><i>Mass Communication and Society</i></span>, <span class=\"volStyele\"><i>25</i></span>(5), 673-697. ",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/15205436.2021.1953534",
+            "doi": "10.1080/15205436.2021.1953534"
+          }
+        ]
+      },
+      {
+        "sourceEn": "American economic review",
+        "bodyP_ids": [
+          "mag_rich_body_p_21"
+        ],
+        "publicationType": "journal",
+        "id": "b45",
+        "label": "[45]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Does the consumption of ideologically congruent news on social media exacerbate polarization? I estimate the effects of social media news exposure by conducting a large field experiment randomly offering participants subscriptions to conservative or liberal news outlets on Facebook. I collect data on the causal chain of media effects: subscriptions to outlets, exposure to news on Facebook, visits to online news sites, and sharing of posts, as well as changes in political opinions and attitudes. Four main findings emerge. First, random variation in exposure to news on social media substantially affects the slant of news sites that individuals visit. Second, exposure to counter-attitudinal news decreases negative attitudes toward the opposing political party. Third, in contrast to the effect on attitudes, I find no evidence that the political leanings of news outlets affect political opinions. Fourth, Facebook’s algorithm is less likely to supply individuals with posts from counter-attitudinal outlets, conditional on individuals subscribing to them. Together, the results suggest that social media algorithms may limit exposure to counter-attitudinal news and thus increase polarization. (JEL C93, D72, L82)",
+            "personList": [
+              {
+                "name": "Levy R. E.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Levy</surname> <given-names>R. E.</given-names></name> (<span class=\"yearStyle\">2021</span>). Social media, news consumption, and polarization: Evidence from a field experiment. <span class=\"sourceStyle\"><i>American economic review</i></span>, <span class=\"volStyele\"><i>111</i></span>(3), 831-870. ",
+            "url": "https://pubs.aeaweb.org/doi/10.1257/aer.20191777",
+            "doi": "10.1257/aer.20191777"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Public Opinion Quarterly",
+        "bodyP_ids": [
+          "mag_rich_body_p_3"
+        ],
+        "publicationType": "journal",
+        "id": "b46",
+        "label": "[46]",
+        "nian": 2016,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Lelkes Y.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Lelkes</surname> <given-names>Y.</given-names></name> (<span class=\"yearStyle\">2016</span>). Mass polarization: Manifestations and measurements. <span class=\"sourceStyle\"><i>Public Opinion Quarterly</i></span>, <span class=\"volStyele\"><i>80</i></span>(S1), 392-410. ",
+            "url": "https://academic.oup.com/poq/article-lookup/doi/10.1093/poq/nfw005",
+            "doi": "10.1093/poq/nfw005"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Psychological Bulletin",
+        "bodyP_ids": [
+          "mag_rich_body_p_10",
+          "mag_rich_body_p_36"
+        ],
+        "publicationType": "journal",
+        "id": "b47",
+        "label": "[47]",
+        "nian": 1987,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Marks G.",
+                "personType": "author"
+              },
+              {
+                "name": "Miller N.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Marks</surname> <given-names>G.</given-names></name>, &amp; <name><surname>Miller</surname> <given-names>N.</given-names></name> (<span class=\"yearStyle\">1987</span>). Ten years of research on the false-consensus effect: An empirical and theoretical review. <span class=\"sourceStyle\"><i>Psychological Bulletin</i></span>, <span class=\"volStyele\"><i>102</i></span>(1), 72-90. ",
+            "url": "https://doi.apa.org/doi/10.1037/0033-2909.102.1.72",
+            "doi": "10.1037/0033-2909.102.1.72"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Polarized America: The Dance of Ideology and Unequal Riches",
+        "bodyP_ids": [
+          "mag_rich_body_p_5"
+        ],
+        "publicationType": "book",
+        "id": "b48",
+        "label": "[48]",
+        "nian": 2006,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "McCarty N.",
+                "personType": "author"
+              },
+              {
+                "name": "Poole K. T.",
+                "personType": "author"
+              },
+              {
+                "name": "Rosenthal H.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>McCarty</surname> <given-names>N.</given-names></name>, <name><surname>Poole</surname> <given-names>K. T.</given-names></name>, &amp; <name><surname>Rosenthal</surname> <given-names>H.</given-names></name> (<span class=\"yearStyle\">2006</span>). <span class=\"sourceStyle\"><i>Polarized America: The Dance of Ideology and Unequal Riches</i></span>. Cambridge, MA: The MIT Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Communication Research",
+        "bodyP_ids": [
+          "mag_rich_body_p_21"
+        ],
+        "publicationType": "journal",
+        "id": "b49",
+        "label": "[49]",
+        "nian": 2014,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Much of the literature on polarization and selective exposure presumes that the internet exacerbates the fragmentation of the media and the citizenry. Yet this ignores how the widespread use of social media changes news consumption. Social media provide readers a choice of stories from different sources that come recommended from politically heterogeneous individuals, in a context that emphasizes social value over partisan affiliation. Building on existing models of news selectivity to emphasize information utility, we hypothesize that social media’s distinctive feature, social endorsements, trigger several decision heuristics that suggest utility. In two experiments, we demonstrate that stronger social endorsements increase the probability that people select content and that their presence reduces partisan selective exposure to levels indistinguishable from chance.",
+            "personList": [
+              {
+                "name": "Messing S.",
+                "personType": "author"
+              },
+              {
+                "name": "Westwood S. J.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Messing</surname> <given-names>S.</given-names></name>, &amp; <name><surname>Westwood</surname> <given-names>S. J.</given-names></name> (<span class=\"yearStyle\">2014</span>). Selective exposure in the age of social media: Endorsements trump partisan source affiliation when selecting news online. <span class=\"sourceStyle\"><i>Communication Research</i></span>, <span class=\"volStyele\"><i>41</i></span>(8), 1042-1063. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/0093650212466406",
+            "doi": "10.1177/0093650212466406"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Political Psychology",
+        "bodyP_ids": [
+          "mag_rich_body_p_18"
+        ],
+        "publicationType": "journal",
+        "id": "b50",
+        "label": "[50]",
+        "nian": 2006,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Mirels H. L.",
+                "personType": "author"
+              },
+              {
+                "name": "Dean J. B.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Mirels</surname> <given-names>H. L.</given-names></name>, &amp; <name><surname>Dean</surname> <given-names>J. B.</given-names></name> (<span class=\"yearStyle\">2006</span>). Right-Wing authoritarianism, attitude salience and beliefs about matters of fact. <span class=\"sourceStyle\"><i>Political Psychology</i></span>, <span class=\"volStyele\"><i>27</i></span>(6), 839-866. ",
+            "url": "https://onlinelibrary.wiley.com/toc/14679221/27/6",
+            "doi": "10.1111/pops.2006.27.issue-6"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Proceedings of the National Academy of Sciences",
+        "bodyP_ids": [
+          "mag_rich_body_p_9"
+        ],
+        "publicationType": "conf-proc",
+        "id": "b51",
+        "label": "[51]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Moore-Berg S. L.",
+                "personType": "author"
+              },
+              {
+                "name": "Ankori-Karlinsky L. O.",
+                "personType": "author"
+              },
+              {
+                "name": "Hameiri B.",
+                "personType": "author"
+              },
+              {
+                "name": "Bruneau E.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Moore-Berg</surname> <given-names>S. L.</given-names></name>, <name><surname>Ankori-Karlinsky</surname> <given-names>L. O.</given-names></name>, <name><surname>Hameiri</surname> <given-names>B.</given-names></name>, &amp; <name><surname>Bruneau</surname> <given-names>E.</given-names></name> (<span class=\"yearStyle\">2020</span>). Exaggerated meta-perceptions predict intergroup hostility between American political partisans. <span class=\"sourceStyle\"><i>Proceedings of the National Academy of Sciences</i></span>, <span class=\"volStyele\"><i>117</i></span>(26), 14864-14872."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of Personality and Social Psychology",
+        "bodyP_ids": [
+          "mag_rich_body_p_4"
+        ],
+        "publicationType": "journal",
+        "id": "b52",
+        "label": "[52]",
+        "nian": 1969,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Moscovici S.",
+                "personType": "author"
+              },
+              {
+                "name": "Zavalloni M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Moscovici</surname> <given-names>S.</given-names></name>, &amp; <name><surname>Zavalloni</surname> <given-names>M.</given-names></name> (<span class=\"yearStyle\">1969</span>). The group as a polarizer of attitudes. <span class=\"sourceStyle\"><i>Journal of Personality and Social Psychology</i></span>, <span class=\"volStyele\"><i>12</i></span>(2), 125-135. ",
+            "url": "https://doi.apa.org/doi/10.1037/h0027568",
+            "doi": "10.1037/h0027568"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of Experimental Social Psychology",
+        "bodyP_ids": [
+          "mag_rich_body_p_10"
+        ],
+        "publicationType": "journal",
+        "id": "b53",
+        "label": "[53]",
+        "nian": 1985,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Mullen B.",
+                "personType": "author"
+              },
+              {
+                "name": "Atkins J. L.",
+                "personType": "author"
+              },
+              {
+                "name": "Champion D. S.",
+                "personType": "author"
+              },
+              {
+                "name": "Edwards C.",
+                "personType": "author"
+              },
+              {
+                "name": "Hardy D.",
+                "personType": "author"
+              },
+              {
+                "name": "Story J. E.",
+                "personType": "author"
+              },
+              {
+                "name": "Vanderklok M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Mullen</surname> <given-names>B.</given-names></name>, <name><surname>Atkins</surname> <given-names>J. L.</given-names></name>, <name><surname>Champion</surname> <given-names>D. S.</given-names></name>, <name><surname>Edwards</surname> <given-names>C.</given-names></name>, <name><surname>Hardy</surname> <given-names>D.</given-names></name>, <name><surname>Story</surname> <given-names>J. E.</given-names></name>, &amp; <name><surname>Vanderklok</surname> <given-names>M.</given-names></name> (<span class=\"yearStyle\">1985</span>). The false consensus effect: A meta-analysis of 115 hypothesis tests. <span class=\"sourceStyle\"><i>Journal of Experimental Social Psychology</i></span>, <span class=\"volStyele\"><i>21</i></span>(3), 262-283. ",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/0022103185900204",
+            "doi": "10.1016/0022-1031(85)90020-4"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of Experimental Social Psychology",
+        "bodyP_ids": [
+          "mag_rich_body_p_10"
+        ],
+        "publicationType": "journal",
+        "id": "b54",
+        "label": "[54]",
+        "nian": 1992,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Mullen B.",
+                "personType": "author"
+              },
+              {
+                "name": "Dovidio J. F.",
+                "personType": "author"
+              },
+              {
+                "name": "Johnson C.",
+                "personType": "author"
+              },
+              {
+                "name": "Copper C.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Mullen</surname> <given-names>B.</given-names></name>, <name><surname>Dovidio</surname> <given-names>J. F.</given-names></name>, <name><surname>Johnson</surname> <given-names>C.</given-names></name>, &amp; <name><surname>Copper</surname> <given-names>C.</given-names></name> (<span class=\"yearStyle\">1992</span>). In-group-out-group differences in social projection. <span class=\"sourceStyle\"><i>Journal of Experimental Social Psychology</i></span>, <span class=\"volStyele\"><i>28</i></span>(5), 422-440. ",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/002210319290040Q",
+            "doi": "10.1016/0022-1031(92)90040-Q"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Political Psychology",
+        "bodyP_ids": [
+          "mag_rich_body_p_17"
+        ],
+        "publicationType": "journal",
+        "id": "b55",
+        "label": "[55]",
+        "nian": 2005,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Oesterreich D.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Oesterreich</surname> <given-names>D.</given-names></name> (<span class=\"yearStyle\">2005</span>). Flight into security: A new approach and measure of the authoritarian personality. <span class=\"sourceStyle\"><i>Political Psychology</i></span>, <span class=\"volStyele\"><i>26</i></span>(2), 275-298. ",
+            "url": "https://onlinelibrary.wiley.com/toc/14679221/26/2",
+            "doi": "10.1111/pops.2005.26.issue-2"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Annual Review of Political Science",
+        "bodyP_ids": [
+          "mag_rich_body_p_20"
+        ],
+        "publicationType": "journal",
+        "id": "b56",
+        "label": "[56]",
+        "nian": 2013,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Prior M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Prior</surname> <given-names>M.</given-names></name> (<span class=\"yearStyle\">2013</span>). Media and political polarization. <span class=\"sourceStyle\"><i>Annual Review of Political Science</i></span>, <span class=\"volStyele\"><i>16</i></span>, 101-127. ",
+            "url": "https://www.annualreviews.org/toc/polisci/16/1",
+            "doi": "10.1146/polisci.2013.16.issue-1"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of Experimental Social Psychology",
+        "bodyP_ids": [
+          "mag_rich_body_p_9"
+        ],
+        "publicationType": "journal",
+        "id": "b57",
+        "label": "[57]",
+        "nian": 1977,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Ross L.",
+                "personType": "author"
+              },
+              {
+                "name": "Greene D.",
+                "personType": "author"
+              },
+              {
+                "name": "House P.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Ross</surname> <given-names>L.</given-names></name>, <name><surname>Greene</surname> <given-names>D.</given-names></name>, &amp; <name><surname>House</surname> <given-names>P.</given-names></name> (<span class=\"yearStyle\">1977</span>). The “false consensus effect”: An egocentric bias in social perception and attribution processes. <span class=\"sourceStyle\"><i>Journal of Experimental Social Psychology</i></span>, <span class=\"volStyele\"><i>13</i></span>(3), 279-301. ",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/002210317790049X",
+            "doi": "10.1016/0022-1031(77)90049-X"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Proceedings of the National Academy of Sciences",
+        "bodyP_ids": [
+          "mag_rich_body_p_21"
+        ],
+        "publicationType": "conf-proc",
+        "id": "b58",
+        "label": "[58]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Rathje S.",
+                "personType": "author"
+              },
+              {
+                "name": "Van Bavel J. J.",
+                "personType": "author"
+              },
+              {
+                "name": "Van Der Linden S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Rathje</surname> <given-names>S.</given-names></name>, <name><surname>Van Bavel</surname> <given-names>J. J.</given-names></name>, &amp; <name><surname>Van Der Linden</surname> <given-names>S.</given-names></name> (<span class=\"yearStyle\">2021</span>). Out-group animosity drives engagement on social media. <span class=\"sourceStyle\"><i>Proceedings of the National Academy of Sciences</i></span>, <span class=\"volStyele\"><i>118</i></span>(26), e2024292118."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Psychological Science",
+        "bodyP_ids": [
+          "mag_rich_body_p_17"
+        ],
+        "publicationType": "journal",
+        "id": "b59",
+        "label": "[59]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "The Big Five personality traits have been linked to dozens of life outcomes. However, metascientific research has raised questions about the replicability of behavioral science. The Life Outcomes of Personality Replication (LOOPR) Project was therefore conducted to estimate the replicability of the personality-outcome literature. Specifically, I conducted preregistered, high-powered (median N = 1,504) replications of 78 previously published trait-outcome associations. Overall, 87% of the replication attempts were statistically significant in the expected direction. The replication effects were typically 77% as strong as the corresponding original effects, which represents a significant decline in effect size. The replicability of individual effects was predicted by the effect size and design of the original study, as well as the sample size and statistical power of the replication. These results indicate that the personality-outcome literature provides a reasonably accurate map of trait-outcome associations but also that it stands to benefit from efforts to improve replicability.",
+            "personList": [
+              {
+                "name": "Soto C. J.",
+                "personType": "author"
+              }
+            ],
+            "pmid": "30950321",
+            "content": "<name><surname>Soto</surname> <given-names>C. J.</given-names></name> (<span class=\"yearStyle\">2019</span>). How replicable are links between personality traits and consequential life outcomes? The life outcomes of personality replication project. <span class=\"sourceStyle\"><i>Psychological Science</i></span>, <span class=\"volStyele\"><i>30</i></span>(5), 711-727. ",
+            "doi": "10.1177/0956797619831612"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Personality and Social Psychology Bulletin",
+        "bodyP_ids": [
+          "mag_rich_body_p_15"
+        ],
+        "publicationType": "journal",
+        "id": "b60",
+        "label": "[60]",
+        "nian": 2014,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "In three studies, we examined (a) whether conservatives possess a stronger desire to share reality than liberals and are therefore more likely to perceive consensus with politically like-minded others even for non-political judgments and, if so, (b) whether motivated perceptions of consensus would give conservatives an edge in progressing toward collective goals. In Study 1, participants estimated ingroup consensus on non-political judgments. Conservatives perceived more ingroup consensus than liberals, regardless of the amount of actual consensus. The desire to share reality mediated the relationship between ideology and perceived ingroup consensus. Study 2 replicated these results and demonstrated that perceiving ingroup consensus predicted a sense of collective efficacy in politics. In Study 3, experimental manipulations of affiliative motives eliminated ideological differences in the desire to share reality. A sense of collective efficacy predicted intentions to vote in a major election. Implications for the attainment of shared goals are discussed.",
+            "personList": [
+              {
+                "name": "Stern C.",
+                "personType": "author"
+              },
+              {
+                "name": "West T. V.",
+                "personType": "author"
+              },
+              {
+                "name": "Jost J. T.",
+                "personType": "author"
+              },
+              {
+                "name": "Rule N. O.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Stern</surname> <given-names>C.</given-names></name>, <name><surname>West</surname> <given-names>T. V.</given-names></name>, <name><surname>Jost</surname> <given-names>J. T.</given-names></name>, &amp; <name><surname>Rule</surname> <given-names>N. O.</given-names></name> (<span class=\"yearStyle\">2014</span>). “Ditto heads”: Do conservatives perceive greater consensus within their ranks than liberals?. <span class=\"sourceStyle\"><i>Personality and Social Psychology Bulletin</i></span>, <span class=\"volStyele\"><i>40</i></span>(9), 1162-1177. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/0146167214537834",
+            "doi": "10.1177/0146167214537834"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Psychological Science",
+        "bodyP_ids": [
+          "mag_rich_body_p_15"
+        ],
+        "publicationType": "journal",
+        "id": "b61",
+        "label": "[61]",
+        "nian": 2014,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "In two studies, we demonstrated that liberals underestimate their similarity to other liberals (i.e., display truly false uniqueness), whereas moderates and conservatives overestimate their similarity to other moderates and conservatives (i.e., display truly false consensus; Studies 1 and 2). We further demonstrated that a fundamental difference between liberals and conservatives in the motivation to feel unique explains this ideological distinction in the accuracy of estimating similarity (Study 2). Implications of the accuracy of consensus estimates for mobilizing liberal and conservative political movements are discussed.",
+            "personList": [
+              {
+                "name": "Stern C.",
+                "personType": "author"
+              },
+              {
+                "name": "West T. V.",
+                "personType": "author"
+              },
+              {
+                "name": "Schmitt P. G.",
+                "personType": "author"
+              }
+            ],
+            "pmid": "24247730",
+            "content": "<name><surname>Stern</surname> <given-names>C.</given-names></name>, <name><surname>West</surname> <given-names>T. V.</given-names></name>, &amp; <name><surname>Schmitt</surname> <given-names>P. G.</given-names></name> (<span class=\"yearStyle\">2014</span>). The liberal illusion of uniqueness. <span class=\"sourceStyle\"><i>Psychological Science</i></span>, <span class=\"volStyele\"><i>25</i></span>(1), 137-144. ",
+            "doi": "10.1177/0956797613500796"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Trends in Cognitive Sciences",
+        "bodyP_ids": [
+          "mag_rich_body_p_21"
+        ],
+        "publicationType": "journal",
+        "id": "b62",
+        "label": "[62]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "This article reviews the empirical evidence on the relationship between social media and political polarization. We argue that social media shapes polarization through the following social, cognitive, and technological processes: partisan selection, message content, and platform design and algorithms.Copyright © 2021 Elsevier Ltd. All rights reserved.",
+            "personList": [
+              {
+                "name": "Van Bavel J. J.",
+                "personType": "author"
+              },
+              {
+                "name": "Rathje S.",
+                "personType": "author"
+              },
+              {
+                "name": "Harris E.",
+                "personType": "author"
+              },
+              {
+                "name": "Robertson C.",
+                "personType": "author"
+              },
+              {
+                "name": "Sternisko A.",
+                "personType": "author"
+              }
+            ],
+            "pmid": "34429255",
+            "content": "<name><surname>Van Bavel</surname> <given-names>J. J.</given-names></name>, <name><surname>Rathje</surname> <given-names>S.</given-names></name>, <name><surname>Harris</surname> <given-names>E.</given-names></name>, <name><surname>Robertson</surname> <given-names>C.</given-names></name>, &amp; <name><surname>Sternisko</surname> <given-names>A.</given-names></name> (<span class=\"yearStyle\">2021</span>). How social media shapes polarization. <span class=\"sourceStyle\"><i>Trends in Cognitive Sciences</i></span>, <span class=\"volStyele\"><i>25</i></span>(11), 913-916. ",
+            "doi": "10.1016/j.tics.2021.07.013"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Public Opinion Quarterly",
+        "bodyP_ids": [
+          "mag_rich_body_p_21"
+        ],
+        "publicationType": "journal",
+        "id": "b63",
+        "label": "[63]",
+        "nian": 2008,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Wojcieszak M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Wojcieszak</surname> <given-names>M.</given-names></name> (<span class=\"yearStyle\">2008</span>). False consensus goes online: Impact of ideologically homogeneous groups on false consensus. <span class=\"sourceStyle\"><i>Public Opinion Quarterly</i></span>, <span class=\"volStyele\"><i>72</i></span>(4), 781-791. ",
+            "url": "https://academic.oup.com/poq/article-lookup/doi/10.1093/poq/nfn056",
+            "doi": "10.1093/poq/nfn056"
+          }
+        ]
+      },
+      {
+        "sourceEn": "International Journal of Public Opinion Research",
+        "bodyP_ids": [
+          "mag_rich_body_p_10"
+        ],
+        "publicationType": "journal",
+        "id": "b64",
+        "label": "[64]",
+        "nian": 2009,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Wojcieszak M.",
+                "personType": "author"
+              },
+              {
+                "name": "Price V.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Wojcieszak</surname> <given-names>M.</given-names></name>, &amp; <name><surname>Price</surname> <given-names>V.</given-names></name> (<span class=\"yearStyle\">2009</span>). What underlies the false consensus effect? How personal opinion and disagreement affect perception of public opinion. <span class=\"sourceStyle\"><i>International Journal of Public Opinion Research</i></span>, <span class=\"volStyele\"><i>21</i></span>(1), 25-46. ",
+            "url": "https://academic.oup.com/ijpor/article-lookup/doi/10.1093/ijpor/edp001",
+            "doi": "10.1093/ijpor/edp001"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Political Communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_21"
+        ],
+        "publicationType": "journal",
+        "id": "b65",
+        "label": "[65]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Yarchi M.",
+                "personType": "author"
+              },
+              {
+                "name": "Baden C.",
+                "personType": "author"
+              },
+              {
+                "name": "Kligler-Vilenchik N.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Yarchi</surname> <given-names>M.</given-names></name>, <name><surname>Baden</surname> <given-names>C.</given-names></name>, &amp; <name><surname>Kligler-Vilenchik</surname> <given-names>N.</given-names></name> (<span class=\"yearStyle\">2021</span>). Political polarization on the digital sphere: A cross-platform, over-time analysis of interactional, positional, and affective polarization on social media. <span class=\"sourceStyle\"><i>Political Communication</i></span>, <span class=\"volStyele\"><i>38</i></span>(1-2), 98-139. ",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/10584609.2020.1785067",
+            "doi": "10.1080/10584609.2020.1785067"
+          }
+        ]
+      }
+    ],
+    "bioList_cn": [
+      {
+        "content": "<p id=\"com1\">马得勇，中国人民大学国际关系学院教授、深圳大学政府管理学院教授。电子邮箱：<a class=\"mag-xml-email-a\" href=\"mailto:madeyong@ruc.edu.cn\">madeyong@ruc.edu.cn</a>。</p>"
+      },
+      {
+        "content": "<p id=\"com2\">黄敏璇，中国人民大学国际关系学院政治学博士。电子邮箱：<a class=\"mag-xml-email-a\" href=\"mailto:minxuan@ruc.edu.cn\">minxuan@ruc.edu.cn</a>。</p>"
+      }
+    ],
+    "fnList": [
+      {
+        "id": "note1",
+        "content": "<p id=\"C1\">1. 有学者指出，普通民众的态度极化可能呈现三模态（Trimodal）的分布形态，既有的峰度测量对三模态的分布并不敏感，由此容易导致对民意数据中态度极化的误读，但遗憾的是作者未能提出测量三模态的方法。具体参见Downey D. J., &amp; Huffman, M. L. (2001). Attitudinal polarization and trimodal distributions: Measurement problems and theoretical implications. Social Science Quarterly, 82(3), 494-505.</p>"
+      },
+      {
+        "id": "note2",
+        "content": "<p id=\"C2\">2. 运用这一测量方法进行极化现象分析的研究具体参见Kaya, Y., &amp; Sunar, L. (2015). The culture wars redux? The polarization of social and political attitudes in Turkey. Social Currents, 2(4), 393-412.</p>"
+      },
+      {
+        "id": "note3",
+        "content": "<p id=\"C3\">3. 双峰系数的测量具体参见Lelkes Y. (<xref ref-type=\"bibr\" rid=\"b46\">2016</xref>). Mass polarization: Manifestations and measurements. Public Opinion Quarterly, 80(S1), 392-410.</p>"
+      },
+      {
+        "id": "note4",
+        "content": "<p id=\"C4\">4. 极化指数的测量具体参见Lee, F. L. (2016). Impact of social media on opinion polarization in varying times. Communication and the Public, 1(1), 56-71.</p>"
+      },
+      {
+        "id": "note5",
+        "content": "<p id=\"C5\">5. 境内媒体因子分析结果为KMO和Bartlett检验：0.87，p&lt;0.001，方差贡献率为39.5%。境外媒体因子分析结果为KMO和Bartlett检验：0.5，p&lt;0.001，方差贡献率为90.4%。</p>"
+      },
+      {
+        "id": "note6",
+        "content": "<p id=\"C6\">6. 具体参见马得勇，张曙霞（2014）。中国网民的“左”与“右”。《二十一世纪》，（2），86-103。</p>"
+      },
+      {
+        "id": "note7",
+        "content": "<p id=\"C7\">7. 具体测量指标为：“即使父母的要求不合理，子女也应该照办”“服从自己的上司或地位比自己高的人是理所当然的”“国家领袖的肖像权不能随意用在讽刺漫画里”“大家的想法若不一致，社会就混乱”“街道两边的店铺招牌，整齐划一比参差不齐更美观”以及“对那些批评和辱骂国家领袖的人必须予以严惩”的看法，备选项为强烈反对、反对、中立或不确定、同意以及非常同意，赋值为1-5。因子分析结果为KMO和Bartlett检验：0.718，p&lt;0.001，方差贡献率为45.3%。</p>"
+      },
+      {
+        "id": "note8",
+        "content": "<p id=\"C8\">8. （1）政治面貌为虚拟变量，1=党员，0=非党员；（2）性别为虚拟变量，1=男性，0=女性；（3）年收入是通过询问受访者的年收入情况，备选项为“5万元以下”“5-10万”“10-20万”“20-60万”“60万以上”，赋值为1-5，数值越大表示年收入越高；（4）年龄是通过询问受访者的实际年龄，将年龄划分为“18-24岁”“25-29岁”“30-34岁”“35-39岁”“40-44岁”“45-49岁”“50-54岁”“55-60岁”“60岁以上”，赋值为1-9，数值越大表示年龄越大；（5）教育程度是通过询问受访者的受教育程度，备选项为“初中及以下”“高中”“本专科”以及“硕博士”，赋值为1-4，数值越大表示教育程度越高；（6）政治兴趣：原始题目为“总体来说，您对政治类新闻感兴趣吗”，备选项为完全没兴趣、不太感兴趣、一般、比较有兴趣、非常感兴趣，赋值为1-5，数值越大表示兴趣越大。</p>"
+      }
+    ],
+    "article": {
+      "keywordList_cn": [
+        "舆论极化",
+        "虚假共识",
+        "政治价值观",
+        "威权人格",
+        "媒体使用"
+      ],
+      "juan": "45",
+      "zhaiyao_cn": "<p id=\"p00020\">既有对中国舆论形态的研究一般认为网络舆论存在极化的现象，但这些研究仍停留在描述性分析层面，对背后的形成机制关注较少。基于网民调查数据，本研究通过两个典型舆论议题对中国舆论态度是否存在极化及其形成机制进行分析。研究发现，中国网民的舆论态度结构并非像一些人认为的双峰型，而是一种单峰型的分布态势。其中在国内争议性话题上网民的态度呈现出一种偏向中立的相对温和中庸的样态，在外交话题上的态度立场则是一种“强烈同意”政府立场的一边倒分布样态。同时，中国网民中普遍存在高估他人与自己持有相同观点的“虚假共识”效应，且实际态度越极端的个体越容易出现这种现象。在舆论极端化的形成机制上，威权人格、政治价值观等心理因素以及媒体接触均能有效地预测人们的态度极端化，但虚假共识效应则是态度极化的内在因果机制。本研究有助于学界了解中国舆论的真实形态，对建设健康正常的舆论场域亦具有启发意义。</p>",
+      "endNoteUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=EndNote&id=1343",
+      "bibtexUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=BibTeX&id=1343",
+      "articleType": "A",
+      "abstractUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2023/V45/I7/47",
+      "qi": "7",
+      "id": 1343,
+      "nian": 2023,
+      "bianHao": "20230703",
+      "juanUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2023",
+      "shouCiFaBuRiQi": "2023-12-26",
+      "qiShiYe": "47",
+      "qiUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7",
+      "lanMu_cn": "本期话题 / 网络舆论研究",
+      "pdfSize": "1680KB",
+      "risUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=Ris&id=1343",
+      "title_cn": "网络舆论中的态度极化与虚假共识",
+      "jieShuYe": "73",
+      "keywordList_en": [
+        "polarization of public opinion",
+        "false consensus",
+        "political ideology",
+        "authoritarian personality",
+        "media use"
+      ],
+      "endNoteUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=EndNote&id=1343",
+      "zhaiyao_en": "<p id=\"p00025\">Existing studies on public opinion patterns in China generally find polarization within online public opinion. However, these studies stay at the level of descriptive analysis and pay less attention to the underlying formation mechanisms. Based on the 2021 Chinese Netizens Survey, this study analyses whether polarization of public opinion exists and its underlying causal mechanism. Contrary to prior findings, the results show that the structural attitudes of Chinese netizens is not bimodal but a unimodal distribution, of which the position of netizens on domestic controversial topics is relatively neutral and mild, and the attitude on diplomatic topics is a one-sided “strongly support” of the government’s position. Moreover, there are widespread “false consensus” effects in overestimating the proportion of the actual opinions held by others with individuals holding more extreme attitudes showing more “false consensus”. In terms of the formation mechanism, authoritarian personality, ideology, and media exposure can significantly predict the polarization of people’s attitudes, but the false consensus is the internal drive of attitude polarization. While contributing greater insight to public opinion in China, the research results also have significance for the construction of healthy and normal public opinion in China.</p>",
+      "bibtexUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=BibTeX&id=1343",
+      "abstractUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7/47",
+      "juanUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2023",
+      "lanMu_en": "Specific Topic / Internet Public Opinion Research",
+      "qiUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2023/V45/I7",
+      "risUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=Ris&id=1343",
+      "title_en": "Attitudes Polarization and False Consensus in Online Public Opinion",
+      "hasPdf": "true"
+    },
+    "authorList_en": [
+      {
+        "deceased": false,
+        "name_cn": "马得勇",
+        "email": "madeyong@ruc.edu.cn",
+        "name_en": "MA Deyong"
+      },
+      {
+        "deceased": false,
+        "name_cn": "黄敏璇",
+        "email": "minxuan@ruc.edu.cn",
+        "name_en": "HUANG Minxuan"
+      }
+    ],
+    "authorList_cn": [
+      {
+        "deceased": false,
+        "name_cn": "马得勇",
+        "email": "madeyong@ruc.edu.cn",
+        "name_en": "MA Deyong"
+      },
+      {
+        "deceased": false,
+        "name_cn": "黄敏璇",
+        "email": "minxuan@ruc.edu.cn",
+        "name_en": "HUANG Minxuan"
+      }
+    ],
+    "tabList": [
+      {
+        "captionCn": "<p id=\"p00245\">变量的描述性统计</p>",
+        "magId": "6b43bf68-a76b-4e9d-924b-61a440fa0651",
+        "labelCn": "表1",
+        "titleCn": "表1 变量的描述性统计",
+        "id": "T1",
+        "table": "<table class=\"mag_table table\"> <thead> <tr> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">变量</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">样本量</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">均值</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">方差</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">最大值</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">最小值</th></tr></thead> <tbody> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">方方日记态度</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3788</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-2</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">中美外交态度</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3760</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-2</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">方方日记虚假共识</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3788</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">19.7</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">36.5</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-100</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">100</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">中美外交虚假共识</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3788</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">40.7</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">45.7</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-100</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">100</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">政治价值观</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3788</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-0.2</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.5</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-2</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">价值观极化</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3788</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.3</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.5</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">4</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">威权人格</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3788</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-3.1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2.4</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">境内媒体</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3788</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-3.7</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2.3</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">境外媒体</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3788</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-1.5</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2.2</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">年收入</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3788</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2.4</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">5</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">年龄</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3653</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3.3</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2.3</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">9</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">教育程度</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3788</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3.4</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">5</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">政治面貌</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3788</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.3</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.5</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">性别</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3788</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.5</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.5</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">政治兴趣</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3653</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3.7</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">5</td></tr></tbody></table>"
+      },
+      {
+        "captionCn": "<p id=\"p00255\">方方日记和中美外交态度分布的描述性统计</p>",
+        "magId": "2acb8b5e-b491-4b09-b633-b94cf7a3e832",
+        "labelCn": "表2",
+        "titleCn": "表2 方方日记和中美外交态度分布的描述性统计",
+        "id": "T2",
+        "footFnList": [
+          {
+            "pList": [
+              "注：具体议题的含义参见<a href=\"javascript:;\" class=\"mag_content_a mag_xref_fig\" onclick=\"clickFigXref(this,'F2')\" rid=\"F2\">图2</a>和<a href=\"javascript:;\" class=\"mag_content_a mag_xref_fig\" onclick=\"clickFigXref(this,'F3')\" rid=\"F3\">图3</a>注。BC&gt;0.555表示偏向双峰态，BC&lt;0.555表示偏向单峰态；PS的数值范围为0-100，数值越高表示极化程度越高。"
+            ]
+          }
+        ],
+        "table": "<table class=\"mag_table table\"> <thead> <tr> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">舆论议题</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">样本量</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">均值</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">方差</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">偏态</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">峰度</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">双峰系数（BC）</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">极化指数（PS）</th></tr></thead> <tbody> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">方方日记</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3788</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-0.1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2.3</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.19</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">14.69</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">中美外交</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3760</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-0.9</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2.8</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.31</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">70.61</td></tr></tbody></table>"
+      },
+      {
+        "captionCn": "<p id=\"p00300\">方方日记言论态度极化回归分析</p>",
+        "magId": "17341a85-083d-4aa0-a949-4c70a491ed04",
+        "labelCn": "表3",
+        "titleCn": "表3 方方日记言论态度极化回归分析",
+        "id": "T3",
+        "footFnList": [
+          {
+            "pList": [
+              "注：统计方法：有序逻辑斯蒂回归。***表示p&lt;0.001，**表示p&lt;0.01，*表示p&lt;0.05，下同。"
+            ]
+          }
+        ],
+        "table": "<table class=\"mag_table table\"> <thead> <tr> <th valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\" colspan=\"3\">强烈反对</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\" colspan=\"3\">强烈赞同</th></tr></thead> <tbody> <tr> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">回归系数<br/>（Coef.）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">稳健标准<br/>误（Robust<br/>Std. Err.）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">比值比<br/>（Odds<br/>Ratio）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">回归系数<br/>（Coef.）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">稳健标准<br/>误（Robust<br/>Std. Err.）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">比值比<br/>（Odds<br/>Ratio）</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">年龄</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-0.085***</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.021</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.918</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-0.037</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.020</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.964</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">教育程度</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.013</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.047</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.013</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.005</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.051</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.005</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">政治面貌</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.270**</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.095</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.310</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.109</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.095</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.115</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">性别</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.126</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.088</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.134</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.184**</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.084</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.202</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">年收入</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.044</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.046</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.045</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.118**</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.046</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.125</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">政治兴趣</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.040</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.049</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.041</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.213***</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.054</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.237</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">政治价值观</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.177**</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.054</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.458</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-0.169**</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.059</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.698</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">价值观极化</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.612***</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.127</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.844</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.323*</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.131</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.381</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">威权人格</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-0.240</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.055</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.787</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.260***</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.049</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.297</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">境内媒体</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-0.053</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.054</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.948</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.014</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.057</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.014</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">境外媒体</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.364***</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.054</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.439</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.149**</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.051</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.161</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">虚假共识</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.352***</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.052</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.422</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.807***</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.051</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2.242</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Pseudo R<sup>2</sup></td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\" colspan=\"3\">0.044</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\" colspan=\"3\">0.121</td></tr></tbody></table>"
+      },
+      {
+        "captionCn": "<p id=\"p00300\">中美外交言论态度极化回归分析</p>",
+        "magId": "df4b9712-9a5d-413f-a9e2-f0a24408b962",
+        "labelCn": "表4",
+        "titleCn": "表4 中美外交言论态度极化回归分析",
+        "id": "T4",
+        "table": "<table class=\"mag_table table\"> <thead> <tr> <th valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\" colspan=\"3\">强烈反对</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\" colspan=\"3\">强烈赞同</th></tr></thead> <tbody> <tr> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">回归系数<br/>（Coef.）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">稳健标准<br/>误（Robust<br/>Std. Err.）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">比值比<br/>（Odds<br/>Ratio）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">回归系数<br/>（Coef.）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">稳健标准<br/>误（Robust<br/>Std. Err.）</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">比值比<br/>（Odds<br/>Ratio）</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">年龄</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-0.074</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.038</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.920</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-0.014</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.019</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.983</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">教育程度</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-0.008</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.079</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.013</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.111*</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.047</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.094</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">政治面貌</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.122</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.159</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.249</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-0.187</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.096</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.825</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">性别</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.331*</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.151</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.402</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.043</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.085</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.083</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">年收入</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.251**</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.076</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.279</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.112*</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.044</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.124</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">政治兴趣</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-0.045</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.072</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.002</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.217***</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.050</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.239</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">政治价值观</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.015</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.085</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.083</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-0.241***</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.050</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.598</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">价值观极化</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.681***</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.194</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.940</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.338***</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.128</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.385</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">威权人格</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-0.080</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.089</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.936</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.466***</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.048</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.572</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">境内媒体</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.018</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.090</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.951</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.322***</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.056</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.420</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">境外媒体</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-0.057</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.100</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.964</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-0.317***</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.055</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.742</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">虚假共识</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.356**</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.132</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.542</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1.477***</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">0.058</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">4.188</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Pseudo R<sup>2</sup></td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\" colspan=\"3\">0.025</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\" colspan=\"3\">0.275</td></tr></tbody></table>"
+      }
+    ],
+    "journal": {
+      "issn": "1002-5685",
+      "qiKanWangZhi": "http://cjjc.ruc.edu.cn",
+      "qiKanMingCheng_CN": "国际新闻界",
+      "id": 1,
+      "qiKanMingCheng_EN": "Chinese Journal of Journalism & Communication"
+    },
+    "authorList": [
+      {
+        "deceased": false,
+        "name_cn": "马得勇",
+        "email": "madeyong@ruc.edu.cn",
+        "name_en": "MA Deyong"
+      },
+      {
+        "deceased": false,
+        "name_cn": "黄敏璇",
+        "email": "minxuan@ruc.edu.cn",
+        "name_en": "HUANG Minxuan"
+      }
+    ],
+    "fundList_cn": [
+      "国家社科基金重点项目“中国国家形象国际传播的受众心理机制比较研究”(22AZZ003)"
+    ],
+    "figList": [
+      {
+        "captionCn": "<title>：舆论态度极化的形成机制</title>",
+        "magId": "75a91225-8df7-421d-b0b0-d70aa8f5ef51",
+        "labelCn": "图1",
+        "pptUrl": "1002-5685-45-7-47/img_1.jpg.ppt",
+        "figUrl": "1002-5685-45-7-47/img_1.jpg",
+        "titleCn": "图1 ：舆论态度极化的形成机制",
+        "id": "F1",
+        "thumbnailUrl": "1002-5685-45-7-47/thumbnail/img_1.jpg"
+      },
+      {
+        "captionCn": "<title>：方方日记议题态度分布</title> <p id=\"p00160\">注：“实际比例”原题为：“有人认为方方的疫情日记不符合实情，是给党和政府抹黑，必须坚决禁止其发言。对这一观点您的态度是?”备选项为强烈反对、反对、中立或不确定、赞同以及强烈赞同，分别赋值为-2到2，数值越大表示支持程度越高。“相同感知比例”原题为：“你觉得和你观点一致的人在所有成年中国人中能占百分之几?”；“相反感知比例”原题为：“你觉得和你观点相反的人在所有成年中国人中能占百分之几?”</p>",
+        "magId": "65e06c76-861a-4751-9435-a3c16a5de959",
+        "labelCn": "图2",
+        "pptUrl": "1002-5685-45-7-47/img_2.jpg.ppt",
+        "figUrl": "1002-5685-45-7-47/img_2.jpg",
+        "titleContentCn": "<p id=\"p00160\">注：“实际比例”原题为：“有人认为方方的疫情日记不符合实情，是给党和政府抹黑，必须坚决禁止其发言。对这一观点您的态度是?”备选项为强烈反对、反对、中立或不确定、赞同以及强烈赞同，分别赋值为-2到2，数值越大表示支持程度越高。“相同感知比例”原题为：“你觉得和你观点一致的人在所有成年中国人中能占百分之几?”；“相反感知比例”原题为：“你觉得和你观点相反的人在所有成年中国人中能占百分之几?”</p>",
+        "titleCn": "图2 ：方方日记议题态度分布",
+        "id": "F2",
+        "thumbnailUrl": "1002-5685-45-7-47/thumbnail/img_2.jpg"
+      },
+      {
+        "captionCn": "<title>：中美外交议题态度分布</title> <p id=\"p00165\">注：“实际比例”原题为：“2021年3月中美高层战略对话开场白中，中方代表指责‘美国没有资格居高临下同中国说话。’您对中方的发言持什么态度?”。备选项为强烈反对、反对、中立或不确定、赞同以及强烈赞同。分别赋值为-2到2，数值越大表示支持程度越高。“相同感知比例”和“相反感知比例”原题同<a href=\"javascript:;\" class=\"mag_content_a mag_xref_fig\" onclick=\"clickFigXref(this,'F2')\" rid=\"F2\">图2</a>注释。</p>",
+        "magId": "79abb8bc-3434-45f2-acbd-2718e23a1241",
+        "labelCn": "图3",
+        "pptUrl": "1002-5685-45-7-47/img_3.jpg.ppt",
+        "figUrl": "1002-5685-45-7-47/img_3.jpg",
+        "titleContentCn": "<p id=\"p00165\">注：“实际比例”原题为：“2021年3月中美高层战略对话开场白中，中方代表指责‘美国没有资格居高临下同中国说话。’您对中方的发言持什么态度?”。备选项为强烈反对、反对、中立或不确定、赞同以及强烈赞同。分别赋值为-2到2，数值越大表示支持程度越高。“相同感知比例”和“相反感知比例”原题同<a href=\"javascript:;\" class=\"mag_content_a mag_xref_fig\" onclick=\"clickFigXref(this,'F2')\" rid=\"F2\">图2</a>注释。</p>",
+        "titleCn": "图3 ：中美外交议题态度分布",
+        "id": "F3",
+        "thumbnailUrl": "1002-5685-45-7-47/thumbnail/img_3.jpg"
+      },
+      {
+        "captionCn": "<title>：方方日记和中美外交议题的虚假共识</title> <p id=\"p00285\">注：虚假共识测量方法为各态度组个体感知的相同态度比例减去该组个体感知的相反态度的比例。</p>",
+        "magId": "6ced4331-7ec7-4d4b-804e-1d7056bf50a0",
+        "labelCn": "图4",
+        "pptUrl": "1002-5685-45-7-47/img_4.jpg.ppt",
+        "figUrl": "1002-5685-45-7-47/img_4.jpg",
+        "titleContentCn": "<p id=\"p00285\">注：虚假共识测量方法为各态度组个体感知的相同态度比例减去该组个体感知的相反态度的比例。</p>",
+        "titleCn": "图4 ：方方日记和中美外交议题的虚假共识",
+        "id": "F4",
+        "thumbnailUrl": "1002-5685-45-7-47/thumbnail/img_4.jpg"
+      },
+      {
+        "captionCn": "<title>：方方日记言论和中美外交言论态度极化回归分析</title> <p id=\"p00295\">注：统计方法：有序逻辑斯蒂回归分析。为便于观察自变量的影响，图中省略了控制变量，但回归分析中包含了控制变量（性别、教育程度、年龄、政治面貌、年收入、政治兴趣）。因变量态度极化程度测量方法：“方方日记极化1”和“外交议题极化1”表示面向“强烈反对”的态度极化（变量赋值方法为：0=中立；1=“反对”；2=“强烈反对”）；“方方日记极化2”和“外交议题极化2”表示面向“强烈赞同”的态度极化（变量赋值方法为：0=中立；1=“赞同”；2=“强烈赞同”）。自变量“价值观极化”程度以个体的政治价值观均值的平方来测量，数值越大表示政治价值观立场越极端化，其余变量处理与前文保持一致。对自变量和控制变量进行了标准化处理。</p>",
+        "magId": "53e0a94c-917a-4cf6-9b44-56fa13cef169",
+        "labelCn": "图5",
+        "pptUrl": "1002-5685-45-7-47/img_5.jpg.ppt",
+        "figUrl": "1002-5685-45-7-47/img_5.jpg",
+        "titleContentCn": "<p id=\"p00295\">注：统计方法：有序逻辑斯蒂回归分析。为便于观察自变量的影响，图中省略了控制变量，但回归分析中包含了控制变量（性别、教育程度、年龄、政治面貌、年收入、政治兴趣）。因变量态度极化程度测量方法：“方方日记极化1”和“外交议题极化1”表示面向“强烈反对”的态度极化（变量赋值方法为：0=中立；1=“反对”；2=“强烈反对”）；“方方日记极化2”和“外交议题极化2”表示面向“强烈赞同”的态度极化（变量赋值方法为：0=中立；1=“赞同”；2=“强烈赞同”）。自变量“价值观极化”程度以个体的政治价值观均值的平方来测量，数值越大表示政治价值观立场越极端化，其余变量处理与前文保持一致。对自变量和控制变量进行了标准化处理。</p>",
+        "titleCn": "图5 ：方方日记言论和中美外交言论态度极化回归分析",
+        "id": "F5",
+        "thumbnailUrl": "1002-5685-45-7-47/thumbnail/img_5.jpg"
+      },
+      {
+        "captionCn": "<title>：方方日记态度极化的路径分析</title> <p id=\"p00330\">注：图中标注出的回归系数P值均小于0.001。模型拟合参数：Chi-square=6.632（p=0.085）；CMIN/DF=2.211；RMSEA=0.018；AIC=54.632；NCP=3.632；CFI=0.998。</p>",
+        "magId": "0afaf77c-9704-4aaa-a7e3-19164294a2cd",
+        "labelCn": "图6",
+        "pptUrl": "1002-5685-45-7-47/img_6.jpg.ppt",
+        "figUrl": "1002-5685-45-7-47/img_6.jpg",
+        "titleContentCn": "<p id=\"p00330\">注：图中标注出的回归系数P值均小于0.001。模型拟合参数：Chi-square=6.632（p=0.085）；CMIN/DF=2.211；RMSEA=0.018；AIC=54.632；NCP=3.632；CFI=0.998。</p>",
+        "titleCn": "图6 ：方方日记态度极化的路径分析",
+        "id": "F6",
+        "thumbnailUrl": "1002-5685-45-7-47/thumbnail/img_6.jpg"
+      },
+      {
+        "captionCn": "<title>：中美外交态度极化的路径分析</title> <p id=\"p00335\">注：图中标注出的回归系数P值均小于0.001。模型拟合参数：Chi-square=11.625（p=0.001）；CMIN/DF=11.625；RMSEA=0.053；AIC=63.625；NCP=10.625；CFI=0.997。</p>",
+        "magId": "d822646c-b77b-422e-a060-d242a5238669",
+        "labelCn": "图7",
+        "pptUrl": "1002-5685-45-7-47/img_7.jpg.ppt",
+        "figUrl": "1002-5685-45-7-47/img_7.jpg",
+        "titleContentCn": "<p id=\"p00335\">注：图中标注出的回归系数P值均小于0.001。模型拟合参数：Chi-square=11.625（p=0.001）；CMIN/DF=11.625；RMSEA=0.053；AIC=63.625；NCP=10.625；CFI=0.997。</p>",
+        "titleCn": "图7 ：中美外交态度极化的路径分析",
+        "id": "F7",
+        "thumbnailUrl": "1002-5685-45-7-47/thumbnail/img_7.jpg"
+      }
+    ],
+    "fundList_en": [
+      "National Social Science Foundation of China “A Cross-national Comparative Study on Psychological Mechanism of China’s National Image”(22AZZ003)"
+    ],
+    "backFnGroupList": [
+      {
+        "fnList": [
+          {
+            "pList": [
+              "<p id=\"C1\">有学者指出，普通民众的态度极化可能呈现三模态（Trimodal）的分布形态，既有的峰度测量对三模态的分布并不敏感，由此容易导致对民意数据中态度极化的误读，但遗憾的是作者未能提出测量三模态的方法。具体参见Downey D. J., &amp; Huffman, M. L. (2001). Attitudinal polarization and trimodal distributions: Measurement problems and theoretical implications. Social Science Quarterly, 82(3), 494-505.</p>"
+            ],
+            "fnType": "note",
+            "id": "note1",
+            "label": "1.",
+            "content": "<p id=\"C1\">1. 有学者指出，普通民众的态度极化可能呈现三模态（Trimodal）的分布形态，既有的峰度测量对三模态的分布并不敏感，由此容易导致对民意数据中态度极化的误读，但遗憾的是作者未能提出测量三模态的方法。具体参见Downey D. J., &amp; Huffman, M. L. (2001). Attitudinal polarization and trimodal distributions: Measurement problems and theoretical implications. Social Science Quarterly, 82(3), 494-505.</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C2\">运用这一测量方法进行极化现象分析的研究具体参见Kaya, Y., &amp; Sunar, L. (2015). The culture wars redux? The polarization of social and political attitudes in Turkey. Social Currents, 2(4), 393-412.</p>"
+            ],
+            "fnType": "note",
+            "id": "note2",
+            "label": "2.",
+            "content": "<p id=\"C2\">2. 运用这一测量方法进行极化现象分析的研究具体参见Kaya, Y., &amp; Sunar, L. (2015). The culture wars redux? The polarization of social and political attitudes in Turkey. Social Currents, 2(4), 393-412.</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C3\">双峰系数的测量具体参见Lelkes Y. (<xref ref-type=\"bibr\" rid=\"b46\">2016</xref>). Mass polarization: Manifestations and measurements. Public Opinion Quarterly, 80(S1), 392-410.</p>"
+            ],
+            "fnType": "note",
+            "id": "note3",
+            "label": "3.",
+            "content": "<p id=\"C3\">3. 双峰系数的测量具体参见Lelkes Y. (<xref ref-type=\"bibr\" rid=\"b46\">2016</xref>). Mass polarization: Manifestations and measurements. Public Opinion Quarterly, 80(S1), 392-410.</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C4\">极化指数的测量具体参见Lee, F. L. (2016). Impact of social media on opinion polarization in varying times. Communication and the Public, 1(1), 56-71.</p>"
+            ],
+            "fnType": "note",
+            "id": "note4",
+            "label": "4.",
+            "content": "<p id=\"C4\">4. 极化指数的测量具体参见Lee, F. L. (2016). Impact of social media on opinion polarization in varying times. Communication and the Public, 1(1), 56-71.</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C5\">境内媒体因子分析结果为KMO和Bartlett检验：0.87，p&lt;0.001，方差贡献率为39.5%。境外媒体因子分析结果为KMO和Bartlett检验：0.5，p&lt;0.001，方差贡献率为90.4%。</p>"
+            ],
+            "fnType": "note",
+            "id": "note5",
+            "label": "5.",
+            "content": "<p id=\"C5\">5. 境内媒体因子分析结果为KMO和Bartlett检验：0.87，p&lt;0.001，方差贡献率为39.5%。境外媒体因子分析结果为KMO和Bartlett检验：0.5，p&lt;0.001，方差贡献率为90.4%。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C6\">具体参见马得勇，张曙霞（2014）。中国网民的“左”与“右”。《二十一世纪》，（2），86-103。</p>"
+            ],
+            "fnType": "note",
+            "id": "note6",
+            "label": "6.",
+            "content": "<p id=\"C6\">6. 具体参见马得勇，张曙霞（2014）。中国网民的“左”与“右”。《二十一世纪》，（2），86-103。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C7\">具体测量指标为：“即使父母的要求不合理，子女也应该照办”“服从自己的上司或地位比自己高的人是理所当然的”“国家领袖的肖像权不能随意用在讽刺漫画里”“大家的想法若不一致，社会就混乱”“街道两边的店铺招牌，整齐划一比参差不齐更美观”以及“对那些批评和辱骂国家领袖的人必须予以严惩”的看法，备选项为强烈反对、反对、中立或不确定、同意以及非常同意，赋值为1-5。因子分析结果为KMO和Bartlett检验：0.718，p&lt;0.001，方差贡献率为45.3%。</p>"
+            ],
+            "fnType": "note",
+            "id": "note7",
+            "label": "7.",
+            "content": "<p id=\"C7\">7. 具体测量指标为：“即使父母的要求不合理，子女也应该照办”“服从自己的上司或地位比自己高的人是理所当然的”“国家领袖的肖像权不能随意用在讽刺漫画里”“大家的想法若不一致，社会就混乱”“街道两边的店铺招牌，整齐划一比参差不齐更美观”以及“对那些批评和辱骂国家领袖的人必须予以严惩”的看法，备选项为强烈反对、反对、中立或不确定、同意以及非常同意，赋值为1-5。因子分析结果为KMO和Bartlett检验：0.718，p&lt;0.001，方差贡献率为45.3%。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C8\">（1）政治面貌为虚拟变量，1=党员，0=非党员；（2）性别为虚拟变量，1=男性，0=女性；（3）年收入是通过询问受访者的年收入情况，备选项为“5万元以下”“5-10万”“10-20万”“20-60万”“60万以上”，赋值为1-5，数值越大表示年收入越高；（4）年龄是通过询问受访者的实际年龄，将年龄划分为“18-24岁”“25-29岁”“30-34岁”“35-39岁”“40-44岁”“45-49岁”“50-54岁”“55-60岁”“60岁以上”，赋值为1-9，数值越大表示年龄越大；（5）教育程度是通过询问受访者的受教育程度，备选项为“初中及以下”“高中”“本专科”以及“硕博士”，赋值为1-4，数值越大表示教育程度越高；（6）政治兴趣：原始题目为“总体来说，您对政治类新闻感兴趣吗”，备选项为完全没兴趣、不太感兴趣、一般、比较有兴趣、非常感兴趣，赋值为1-5，数值越大表示兴趣越大。</p>"
+            ],
+            "fnType": "note",
+            "id": "note8",
+            "label": "8.",
+            "content": "<p id=\"C8\">8. （1）政治面貌为虚拟变量，1=党员，0=非党员；（2）性别为虚拟变量，1=男性，0=女性；（3）年收入是通过询问受访者的年收入情况，备选项为“5万元以下”“5-10万”“10-20万”“20-60万”“60万以上”，赋值为1-5，数值越大表示年收入越高；（4）年龄是通过询问受访者的实际年龄，将年龄划分为“18-24岁”“25-29岁”“30-34岁”“35-39岁”“40-44岁”“45-49岁”“50-54岁”“55-60岁”“60岁以上”，赋值为1-9，数值越大表示年龄越大；（5）教育程度是通过询问受访者的受教育程度，备选项为“初中及以下”“高中”“本专科”以及“硕博士”，赋值为1-4，数值越大表示教育程度越高；（6）政治兴趣：原始题目为“总体来说，您对政治类新闻感兴趣吗”，备选项为完全没兴趣、不太感兴趣、一般、比较有兴趣、非常感兴趣，赋值为1-5，数值越大表示兴趣越大。</p>"
+          }
+        ],
+        "title_cn": "注释 [Notes]"
+      }
+    ]
+  },
+  "text": "网络舆论中的态度极化与虚假共识 × 模态框（Modal）标题 在这里添加一些文本 关闭 关闭 提交更改 取消 确定并提交 × 模态框（Modal）标题 × 下载引用文件后，可以用常见的文献管理软件打开和编辑，包括: BibTex, EndNote, ProCite, RefWorks, and Reference Manager. 选择文件类型/文献管理软件名称 RIS (ProCite, Reference Manager, EndNote) BibTeX 选择包含的内容 仅文章引用信息 引用信息及摘要 导出 网络舆论中的态度极化与虚假共识 马得勇, 黄敏璇 国际新闻界 ›› 2023, Vol. 45 ›› Issue (7) : 47-73. PDF(1680 KB) Toggle navigation 首 页 期刊介绍 编委会 投稿指南 格式规范 期刊订阅 联系我们 English 投稿指南 格式规范 PDF(1680 KB) 国际新闻界 ›› 2023, Vol. 45 ›› Issue (7) : 47-73. 本期话题 / 网络舆论研究 网络舆论中的态度极化与虚假共识 马得勇 , 黄敏璇 作者信息 + 作者简介: 马得勇，中国人民大学国际关系学院教授、深圳大学政府管理学院教授。电子邮箱： madeyong@ruc.edu.cn 。 黄敏璇，中国人民大学国际关系学院政治学博士。电子邮箱： minxuan@ruc.edu.cn 。 折叠 Attitudes Polarization and False Consensus in Online Public Opinion MA Deyong , HUANG Minxuan Author information + About authors: Ma Deyong is a professor of political science at the school of International Studies, Renmin University of China. Email: madeyong@ruc.edu.cn . Huang Minxuan is a Ph.D. of political science at the school of International Studies, Renmin University of China. Email: minxuan@ruc.edu.cn . Show less 文章历史 + 出版日期 2023-07-23 发布日期 2023-12-26 摘要 既有对中国舆论形态的研究一般认为网络舆论存在极化的现象，但这些研究仍停留在描述性分析层面，对背后的形成机制关注较少。基于网民调查数据，本研究通过两个典型舆论议题对中国舆论态度是否存在极化及其形成机制进行分析。研究发现，中国网民的舆论态度结构并非像一些人认为的双峰型，而是一种单峰型的分布态势。其中在国内争议性话题上网民的态度呈现出一种偏向中立的相对温和中庸的样态，在外交话题上的态度立场则是一种“强烈同意”政府立场的一边倒分布样态。同时，中国网民中普遍存在高估他人与自己持有相同观点的“虚假共识”效应，且实际态度越极端的个体越容易出现这种现象。在舆论极端化的形成机制上，威权人格、政治价值观等心理因素以及媒体接触均能有效地预测人们的态度极端化，但虚假共识效应则是态度极化的内在因果机制。本研究有助于学界了解中国舆论的真实形态，对建设健康正常的舆论场域亦具有启发意义。 Abstract Existing studies on public opinion patterns in China generally find polarization within online public opinion. However, these studies stay at the level of descriptive analysis and pay less attention to the underlying formation mechanisms. Based on the 2021 Chinese Netizens Survey, this study analyses whether polarization of public opinion exists and its underlying causal mechanism. Contrary to prior findings, the results show that the structural attitudes of Chinese netizens is not bimodal but a unimodal distribution, of which the position of netizens on domestic controversial topics is relatively neutral and mild, and the attitude on diplomatic topics is a one-sided “strongly support” of the government’s position. Moreover, there are widespread “false consensus” effects in overestimating the proportion of the actual opinions held by others with individuals holding more extreme attitudes showing more “false consensus”. In terms of the formation mechanism, authoritarian personality, ideology, and media exposure can significantly predict the polarization of people’s attitudes, but the false consensus is the internal drive of attitude polarization. While contributing greater insight to public opinion in China, the research results also have significance for the construction of healthy and normal public opinion in China. 关键词 舆论极化 / 虚假共识 / 政治价值观 / 威权人格 / 媒体使用 Key words polarization of public opinion / false consensus / political ideology / authoritarian personality / media use 引用本文 EndNote Ris (Procite) Bibtex 导出引用 马得勇 , 黄敏璇 . 网络舆论中的态度极化与虚假共识[J]. 国际新闻界 . 2023, 45(7): 47-73 MA Deyong , HUANG Minxuan . Attitudes Polarization and False Consensus in Online Public Opinion[J]. Chinese Journal of Journalism & Communication . 2023, 45(7): 47-73 {{custom_sec.title}} {{custom_sec.title}} {{custom_sec.content}} 参考文献 列表( 原文顺序 | 文献年度倒序 | 文中引用次数倒序 ) 可视化分析 [1] 比尔·科瓦奇, 汤姆·罗森斯蒂尔( 2010/2014 ). 《真相:信息超载时代如何知道该相信什么》(陈佳怡,孙志刚译) . 北京: 中国人民大学出版社. 本文引用 [1] [2] 陈福平, 许丹红( 2017 ). 观点与链接:在线社交网络中的群体政治极化——一个微观行为的解释框架. 《社会》 ,(4),217-240. 本文引用 [1] [3] 弗朗西斯·福山( 2014/2015 ). 《政治秩序与政治衰败:从工业革命到民主全球化》(毛俊杰译) . 桂林: 广西师范大学出版社. 本文引用 [1] [4] 桂勇, 李秀玫, 郑雯, 黄荣贵( 2015 ). 网络极端情绪人群的类型及其政治与社会意涵——基于中国网络社会心态调查数据(2014)的实证研究. 《社会》 ,(5),78-100. 本文引用 [1] [5] 韩运荣, 漆雪( 2019 ). Twitter涉华舆情极化现象研究——以中美贸易争端为例. 《现代传播(中国传媒大学学报)》 ,(3),144-150. 本文引用 [1] [6] 蒋忠波( 2019 ). “群体极化”之考辨. 《新闻与传播研究》 ,(3),7-27+127. 本文引用 [1] [7] 荆学民, 于淑婧( 2019 ). 互联网时代政治传播输入的变革与挑战. 《现代传播(中国传媒大学学报)》 ,(1),67-74. 本文引用 [1] [8] 凯斯·桑斯坦( 2001/2003 ). 《网络共和国:网络社会中的民主问题》(黄维明译) . 上海: 上海人民出版社. 本文引用 [1] [9] 马得勇( 2022 ). 威权人格的起源与演变——一个社会演化论的解释. 《清华大学学报(哲学社会科学版)》 ,(2),14-24+213. 本文引用 [1] [10] 马得勇, 黄敏璇( 2022 ). 国家治理现代化的政治认知基础——基于中国网民和大学生的实证分析. 《广西师范大学学报(哲学社会科学版)》 ,(5),1-19. 本文引用 [1] [11] 马得勇, 王丽娜( 2015 ). 中国网民的意识形态立场及其形成一个实证的分析. 《社会》 ,(5),142-167. 本文引用 [1] [12] 吴飞, 徐百灵( 2020 ). 自媒体话语实践中的观点极化与社会流瀑——对方方日记海外出版争论的个案分析. 《新闻记者》 ,(6),37-46. 本文引用 [2] [13] 夏倩芳, 原永涛( 2017 ). 从群体极化到公众极化:极化研究的进路与转向. 《新闻与传播研究》 ,(6),5-32+126. 本文引用 [2] [14] 约翰·R·扎勒( 1992/2013 ). 《公共舆论》(陈心想等译) . 北京: 中国人民大学出版社. 本文引用 [1] [15] 郑永年( 2007/2014 ). 技术赋权:中国的互联网、国家与社会》(邱道隆译) . 上海: 东方出版社. 本文引用 [1] [16] Abramowitz A. I. , & Saunders K. L. ( 2008 ). Is polarization a myth?. The Journal of Politics , 70 (2), 542-555. https://doi.org/10.1017/S0022381608080493 https://www.journals.uchicago.edu/doi/10.1017/S0022381608080493 本文引用 [3] [17] Altemeyer B. ( 2006 ). The Authoritarians. Winnipeg, CAN: University of Manitoba . 本文引用 [1] [18] Baldassarri D. , & Gelman A. ( 2008 ). Partisans without constraint: Political polarization and trends in American public opinion. American Journal of Sociology , 114 (2), 408-446. https://doi.org/10.2139/ssrn.1010098 https://www.ncbi.nlm.nih.gov/pubmed/24932012 本文引用 [1] 摘要 Public opinion polarization is here conceived as a process of alignment along multiple lines of potential disagreement and measured as growing constraint in individuals' preferences. Using NES data from 1972 to 2004, the authors model trends in issue partisanship-the correlation of issue attitudes with party identification-and issue alignment-the correlation between pairs of issues-and find a substantive increase in issue partisanship, but little evidence of issue alignment. The findings suggest that opinion changes correspond more to a resorting of party labels among voters than to greater constraint on issue attitudes: since parties are more polarized, they are now better at sorting individuals along ideological lines. Levels of constraint vary across population subgroups: strong partisans and wealthier and politically sophisticated voters have grown more coherent in their beliefs. The authors discuss the consequences of partisan realignment and group sorting on the political process and potential deviations from the classic pluralistic account of American politics. [19] Beam M. A. , Hutchens M. J. , & Hmielowski J. D. ( 2018 ). Facebook news and (de)polarization: Reinforcing spirals in the 2016 election. Information, Communication & Society , 21 (7), 940-958. 本文引用 [1] [20] DiMaggio P. , Evans J. , & Bryson B. ( 1996 ). Have American’s social attitudes become more polarized?. American Journal of Sociology , 102 (3), 690-755. https://doi.org/10.1086/230995 https://www.journals.uchicago.edu/doi/10.1086/230995 本文引用 [2] [21] Duca J. V. , & Saving J. L. ( 2017 ). Income Inequality, media fragmentation, and increased political polarization. Contemporary Economic Policy , 35 (2), 392-413. https://doi.org/10.1111/coep.2017.35.issue-2 https://onlinelibrary.wiley.com/toc/14657287/35/2 本文引用 [1] [22] Dvir-Gvirsman S. ( 2015 ). Size matters: The effects of political orientation, majority status, and majority size on misperceptions of public opinion. Public Opinion Quarterly , 79 (1), 1-27. https://doi.org/10.1093/poq/nfu061 https://academic.oup.com/poq/article-lookup/doi/10.1093/poq/nfu061 本文引用 [1] [23] Erikson R. S. , & Tedin K. L. ( 2015 ). American Public Opinion (Ninth Edition) . New York, NY: Routledge. 本文引用 [1] [24] Evans J. H. ( 2003 ). Have American’s attitudes become more polarized? —An update. Social Science Quarterly , 84 (1), 71-90. https://doi.org/10.1111/ssqu.2003.84.issue-1 https://onlinelibrary.wiley.com/toc/15406237/84/1 本文引用 [1] [25] Federico C. M. ( 2021 ). When do psychological differences predict political differences? Engagement and the psychological bases of political polarization. In Van Prooijen, J. W. ( Ed. ). The Psychology of Political Polarization (pp.17-37). New York, NY: Routledge. 本文引用 [1] [26] Fiorina M. P. , & Abrams S. J. ( 2008 ). Political polarization in the American public. Annual Review of Political Science , 11 (1), 563-588. https://doi.org/10.1146/polisci.2008.11.issue-1 https://www.annualreviews.org/toc/polisci/11/1 本文引用 [1] [27] Fraser C. , Gouge C. , & Billig M. ( 1971 ). Risky shifts, cautious shifts, and group polarization. European Journal of Social Psychology , 1 (1), 7-30. https://doi.org/10.1002/ejsp.v1:1 https://onlinelibrary.wiley.com/toc/10990992/1/1 本文引用 [1] [28] Garrett R. K. ( 2009 ). Echo chambers online?: Politically motivated selective exposure among Internet news users. Journal of Computer-Mediated Communication , 14 (2), 265-285. https://doi.org/10.1111/jcmc.2009.14.issue-2 http://blackwell-synergy.com/doi/abs/10.1111/jcmc.2009.14.issue-2 本文引用 [2] [29] Gelman A. , Park D. , Shor B. , Bafumi J. , & Cortina J. ( 2008 ). Red State, Blue State, Rich State, Poor State:Why Americans Vote the Way They Do . Princeton, NJ: Princeton University Press. 本文引用 [1] [30] Hetherington M. J. ( 2009 ). Putting polarization in perspective. British Journal of Political Science , 39 (2), 413-448. https://doi.org/10.1017/S0007123408000501 https://www.cambridge.org/core/product/identifier/S0007123408000501/type/journal_article 本文引用 [1] 摘要 Scholarly research has demonstrated rather conclusively that American political elites have undergone a marked partisan polarization over the past thirty years. There is less agreement, however, as to whether the American electorate is polarized. This review article evaluates the evidence, causes and consequences of polarization on both the elite and mass levels. A marked difference between the two is found. Elites are polarized by almost any definition, although this state of affairs is quite common historically. In contrast, mass attitudes are now better sorted by party, but generally not polarized. While it is unclear whether this potentially troubling disconnect between centrist mass attitudes and extreme elite preferences has negative policy consequences, it appears that the super-majoritarian nature of the US Senate serves as a bulwark against policy outcomes that are more ideologically extreme than the public would prefer. Moreover, a public more centrist than those who represent it has also at times exerted a moderating influence on recent policies. [31] Holbert R. L. , & Benoit W. L. ( 2009 ). A theory of political campaign media connectedness. Communication Monographs , 76 (3), 303-332. https://doi.org/10.1080/03637750903074693 https://www.tandfonline.com/doi/full/10.1080/03637750903074693 本文引用 [1] [32] Iyengar S. , Lelkes Y. , Levendusky M. , Malhotra N. , & Westwood S. J. ( 2019 ). The origins and consequences of affective polarization in the United States. Annual Review of Political Science , 22 , 129-146. https://doi.org/10.1146/annurev-polisci-051117-073034 本文引用 [1] 摘要 While previously polarization was primarily seen only in issue-based terms, a new type of division has emerged in the mass public in recent years: Ordinary Americans increasingly dislike and distrust those from the other party. Democrats and Republicans both say that the other party's members are hypocritical, selfish, and closed-minded, and they are unwilling to socialize across party lines. This phenomenon of animosity between the parties is known as affective polarization. We trace its origins to the power of partisanship as a social identity, and explain the factors that intensify partisan animus. We also explore the consequences of affective polarization, highlighting how partisan affect influences attitudes and behaviors well outside the political sphere. Finally, we discuss strategies that might mitigate partisan discord and conclude with suggestions for future work. [33] Jost J. T. ( 2006 ). The end of the end of ideology. American Psychologist , 61 (7), 651-670. https://doi.org/10.1037/0003-066X.61.7.651 https://www.ncbi.nlm.nih.gov/pubmed/17032067 本文引用 [1] 摘要 The \"end of ideology\" was declared by social scientists in the aftermath of World War II. They argued that (a) ordinary citizens' political attitudes lack the kind of stability, consistency, and constraint that ideology requires; (b) ideological constructs such as liberalism and conservatism lack motivational potency and behavioral significance; (c) there are no major differences in content (or substance) between liberal and conservative points of view; and (d) there are few important differences in psychological processes (or styles) that underlie liberal versus conservative orientations. The end-of-ideologists were so influential that researchers ignored the topic of ideology for many years. However, current political realities, recent data from the American National Election Studies, and results from an emerging psychological paradigm provide strong grounds for returning to the study of ideology. Studies reveal that there are indeed meaningful political and psychological differences that covary with ideological self-placement. Situational variables--including system threat and mortality salience--and dispositional variables--including openness and conscientiousness--affect the degree to which an individual is drawn to liberal versus conservative leaders, parties, and opinions. A psychological analysis is also useful for understanding the political divide between \"red states\" and \"blue states.\"((c) 2006 APA, all rights reserved). [34] Jost J. T. , & van der Linden S. , Panagopoulos C. , & Hardin C. D. ( 2018 ). Ideological asymmetries in conformity, desire for shared reality, and the spread of misinformation. Current Opinion in Psychology , 23 , 77-83. https://doi.org/S2352-250X(17)30282-8 https://www.ncbi.nlm.nih.gov/pubmed/29427900 本文引用 [1] 摘要 Ideological belief systems arise from epistemic, existential, and relational motives to reduce uncertainty, threat, and social discord. According to system justification theory, however, some ideologies-such as those that are conservative, religious, and legitimizing of the status quo-are especially appealing to people whose epistemic, existential, and relational motives are chronically or temporarily heightened. In this article, we focus on relational motivation, describing evidence that conservatives are more likely than liberals to: prioritize values of conformity and tradition; possess a strong desire to share reality with like-minded others; perceive within-group consensus when making political and non-political judgments; be influenced by implicit relational cues and sources who are perceived as similar to them; and maintain homogenous social networks and favor an 'echo chamber' environment that is conducive to the spread of misinformation.Copyright © 2018 Elsevier Ltd. All rights reserved. [35] Jost J. T. , Federico C. M. , & Napier J. L. ( 2009 ). Political ideology: its structure, functions, and elective affinities. Annual Review of Psychology , 60 , 307-337. https://doi.org/10.1146/annurev.psych.60.110707.163600 https://www.ncbi.nlm.nih.gov/pubmed/19035826 本文引用 [1] 摘要 Ideology has re-emerged as an important topic of inquiry among social, personality, and political psychologists. In this review, we examine recent theory and research concerning the structure, contents, and functions of ideological belief systems. We begin by defining the construct and placing it in historical and philosophical context. We then examine different perspectives on how many (and what types of) dimensions individuals use to organize their political opinions. We investigate (a) how and to what extent individuals acquire the discursive contents associated with various ideologies, and (b) the social-psychological functions that these ideologies serve for those who adopt them. Our review highlights \"elective affinities\" between situational and dispositional needs of individuals and groups and the structure and contents of specific ideologies. Finally, we consider the consequences of ideology, especially with respect to attitudes, evaluations, and processes of system justification. [36] Jost J. T. , Glaser J. , Kruglanski A. W. , & Sulloway F. J. ( 2003 ). Political conservatism as motivated social cognition. Psychological Bulletin , 129 (3), 339-375. https://doi.org/10.1037/0033-2909.129.3.339 https://www.ncbi.nlm.nih.gov/pubmed/12784934 本文引用 [1] 摘要 Analyzing political conservatism as motivated social cognition integrates theories of personality (authoritarianism, dogmatism-intolerance of ambiguity), epistemic and existential needs (for closure, regulatory focus, terror management), and ideological rationalization (social dominance, system justification). A meta-analysis (88 samples, 12 countries, 22,818 cases) confirms that several psychological variables predict political conservatism: death anxiety (weighted mean r =.50); system instability (.47); dogmatism-intolerance of ambiguity (.34); openness to experience (-.32); uncertainty tolerance (-.27); needs for order, structure, and closure (.26); integrative complexity (-.20); fear of threat and loss (.18); and self-esteem (-.09). The core ideology of conservatism stresses resistance to change and justification of inequality and is motivated by needs that vary situationally and dispositionally to manage uncertainty and threat. [37] Jost J. T. , Napier J. L. , Thorisdottir H. , Gosling S. D. , Palfai T. P. , & Ostafin B. ( 2007 ). Are needs to manage uncertainty and threat associated with political conservatism or ideological extremity?. Personality and Social Psychology Bulletin , 33 (7), 989-1007. https://doi.org/10.1177/0146167207301028 https://www.ncbi.nlm.nih.gov/pubmed/17620621 本文引用 [1] 摘要 Three studies are conducted to assess the uncertainty- threat model of political conservatism, which posits that psychological needs to manage uncertainty and threat are associated with political orientation. Results from structural equation models provide consistent support for the hypothesis that uncertainty avoidance (e.g., need for order, intolerance of ambiguity, and lack of openness to experience) and threat management (e.g., death anxiety, system threat, and perceptions of a dangerous world) each contributes independently to conservatism (vs. liberalism). No support is obtained for alternative models, which predict that uncertainty and threat management are associated with ideological extremism or extreme forms of conservatism only. Study 3 also reveals that resistance to change fully mediates the association between uncertainty avoidance and conservatism, whereas opposition to equality partially mediates the association between threat and conservatism. Implications for understanding the epistemic and existential bases of political orientation are discussed. [38] Karasawa M. ( 2003 ). Projecting group liking and ethnocentrism on in-group members: False consensus effect of attitude strength. Asian Journal of Social Psychology , 6 (2), 103-116. https://doi.org/10.1111/ajsp.2003.6.issue-2 https://onlinelibrary.wiley.com/toc/1467839x/6/2 本文引用 [1] [39] Kligler-Vilenchik N. , Baden C. , & Yarchi M. ( 2020 ). Interpretative polarization across platforms: How political disagreement develops over time on Facebook, Twitter,and WhatsApp. Social Media+ Society , 6 (3), 1-13. 本文引用 [1] [40] Kubin E. , & von Sikorski C. ( 2021 ). The role of (social) media in political polarization: a systematic review. Annals of the International Communication Association , 45 (3), 188-206. https://doi.org/10.1080/23808985.2021.1976070 https://academic.oup.com/anncom/article/45/3/188/7912664 本文引用 [1] [41] Lavine H. , Lodge M. , & Freitas K. ( 2005 ). Threat, authoritarianism, and selective exposure to information. 26 (2), 219-244. 本文引用 [1] [42] Layman G. C. , Carsey T. M. , & Horowitz J. M. ( 2006 ). Party polarization in American politics: Characteristics, causes, and consequences. Annual Review of Political Science , 9 , 83-110. https://doi.org/10.1146/polisci.2006.9.issue-1 https://www.annualreviews.org/toc/polisci/9/1 本文引用 [1] [43] Lees J. , & Cikara M. ( 2020 ). Inaccurate group meta-perceptions drive negative out-group attributions in competitive contexts. Nature Human Behaviour , 4 (3), 279-286. https://doi.org/10.1038/s41562-019-0766-4 https://www.ncbi.nlm.nih.gov/pubmed/31712763 本文引用 [1] 摘要 Across seven experiments and one survey (n = 4,282), people consistently overestimated out-group negativity towards the collective behaviour of their in-group. This negativity bias in group meta-perception was present across multiple competitive (but not cooperative) intergroup contexts and appears to be yoked to group psychology more generally; we observed negativity bias for estimation of out-group, anonymized-group and even fellow in-group members' perceptions. Importantly, in the context of US politics, greater inaccuracy was associated with increased belief that the out-group is motivated by purposeful obstructionism. However, an intervention that informed participants of the inaccuracy of their beliefs reduced negative out-group attributions, and was more effective for those whose group meta-perceptions were more inaccurate. In sum, we highlight a pernicious bias in social judgements of how we believe 'they' see 'our' behaviour, demonstrate how such inaccurate beliefs can exacerbate intergroup conflict and provide an avenue for reducing the negative effects of inaccuracy. [44] Lee S. , Rojas H. , & Yamamoto M. ( 2022 ). Social media, messaging apps, and affective polarization in the United States and Japan. Mass Communication and Society , 25 (5), 673-697. https://doi.org/10.1080/15205436.2021.1953534 https://www.tandfonline.com/doi/full/10.1080/15205436.2021.1953534 本文引用 [1] [45] Levy R. E. ( 2021 ). Social media, news consumption, and polarization: Evidence from a field experiment. American economic review , 111 (3), 831-870. https://doi.org/10.1257/aer.20191777 https://pubs.aeaweb.org/doi/10.1257/aer.20191777 本文引用 [1] 摘要 Does the consumption of ideologically congruent news on social media exacerbate polarization? I estimate the effects of social media news exposure by conducting a large field experiment randomly offering participants subscriptions to conservative or liberal news outlets on Facebook. I collect data on the causal chain of media effects: subscriptions to outlets, exposure to news on Facebook, visits to online news sites, and sharing of posts, as well as changes in political opinions and attitudes. Four main findings emerge. First, random variation in exposure to news on social media substantially affects the slant of news sites that individuals visit. Second, exposure to counter-attitudinal news decreases negative attitudes toward the opposing political party. Third, in contrast to the effect on attitudes, I find no evidence that the political leanings of news outlets affect political opinions. Fourth, Facebook’s algorithm is less likely to supply individuals with posts from counter-attitudinal outlets, conditional on individuals subscribing to them. Together, the results suggest that social media algorithms may limit exposure to counter-attitudinal news and thus increase polarization. (JEL C93, D72, L82) [46] Lelkes Y. ( 2016 ). Mass polarization: Manifestations and measurements. Public Opinion Quarterly , 80 (S1), 392-410. https://doi.org/10.1093/poq/nfw005 https://academic.oup.com/poq/article-lookup/doi/10.1093/poq/nfw005 本文引用 [1] [47] Marks G. , & Miller N. ( 1987 ). Ten years of research on the false-consensus effect: An empirical and theoretical review. Psychological Bulletin , 102 (1), 72-90. https://doi.org/10.1037/0033-2909.102.1.72 https://doi.apa.org/doi/10.1037/0033-2909.102.1.72 本文引用 [2] [48] McCarty N. , Poole K. T. , & Rosenthal H. ( 2006 ). Polarized America: The Dance of Ideology and Unequal Riches . Cambridge, MA: The MIT Press. 本文引用 [1] [49] Messing S. , & Westwood S. J. ( 2014 ). Selective exposure in the age of social media: Endorsements trump partisan source affiliation when selecting news online. Communication Research , 41 (8), 1042-1063. https://doi.org/10.1177/0093650212466406 https://journals.sagepub.com/doi/10.1177/0093650212466406 本文引用 [1] 摘要 Much of the literature on polarization and selective exposure presumes that the internet exacerbates the fragmentation of the media and the citizenry. Yet this ignores how the widespread use of social media changes news consumption. Social media provide readers a choice of stories from different sources that come recommended from politically heterogeneous individuals, in a context that emphasizes social value over partisan affiliation. Building on existing models of news selectivity to emphasize information utility, we hypothesize that social media’s distinctive feature, social endorsements, trigger several decision heuristics that suggest utility. In two experiments, we demonstrate that stronger social endorsements increase the probability that people select content and that their presence reduces partisan selective exposure to levels indistinguishable from chance. [50] Mirels H. L. , & Dean J. B. ( 2006 ). Right-Wing authoritarianism, attitude salience and beliefs about matters of fact. Political Psychology , 27 (6), 839-866. https://doi.org/10.1111/pops.2006.27.issue-6 https://onlinelibrary.wiley.com/toc/14679221/27/6 本文引用 [1] [51] Moore-Berg S. L. , Ankori-Karlinsky L. O. , Hameiri B. , & Bruneau E. ( 2020 ). Exaggerated meta-perceptions predict intergroup hostility between American political partisans. Proceedings of the National Academy of Sciences , 117 (26), 14864-14872. 本文引用 [1] [52] Moscovici S. , & Zavalloni M. ( 1969 ). The group as a polarizer of attitudes. Journal of Personality and Social Psychology , 12 (2), 125-135. https://doi.org/10.1037/h0027568 https://doi.apa.org/doi/10.1037/h0027568 本文引用 [1] [53] Mullen B. , Atkins J. L. , Champion D. S. , Edwards C. , Hardy D. , Story J. E. , & Vanderklok M. ( 1985 ). The false consensus effect: A meta-analysis of 115 hypothesis tests. Journal of Experimental Social Psychology , 21 (3), 262-283. https://doi.org/10.1016/0022-1031(85)90020-4 https://linkinghub.elsevier.com/retrieve/pii/0022103185900204 本文引用 [1] [54] Mullen B. , Dovidio J. F. , Johnson C. , & Copper C. ( 1992 ). In-group-out-group differences in social projection. Journal of Experimental Social Psychology , 28 (5), 422-440. https://doi.org/10.1016/0022-1031(92)90040-Q https://linkinghub.elsevier.com/retrieve/pii/002210319290040Q 本文引用 [1] [55] Oesterreich D. ( 2005 ). Flight into security: A new approach and measure of the authoritarian personality. Political Psychology , 26 (2), 275-298. https://doi.org/10.1111/pops.2005.26.issue-2 https://onlinelibrary.wiley.com/toc/14679221/26/2 本文引用 [1] [56] Prior M. ( 2013 ). Media and political polarization. Annual Review of Political Science , 16 , 101-127. https://doi.org/10.1146/polisci.2013.16.issue-1 https://www.annualreviews.org/toc/polisci/16/1 本文引用 [1] [57] Ross L. , Greene D. , & House P. ( 1977 ). The “false consensus effect”: An egocentric bias in social perception and attribution processes. Journal of Experimental Social Psychology , 13 (3), 279-301. https://doi.org/10.1016/0022-1031(77)90049-X https://linkinghub.elsevier.com/retrieve/pii/002210317790049X 本文引用 [1] [58] Rathje S. , Van Bavel J. J. , & Van Der Linden S. ( 2021 ). Out-group animosity drives engagement on social media. Proceedings of the National Academy of Sciences , 118 (26), e2024292118. 本文引用 [1] [59] Soto C. J. ( 2019 ). How replicable are links between personality traits and consequential life outcomes? The life outcomes of personality replication project. Psychological Science , 30 (5), 711-727. https://doi.org/10.1177/0956797619831612 https://www.ncbi.nlm.nih.gov/pubmed/30950321 本文引用 [1] 摘要 The Big Five personality traits have been linked to dozens of life outcomes. However, metascientific research has raised questions about the replicability of behavioral science. The Life Outcomes of Personality Replication (LOOPR) Project was therefore conducted to estimate the replicability of the personality-outcome literature. Specifically, I conducted preregistered, high-powered (median N = 1,504) replications of 78 previously published trait-outcome associations. Overall, 87% of the replication attempts were statistically significant in the expected direction. The replication effects were typically 77% as strong as the corresponding original effects, which represents a significant decline in effect size. The replicability of individual effects was predicted by the effect size and design of the original study, as well as the sample size and statistical power of the replication. These results indicate that the personality-outcome literature provides a reasonably accurate map of trait-outcome associations but also that it stands to benefit from efforts to improve replicability. [60] Stern C. , West T. V. , Jost J. T. , & Rule N. O. ( 2014 ). “Ditto heads”: Do conservatives perceive greater consensus within their ranks than liberals?. Personality and Social Psychology Bulletin , 40 (9), 1162-1177. https://doi.org/10.1177/0146167214537834 https://journals.sagepub.com/doi/10.1177/0146167214537834 本文引用 [1] 摘要 In three studies, we examined (a) whether conservatives possess a stronger desire to share reality than liberals and are therefore more likely to perceive consensus with politically like-minded others even for non-political judgments and, if so, (b) whether motivated perceptions of consensus would give conservatives an edge in progressing toward collective goals. In Study 1, participants estimated ingroup consensus on non-political judgments. Conservatives perceived more ingroup consensus than liberals, regardless of the amount of actual consensus. The desire to share reality mediated the relationship between ideology and perceived ingroup consensus. Study 2 replicated these results and demonstrated that perceiving ingroup consensus predicted a sense of collective efficacy in politics. In Study 3, experimental manipulations of affiliative motives eliminated ideological differences in the desire to share reality. A sense of collective efficacy predicted intentions to vote in a major election. Implications for the attainment of shared goals are discussed. [61] Stern C. , West T. V. , & Schmitt P. G. ( 2014 ). The liberal illusion of uniqueness. Psychological Science , 25 (1), 137-144. https://doi.org/10.1177/0956797613500796 https://www.ncbi.nlm.nih.gov/pubmed/24247730 本文引用 [1] 摘要 In two studies, we demonstrated that liberals underestimate their similarity to other liberals (i.e., display truly false uniqueness), whereas moderates and conservatives overestimate their similarity to other moderates and conservatives (i.e., display truly false consensus; Studies 1 and 2). We further demonstrated that a fundamental difference between liberals and conservatives in the motivation to feel unique explains this ideological distinction in the accuracy of estimating similarity (Study 2). Implications of the accuracy of consensus estimates for mobilizing liberal and conservative political movements are discussed. [62] Van Bavel J. J. , Rathje S. , Harris E. , Robertson C. , & Sternisko A. ( 2021 ). How social media shapes polarization. Trends in Cognitive Sciences , 25 (11), 913-916. https://doi.org/10.1016/j.tics.2021.07.013 https://www.ncbi.nlm.nih.gov/pubmed/34429255 本文引用 [1] 摘要 This article reviews the empirical evidence on the relationship between social media and political polarization. We argue that social media shapes polarization through the following social, cognitive, and technological processes: partisan selection, message content, and platform design and algorithms.Copyright © 2021 Elsevier Ltd. All rights reserved. [63] Wojcieszak M. ( 2008 ). False consensus goes online: Impact of ideologically homogeneous groups on false consensus. Public Opinion Quarterly , 72 (4), 781-791. https://doi.org/10.1093/poq/nfn056 https://academic.oup.com/poq/article-lookup/doi/10.1093/poq/nfn056 本文引用 [1] [64] Wojcieszak M. , & Price V. ( 2009 ). What underlies the false consensus effect? How personal opinion and disagreement affect perception of public opinion. International Journal of Public Opinion Research , 21 (1), 25-46. https://doi.org/10.1093/ijpor/edp001 https://academic.oup.com/ijpor/article-lookup/doi/10.1093/ijpor/edp001 本文引用 [1] [65] Yarchi M. , Baden C. , & Kligler-Vilenchik N. ( 2021 ). Political polarization on the digital sphere: A cross-platform, over-time analysis of interactional, positional, and affective polarization on social media. Political Communication , 38 (1-2), 98-139. https://doi.org/10.1080/10584609.2020.1785067 https://www.tandfonline.com/doi/full/10.1080/10584609.2020.1785067 本文引用 [1] 文章年度分布 文献类型分布 被引期刊分布 被引用学者 注释 [Notes] 1. 有学者指出，普通民众的态度极化可能呈现三模态（Trimodal）的分布形态，既有的峰度测量对三模态的分布并不敏感，由此容易导致对民意数据中态度极化的误读，但遗憾的是作者未能提出测量三模态的方法。具体参见Downey D. J., & Huffman, M. L. (2001). Attitudinal polarization and trimodal distributions: Measurement problems and theoretical implications. Social Science Quarterly, 82(3), 494-505. 2. 运用这一测量方法进行极化现象分析的研究具体参见Kaya, Y., & Sunar, L. (2015). The culture wars redux? The polarization of social and political attitudes in Turkey. Social Currents, 2(4), 393-412. 3. 双峰系数的测量具体参见Lelkes Y. ( 2016 ). Mass polarization: Manifestations and measurements. Public Opinion Quarterly, 80(S1), 392-410. 4. 极化指数的测量具体参见Lee, F. L. (2016). Impact of social media on opinion polarization in varying times. Communication and the Public, 1(1), 56-71. 5. 境内媒体因子分析结果为KMO和Bartlett检验：0.87，p<0.001，方差贡献率为39.5%。境外媒体因子分析结果为KMO和Bartlett检验：0.5，p<0.001，方差贡献率为90.4%。 6. 具体参见马得勇，张曙霞（2014）。中国网民的“左”与“右”。《二十一世纪》，（2），86-103。 7. 具体测量指标为：“即使父母的要求不合理，子女也应该照办”“服从自己的上司或地位比自己高的人是理所当然的”“国家领袖的肖像权不能随意用在讽刺漫画里”“大家的想法若不一致，社会就混乱”“街道两边的店铺招牌，整齐划一比参差不齐更美观”以及“对那些批评和辱骂国家领袖的人必须予以严惩”的看法，备选项为强烈反对、反对、中立或不确定、同意以及非常同意，赋值为1-5。因子分析结果为KMO和Bartlett检验：0.718，p<0.001，方差贡献率为45.3%。 8. （1）政治面貌为虚拟变量，1=党员，0=非党员；（2）性别为虚拟变量，1=男性，0=女性；（3）年收入是通过询问受访者的年收入情况，备选项为“5万元以下”“5-10万”“10-20万”“20-60万”“60万以上”，赋值为1-5，数值越大表示年收入越高；（4）年龄是通过询问受访者的实际年龄，将年龄划分为“18-24岁”“25-29岁”“30-34岁”“35-39岁”“40-44岁”“45-49岁”“50-54岁”“55-60岁”“60岁以上”，赋值为1-9，数值越大表示年龄越大；（5）教育程度是通过询问受访者的受教育程度，备选项为“初中及以下”“高中”“本专科”以及“硕博士”，赋值为1-4，数值越大表示教育程度越高；（6）政治兴趣：原始题目为“总体来说，您对政治类新闻感兴趣吗”，备选项为完全没兴趣、不太感兴趣、一般、比较有兴趣、非常感兴趣，赋值为1-5，数值越大表示兴趣越大。 基金 国家社科基金重点项目“中国国家形象国际传播的受众心理机制比较研究”(22AZZ003) × 微信扫一扫 PDF(1680 KB) 可视化 Accesses Citation Altmetric Detail 段落导航 相关文章 期刊信息 期刊介绍 编委会 投稿指南 格式规范 期刊订阅 联系我们 在线期刊 当期目录 过刊浏览 E-mail Alert RSS 联系我们 地址：北京市海淀区中关村大街59号明德新闻楼 邮编：100872 电话：010-82509362 E-mail:gjxwj@ruc.edu.cn 访问统计 总访问量 ： 今日访问： 在线人数： 版权所有 © 《国际新闻界》编辑部 技术支持： 北京玛格泰克科技发展有限公司 / 〈 〉",
+  "links": [
+    "http://cjjc.ruc.edu.cn",
+    "http://cjjc.ruc.edu.cn/CN/archive/2023",
+    "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7",
+    "http://cjjc.ruc.edu.cn/CN/home",
+    "http://cjjc.ruc.edu.cn/CN/home",
+    "http://cjjc.ruc.edu.cn/CN/column/column1.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column2.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column5.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column6.shtml",
+    "http://cjjc.ruc.edu.cn/EN/home",
+    "https://www.ruc.edu.cn/",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn",
+    "http://cjjc.ruc.edu.cn/CN/archive/2023",
+    "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7",
+    "javascript:;",
+    "mailto:madeyong@ruc.edu.cn",
+    "javascript:;",
+    "mailto:minxuan@ruc.edu.cn",
+    "mailto:madeyong@ruc.edu.cn",
+    "mailto:minxuan@ruc.edu.cn",
+    "javascript:;",
+    "mailto:madeyong@ruc.edu.cn",
+    "javascript:;",
+    "mailto:minxuan@ruc.edu.cn",
+    "mailto:madeyong@ruc.edu.cn",
+    "mailto:minxuan@ruc.edu.cn",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=EndNote&id=1343",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=Ris&id=1343",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=BibTeX&id=1343",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1017/S0022381608080493",
+    "https://www.journals.uchicago.edu/doi/10.1017/S0022381608080493",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.2139/ssrn.1010098",
+    "https://www.ncbi.nlm.nih.gov/pubmed/24932012",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1086/230995",
+    "https://www.journals.uchicago.edu/doi/10.1086/230995",
+    "javascript:;",
+    "https://doi.org/10.1111/coep.2017.35.issue-2",
+    "https://onlinelibrary.wiley.com/toc/14657287/35/2",
+    "javascript:;",
+    "https://doi.org/10.1093/poq/nfu061",
+    "https://academic.oup.com/poq/article-lookup/doi/10.1093/poq/nfu061",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1111/ssqu.2003.84.issue-1",
+    "https://onlinelibrary.wiley.com/toc/15406237/84/1",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1146/polisci.2008.11.issue-1",
+    "https://www.annualreviews.org/toc/polisci/11/1",
+    "javascript:;",
+    "https://doi.org/10.1002/ejsp.v1:1",
+    "https://onlinelibrary.wiley.com/toc/10990992/1/1",
+    "javascript:;",
+    "https://doi.org/10.1111/jcmc.2009.14.issue-2",
+    "http://blackwell-synergy.com/doi/abs/10.1111/jcmc.2009.14.issue-2",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1017/S0007123408000501",
+    "https://www.cambridge.org/core/product/identifier/S0007123408000501/type/journal_article",
+    "javascript:;",
+    "https://doi.org/10.1080/03637750903074693",
+    "https://www.tandfonline.com/doi/full/10.1080/03637750903074693",
+    "javascript:;",
+    "https://doi.org/10.1146/annurev-polisci-051117-073034",
+    "javascript:;",
+    "https://doi.org/10.1037/0003-066X.61.7.651",
+    "https://www.ncbi.nlm.nih.gov/pubmed/17032067",
+    "javascript:;",
+    "https://doi.org/S2352-250X(17)30282-8",
+    "https://www.ncbi.nlm.nih.gov/pubmed/29427900",
+    "javascript:;",
+    "https://doi.org/10.1146/annurev.psych.60.110707.163600",
+    "https://www.ncbi.nlm.nih.gov/pubmed/19035826",
+    "javascript:;",
+    "https://doi.org/10.1037/0033-2909.129.3.339",
+    "https://www.ncbi.nlm.nih.gov/pubmed/12784934",
+    "javascript:;",
+    "https://doi.org/10.1177/0146167207301028",
+    "https://www.ncbi.nlm.nih.gov/pubmed/17620621",
+    "javascript:;",
+    "https://doi.org/10.1111/ajsp.2003.6.issue-2",
+    "https://onlinelibrary.wiley.com/toc/1467839x/6/2",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1080/23808985.2021.1976070",
+    "https://academic.oup.com/anncom/article/45/3/188/7912664",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1146/polisci.2006.9.issue-1",
+    "https://www.annualreviews.org/toc/polisci/9/1",
+    "javascript:;",
+    "https://doi.org/10.1038/s41562-019-0766-4",
+    "https://www.ncbi.nlm.nih.gov/pubmed/31712763",
+    "javascript:;",
+    "https://doi.org/10.1080/15205436.2021.1953534",
+    "https://www.tandfonline.com/doi/full/10.1080/15205436.2021.1953534",
+    "javascript:;",
+    "https://doi.org/10.1257/aer.20191777",
+    "https://pubs.aeaweb.org/doi/10.1257/aer.20191777",
+    "javascript:;",
+    "https://doi.org/10.1093/poq/nfw005",
+    "https://academic.oup.com/poq/article-lookup/doi/10.1093/poq/nfw005",
+    "javascript:;",
+    "https://doi.org/10.1037/0033-2909.102.1.72",
+    "https://doi.apa.org/doi/10.1037/0033-2909.102.1.72",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1177/0093650212466406",
+    "https://journals.sagepub.com/doi/10.1177/0093650212466406",
+    "javascript:;",
+    "https://doi.org/10.1111/pops.2006.27.issue-6",
+    "https://onlinelibrary.wiley.com/toc/14679221/27/6",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1037/h0027568",
+    "https://doi.apa.org/doi/10.1037/h0027568",
+    "javascript:;",
+    "https://doi.org/10.1016/0022-1031(85)90020-4",
+    "https://linkinghub.elsevier.com/retrieve/pii/0022103185900204",
+    "javascript:;",
+    "https://doi.org/10.1016/0022-1031(92)90040-Q",
+    "https://linkinghub.elsevier.com/retrieve/pii/002210319290040Q",
+    "javascript:;",
+    "https://doi.org/10.1111/pops.2005.26.issue-2",
+    "https://onlinelibrary.wiley.com/toc/14679221/26/2",
+    "javascript:;",
+    "https://doi.org/10.1146/polisci.2013.16.issue-1",
+    "https://www.annualreviews.org/toc/polisci/16/1",
+    "javascript:;",
+    "https://doi.org/10.1016/0022-1031(77)90049-X",
+    "https://linkinghub.elsevier.com/retrieve/pii/002210317790049X",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1177/0956797619831612",
+    "https://www.ncbi.nlm.nih.gov/pubmed/30950321",
+    "javascript:;",
+    "https://doi.org/10.1177/0146167214537834",
+    "https://journals.sagepub.com/doi/10.1177/0146167214537834",
+    "javascript:;",
+    "https://doi.org/10.1177/0956797613500796",
+    "https://www.ncbi.nlm.nih.gov/pubmed/24247730",
+    "javascript:;",
+    "https://doi.org/10.1016/j.tics.2021.07.013",
+    "https://www.ncbi.nlm.nih.gov/pubmed/34429255",
+    "javascript:;",
+    "https://doi.org/10.1093/poq/nfn056",
+    "https://academic.oup.com/poq/article-lookup/doi/10.1093/poq/nfn056",
+    "javascript:;",
+    "https://doi.org/10.1093/ijpor/edp001",
+    "https://academic.oup.com/ijpor/article-lookup/doi/10.1093/ijpor/edp001",
+    "javascript:;",
+    "https://doi.org/10.1080/10584609.2020.1785067",
+    "https://www.tandfonline.com/doi/full/10.1080/10584609.2020.1785067",
+    "javascript:;",
+    "http://www.facebook.com/sharer.php?u=http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7/47",
+    "http://twitter.com/share?url=http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7/47",
+    "http://service.weibo.com/share/share.php?url=http://cjjc.ruc.edu.cn/CN/Y2023/V45/I7/47&title=网络舆论中的态度极化与虚假共识",
+    "javascript:;",
+    "javascript:;",
+    "http://cjjc.ruc.edu.cn/CN/column/column1.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column2.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column5.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column6.shtml",
+    "http://cjjc.ruc.edu.cn/CN/current",
+    "http://cjjc.ruc.edu.cn/CN/archive_by_years",
+    "http://cjjc.ruc.edu.cn/CN/alert/showAlertInfo.do",
+    "http://cjjc.ruc.edu.cn/CN/rss/showRssInfo.do",
+    "https://www.magtech.com.cn/"
+  ]
+}

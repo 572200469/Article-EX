@@ -1,0 +1,317 @@
+{
+  "protocol": "research_protocol_v1-f161bab9fb085136cd8a",
+  "batch_id": "publication_visibility_main-f161bab9fb085136",
+  "cohort": "publication_visibility_main",
+  "condition": "neutral_en",
+  "prompt_language": "en",
+  "topic_id": "agenda_setting",
+  "topic_group": "classical",
+  "provider": "openai",
+  "model_requested": "gpt-5.6-terra",
+  "requested_model": "gpt-5.6-terra",
+  "route": {
+    "provider": "openai",
+    "adapter": "relay",
+    "access_channel": "relay",
+    "base_url": "https://token.mmh1.top/v1",
+    "api_key_env": "RELAY_API_KEY",
+    "model": "gpt-5.6-terra",
+    "confirmed": true,
+    "parameters_confirmed": false,
+    "reasoning_effort": "none",
+    "thinking_mode": "none",
+    "output_limit_field": "max_completion_tokens"
+  },
+  "route_id": "80c1a0800214d59a110d079ba69bfd04955cbdd093fcc0077d0e7fc4b8f144f2",
+  "access_channel": "relay",
+  "base_url": "https://token.mmh1.top/v1",
+  "adapter": "relay",
+  "repeat_index": 1,
+  "mode": "baseline",
+  "search_enabled": false,
+  "source_type": "api",
+  "prompt_text": "Recommend five representative research articles published in academic journals on \"Agenda-setting theory\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+  "request_parameters": {
+    "max_output_tokens": 8192,
+    "timeout": 180
+  },
+  "thinking_mode": "none",
+  "coding_rule_version": "publication_visibility_coding_v2",
+  "sdk_retries": 0,
+  "caller_retries": 0,
+  "generation_authorized": true,
+  "request_config_id": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+  "effective_reasoning_parameters": {
+    "reasoning_effort": "none",
+    "thinking_mode": "none"
+  },
+  "proposed_wire_parameters": {
+    "model": "gpt-5.6-terra",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Agenda-setting theory\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_completion_tokens": 8192,
+    "reasoning_effort": "none"
+  },
+  "sequence": 139,
+  "source_job_id": "f08b091f0d8db60fe7e96e4b1d207045d3f9eeab8f8eb42666c35b6d135766df",
+  "source_generation_protocol": "research_protocol_v1-cf2812cdc4a6cc6ddda4",
+  "job_id": "717493fe5af993a01e123e08449f08ead6eb393c21673ce7535ebd9b9ee6d57a",
+  "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\openai\\717493fe5af993a01e123e08449f08ead6eb393c21673ce7535ebd9b9ee6d57a",
+  "main_authorization": {
+    "authorization_id": "publication_visibility_main_batch06_f161bab9fb085136",
+    "configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+    "allowed_job_ids": [
+      "7df551fbd762130f78aaae89074cfdc7f03f7c21cc01175c55f6d75011f8eff1",
+      "c624188e6e8ba7d631520c81c05495125312b3a1c572f278fb308f4980f78530",
+      "63c831220b632ece5be3956813af0fd696bc11e6bd31c872fdb75c7ada8626a2",
+      "c12b12cb1e3af855a71ae6d84d484ba2ee3c38e763666ddd45bbc09078f2aca5",
+      "08c062589ca36963fa47d1a868dc2fee2bbced0f8b166ffa5270402b76d16e10",
+      "894cf389957f19c26a8f9adf09d8b417b9fa3c7ef325ca0d942effb34bbdaf61",
+      "1cfef0de267b698e9a7ed1f3c677aa2ce4283ea1ec8c19995a236c88995f5b8f",
+      "dbfc204474534ce367b626851abd81cfebc7b2d1c2597956ba5aba28cea470e8",
+      "fbc0885b580a69655e107c956590a0d19fd31948e346346279cf35e22f8cc8c2",
+      "8d23ca963cfcf606483ddf420285a20cc2c1dc918cf8e03f5fbbf753927dd0a4",
+      "2848789c31cbda0b1a32e99db601a26a3e3542af47bf4417b72846fc363a43f0",
+      "c1f27b889ccd2e2b6d75e03a756b25bf3befca8ff144f4b9c24b36d879a25355",
+      "fadaa98a9b0d1c06831f39569f4af8784a842319cbab9470d8ba4be68281cb2f",
+      "d58bdc3e16cff721c29e8ce4a67b4fc4d0458a8263d06f96bf22aea57a588908",
+      "2aeba2be7df5f3fa2ab5125257c99f8929b02e634b5e5ed5baef747f6af10989",
+      "b7abc374ca4fc54c6fca66714e4ce29c14d054482314777dde3361b73e0218b1",
+      "af98ff962263ce84396ad6017e490538a8d5754f4a085fca3c4edd011f29ff12",
+      "641fe06aef38ba7cc268ddfff9bfbaf7e8e681ace1fb8fbba5a3c748e5736aa6",
+      "717493fe5af993a01e123e08449f08ead6eb393c21673ce7535ebd9b9ee6d57a",
+      "02b5e1a0756eee4457c3c8cbbb63cbf44f9c6123b8e15833a42ff30831ab9d59",
+      "b003b425c079699ba04dfa042caf1286fa818dc91013b45edd3101235f3c32fc",
+      "839375b25b76c581eb36e38779558321974f38935b26b83b0655b3cbe57843ae",
+      "85ee7c0c2f530b0c6e41f2d192b448e3d14efda6f6fd9bb83824c40c059c6975",
+      "0d7c0f468f2c15748f6402f88718fc73fd5d73d12597b03f69c45daa64141856"
+    ],
+    "batch_number": 6,
+    "maximum_total_requests": 24,
+    "maximum_provider_requests": {
+      "qwen": 6,
+      "deepseek": 13,
+      "openai": 5
+    },
+    "software_budget_by_currency": {
+      "CNY": "1.10",
+      "USD": "1.30"
+    },
+    "maximum_job_requests": 1,
+    "user_authorized": true,
+    "billing_risk_accepted": true,
+    "source": "remaining144:E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\remaining_049_192\\authorization.json"
+  },
+  "experiment_id": "717493fe5af993a01e123e08449f08ead6eb393c21673ce7535ebd9b9ee6d57a",
+  "timestamp": "2026-10-11T15:28:47.210279+00:00",
+  "protocol_status": "frozen",
+  "status": "success",
+  "api_success": true,
+  "attempt_index": 1,
+  "raw_response": {
+    "id": "resp_0751d87add434758016acbab377958819b93ca45f9575b056d",
+    "object": "chat.completion",
+    "created": 1791732576,
+    "model": "gpt-5.6-terra",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"references\":[{\"title\":\"The Agenda-Setting Function of Mass Media\",\"authors\":[\"Maxwell E. McCombs\",\"Donald L. Shaw\"],\"year\":1972,\"journal\":\"Public Opinion Quarterly\",\"doi\":\"10.1086/267990\",\"url\":\"https://doi.org/10.1086/267990\"},{\"title\":\"Agenda-Setting Research: Where Has It Been, Where Is It Going?\",\"authors\":[\"Everett M. Rogers\",\"James W. Dearing\"],\"year\":1988,\"journal\":\"Journal of Communication\",\"doi\":\"10.1111/j.1460-2466.1988.tb02062.x\",\"url\":\"https://doi.org/10.1111/j.1460-2466.1988.tb02062.x\"},{\"title\":\"The Evolution of Agenda-Setting Research: Twenty Five Years in the Marketplace of Ideas\",\"authors\":[\"Maxwell E. McCombs\",\"Donald L. Shaw\"],\"year\":1993,\"journal\":\"Journal of Communication\",\"doi\":\"10.1111/j.1460-2466.1993.tb01262.x\",\"url\":\"https://doi.org/10.1111/j.1460-2466.1993.tb01262.x\"},{\"title\":\"Explicating Media Salience: A Factor Analysis of New York Times Issue Coverage During the 2000 U.S. Presidential Election\",\"authors\":[\"Spiro Kiousis\"],\"year\":2004,\"journal\":\"Journal of Communication\",\"doi\":\"10.1111/j.1460-2466.2004.tb02622.x\",\"url\":\"https://doi.org/10.1111/j.1460-2466.2004.tb02622.x\"},{\"title\":\"Thoughts on Agenda Setting, Framing, and Priming\",\"authors\":[\"David H. Weaver\"],\"year\":2007,\"journal\":\"Journal of Communication\",\"doi\":\"10.1111/j.1460-2466.2006.00333.x\",\"url\":\"https://doi.org/10.1111/j.1460-2466.2006.00333.x\"}]}",
+          "reasoning_content": "**Identifying key agenda-setting articles****Selecting final five agenda-setting articles**"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 3698,
+      "completion_tokens": 813,
+      "total_tokens": 4511,
+      "completion_tokens_details": {
+        "reasoning_tokens": 378
+      }
+    },
+    "service_tier": "default"
+  },
+  "references": [
+    {
+      "title": "The Agenda-Setting Function of Mass Media",
+      "authors": [
+        "Maxwell E. McCombs",
+        "Donald L. Shaw"
+      ],
+      "year": 1972,
+      "journal": "Public Opinion Quarterly",
+      "doi": "10.1086/267990",
+      "url": "https://doi.org/10.1086/267990"
+    },
+    {
+      "title": "Agenda-Setting Research: Where Has It Been, Where Is It Going?",
+      "authors": [
+        "Everett M. Rogers",
+        "James W. Dearing"
+      ],
+      "year": 1988,
+      "journal": "Journal of Communication",
+      "doi": "10.1111/j.1460-2466.1988.tb02062.x",
+      "url": "https://doi.org/10.1111/j.1460-2466.1988.tb02062.x"
+    },
+    {
+      "title": "The Evolution of Agenda-Setting Research: Twenty Five Years in the Marketplace of Ideas",
+      "authors": [
+        "Maxwell E. McCombs",
+        "Donald L. Shaw"
+      ],
+      "year": 1993,
+      "journal": "Journal of Communication",
+      "doi": "10.1111/j.1460-2466.1993.tb01262.x",
+      "url": "https://doi.org/10.1111/j.1460-2466.1993.tb01262.x"
+    },
+    {
+      "title": "Explicating Media Salience: A Factor Analysis of New York Times Issue Coverage During the 2000 U.S. Presidential Election",
+      "authors": [
+        "Spiro Kiousis"
+      ],
+      "year": 2004,
+      "journal": "Journal of Communication",
+      "doi": "10.1111/j.1460-2466.2004.tb02622.x",
+      "url": "https://doi.org/10.1111/j.1460-2466.2004.tb02622.x"
+    },
+    {
+      "title": "Thoughts on Agenda Setting, Framing, and Priming",
+      "authors": [
+        "David H. Weaver"
+      ],
+      "year": 2007,
+      "journal": "Journal of Communication",
+      "doi": "10.1111/j.1460-2466.2006.00333.x",
+      "url": "https://doi.org/10.1111/j.1460-2466.2006.00333.x"
+    }
+  ],
+  "returned_model": "gpt-5.6-terra",
+  "usage": {
+    "prompt_tokens": 3698,
+    "completion_tokens": 813,
+    "total_tokens": 4511,
+    "completion_tokens_details": {
+      "reasoning_tokens": 378
+    }
+  },
+  "finish_reason": "stop",
+  "actual_billed_amount": null,
+  "budget_reservation": {
+    "currency": "CNY",
+    "amount": "0.10"
+  },
+  "pricing_snapshot": {
+    "provider": "openai",
+    "model": "gpt-5.6-terra",
+    "pricing_route_base_url": "https://token.mmh1.top/v1",
+    "access_channel": "relay",
+    "pricing_currency": "CNY",
+    "input_price_per_million": "1.30",
+    "output_price_per_million": "7.80",
+    "cached_input_price_per_million": "0.80",
+    "pricing_source": "user_provided_mmh1_screenshot_transcription",
+    "pricing_checked_at": "2026-10-11",
+    "source_url": "https://token.mmh1.top/pricing",
+    "evidence_limit": "Displayed prices only; original screenshot not available locally; actual deductions unverified.",
+    "tier": "standard_scenario_only",
+    "input_token_limit": null,
+    "reasoning_billing": "unknown",
+    "unknown_terms": [
+      "platform_multiplier",
+      "account_currency_or_quota_unit",
+      "dynamic_price",
+      "long_context_tier_threshold",
+      "long_context_rates",
+      "reasoning_billing",
+      "cache_write_fee",
+      "failed_request_billing",
+      "platform_internal_retries"
+    ],
+    "proposed_reservation": "0.10"
+  },
+  "budget_status": "reservation_retained_actual_invoice_unknown",
+  "planned_parameters": {
+    "model": "gpt-5.6-terra",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Agenda-setting theory\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_completion_tokens": 8192,
+    "reasoning_effort": "none"
+  },
+  "upstream_identity_verified": false,
+  "response_text": "{\"references\":[{\"title\":\"The Agenda-Setting Function of Mass Media\",\"authors\":[\"Maxwell E. McCombs\",\"Donald L. Shaw\"],\"year\":1972,\"journal\":\"Public Opinion Quarterly\",\"doi\":\"10.1086/267990\",\"url\":\"https://doi.org/10.1086/267990\"},{\"title\":\"Agenda-Setting Research: Where Has It Been, Where Is It Going?\",\"authors\":[\"Everett M. Rogers\",\"James W. Dearing\"],\"year\":1988,\"journal\":\"Journal of Communication\",\"doi\":\"10.1111/j.1460-2466.1988.tb02062.x\",\"url\":\"https://doi.org/10.1111/j.1460-2466.1988.tb02062.x\"},{\"title\":\"The Evolution of Agenda-Setting Research: Twenty Five Years in the Marketplace of Ideas\",\"authors\":[\"Maxwell E. McCombs\",\"Donald L. Shaw\"],\"year\":1993,\"journal\":\"Journal of Communication\",\"doi\":\"10.1111/j.1460-2466.1993.tb01262.x\",\"url\":\"https://doi.org/10.1111/j.1460-2466.1993.tb01262.x\"},{\"title\":\"Explicating Media Salience: A Factor Analysis of New York Times Issue Coverage During the 2000 U.S. Presidential Election\",\"authors\":[\"Spiro Kiousis\"],\"year\":2004,\"journal\":\"Journal of Communication\",\"doi\":\"10.1111/j.1460-2466.2004.tb02622.x\",\"url\":\"https://doi.org/10.1111/j.1460-2466.2004.tb02622.x\"},{\"title\":\"Thoughts on Agenda Setting, Framing, and Priming\",\"authors\":[\"David H. Weaver\"],\"year\":2007,\"journal\":\"Journal of Communication\",\"doi\":\"10.1111/j.1460-2466.2006.00333.x\",\"url\":\"https://doi.org/10.1111/j.1460-2466.2006.00333.x\"}]}",
+  "model_returned": "gpt-5.6-terra",
+  "response_id": "resp_0751d87add434758016acbab377958819b93ca45f9575b056d",
+  "provider_status": "completed",
+  "search_executed": false,
+  "tool_records": [],
+  "upstream_snapshot": "unknown",
+  "api_surface": "relay.openai_compatible.chat.completions",
+  "upstream_route_claims": {},
+  "raw_http_body": "{\"id\":\"resp_0751d87add434758016acbab377958819b93ca45f9575b056d\",\"object\":\"chat.completion\",\"created\":1791732576,\"model\":\"gpt-5.6-terra\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\"{\\\"references\\\":[{\\\"title\\\":\\\"The Agenda-Setting Function of Mass Media\\\",\\\"authors\\\":[\\\"Maxwell E. McCombs\\\",\\\"Donald L. Shaw\\\"],\\\"year\\\":1972,\\\"journal\\\":\\\"Public Opinion Quarterly\\\",\\\"doi\\\":\\\"10.1086/267990\\\",\\\"url\\\":\\\"https://doi.org/10.1086/267990\\\"},{\\\"title\\\":\\\"Agenda-Setting Research: Where Has It Been, Where Is It Going?\\\",\\\"authors\\\":[\\\"Everett M. Rogers\\\",\\\"James W. Dearing\\\"],\\\"year\\\":1988,\\\"journal\\\":\\\"Journal of Communication\\\",\\\"doi\\\":\\\"10.1111/j.1460-2466.1988.tb02062.x\\\",\\\"url\\\":\\\"https://doi.org/10.1111/j.1460-2466.1988.tb02062.x\\\"},{\\\"title\\\":\\\"The Evolution of Agenda-Setting Research: Twenty Five Years in the Marketplace of Ideas\\\",\\\"authors\\\":[\\\"Maxwell E. McCombs\\\",\\\"Donald L. Shaw\\\"],\\\"year\\\":1993,\\\"journal\\\":\\\"Journal of Communication\\\",\\\"doi\\\":\\\"10.1111/j.1460-2466.1993.tb01262.x\\\",\\\"url\\\":\\\"https://doi.org/10.1111/j.1460-2466.1993.tb01262.x\\\"},{\\\"title\\\":\\\"Explicating Media Salience: A Factor Analysis of New York Times Issue Coverage During the 2000 U.S. Presidential Election\\\",\\\"authors\\\":[\\\"Spiro Kiousis\\\"],\\\"year\\\":2004,\\\"journal\\\":\\\"Journal of Communication\\\",\\\"doi\\\":\\\"10.1111/j.1460-2466.2004.tb02622.x\\\",\\\"url\\\":\\\"https://doi.org/10.1111/j.1460-2466.2004.tb02622.x\\\"},{\\\"title\\\":\\\"Thoughts on Agenda Setting, Framing, and Priming\\\",\\\"authors\\\":[\\\"David H. Weaver\\\"],\\\"year\\\":2007,\\\"journal\\\":\\\"Journal of Communication\\\",\\\"doi\\\":\\\"10.1111/j.1460-2466.2006.00333.x\\\",\\\"url\\\":\\\"https://doi.org/10.1111/j.1460-2466.2006.00333.x\\\"}]}\",\"reasoning_content\":\"**Identifying key agenda-setting articles****Selecting final five agenda-setting articles**\"},\"finish_reason\":\"stop\"}],\"usage\":{\"prompt_tokens\":3698,\"completion_tokens\":813,\"total_tokens\":4511,\"completion_tokens_details\":{\"reasoning_tokens\":378}},\"service_tier\":\"default\"}",
+  "http_status": 200,
+  "safe_response_headers": {
+    "server": "cloudflare"
+  },
+  "sent_parameters": {
+    "model": "gpt-5.6-terra",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Agenda-setting theory\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_completion_tokens": 8192,
+    "reasoning_effort": "none"
+  },
+  "provider_request_id": null,
+  "entry_errors": [],
+  "json_parsed": true,
+  "latency": 46.654699799997616,
+  "usage_price_estimate": {
+    "currency": "CNY",
+    "input_tokens_scenario": 3698,
+    "output_tokens_scenario": 813,
+    "text_component_amount": "0.0111488",
+    "estimated_total_amount": null,
+    "verified_total_upper_bound": null,
+    "actual_billed_amount": null,
+    "cache_policy": "all_input_at_uncached_rate_scenario",
+    "multiplier_scenario": "1 (scenario only; not account verification)",
+    "tools": "not_requested",
+    "client_retries": 0,
+    "unknown_terms": [
+      "platform_multiplier",
+      "account_currency_or_quota_unit",
+      "dynamic_price",
+      "long_context_tier_threshold",
+      "long_context_rates",
+      "reasoning_billing",
+      "cache_write_fee",
+      "failed_request_billing",
+      "platform_internal_retries"
+    ],
+    "price_snapshot_id": "b803fd4ec7337a37f4ecbe02196da14a829c73077c25250a9bba6e9de9e18525",
+    "usage_evidence": {
+      "prompt_tokens": 3698,
+      "completion_tokens": 813,
+      "total_tokens": 4511,
+      "completion_tokens_details": {
+        "reasoning_tokens": 378
+      }
+    },
+    "reasoning_tokens_reported": 378,
+    "usage_cost_basis": "uncached list-rate component; not actual invoice"
+  }
+}

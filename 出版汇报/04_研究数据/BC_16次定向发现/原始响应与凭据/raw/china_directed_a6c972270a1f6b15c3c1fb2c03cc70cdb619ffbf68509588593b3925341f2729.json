@@ -1,0 +1,341 @@
+{
+  "protocol": "china_directed_prompt_v1-9597931c4a07c93b2921",
+  "batch_id": "china_directed_16-9597931c4a07c93b",
+  "cohort": "china_directed_discovery_pilot",
+  "condition": "directed_cnki_C",
+  "prompt_language": "zh",
+  "topic_id": "agenda_setting",
+  "topic_group": "classical",
+  "provider": "gemini",
+  "model_requested": "gemini-3.8-flash",
+  "requested_model": "gemini-3.8-flash",
+  "route": {
+    "provider": "gemini",
+    "adapter": "relay",
+    "access_channel": "relay",
+    "base_url": "https://token.mmh1.top/v1",
+    "api_key_env": "RELAY_API_KEY",
+    "model": "gemini-3.8-flash",
+    "confirmed": true,
+    "parameters_confirmed": false,
+    "reasoning_effort": "low",
+    "thinking_mode": "low",
+    "output_limit_field": "max_tokens"
+  },
+  "route_id": "a3de5fc638c197d2fe22997af2ae183beca5b62892a11fe68972fefc96c59c5a",
+  "access_channel": "relay",
+  "base_url": "https://token.mmh1.top/v1",
+  "adapter": "relay",
+  "repeat_index": 1,
+  "mode": "baseline",
+  "search_enabled": false,
+  "source_type": "api",
+  "prompt_text": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构；论文须为能够在中国知网检索到的学术期刊论文。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+  "request_parameters": {
+    "max_output_tokens": 8192,
+    "timeout": 180
+  },
+  "thinking_mode": "low",
+  "coding_rule_version": "publication_visibility_coding_v2",
+  "sdk_retries": 0,
+  "caller_retries": 0,
+  "generation_authorized": true,
+  "request_config_id": "9597931c4a07c93b292137ee5de04b478cfde0543ac42ab93509e3744574ad77",
+  "effective_reasoning_parameters": {
+    "reasoning_effort": "low",
+    "thinking_mode": "low"
+  },
+  "proposed_wire_parameters": {
+    "model": "gemini-3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构；论文须为能够在中国知网检索到的学术期刊论文。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "reasoning_effort": "low"
+  },
+  "source_generation_protocol": "supplement_only_not_main",
+  "parent_prompt_text": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+  "parent_configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+  "parent_job_id": "ef13351091e330b212061f52fbf1dde3e41c285f0b67fd14487321b5f1586a05",
+  "job_id": "china_directed_a6c972270a1f6b15c3c1fb2c03cc70cdb619ffbf68509588593b3925341f2729",
+  "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\gemini\\china_directed_a6c972270a1f6b15c3c1fb2c03cc70cdb619ffbf68509588593b3925341f2729",
+  "sequence": 15,
+  "main_authorization": {
+    "authorization_id": "china_directed16_9597931c4a07c93b",
+    "configuration_fingerprint": "9597931c4a07c93b292137ee5de04b478cfde0543ac42ab93509e3744574ad77",
+    "manifest_hash": "24a3a190ab8a9948f77d5551177d7f847ffde8954c7ecbc1a2c7756976709a00",
+    "allowed_job_ids": [
+      "china_directed_2c745f101d2c056e29c1a0f2dc87511ad11da219738a4de86051c4a08ec91290",
+      "china_directed_a7c7b6fefffb69d07b17e4227c67d9f4f993e684f95c4f14a2450e16691f8954",
+      "china_directed_d4b7588992c1978d541944228a55416bac689b8007df0ec0769efee99c41609c",
+      "china_directed_7631d62ab81afd388be254881906c3a30d2f0c2ddfedae29bfc7c0945dc7d24c",
+      "china_directed_72615dfa1871d6fb7fefde4f4bf8b99cdf604e09fba9f6f908145da63d7dc16c",
+      "china_directed_929e5b48b3bcbeb1d4a8f7e8a5980237160afe01560a355737b3d3a42d772f03",
+      "china_directed_e7d42621b75ad6eaa5bd36239a36356654ace5f9bae671c325582e151b5fd1c5",
+      "china_directed_7e911ec6415bf833c5d4468920383cedff7772c1205d5e3fce1b7a13559a935a",
+      "china_directed_8f82cb9d4317914d25635a375ea300eed2e4ed87a025c263a70c5790de5fac4d",
+      "china_directed_d89223edadd98e68eaf7e11143ffa8694bebd1f08fc91ffc23d854d3790c6219",
+      "china_directed_f9bbbf2da48081daa4c3ba824a41010e7a08bdbc0847643bf311b5688ebf7029",
+      "china_directed_16cbbb345646c96e0e142a0287458f2c8570fdec068cf2732103a60504e38a5a",
+      "china_directed_4d78c5bbf0a94131a1769211012195fd02a5e9bd7b99b7dbd2938b601c0bb278",
+      "china_directed_b3c77e12230174520bcefaa74389eb9dc07e5a954804060a4eb37cafd0253034",
+      "china_directed_a6c972270a1f6b15c3c1fb2c03cc70cdb619ffbf68509588593b3925341f2729",
+      "china_directed_a80d839d194bf4ba978a7aedbd66287464067d777059d3673c9390d467bbc447"
+    ],
+    "maximum_total_requests": 16,
+    "maximum_provider_requests": {
+      "openai": 4,
+      "gemini": 4,
+      "deepseek": 4,
+      "qwen": 4
+    },
+    "software_budget_by_currency": {
+      "CNY": "1.40",
+      "USD": "0.40"
+    },
+    "maximum_job_requests": 1,
+    "user_authorized": true,
+    "billing_risk_accepted": true,
+    "source": "User explicitly authorized frozen16 paid requests on 2026-10-12; CNY1.40 USD0.40; accepts disclosed billing uncertainty; no retries or extra calls"
+  },
+  "experiment_id": "china_directed_a6c972270a1f6b15c3c1fb2c03cc70cdb619ffbf68509588593b3925341f2729",
+  "timestamp": "2026-10-12T11:05:39.106635+00:00",
+  "protocol_status": "frozen",
+  "status": "parse_error",
+  "api_success": true,
+  "attempt_index": 1,
+  "raw_response": {
+    "id": "chatcmpl-202610121105476874165518268d9d6cxuFEk6K",
+    "model": "gemini-3.8-flash",
+    "object": "chat.completion",
+    "created": 1791803235,
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "```json\n{\n  \"references\": [\n    {\n      \"title\": \"The Agenda-Setting Function of Mass Media\",\n      \"authors\": \"Maxwell E. McCombs, Donald L. Shaw\",\n      \"year\": 1972,\n      \"journal\": \"Public Opinion Quarterly\",\n      \"doi\": \"10.1086/267990\",\n      \"url\": \"https://doi.org/10.1086/267990\"\n    },\n    {\n      \"title\": \"The Issues of the Sixties: An Exploratory Study in the Dynamics of Public Opinion\",\n      \"authors\": \"G. Ray Funkhouser\",\n      \"year\": 1973,\n      \"journal\": \"Public Opinion Quarterly\",\n      \"doi\": \"10.1086/268060\",\n      \"url\": \"https://doi.org/10.1086/268060\"\n    },\n    {\n      \"title\": \"Experimental Demonstrations of the \\\"Not-So-Minimal\\\" Consequences of Television News Programs\",\n      \"authors\": \"Shanto Iyengar, Mark D. Peters, Donald R. Kinder\",\n      \"year\": 1982,\n      \"journal\": \"The American Political Science Review\",\n      \"doi\": \"10.2307/1962999\",\n      \"url\": \"https://doi.org/10.2307/1962999\"\n    },\n    {\n      \"title\": \"Thoughts on Agenda Setting, Framing, and Priming\",\n      \"authors\": \"David H. Weaver\",\n      \"year\": 2007,\n      \"journal\": \"Journal of Communication\",\n      \"doi\": \"10.1111/j.1460-2466.2006.00333.x\",\n      \"url\": \"https://doi.org/10.1111/j.1460-2466.2006.00333.x\"\n    },\n    {\n      \"title\": \"New Directions in Agenda-Setting Theory and Research\",\n      \"authors\": \"Maxwell McCombs, Donald L. Shaw, David H. Weaver\",\n      \"year\": 2014,\n      \"journal\": \"Mass Communication and Society\",\n      \"doi\": \"10.1080/15205436.2014.964871\",\n      \"url\": \"https://doi.org/10.1080/15205436.2014.964871\"\n    }\n  ]\n}\n```",
+          "reasoning_content": "**JSON Output Construction for Agenda-Setting Theory Papers**\n\nOkay, let's break this down systematically. The core task is to provide a JSON output of 5 representative academic journal papers on Agenda-Setting Theory, retrievable through CNKI. The user's an expert, so we need to select key papers.  Since the prompt specifically allows for non-Chinese papers as long as they are indexed in CNKI ( \"不限制作者机构、论文发表语言、期刊主办地或出版机构；论文须为能够在中国知网检索到的学术期刊论文\" ), we need to take advantage of that. The phrasing suggests we can include foundational English language papers, because we can search them on CNKI.\n\nMy primary focus is accuracy.  We need title, authors, year, journal, DOI, and URL (null if not available).  No fabricated citations, textbooks, or reviews.\n\n1.  First, let's make a mental list of the core English-language papers: McCombs & Shaw (1972) - the foundation; Funkhouser (1973) - real-world effects; Iyengar, Peters, Kinder (1982) - causality; Weaver (2007) - framing & priming; McCombs, Shaw, Weaver (2014) - network agenda setting. I know these are searchable in CNKI, and widely considered definitive.  CNKI also has \"外文文献\" database that index international journals.\n\n2.  Next, let's rigorously verify *each* of these papers' metadata (especially DOIs). Cross-referencing DOIs using DOI.org is crucial.\n\n3.  Third, let's double-check that this is a list of journal articles, and make sure we avoid any \"book chapter\" or \"textbook\" errors.\n\n4.  Finally, we need to verify the JSON structure: is the order and all fields correct? I'll re-read the instructions one more time.\n\nHere's the result:\n\n```json\n{\n  \"references\": [\n    {\n      \"title\": \"The Agenda-Setting Function of Mass Media\",\n      \"authors\": \"Maxwell E. McCombs, Donald L. Shaw\",\n      \"year\": 1972,\n      \"journal\": \"Public Opinion Quarterly\",\n      \"doi\": \"10.1086/267990\",\n      \"url\": null\n    },\n    {\n      \"title\": \"The Issues of the Sixties: An Exploratory Study in the Dynamics of Public Opinion\",\n      \"authors\": \"G. Ray Funkhouser\",\n      \"year\": 1973,\n      \"journal\": \"Public Opinion Quarterly\",\n      \"doi\": \"10.1086/268060\",\n      \"url\": null\n    },\n    {\n      \"title\": \"Experimental Demonstrations of the \\\"Not-So-Minimal\\\" Consequences of Television News Programs\",\n      \"authors\": \"Shanto Iyengar, Mark D. Peters, Donald R. Kinder\",\n      \"year\": 1982,\n      \"journal\": \"The American Political Science Review\",\n      \"doi\": \"10.2307/1962999\",\n      \"url\": null\n    },\n    {\n      \"title\": \"Thoughts on Agenda Setting, Framing, and Priming\",\n      \"authors\": \"David H. Weaver\",\n      \"year\": 2007,\n      \"journal\": \"Journal of Communication\",\n      \"doi\": \"10.1111/j.1460-2466.2006.00333.x\",\n      \"url\": null\n    },\n    {\n      \"title\": \"New Directions in Agenda-Setting Theory and Research\",\n      \"authors\": \"Maxwell McCombs, Donald L. Shaw, David H. Weaver\",\n      \"year\": 2014,\n      \"journal\": \"Mass Communication and Society\",\n      \"doi\": \"10.1080/15205436.2014.964871\",\n      \"url\": null\n    }\n  ]\n}\n```\n\n\n"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 156,
+      "completion_tokens": 10461,
+      "total_tokens": 10617,
+      "billing_usage": {
+        "source": "gemini_chat",
+        "semantic": "gemini",
+        "gemini_usage_metadata": {
+          "promptTokenCount": 156,
+          "toolUsePromptTokenCount": 0,
+          "candidatesTokenCount": 641,
+          "totalTokenCount": 10617,
+          "thoughtsTokenCount": 9820,
+          "cachedContentTokenCount": 0,
+          "promptTokensDetails": [],
+          "toolUsePromptTokensDetails": [],
+          "candidatesTokensDetails": []
+        }
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 156,
+        "audio_tokens": 0,
+        "image_tokens": 0
+      },
+      "completion_tokens_details": {
+        "text_tokens": 0,
+        "audio_tokens": 0,
+        "image_tokens": 0,
+        "reasoning_tokens": 9820
+      },
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "input_tokens_details": null,
+      "claude_cache_creation_5_m_tokens": 0,
+      "claude_cache_creation_1_h_tokens": 0
+    }
+  },
+  "references": [],
+  "returned_model": "gemini-3.8-flash",
+  "usage": {
+    "prompt_tokens": 156,
+    "completion_tokens": 10461,
+    "total_tokens": 10617,
+    "billing_usage": {
+      "source": "gemini_chat",
+      "semantic": "gemini",
+      "gemini_usage_metadata": {
+        "promptTokenCount": 156,
+        "toolUsePromptTokenCount": 0,
+        "candidatesTokenCount": 641,
+        "totalTokenCount": 10617,
+        "thoughtsTokenCount": 9820,
+        "cachedContentTokenCount": 0,
+        "promptTokensDetails": [],
+        "toolUsePromptTokensDetails": [],
+        "candidatesTokensDetails": []
+      }
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 156,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "image_tokens": 0,
+      "reasoning_tokens": 9820
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null,
+    "claude_cache_creation_5_m_tokens": 0,
+    "claude_cache_creation_1_h_tokens": 0
+  },
+  "finish_reason": "stop",
+  "actual_billed_amount": null,
+  "budget_reservation": {
+    "currency": "CNY",
+    "amount": "0.15"
+  },
+  "pricing_snapshot": {
+    "provider": "gemini",
+    "model": "gemini-3.8-flash",
+    "pricing_route_base_url": "https://token.mmh1.top/v1",
+    "access_channel": "relay",
+    "pricing_currency": "CNY",
+    "input_price_per_million": "2.40",
+    "output_price_per_million": "14.40",
+    "cached_input_price_per_million": "0.80",
+    "pricing_source": "user_provided_mmh1_screenshot_transcription",
+    "pricing_checked_at": "2026-10-11",
+    "source_url": "https://token.mmh1.top/pricing",
+    "evidence_limit": "Displayed prices only; actual account currency, multiplier and deductions unverified.",
+    "tier": "displayed_rate_scenario_only",
+    "input_token_limit": null,
+    "reasoning_billing": "unknown",
+    "unknown_terms": [
+      "platform_multiplier",
+      "account_currency_or_quota_unit",
+      "dynamic_price",
+      "context_tier_rules",
+      "reasoning_billing",
+      "cache_write_fee",
+      "failed_request_billing",
+      "platform_internal_retries"
+    ],
+    "proposed_reservation": "0.15"
+  },
+  "budget_status": "reservation_retained_actual_invoice_unknown",
+  "planned_parameters": {
+    "model": "gemini-3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构；论文须为能够在中国知网检索到的学术期刊论文。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "reasoning_effort": "low"
+  },
+  "upstream_identity_verified": false,
+  "response_text": "```json\n{\n  \"references\": [\n    {\n      \"title\": \"The Agenda-Setting Function of Mass Media\",\n      \"authors\": \"Maxwell E. McCombs, Donald L. Shaw\",\n      \"year\": 1972,\n      \"journal\": \"Public Opinion Quarterly\",\n      \"doi\": \"10.1086/267990\",\n      \"url\": \"https://doi.org/10.1086/267990\"\n    },\n    {\n      \"title\": \"The Issues of the Sixties: An Exploratory Study in the Dynamics of Public Opinion\",\n      \"authors\": \"G. Ray Funkhouser\",\n      \"year\": 1973,\n      \"journal\": \"Public Opinion Quarterly\",\n      \"doi\": \"10.1086/268060\",\n      \"url\": \"https://doi.org/10.1086/268060\"\n    },\n    {\n      \"title\": \"Experimental Demonstrations of the \\\"Not-So-Minimal\\\" Consequences of Television News Programs\",\n      \"authors\": \"Shanto Iyengar, Mark D. Peters, Donald R. Kinder\",\n      \"year\": 1982,\n      \"journal\": \"The American Political Science Review\",\n      \"doi\": \"10.2307/1962999\",\n      \"url\": \"https://doi.org/10.2307/1962999\"\n    },\n    {\n      \"title\": \"Thoughts on Agenda Setting, Framing, and Priming\",\n      \"authors\": \"David H. Weaver\",\n      \"year\": 2007,\n      \"journal\": \"Journal of Communication\",\n      \"doi\": \"10.1111/j.1460-2466.2006.00333.x\",\n      \"url\": \"https://doi.org/10.1111/j.1460-2466.2006.00333.x\"\n    },\n    {\n      \"title\": \"New Directions in Agenda-Setting Theory and Research\",\n      \"authors\": \"Maxwell McCombs, Donald L. Shaw, David H. Weaver\",\n      \"year\": 2014,\n      \"journal\": \"Mass Communication and Society\",\n      \"doi\": \"10.1080/15205436.2014.964871\",\n      \"url\": \"https://doi.org/10.1080/15205436.2014.964871\"\n    }\n  ]\n}\n```",
+  "model_returned": "gemini-3.8-flash",
+  "response_id": "chatcmpl-202610121105476874165518268d9d6cxuFEk6K",
+  "provider_status": "completed",
+  "search_executed": false,
+  "tool_records": [],
+  "upstream_snapshot": "unknown",
+  "api_surface": "relay.openai_compatible.chat.completions",
+  "upstream_route_claims": {},
+  "raw_http_body": "{\"id\":\"chatcmpl-202610121105476874165518268d9d6cxuFEk6K\",\"model\":\"gemini-3.8-flash\",\"object\":\"chat.completion\",\"created\":1791803235,\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\"```json\\n{\\n  \\\"references\\\": [\\n    {\\n      \\\"title\\\": \\\"The Agenda-Setting Function of Mass Media\\\",\\n      \\\"authors\\\": \\\"Maxwell E. McCombs, Donald L. Shaw\\\",\\n      \\\"year\\\": 1972,\\n      \\\"journal\\\": \\\"Public Opinion Quarterly\\\",\\n      \\\"doi\\\": \\\"10.1086/267990\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.1086/267990\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"The Issues of the Sixties: An Exploratory Study in the Dynamics of Public Opinion\\\",\\n      \\\"authors\\\": \\\"G. Ray Funkhouser\\\",\\n      \\\"year\\\": 1973,\\n      \\\"journal\\\": \\\"Public Opinion Quarterly\\\",\\n      \\\"doi\\\": \\\"10.1086/268060\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.1086/268060\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"Experimental Demonstrations of the \\\\\\\"Not-So-Minimal\\\\\\\" Consequences of Television News Programs\\\",\\n      \\\"authors\\\": \\\"Shanto Iyengar, Mark D. Peters, Donald R. Kinder\\\",\\n      \\\"year\\\": 1982,\\n      \\\"journal\\\": \\\"The American Political Science Review\\\",\\n      \\\"doi\\\": \\\"10.2307/1962999\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.2307/1962999\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"Thoughts on Agenda Setting, Framing, and Priming\\\",\\n      \\\"authors\\\": \\\"David H. Weaver\\\",\\n      \\\"year\\\": 2007,\\n      \\\"journal\\\": \\\"Journal of Communication\\\",\\n      \\\"doi\\\": \\\"10.1111/j.1460-2466.2006.00333.x\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.1111/j.1460-2466.2006.00333.x\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"New Directions in Agenda-Setting Theory and Research\\\",\\n      \\\"authors\\\": \\\"Maxwell McCombs, Donald L. Shaw, David H. Weaver\\\",\\n      \\\"year\\\": 2014,\\n      \\\"journal\\\": \\\"Mass Communication and Society\\\",\\n      \\\"doi\\\": \\\"10.1080/15205436.2014.964871\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.1080/15205436.2014.964871\\\"\\n    }\\n  ]\\n}\\n```\",\"reasoning_content\":\"**JSON Output Construction for Agenda-Setting Theory Papers**\\n\\nOkay, let's break this down systematically. The core task is to provide a JSON output of 5 representative academic journal papers on Agenda-Setting Theory, retrievable through CNKI. The user's an expert, so we need to select key papers.  Since the prompt specifically allows for non-Chinese papers as long as they are indexed in CNKI ( \\\"不限制作者机构、论文发表语言、期刊主办地或出版机构；论文须为能够在中国知网检索到的学术期刊论文\\\" ), we need to take advantage of that. The phrasing suggests we can include foundational English language papers, because we can search them on CNKI.\\n\\nMy primary focus is accuracy.  We need title, authors, year, journal, DOI, and URL (null if not available).  No fabricated citations, textbooks, or reviews.\\n\\n1.  First, let's make a mental list of the core English-language papers: McCombs \\u0026 Shaw (1972) - the foundation; Funkhouser (1973) - real-world effects; Iyengar, Peters, Kinder (1982) - causality; Weaver (2007) - framing \\u0026 priming; McCombs, Shaw, Weaver (2014) - network agenda setting. I know these are searchable in CNKI, and widely considered definitive.  CNKI also has \\\"外文文献\\\" database that index international journals.\\n\\n2.  Next, let's rigorously verify *each* of these papers' metadata (especially DOIs). Cross-referencing DOIs using DOI.org is crucial.\\n\\n3.  Third, let's double-check that this is a list of journal articles, and make sure we avoid any \\\"book chapter\\\" or \\\"textbook\\\" errors.\\n\\n4.  Finally, we need to verify the JSON structure: is the order and all fields correct? I'll re-read the instructions one more time.\\n\\nHere's the result:\\n\\n```json\\n{\\n  \\\"references\\\": [\\n    {\\n      \\\"title\\\": \\\"The Agenda-Setting Function of Mass Media\\\",\\n      \\\"authors\\\": \\\"Maxwell E. McCombs, Donald L. Shaw\\\",\\n      \\\"year\\\": 1972,\\n      \\\"journal\\\": \\\"Public Opinion Quarterly\\\",\\n      \\\"doi\\\": \\\"10.1086/267990\\\",\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"The Issues of the Sixties: An Exploratory Study in the Dynamics of Public Opinion\\\",\\n      \\\"authors\\\": \\\"G. Ray Funkhouser\\\",\\n      \\\"year\\\": 1973,\\n      \\\"journal\\\": \\\"Public Opinion Quarterly\\\",\\n      \\\"doi\\\": \\\"10.1086/268060\\\",\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"Experimental Demonstrations of the \\\\\\\"Not-So-Minimal\\\\\\\" Consequences of Television News Programs\\\",\\n      \\\"authors\\\": \\\"Shanto Iyengar, Mark D. Peters, Donald R. Kinder\\\",\\n      \\\"year\\\": 1982,\\n      \\\"journal\\\": \\\"The American Political Science Review\\\",\\n      \\\"doi\\\": \\\"10.2307/1962999\\\",\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"Thoughts on Agenda Setting, Framing, and Priming\\\",\\n      \\\"authors\\\": \\\"David H. Weaver\\\",\\n      \\\"year\\\": 2007,\\n      \\\"journal\\\": \\\"Journal of Communication\\\",\\n      \\\"doi\\\": \\\"10.1111/j.1460-2466.2006.00333.x\\\",\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"New Directions in Agenda-Setting Theory and Research\\\",\\n      \\\"authors\\\": \\\"Maxwell McCombs, Donald L. Shaw, David H. Weaver\\\",\\n      \\\"year\\\": 2014,\\n      \\\"journal\\\": \\\"Mass Communication and Society\\\",\\n      \\\"doi\\\": \\\"10.1080/15205436.2014.964871\\\",\\n      \\\"url\\\": null\\n    }\\n  ]\\n}\\n```\\n\\n\\n\"},\"finish_reason\":\"stop\"}],\"usage\":{\"prompt_tokens\":156,\"completion_tokens\":10461,\"total_tokens\":10617,\"billing_usage\":{\"source\":\"gemini_chat\",\"semantic\":\"gemini\",\"gemini_usage_metadata\":{\"promptTokenCount\":156,\"toolUsePromptTokenCount\":0,\"candidatesTokenCount\":641,\"totalTokenCount\":10617,\"thoughtsTokenCount\":9820,\"cachedContentTokenCount\":0,\"promptTokensDetails\":[],\"toolUsePromptTokensDetails\":[],\"candidatesTokensDetails\":[]}},\"prompt_tokens_details\":{\"cached_tokens\":0,\"text_tokens\":156,\"audio_tokens\":0,\"image_tokens\":0},\"completion_tokens_details\":{\"text_tokens\":0,\"audio_tokens\":0,\"image_tokens\":0,\"reasoning_tokens\":9820},\"input_tokens\":0,\"output_tokens\":0,\"input_tokens_details\":null,\"claude_cache_creation_5_m_tokens\":0,\"claude_cache_creation_1_h_tokens\":0}}",
+  "http_status": 200,
+  "safe_response_headers": {
+    "server": "cloudflare"
+  },
+  "sent_parameters": {
+    "model": "gemini-3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构；论文须为能够在中国知网检索到的学术期刊论文。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "reasoning_effort": "low"
+  },
+  "provider_request_id": null,
+  "json_parsed": false,
+  "latency": 92.535046099998,
+  "usage_price_estimate": {
+    "currency": "CNY",
+    "input_tokens_scenario": 156,
+    "output_tokens_scenario": 10461,
+    "text_component_amount": "0.1510128",
+    "estimated_total_amount": null,
+    "verified_total_upper_bound": null,
+    "actual_billed_amount": null,
+    "cache_policy": "all_input_at_uncached_rate_scenario",
+    "multiplier_scenario": "1 (scenario only; not account verification)",
+    "tools": "not_requested",
+    "client_retries": 0,
+    "unknown_terms": [
+      "platform_multiplier",
+      "account_currency_or_quota_unit",
+      "dynamic_price",
+      "context_tier_rules",
+      "reasoning_billing",
+      "cache_write_fee",
+      "failed_request_billing",
+      "platform_internal_retries"
+    ],
+    "price_snapshot_id": "58e8edeb336849be6ae04b0c41fc49b3de2e74a24f6ee00ba37b1b153a8f4a03",
+    "usage_evidence": {
+      "prompt_tokens": 156,
+      "completion_tokens": 10461,
+      "total_tokens": 10617,
+      "billing_usage": {
+        "source": "gemini_chat",
+        "semantic": "gemini",
+        "gemini_usage_metadata": {
+          "promptTokenCount": 156,
+          "toolUsePromptTokenCount": 0,
+          "candidatesTokenCount": 641,
+          "totalTokenCount": 10617,
+          "thoughtsTokenCount": 9820,
+          "cachedContentTokenCount": 0,
+          "promptTokensDetails": [],
+          "toolUsePromptTokensDetails": [],
+          "candidatesTokensDetails": []
+        }
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 156,
+        "audio_tokens": 0,
+        "image_tokens": 0
+      },
+      "completion_tokens_details": {
+        "text_tokens": 0,
+        "audio_tokens": 0,
+        "image_tokens": 0,
+        "reasoning_tokens": 9820
+      },
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "input_tokens_details": null,
+      "claude_cache_creation_5_m_tokens": 0,
+      "claude_cache_creation_1_h_tokens": 0
+    },
+    "reasoning_tokens_reported": 9820,
+    "usage_cost_basis": "uncached list-rate component; not actual invoice"
+  }
+}

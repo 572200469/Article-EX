@@ -1,0 +1,5 @@
+﻿provider,positions,journal_positions,nonjournal_positions,historical_pending,identity_unknown,identity_resolved,identity_coverage,unique_works,unique_journals,institutional_system_known,institutional_geography_known,journal_geography_unknown,geography_journal_coverage,geography_all_position_coverage,mainland_independent,crossborder_mainland,non_mainland,china_author_confirmed,china_author_unknown,language_zh_metadata,body_language_manual_confirmed
+openai,229,174,11,0,44,185,0.8078602620087336,90,37,121,94,80,0.5402298850574713,0.4104803493449782,0,0,94,0,96,0,0
+gemini,240,213,10,0,17,223,0.9291666666666667,70,35,150,125,88,0.5868544600938967,0.5208333333333334,0,0,125,1,78,0,0
+deepseek,240,100,18,0,122,118,0.49166666666666664,46,25,77,64,36,0.64,0.26666666666666666,0,0,64,0,168,0,0
+qwen,240,23,2,0,215,25,0.10416666666666667,11,7,21,18,5,0.782608695652174,0.075,0,0,18,0,220,0,0

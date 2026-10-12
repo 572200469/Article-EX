@@ -1,0 +1,348 @@
+{
+  "protocol": "research_protocol_v1-f161bab9fb085136cd8a",
+  "batch_id": "publication_visibility_main-f161bab9fb085136",
+  "cohort": "publication_visibility_main",
+  "condition": "neutral_zh",
+  "prompt_language": "zh",
+  "topic_id": "platform_labor",
+  "topic_group": "digital",
+  "provider": "openai",
+  "model_requested": "gpt-5.6-terra",
+  "requested_model": "gpt-5.6-terra",
+  "route": {
+    "provider": "openai",
+    "adapter": "relay",
+    "access_channel": "relay",
+    "base_url": "https://token.mmh1.top/v1",
+    "api_key_env": "RELAY_API_KEY",
+    "model": "gpt-5.6-terra",
+    "confirmed": true,
+    "parameters_confirmed": false,
+    "reasoning_effort": "none",
+    "thinking_mode": "none",
+    "output_limit_field": "max_completion_tokens"
+  },
+  "route_id": "80c1a0800214d59a110d079ba69bfd04955cbdd093fcc0077d0e7fc4b8f144f2",
+  "access_channel": "relay",
+  "base_url": "https://token.mmh1.top/v1",
+  "adapter": "relay",
+  "repeat_index": 1,
+  "mode": "baseline",
+  "search_enabled": false,
+  "source_type": "api",
+  "prompt_text": "请推荐关于「平台劳动与数字劳动」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+  "request_parameters": {
+    "max_output_tokens": 8192,
+    "timeout": 180
+  },
+  "thinking_mode": "none",
+  "coding_rule_version": "publication_visibility_coding_v2",
+  "sdk_retries": 0,
+  "caller_retries": 0,
+  "generation_authorized": true,
+  "request_config_id": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+  "effective_reasoning_parameters": {
+    "reasoning_effort": "none",
+    "thinking_mode": "none"
+  },
+  "proposed_wire_parameters": {
+    "model": "gpt-5.6-terra",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「平台劳动与数字劳动」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_completion_tokens": 8192,
+    "reasoning_effort": "none"
+  },
+  "sequence": 173,
+  "source_job_id": "207fb8aeef8cde9bd818ee50b3f220cb3688037900f41da2f8525b8b47cf9622",
+  "source_generation_protocol": "research_protocol_v1-cf2812cdc4a6cc6ddda4",
+  "job_id": "9d25ba8e0ed160be3cdff85db9d79a772ea83702f15ba474097eb2870fa8bfdb",
+  "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\openai\\9d25ba8e0ed160be3cdff85db9d79a772ea83702f15ba474097eb2870fa8bfdb",
+  "main_authorization": {
+    "authorization_id": "publication_visibility_main_batch08_f161bab9fb085136",
+    "configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+    "allowed_job_ids": [
+      "9c9643651d4cb088bbaa800d7a22451aa589191d99fba3d8584fbe70168106a1",
+      "144da4d780b55cbec8e97f432f7ac51c29e20ab9391127ddb7520ef1289d159f",
+      "fc6e1b0eb5a688fafc17d7a8c529b163047b1b87b318b56e8c48f47d1d489bc7",
+      "98fd305a07aaa87ed502b5ec1ca11f2583d259d850cd0f774248a73b204efdf4",
+      "9d25ba8e0ed160be3cdff85db9d79a772ea83702f15ba474097eb2870fa8bfdb",
+      "e192c6f02971ec3775408318296a778f88ccba663c95c2a2627c1a6bff0364e1",
+      "9b19182061fd82bdf5d6f711deaa18bd49adfa9e19e1479483c865e9c9167b38",
+      "3b1851ba1a21d442485f054bf97a3a112027270af0edc1c1dfb5e32081e8d44a",
+      "4885c75b56d750ab70c71bbdf957dd40b419bb154e11236e0a2dad97f7a01d7d",
+      "640f766c9c55d9520f1ae1d085f2fc96ae2ba0b17ea4209caaf290c2c77ce397",
+      "98a4e7e6b2016d872e102ee7510bbdc5b4a19707aa5ad49145959700ccc2e7d5",
+      "5cb1da00afeb0137e72bdc1cc0c65c2e05469c604d60ad931431da24eefeb5a8",
+      "850b77d74b4fde23f257fd744a95fee6189e4cef873aca48d90ea2c5d658fa64",
+      "023e056033691379eac9f2c7fce6ef5910cb7ff34593322daf13f47d884b438d",
+      "cc55b1b543e26509bd1a7dbcb3ae356d1a292bf0635784e34a91c54f83b6de0b",
+      "b0c7d59574a2ecf3e8b980618d578c475aa0fa3856f4e6f028194548035f0408",
+      "a5afa49d8f03a820140f6f8a3c9b6cac668b66532966a70197066d24bf969171",
+      "addcd284ad72c7a77152a8cc2f2d6c34e06b7d6b5b0e69d6e7bc9523cf22857e",
+      "72a1167c2f73d9ad6365a95c380b3a94bd2f364e8fa9920e70f6ccb168a6c644",
+      "a46fdfeb4fa233676eb7e4ad951e33264d9da2c2451619d214913a1fe99aacae",
+      "484882adf333e3b439db94c57dc844a9b4e91cdc9b24b1dbafce3be387a11042",
+      "5f88e199993d01b2d9188ec8829f389ac69f24f507eac671df27005a76f5b953",
+      "3b102b44b60f173e90eb9f2b43ebf982ff8b6b81567f5e3286a8ff6fa2276104",
+      "902035a57ae09ef5fbf09b7140816d757748c1ef07ab986f17b2151f37bdaea7"
+    ],
+    "batch_number": 8,
+    "maximum_total_requests": 24,
+    "maximum_provider_requests": {
+      "openai": 7,
+      "qwen": 6,
+      "deepseek": 6,
+      "gemini": 5
+    },
+    "software_budget_by_currency": {
+      "CNY": "2.05",
+      "USD": "0.60"
+    },
+    "maximum_job_requests": 1,
+    "user_authorized": true,
+    "billing_risk_accepted": true,
+    "source": "remaining144:E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\remaining_049_192\\authorization.json"
+  },
+  "experiment_id": "9d25ba8e0ed160be3cdff85db9d79a772ea83702f15ba474097eb2870fa8bfdb",
+  "timestamp": "2026-10-12T01:28:21.707301+00:00",
+  "protocol_status": "frozen",
+  "status": "success",
+  "api_success": true,
+  "attempt_index": 1,
+  "raw_response": {
+    "id": "resp_08da46ed5aaf3988016acc37bddc6887d08213a9836ac8c8b8",
+    "object": "chat.completion",
+    "created": 1791768510,
+    "model": "gpt-5.6-terra",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"references\":[{\"title\":\"Free Labor: Producing Culture for the Digital Economy\",\"authors\":\"Tiziana Terranova\",\"year\":2000,\"journal\":\"Social Text\",\"doi\":\"10.1215/01642472-18-2_63-33\",\"url\":\"https://doi.org/10.1215/01642472-18-2_63-33\"},{\"title\":\"Algorithmic Labor and Information Asymmetries: A Case Study of Uber’s Drivers\",\"authors\":\"Alex Rosenblat; Luke Stark\",\"year\":2016,\"journal\":\"International Journal of Communication\",\"doi\":null,\"url\":\"https://ijoc.org/index.php/ijoc/article/view/4892\"},{\"title\":\"Difference and Dependence among Digital Workers: The Case of Amazon Mechanical Turk\",\"authors\":\"Lilly Irani\",\"year\":2015,\"journal\":\"South Atlantic Quarterly\",\"doi\":\"10.1215/00382876-2831665\",\"url\":\"https://doi.org/10.1215/00382876-2831665\"},{\"title\":\"Platform Labor: On the Gendered and Racialized Exploitation of Low-Income Service Work in the ‘On-Demand’ Economy\",\"authors\":\"Niels van Doorn\",\"year\":2017,\"journal\":\"Information, Communication & Society\",\"doi\":\"10.1080/1369118X.2017.1294194\",\"url\":\"https://doi.org/10.1080/1369118X.2017.1294194\"},{\"title\":\"Good Gig, Bad Gig: Autonomy and Algorithmic Control in the Global Gig Economy\",\"authors\":\"Alex J. Wood; Mark Graham; Vili Lehdonvirta; Isis Hjorth\",\"year\":2019,\"journal\":\"Work, Employment and Society\",\"doi\":\"10.1177/0950017018785612\",\"url\":\"https://doi.org/10.1177/0950017018785612\"}]}",
+          "reasoning_content": null,
+          "tool_calls": null
+        },
+        "finish_reason": "stop",
+        "native_finish_reason": "stop"
+      }
+    ],
+    "service_tier": "default",
+    "usage": {
+      "completion_tokens": 1435,
+      "total_tokens": 1888,
+      "prompt_tokens": 453,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_creation_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1033
+      }
+    }
+  },
+  "references": [
+    {
+      "title": "Free Labor: Producing Culture for the Digital Economy",
+      "authors": "Tiziana Terranova",
+      "year": 2000,
+      "journal": "Social Text",
+      "doi": "10.1215/01642472-18-2_63-33",
+      "url": "https://doi.org/10.1215/01642472-18-2_63-33"
+    },
+    {
+      "title": "Algorithmic Labor and Information Asymmetries: A Case Study of Uber’s Drivers",
+      "authors": "Alex Rosenblat; Luke Stark",
+      "year": 2016,
+      "journal": "International Journal of Communication",
+      "doi": null,
+      "url": "https://ijoc.org/index.php/ijoc/article/view/4892"
+    },
+    {
+      "title": "Difference and Dependence among Digital Workers: The Case of Amazon Mechanical Turk",
+      "authors": "Lilly Irani",
+      "year": 2015,
+      "journal": "South Atlantic Quarterly",
+      "doi": "10.1215/00382876-2831665",
+      "url": "https://doi.org/10.1215/00382876-2831665"
+    },
+    {
+      "title": "Platform Labor: On the Gendered and Racialized Exploitation of Low-Income Service Work in the ‘On-Demand’ Economy",
+      "authors": "Niels van Doorn",
+      "year": 2017,
+      "journal": "Information, Communication & Society",
+      "doi": "10.1080/1369118X.2017.1294194",
+      "url": "https://doi.org/10.1080/1369118X.2017.1294194"
+    },
+    {
+      "title": "Good Gig, Bad Gig: Autonomy and Algorithmic Control in the Global Gig Economy",
+      "authors": "Alex J. Wood; Mark Graham; Vili Lehdonvirta; Isis Hjorth",
+      "year": 2019,
+      "journal": "Work, Employment and Society",
+      "doi": "10.1177/0950017018785612",
+      "url": "https://doi.org/10.1177/0950017018785612"
+    }
+  ],
+  "returned_model": "gpt-5.6-terra",
+  "usage": {
+    "completion_tokens": 1435,
+    "total_tokens": 1888,
+    "prompt_tokens": 453,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "cached_creation_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1033
+    }
+  },
+  "finish_reason": "stop",
+  "actual_billed_amount": null,
+  "budget_reservation": {
+    "currency": "CNY",
+    "amount": "0.10"
+  },
+  "pricing_snapshot": {
+    "provider": "openai",
+    "model": "gpt-5.6-terra",
+    "pricing_route_base_url": "https://token.mmh1.top/v1",
+    "access_channel": "relay",
+    "pricing_currency": "CNY",
+    "input_price_per_million": "1.30",
+    "output_price_per_million": "7.80",
+    "cached_input_price_per_million": "0.80",
+    "pricing_source": "user_provided_mmh1_screenshot_transcription",
+    "pricing_checked_at": "2026-10-11",
+    "source_url": "https://token.mmh1.top/pricing",
+    "evidence_limit": "Displayed prices only; original screenshot not available locally; actual deductions unverified.",
+    "tier": "standard_scenario_only",
+    "input_token_limit": null,
+    "reasoning_billing": "unknown",
+    "unknown_terms": [
+      "platform_multiplier",
+      "account_currency_or_quota_unit",
+      "dynamic_price",
+      "long_context_tier_threshold",
+      "long_context_rates",
+      "reasoning_billing",
+      "cache_write_fee",
+      "failed_request_billing",
+      "platform_internal_retries"
+    ],
+    "proposed_reservation": "0.10"
+  },
+  "budget_status": "reservation_retained_actual_invoice_unknown",
+  "planned_parameters": {
+    "model": "gpt-5.6-terra",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「平台劳动与数字劳动」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_completion_tokens": 8192,
+    "reasoning_effort": "none"
+  },
+  "upstream_identity_verified": false,
+  "response_text": "{\"references\":[{\"title\":\"Free Labor: Producing Culture for the Digital Economy\",\"authors\":\"Tiziana Terranova\",\"year\":2000,\"journal\":\"Social Text\",\"doi\":\"10.1215/01642472-18-2_63-33\",\"url\":\"https://doi.org/10.1215/01642472-18-2_63-33\"},{\"title\":\"Algorithmic Labor and Information Asymmetries: A Case Study of Uber’s Drivers\",\"authors\":\"Alex Rosenblat; Luke Stark\",\"year\":2016,\"journal\":\"International Journal of Communication\",\"doi\":null,\"url\":\"https://ijoc.org/index.php/ijoc/article/view/4892\"},{\"title\":\"Difference and Dependence among Digital Workers: The Case of Amazon Mechanical Turk\",\"authors\":\"Lilly Irani\",\"year\":2015,\"journal\":\"South Atlantic Quarterly\",\"doi\":\"10.1215/00382876-2831665\",\"url\":\"https://doi.org/10.1215/00382876-2831665\"},{\"title\":\"Platform Labor: On the Gendered and Racialized Exploitation of Low-Income Service Work in the ‘On-Demand’ Economy\",\"authors\":\"Niels van Doorn\",\"year\":2017,\"journal\":\"Information, Communication & Society\",\"doi\":\"10.1080/1369118X.2017.1294194\",\"url\":\"https://doi.org/10.1080/1369118X.2017.1294194\"},{\"title\":\"Good Gig, Bad Gig: Autonomy and Algorithmic Control in the Global Gig Economy\",\"authors\":\"Alex J. Wood; Mark Graham; Vili Lehdonvirta; Isis Hjorth\",\"year\":2019,\"journal\":\"Work, Employment and Society\",\"doi\":\"10.1177/0950017018785612\",\"url\":\"https://doi.org/10.1177/0950017018785612\"}]}",
+  "model_returned": "gpt-5.6-terra",
+  "response_id": "resp_08da46ed5aaf3988016acc37bddc6887d08213a9836ac8c8b8",
+  "provider_status": "completed",
+  "search_executed": false,
+  "tool_records": [],
+  "upstream_snapshot": "unknown",
+  "api_surface": "relay.openai_compatible.chat.completions",
+  "upstream_route_claims": {},
+  "raw_http_body": "{\"id\":\"resp_08da46ed5aaf3988016acc37bddc6887d08213a9836ac8c8b8\",\"object\":\"chat.completion\",\"created\":1791768510,\"model\":\"gpt-5.6-terra\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\"{\\\"references\\\":[{\\\"title\\\":\\\"Free Labor: Producing Culture for the Digital Economy\\\",\\\"authors\\\":\\\"Tiziana Terranova\\\",\\\"year\\\":2000,\\\"journal\\\":\\\"Social Text\\\",\\\"doi\\\":\\\"10.1215/01642472-18-2_63-33\\\",\\\"url\\\":\\\"https://doi.org/10.1215/01642472-18-2_63-33\\\"},{\\\"title\\\":\\\"Algorithmic Labor and Information Asymmetries: A Case Study of Uber’s Drivers\\\",\\\"authors\\\":\\\"Alex Rosenblat; Luke Stark\\\",\\\"year\\\":2016,\\\"journal\\\":\\\"International Journal of Communication\\\",\\\"doi\\\":null,\\\"url\\\":\\\"https://ijoc.org/index.php/ijoc/article/view/4892\\\"},{\\\"title\\\":\\\"Difference and Dependence among Digital Workers: The Case of Amazon Mechanical Turk\\\",\\\"authors\\\":\\\"Lilly Irani\\\",\\\"year\\\":2015,\\\"journal\\\":\\\"South Atlantic Quarterly\\\",\\\"doi\\\":\\\"10.1215/00382876-2831665\\\",\\\"url\\\":\\\"https://doi.org/10.1215/00382876-2831665\\\"},{\\\"title\\\":\\\"Platform Labor: On the Gendered and Racialized Exploitation of Low-Income Service Work in the ‘On-Demand’ Economy\\\",\\\"authors\\\":\\\"Niels van Doorn\\\",\\\"year\\\":2017,\\\"journal\\\":\\\"Information, Communication \\u0026 Society\\\",\\\"doi\\\":\\\"10.1080/1369118X.2017.1294194\\\",\\\"url\\\":\\\"https://doi.org/10.1080/1369118X.2017.1294194\\\"},{\\\"title\\\":\\\"Good Gig, Bad Gig: Autonomy and Algorithmic Control in the Global Gig Economy\\\",\\\"authors\\\":\\\"Alex J. Wood; Mark Graham; Vili Lehdonvirta; Isis Hjorth\\\",\\\"year\\\":2019,\\\"journal\\\":\\\"Work, Employment and Society\\\",\\\"doi\\\":\\\"10.1177/0950017018785612\\\",\\\"url\\\":\\\"https://doi.org/10.1177/0950017018785612\\\"}]}\",\"reasoning_content\":null,\"tool_calls\":null},\"finish_reason\":\"stop\",\"native_finish_reason\":\"stop\"}],\"service_tier\":\"default\",\"usage\":{\"completion_tokens\":1435,\"total_tokens\":1888,\"prompt_tokens\":453,\"prompt_tokens_details\":{\"cached_tokens\":0,\"cache_write_tokens\":0,\"cached_creation_tokens\":0},\"completion_tokens_details\":{\"reasoning_tokens\":1033}}}",
+  "http_status": 200,
+  "safe_response_headers": {
+    "server": "cloudflare"
+  },
+  "sent_parameters": {
+    "model": "gpt-5.6-terra",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「平台劳动与数字劳动」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_completion_tokens": 8192,
+    "reasoning_effort": "none"
+  },
+  "provider_request_id": null,
+  "entry_errors": [
+    {
+      "rank": 1,
+      "field": "authors",
+      "error": "field_type_error"
+    },
+    {
+      "rank": 2,
+      "field": "authors",
+      "error": "field_type_error"
+    },
+    {
+      "rank": 3,
+      "field": "authors",
+      "error": "field_type_error"
+    },
+    {
+      "rank": 4,
+      "field": "authors",
+      "error": "field_type_error"
+    },
+    {
+      "rank": 5,
+      "field": "authors",
+      "error": "field_type_error"
+    }
+  ],
+  "json_parsed": true,
+  "latency": 108.90672220000005,
+  "usage_price_estimate": {
+    "currency": "CNY",
+    "input_tokens_scenario": 453,
+    "output_tokens_scenario": 1435,
+    "text_component_amount": "0.0117819",
+    "estimated_total_amount": null,
+    "verified_total_upper_bound": null,
+    "actual_billed_amount": null,
+    "cache_policy": "all_input_at_uncached_rate_scenario",
+    "multiplier_scenario": "1 (scenario only; not account verification)",
+    "tools": "not_requested",
+    "client_retries": 0,
+    "unknown_terms": [
+      "platform_multiplier",
+      "account_currency_or_quota_unit",
+      "dynamic_price",
+      "long_context_tier_threshold",
+      "long_context_rates",
+      "reasoning_billing",
+      "cache_write_fee",
+      "failed_request_billing",
+      "platform_internal_retries"
+    ],
+    "price_snapshot_id": "b803fd4ec7337a37f4ecbe02196da14a829c73077c25250a9bba6e9de9e18525",
+    "usage_evidence": {
+      "completion_tokens": 1435,
+      "total_tokens": 1888,
+      "prompt_tokens": 453,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_creation_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1033
+      }
+    },
+    "reasoning_tokens_reported": 1033,
+    "usage_cost_basis": "uncached list-rate component; not actual invoice"
+  }
+}

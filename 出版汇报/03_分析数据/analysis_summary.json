@@ -1,0 +1,18 @@
+{
+  "planned": 16,
+  "sent": 16,
+  "api_success": 12,
+  "technical_failures": 4,
+  "not_sent": 0,
+  "recommendation_positions": 50,
+  "empty_placeholders": 5,
+  "identity_confirmed": 11,
+  "mainland_confirmed_positions": 1,
+  "CJFQ_article_confirmed": 0,
+  "budget_reserved_CNY": "1.40",
+  "budget_reserved_USD": "0.40",
+  "actual_invoice": "unknown",
+  "created_at": "2026-10-12T11:14:02.832446+00:00",
+  "main_evidence_version": "normalized_slots_v3 + publication_visibility_coding_v2",
+  "pilot_protocol": "china_directed_prompt_v1-9597931c4a07c93b2921"
+}

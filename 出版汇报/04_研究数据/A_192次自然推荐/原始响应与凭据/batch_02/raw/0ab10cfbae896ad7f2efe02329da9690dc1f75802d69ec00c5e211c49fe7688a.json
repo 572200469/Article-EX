@@ -1,0 +1,346 @@
+{
+  "protocol": "research_protocol_v1-f161bab9fb085136cd8a",
+  "batch_id": "publication_visibility_main-f161bab9fb085136",
+  "cohort": "publication_visibility_main",
+  "condition": "neutral_en",
+  "prompt_language": "en",
+  "topic_id": "agenda_setting",
+  "topic_group": "classical",
+  "provider": "gemini",
+  "model_requested": "gemini-3.8-flash",
+  "requested_model": "gemini-3.8-flash",
+  "route": {
+    "provider": "gemini",
+    "adapter": "relay",
+    "access_channel": "relay",
+    "base_url": "https://token.mmh1.top/v1",
+    "api_key_env": "RELAY_API_KEY",
+    "model": "gemini-3.8-flash",
+    "confirmed": true,
+    "parameters_confirmed": false,
+    "reasoning_effort": "low",
+    "thinking_mode": "low",
+    "output_limit_field": "max_tokens"
+  },
+  "route_id": "a3de5fc638c197d2fe22997af2ae183beca5b62892a11fe68972fefc96c59c5a",
+  "access_channel": "relay",
+  "base_url": "https://token.mmh1.top/v1",
+  "adapter": "relay",
+  "repeat_index": 2,
+  "mode": "baseline",
+  "search_enabled": false,
+  "source_type": "api",
+  "prompt_text": "Recommend five representative research articles published in academic journals on \"Agenda-setting theory\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+  "request_parameters": {
+    "max_output_tokens": 8192,
+    "timeout": 180
+  },
+  "thinking_mode": "low",
+  "coding_rule_version": "publication_visibility_coding_v2",
+  "sdk_retries": 0,
+  "caller_retries": 0,
+  "generation_authorized": true,
+  "request_config_id": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+  "effective_reasoning_parameters": {
+    "reasoning_effort": "low",
+    "thinking_mode": "low"
+  },
+  "proposed_wire_parameters": {
+    "model": "gemini-3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Agenda-setting theory\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "reasoning_effort": "low"
+  },
+  "sequence": 39,
+  "source_job_id": "3036ce81ada407585268b3ce686f59b501c668b02f2d11dbd3448d4ab4ed3952",
+  "source_generation_protocol": "research_protocol_v1-cf2812cdc4a6cc6ddda4",
+  "job_id": "0ab10cfbae896ad7f2efe02329da9690dc1f75802d69ec00c5e211c49fe7688a",
+  "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\gemini\\0ab10cfbae896ad7f2efe02329da9690dc1f75802d69ec00c5e211c49fe7688a",
+  "main_authorization": {
+    "authorization_id": "publication_visibility_main_batch02_f161bab9fb085136",
+    "configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+    "allowed_job_ids": [
+      "1d6c883457fd01267fd38b478524a8fd81b4bd986c135101e8d95b6ef999e202",
+      "e9daa730e6b971ea0e389501a25974d60522de940db466fefd0c23d78ef398a8",
+      "3989455d856fcf1e8ce5994bf51993977d8f2c67c1cfa757f1ce5424bcfe604c",
+      "2b0e790a93c4f3228393c7dee9b40ede55bebb7727a989a92228e058a6da110e",
+      "38c7dbaae931a7102bfa4952110009adbef15dd90a752db02e4b3c9a738ad54f",
+      "ad2b468d05b6a93ef9cf51fb1d17241ab90a860a86594454c4791569ee33bf98",
+      "64cafd66e222a839f67278714b04ee7df61ac88472bbd1466c76c2c691b50eea",
+      "abc5f4d47f61e786de712a81110a2b0bf67d6dcac4c4762b1847a62592d17c5a",
+      "c53abbbd13242751dbe2dd3f244bfbf122e8d3850c393f1103a2331281b36590",
+      "21b2e72b569ec5f541981706e329d295fe304d632f2d210f6f248c65fa77033c",
+      "9e6e142f5c2f6b34e085e8e2b4e93237f71ddd5bedcf0a208f5031385338446d",
+      "1394e93271c8930214d3bb8cee63304bb443fd9b3ff915daec236ba76fe50ef4",
+      "63d1043d5b9b03407f70bcc072d45eeef5fe50552d4f5b80b90977561df53bd5",
+      "fec5986c94ae7a00751937eaa3fb1d7442a9560895643ba21169eda2c6b31f4d",
+      "0ab10cfbae896ad7f2efe02329da9690dc1f75802d69ec00c5e211c49fe7688a",
+      "be7f2d0ba7124d5a38ed51c4e1b9d31311c1cf1797538ccf87d8ca15c501cec4",
+      "30638ae8c8e11b6f859541bad62977edc5e928c1035094f976e74568d71221e4",
+      "d4a105405e5207c80f82fde1ae70efeeb2e6f497d1c7bedc4c224e51a000983d",
+      "9b1ef3a83bd717f1b7f78cfff324877da407c0ae090ea5df54b3b0ed098c3a5a",
+      "568434592fc9cfcf6a42e1765fc11a963999150cbd1a3ed10281f1aeff772aba",
+      "56564cc89f5dd494b8c5c93e7369b084e4c499e0bd74a1dbeb34513134451def",
+      "49bdd3ba98e2079e94f08b4a6b11044bcc1abd36e58ab47acbf753060365a227",
+      "091667987288b5da3c57b14929e6353e6d08cf457a0e6f97bac8a52eab0db383",
+      "ddaa05e2c36219b41414e8507ef7477f114e5dfdf32f128f1a6b39474f36ec4e"
+    ],
+    "batch_number": 2,
+    "maximum_total_requests": 24,
+    "maximum_provider_requests": {
+      "openai": 4,
+      "gemini": 9,
+      "deepseek": 5,
+      "qwen": 6
+    },
+    "software_budget_by_currency": {
+      "CNY": "2.35",
+      "USD": "0.50"
+    },
+    "maximum_job_requests": 1,
+    "user_authorized": true,
+    "billing_risk_accepted": true,
+    "source": "Explicit researcher authorization for main fixed jobs25-48 only: GPT4 Gemini9 DeepSeek5 Qwen6; CNY2.35/USD0.50; accepts disclosed relay billing/reasoning/invoice uncertainty; no third batch or retries."
+  },
+  "experiment_id": "0ab10cfbae896ad7f2efe02329da9690dc1f75802d69ec00c5e211c49fe7688a",
+  "timestamp": "2026-10-11T13:27:19.620150+00:00",
+  "protocol_status": "frozen",
+  "status": "parse_error",
+  "api_success": true,
+  "attempt_index": 1,
+  "raw_response": {
+    "id": "chatcmpl-202610111327263579134148268d9d6JUE0ZP0R",
+    "model": "gemini-3.8-flash",
+    "object": "chat.completion",
+    "created": 1791725268,
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "```json\n{\n  \"references\": [\n    {\n      \"title\": \"The Agenda-Setting Function of Mass Media\",\n      \"authors\": \"Maxwell E. McCombs, Donald L. Shaw\",\n      \"year\": 1972,\n      \"journal\": \"Public Opinion Quarterly\",\n      \"doi\": \"10.1086/267990\",\n      \"url\": \"https://doi.org/10.1086/267990\"\n    },\n    {\n      \"title\": \"The Issues of the Sixties: An Exploratory Study in the Dynamics of Public Opinion\",\n      \"authors\": \"G. Ray Funkhouser\",\n      \"year\": 1973,\n      \"journal\": \"Public Opinion Quarterly\",\n      \"doi\": \"10.1086/268060\",\n      \"url\": \"https://doi.org/10.1086/268060\"\n    },\n    {\n      \"title\": \"Experimental Demonstrations of the \\\"Not-So-Minimal\\\" Consequences of Television News Programs\",\n      \"authors\": \"Shanto Iyengar, Mark D. Peters, Donald R. Kinder\",\n      \"year\": 1982,\n      \"journal\": \"The American Political Science Review\",\n      \"doi\": \"10.2307/1962976\",\n      \"url\": \"https://doi.org/10.2307/1962976\"\n    },\n    {\n      \"title\": \"Television News, Real-World Cues, and Changes in the Public Agenda\",\n      \"authors\": \"Roy L. Behr, Shanto Iyengar\",\n      \"year\": 1985,\n      \"journal\": \"Public Opinion Quarterly\",\n      \"doi\": \"10.1086/268900\",\n      \"url\": \"https://doi.org/10.1086/268900\"\n    },\n    {\n      \"title\": \"Agenda-Setting, Priming, and Framing Revisited: Another Look at Cognitive Effects of Political Communication\",\n      \"authors\": \"Dietram A. Scheufele\",\n      \"year\": 2000,\n      \"journal\": \"Mass Communication and Society\",\n      \"doi\": \"10.1207/S15327822MACS0302_5\",\n      \"url\": \"https://doi.org/10.1207/S15327822MACS0302_5\"\n    }\n  ]\n}\n```"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 138,
+      "completion_tokens": 3071,
+      "total_tokens": 3209,
+      "billing_usage": {
+        "source": "gemini_chat",
+        "semantic": "gemini",
+        "gemini_usage_metadata": {
+          "promptTokenCount": 138,
+          "toolUsePromptTokenCount": 0,
+          "candidatesTokenCount": 613,
+          "totalTokenCount": 3209,
+          "thoughtsTokenCount": 2458,
+          "cachedContentTokenCount": 0,
+          "promptTokensDetails": [],
+          "toolUsePromptTokensDetails": [],
+          "candidatesTokensDetails": []
+        }
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 138,
+        "audio_tokens": 0,
+        "image_tokens": 0
+      },
+      "completion_tokens_details": {
+        "text_tokens": 0,
+        "audio_tokens": 0,
+        "image_tokens": 0,
+        "reasoning_tokens": 2458
+      },
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "input_tokens_details": null,
+      "claude_cache_creation_5_m_tokens": 0,
+      "claude_cache_creation_1_h_tokens": 0
+    }
+  },
+  "references": [],
+  "returned_model": "gemini-3.8-flash",
+  "usage": {
+    "prompt_tokens": 138,
+    "completion_tokens": 3071,
+    "total_tokens": 3209,
+    "billing_usage": {
+      "source": "gemini_chat",
+      "semantic": "gemini",
+      "gemini_usage_metadata": {
+        "promptTokenCount": 138,
+        "toolUsePromptTokenCount": 0,
+        "candidatesTokenCount": 613,
+        "totalTokenCount": 3209,
+        "thoughtsTokenCount": 2458,
+        "cachedContentTokenCount": 0,
+        "promptTokensDetails": [],
+        "toolUsePromptTokensDetails": [],
+        "candidatesTokensDetails": []
+      }
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 138,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "image_tokens": 0,
+      "reasoning_tokens": 2458
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null,
+    "claude_cache_creation_5_m_tokens": 0,
+    "claude_cache_creation_1_h_tokens": 0
+  },
+  "finish_reason": "stop",
+  "actual_billed_amount": null,
+  "budget_reservation": {
+    "currency": "CNY",
+    "amount": "0.15"
+  },
+  "pricing_snapshot": {
+    "provider": "gemini",
+    "model": "gemini-3.8-flash",
+    "pricing_route_base_url": "https://token.mmh1.top/v1",
+    "access_channel": "relay",
+    "pricing_currency": "CNY",
+    "input_price_per_million": "2.40",
+    "output_price_per_million": "14.40",
+    "cached_input_price_per_million": "0.80",
+    "pricing_source": "user_provided_mmh1_screenshot_transcription",
+    "pricing_checked_at": "2026-10-11",
+    "source_url": "https://token.mmh1.top/pricing",
+    "evidence_limit": "Displayed prices only; actual account currency, multiplier and deductions unverified.",
+    "tier": "displayed_rate_scenario_only",
+    "input_token_limit": null,
+    "reasoning_billing": "unknown",
+    "unknown_terms": [
+      "platform_multiplier",
+      "account_currency_or_quota_unit",
+      "dynamic_price",
+      "context_tier_rules",
+      "reasoning_billing",
+      "cache_write_fee",
+      "failed_request_billing",
+      "platform_internal_retries"
+    ],
+    "proposed_reservation": "0.15"
+  },
+  "budget_status": "reservation_retained_actual_invoice_unknown",
+  "planned_parameters": {
+    "model": "gemini-3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Agenda-setting theory\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "reasoning_effort": "low"
+  },
+  "upstream_identity_verified": false,
+  "response_text": "```json\n{\n  \"references\": [\n    {\n      \"title\": \"The Agenda-Setting Function of Mass Media\",\n      \"authors\": \"Maxwell E. McCombs, Donald L. Shaw\",\n      \"year\": 1972,\n      \"journal\": \"Public Opinion Quarterly\",\n      \"doi\": \"10.1086/267990\",\n      \"url\": \"https://doi.org/10.1086/267990\"\n    },\n    {\n      \"title\": \"The Issues of the Sixties: An Exploratory Study in the Dynamics of Public Opinion\",\n      \"authors\": \"G. Ray Funkhouser\",\n      \"year\": 1973,\n      \"journal\": \"Public Opinion Quarterly\",\n      \"doi\": \"10.1086/268060\",\n      \"url\": \"https://doi.org/10.1086/268060\"\n    },\n    {\n      \"title\": \"Experimental Demonstrations of the \\\"Not-So-Minimal\\\" Consequences of Television News Programs\",\n      \"authors\": \"Shanto Iyengar, Mark D. Peters, Donald R. Kinder\",\n      \"year\": 1982,\n      \"journal\": \"The American Political Science Review\",\n      \"doi\": \"10.2307/1962976\",\n      \"url\": \"https://doi.org/10.2307/1962976\"\n    },\n    {\n      \"title\": \"Television News, Real-World Cues, and Changes in the Public Agenda\",\n      \"authors\": \"Roy L. Behr, Shanto Iyengar\",\n      \"year\": 1985,\n      \"journal\": \"Public Opinion Quarterly\",\n      \"doi\": \"10.1086/268900\",\n      \"url\": \"https://doi.org/10.1086/268900\"\n    },\n    {\n      \"title\": \"Agenda-Setting, Priming, and Framing Revisited: Another Look at Cognitive Effects of Political Communication\",\n      \"authors\": \"Dietram A. Scheufele\",\n      \"year\": 2000,\n      \"journal\": \"Mass Communication and Society\",\n      \"doi\": \"10.1207/S15327822MACS0302_5\",\n      \"url\": \"https://doi.org/10.1207/S15327822MACS0302_5\"\n    }\n  ]\n}\n```",
+  "model_returned": "gemini-3.8-flash",
+  "response_id": "chatcmpl-202610111327263579134148268d9d6JUE0ZP0R",
+  "provider_status": "completed",
+  "search_executed": false,
+  "tool_records": [],
+  "upstream_snapshot": "unknown",
+  "api_surface": "relay.openai_compatible.chat.completions",
+  "upstream_route_claims": {},
+  "raw_http_body": "{\"id\":\"chatcmpl-202610111327263579134148268d9d6JUE0ZP0R\",\"model\":\"gemini-3.8-flash\",\"object\":\"chat.completion\",\"created\":1791725268,\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\"```json\\n{\\n  \\\"references\\\": [\\n    {\\n      \\\"title\\\": \\\"The Agenda-Setting Function of Mass Media\\\",\\n      \\\"authors\\\": \\\"Maxwell E. McCombs, Donald L. Shaw\\\",\\n      \\\"year\\\": 1972,\\n      \\\"journal\\\": \\\"Public Opinion Quarterly\\\",\\n      \\\"doi\\\": \\\"10.1086/267990\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.1086/267990\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"The Issues of the Sixties: An Exploratory Study in the Dynamics of Public Opinion\\\",\\n      \\\"authors\\\": \\\"G. Ray Funkhouser\\\",\\n      \\\"year\\\": 1973,\\n      \\\"journal\\\": \\\"Public Opinion Quarterly\\\",\\n      \\\"doi\\\": \\\"10.1086/268060\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.1086/268060\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"Experimental Demonstrations of the \\\\\\\"Not-So-Minimal\\\\\\\" Consequences of Television News Programs\\\",\\n      \\\"authors\\\": \\\"Shanto Iyengar, Mark D. Peters, Donald R. Kinder\\\",\\n      \\\"year\\\": 1982,\\n      \\\"journal\\\": \\\"The American Political Science Review\\\",\\n      \\\"doi\\\": \\\"10.2307/1962976\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.2307/1962976\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"Television News, Real-World Cues, and Changes in the Public Agenda\\\",\\n      \\\"authors\\\": \\\"Roy L. Behr, Shanto Iyengar\\\",\\n      \\\"year\\\": 1985,\\n      \\\"journal\\\": \\\"Public Opinion Quarterly\\\",\\n      \\\"doi\\\": \\\"10.1086/268900\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.1086/268900\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"Agenda-Setting, Priming, and Framing Revisited: Another Look at Cognitive Effects of Political Communication\\\",\\n      \\\"authors\\\": \\\"Dietram A. Scheufele\\\",\\n      \\\"year\\\": 2000,\\n      \\\"journal\\\": \\\"Mass Communication and Society\\\",\\n      \\\"doi\\\": \\\"10.1207/S15327822MACS0302_5\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.1207/S15327822MACS0302_5\\\"\\n    }\\n  ]\\n}\\n```\"},\"finish_reason\":\"stop\"}],\"usage\":{\"prompt_tokens\":138,\"completion_tokens\":3071,\"total_tokens\":3209,\"billing_usage\":{\"source\":\"gemini_chat\",\"semantic\":\"gemini\",\"gemini_usage_metadata\":{\"promptTokenCount\":138,\"toolUsePromptTokenCount\":0,\"candidatesTokenCount\":613,\"totalTokenCount\":3209,\"thoughtsTokenCount\":2458,\"cachedContentTokenCount\":0,\"promptTokensDetails\":[],\"toolUsePromptTokensDetails\":[],\"candidatesTokensDetails\":[]}},\"prompt_tokens_details\":{\"cached_tokens\":0,\"text_tokens\":138,\"audio_tokens\":0,\"image_tokens\":0},\"completion_tokens_details\":{\"text_tokens\":0,\"audio_tokens\":0,\"image_tokens\":0,\"reasoning_tokens\":2458},\"input_tokens\":0,\"output_tokens\":0,\"input_tokens_details\":null,\"claude_cache_creation_5_m_tokens\":0,\"claude_cache_creation_1_h_tokens\":0}}",
+  "http_status": 200,
+  "safe_response_headers": {
+    "server": "cloudflare"
+  },
+  "sent_parameters": {
+    "model": "gemini-3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Agenda-setting theory\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "reasoning_effort": "low"
+  },
+  "provider_request_id": null,
+  "json_parsed": false,
+  "latency": 26.094948099998874,
+  "usage_price_estimate": {
+    "currency": "CNY",
+    "input_tokens_scenario": 138,
+    "output_tokens_scenario": 3071,
+    "text_component_amount": "0.0445536",
+    "estimated_total_amount": null,
+    "verified_total_upper_bound": null,
+    "actual_billed_amount": null,
+    "cache_policy": "all_input_at_uncached_rate_scenario",
+    "multiplier_scenario": "1 (scenario only; not account verification)",
+    "tools": "not_requested",
+    "client_retries": 0,
+    "unknown_terms": [
+      "platform_multiplier",
+      "account_currency_or_quota_unit",
+      "dynamic_price",
+      "context_tier_rules",
+      "reasoning_billing",
+      "cache_write_fee",
+      "failed_request_billing",
+      "platform_internal_retries"
+    ],
+    "price_snapshot_id": "58e8edeb336849be6ae04b0c41fc49b3de2e74a24f6ee00ba37b1b153a8f4a03",
+    "usage_evidence": {
+      "prompt_tokens": 138,
+      "completion_tokens": 3071,
+      "total_tokens": 3209,
+      "billing_usage": {
+        "source": "gemini_chat",
+        "semantic": "gemini",
+        "gemini_usage_metadata": {
+          "promptTokenCount": 138,
+          "toolUsePromptTokenCount": 0,
+          "candidatesTokenCount": 613,
+          "totalTokenCount": 3209,
+          "thoughtsTokenCount": 2458,
+          "cachedContentTokenCount": 0,
+          "promptTokensDetails": [],
+          "toolUsePromptTokensDetails": [],
+          "candidatesTokensDetails": []
+        }
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 138,
+        "audio_tokens": 0,
+        "image_tokens": 0
+      },
+      "completion_tokens_details": {
+        "text_tokens": 0,
+        "audio_tokens": 0,
+        "image_tokens": 0,
+        "reasoning_tokens": 2458
+      },
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "input_tokens_details": null,
+      "claude_cache_creation_5_m_tokens": 0,
+      "claude_cache_creation_1_h_tokens": 0
+    },
+    "reasoning_tokens_reported": 2458,
+    "usage_cost_basis": "uncached list-rate component; not actual invoice"
+  }
+}

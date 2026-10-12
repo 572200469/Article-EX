@@ -1,0 +1,11 @@
+﻿key,value,source,calculation,limit
+A计划/成功/实际位置,192 / 190 / 949,main_experiment technical_jobs.csv + normalized_slots_v3.json,planned jobs; api_success; len(rows),"171 uncertain,187 HTTP524,74 four entries; no imputation"
+A身份结构,510期刊 / 41非期刊 / 398unknown,outputs\publication_visibility_final_figures\normalized_slots_v3.json,"Counter(work_category), denominator949",unknown not foreign or false citation
+A前三品牌,82+74+65=221 /510=43.3%,A_confirmed_journal_brands.csv,top3 confirmed journal position frequencies,identified journal subset only; repeats retained
+A制度证据覆盖,301/510；209unknown；大陆确认0,outputs\publication_visibility_final_figures\normalized_slots_v3.json,confirmed journal × institutional_mainland,unidentified398 excluded from journal subset; not proof of absence
+本土供给参照,24篇 /8主题各3；21国际新闻界+3全球传媒学刊,data/chinese_resource_supplement_20261012/positive_controls_full_evidence.json,"records and Counter(topic_id,journal)","purposive, not random; CJFQ unknown"
+B/C真实发送与响应,16发送 /12成功 /4失败 /0未发 /50位置,outputs/china_directed_20261012/technical_jobs.json + raw_recommendations.json,"permits, api_success, status, len(actual rows)",technical missing not zero discovery
+B大陆严格确认,1,directed_normalized_evidence.csv,conditionB × identity_confirmed × mainland_independent,crossborder participation not strictB
+C文章CJFQ确认/unknown,0 /25,directed_normalized_evidence.csv + linked article evidence,conditionC × cnki_indexed true; remaining unknown,model URL/hosting/general journal indexing insufficient
+A可比子集,23回答 /114位置,ABC_comparison.csv + A normalized rows,two topics and neutral_zh only,3 repeats vs1; time/channel differences
+定向中文题名,40/50,raw_recommendations.json,Unicode Han detection in raw title only,title language not body language or institutional affiliation

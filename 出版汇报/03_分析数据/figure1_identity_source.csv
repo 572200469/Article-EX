@@ -1,0 +1,5 @@
+﻿model,positions,journal,nonjournal,unknown
+GPT,229,174,11,44
+Gemini,240,213,10,17
+DeepSeek,240,100,18,122
+Qwen,240,23,2,215

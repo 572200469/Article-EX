@@ -1,0 +1,270 @@
+{
+  "protocol": "research_protocol_v1-f161bab9fb085136cd8a",
+  "batch_id": "publication_visibility_main-f161bab9fb085136",
+  "cohort": "publication_visibility_main",
+  "condition": "neutral_zh",
+  "prompt_language": "zh",
+  "topic_id": "uses_gratifications",
+  "topic_group": "classical",
+  "provider": "qwen",
+  "model_requested": "qwen3.8-flash",
+  "requested_model": "qwen3.8-flash",
+  "route": {
+    "provider": "qwen",
+    "adapter": "qwen",
+    "access_channel": "official",
+    "base_url_env": "QWEN_BASE_URL",
+    "api_key_env": "DASHSCOPE_API_KEY",
+    "api_key_env_fallback": "QWEN_API_KEY",
+    "model": "qwen3.8-flash",
+    "confirmed": true,
+    "parameters_confirmed": true,
+    "thinking_mode": "disabled",
+    "output_limit_field": "max_tokens",
+    "extra_body": {
+      "enable_thinking": false
+    },
+    "base_url_configured": true,
+    "base_url": "https://ws-18kq1brc00g4ilrj.cn-beijing.maas.aliyuncs.com/compatible-mode/v1"
+  },
+  "route_id": "ae189316847bd67ccdfa1e1ecc37cb3cbd45761f39d89dfe18dba2844c6737c7",
+  "access_channel": "official",
+  "base_url": "https://ws-18kq1brc00g4ilrj.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
+  "adapter": "qwen",
+  "repeat_index": 1,
+  "mode": "baseline",
+  "search_enabled": false,
+  "source_type": "api",
+  "prompt_text": "请推荐关于「使用与满足理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+  "request_parameters": {
+    "max_output_tokens": 8192,
+    "timeout": 180
+  },
+  "thinking_mode": "disabled",
+  "coding_rule_version": "publication_visibility_coding_v2",
+  "sdk_retries": 0,
+  "caller_retries": 0,
+  "generation_authorized": true,
+  "request_config_id": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+  "effective_reasoning_parameters": {
+    "thinking_mode": "disabled",
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "proposed_wire_parameters": {
+    "model": "qwen3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「使用与满足理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "sequence": 143,
+  "source_job_id": "62c788a54d7aaf6ab753e21334228782b7d2316dd58476779443b5cfc7cbf4a4",
+  "source_generation_protocol": "research_protocol_v1-cf2812cdc4a6cc6ddda4",
+  "job_id": "85ee7c0c2f530b0c6e41f2d192b448e3d14efda6f6fd9bb83824c40c059c6975",
+  "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\qwen\\85ee7c0c2f530b0c6e41f2d192b448e3d14efda6f6fd9bb83824c40c059c6975",
+  "main_authorization": {
+    "authorization_id": "publication_visibility_main_batch06_f161bab9fb085136",
+    "configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+    "allowed_job_ids": [
+      "7df551fbd762130f78aaae89074cfdc7f03f7c21cc01175c55f6d75011f8eff1",
+      "c624188e6e8ba7d631520c81c05495125312b3a1c572f278fb308f4980f78530",
+      "63c831220b632ece5be3956813af0fd696bc11e6bd31c872fdb75c7ada8626a2",
+      "c12b12cb1e3af855a71ae6d84d484ba2ee3c38e763666ddd45bbc09078f2aca5",
+      "08c062589ca36963fa47d1a868dc2fee2bbced0f8b166ffa5270402b76d16e10",
+      "894cf389957f19c26a8f9adf09d8b417b9fa3c7ef325ca0d942effb34bbdaf61",
+      "1cfef0de267b698e9a7ed1f3c677aa2ce4283ea1ec8c19995a236c88995f5b8f",
+      "dbfc204474534ce367b626851abd81cfebc7b2d1c2597956ba5aba28cea470e8",
+      "fbc0885b580a69655e107c956590a0d19fd31948e346346279cf35e22f8cc8c2",
+      "8d23ca963cfcf606483ddf420285a20cc2c1dc918cf8e03f5fbbf753927dd0a4",
+      "2848789c31cbda0b1a32e99db601a26a3e3542af47bf4417b72846fc363a43f0",
+      "c1f27b889ccd2e2b6d75e03a756b25bf3befca8ff144f4b9c24b36d879a25355",
+      "fadaa98a9b0d1c06831f39569f4af8784a842319cbab9470d8ba4be68281cb2f",
+      "d58bdc3e16cff721c29e8ce4a67b4fc4d0458a8263d06f96bf22aea57a588908",
+      "2aeba2be7df5f3fa2ab5125257c99f8929b02e634b5e5ed5baef747f6af10989",
+      "b7abc374ca4fc54c6fca66714e4ce29c14d054482314777dde3361b73e0218b1",
+      "af98ff962263ce84396ad6017e490538a8d5754f4a085fca3c4edd011f29ff12",
+      "641fe06aef38ba7cc268ddfff9bfbaf7e8e681ace1fb8fbba5a3c748e5736aa6",
+      "717493fe5af993a01e123e08449f08ead6eb393c21673ce7535ebd9b9ee6d57a",
+      "02b5e1a0756eee4457c3c8cbbb63cbf44f9c6123b8e15833a42ff30831ab9d59",
+      "b003b425c079699ba04dfa042caf1286fa818dc91013b45edd3101235f3c32fc",
+      "839375b25b76c581eb36e38779558321974f38935b26b83b0655b3cbe57843ae",
+      "85ee7c0c2f530b0c6e41f2d192b448e3d14efda6f6fd9bb83824c40c059c6975",
+      "0d7c0f468f2c15748f6402f88718fc73fd5d73d12597b03f69c45daa64141856"
+    ],
+    "batch_number": 6,
+    "maximum_total_requests": 24,
+    "maximum_provider_requests": {
+      "qwen": 6,
+      "deepseek": 13,
+      "openai": 5
+    },
+    "software_budget_by_currency": {
+      "CNY": "1.10",
+      "USD": "1.30"
+    },
+    "maximum_job_requests": 1,
+    "user_authorized": true,
+    "billing_risk_accepted": true,
+    "source": "remaining144:E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\remaining_049_192\\authorization.json"
+  },
+  "experiment_id": "85ee7c0c2f530b0c6e41f2d192b448e3d14efda6f6fd9bb83824c40c059c6975",
+  "timestamp": "2026-10-11T15:30:01.394399+00:00",
+  "protocol_status": "frozen",
+  "status": "parse_error",
+  "api_success": true,
+  "attempt_index": 1,
+  "raw_response": {
+    "id": "chatcmpl-26df4c17-d485-9c64-ad05-0cbe2d4dec10",
+    "object": "chat.completion",
+    "created": 1791732609,
+    "model": "qwen3.8-flash",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "```json\n{\n  \"references\": [\n    {\n      \"title\": \"Mass Communication and the Social Structure\",\n      \"authors\": \"Katz, E.\",\n      \"year\": 1959,\n      \"journal\": \"Public Opinion Quarterly\",\n      \"doi\": \"10.1086/266734\",\n      \"url\": null\n    },\n    {\n      \"title\": \"The Uses of Mass Media: Current Perspectives in Gratifications Research\",\n      \"authors\": \"Rubin, A. M.\",\n      \"year\": 1983,\n      \"journal\": \"Sage Annual Review of Communication Research\",\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"Uses and gratifications theory and research\",\n      \"authors\": \"Ruggiero, T. E.\",\n      \"year\": 2000,\n      \"journal\": \"Mass Communication & Society\",\n      \"doi\": \"10.1207/s15327825mcs0301_04\",\n      \"url\": null\n    },\n    {\n      \"title\": \"A uses and gratification perspective on Internet use and its implications for loneliness\",\n      \"authors\": \"Kaye, L. K., & Clark, S.\",\n      \"year\": 2011,\n      \"journal\": \"Computers in Human Behavior\",\n      \"doi\": \"10.1016/j.chb.2011.02.001\",\n      \"url\": null\n    },\n    {\n      \"title\": \"Uses and gratifications of social media: The role of social capital\",\n      \"authors\": \"Ellison, N. B., Steinfield, C., & Lampe, C.\",\n      \"year\": 2007,\n      \"journal\": \"Journal of Computer-Mediated Communication\",\n      \"doi\": \"10.1111/j.1083-6101.2007.00364.x\",\n      \"url\": null\n    }\n  ]\n}\n```"
+        },
+        "finish_reason": "stop",
+        "logprobs": null
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 159,
+      "total_tokens": 644,
+      "completion_tokens": 485,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 159
+      }
+    }
+  },
+  "references": [],
+  "returned_model": "qwen3.8-flash",
+  "usage": {
+    "prompt_tokens": 159,
+    "total_tokens": 644,
+    "completion_tokens": 485,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 159
+    }
+  },
+  "finish_reason": "stop",
+  "actual_billed_amount": null,
+  "budget_reservation": {
+    "currency": "CNY",
+    "amount": "0.10"
+  },
+  "pricing_snapshot": {
+    "provider": "qwen",
+    "model": "qwen3.8-flash",
+    "pricing_route_host_suffix": ".cn-beijing.maas.aliyuncs.com",
+    "access_channel": "official",
+    "pricing_currency": "CNY",
+    "input_price_per_million": "0.80",
+    "output_price_per_million": "2.70",
+    "cached_input_price_per_million": null,
+    "pricing_source": "alibaba_official_beijing_model_pricing",
+    "pricing_checked_at": "2026-10-11",
+    "source_url": "https://help.aliyun.com/zh/model-studio/model-pricing",
+    "evidence_limit": "Public Beijing list price; private account bill and free quota not verified.",
+    "tier": "beijing_input_up_to_1M",
+    "input_token_limit": 1000000,
+    "reasoning_billing": "included_in_output_tokens",
+    "unknown_terms": [
+      "account_currency_confirmation",
+      "actual_account_discounts",
+      "cache_billing",
+      "failed_request_billing",
+      "billing_rounding"
+    ],
+    "proposed_reservation": "0.10"
+  },
+  "budget_status": "reservation_retained_actual_invoice_unknown",
+  "planned_parameters": {
+    "model": "qwen3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「使用与满足理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "upstream_identity_verified": false,
+  "response_text": "```json\n{\n  \"references\": [\n    {\n      \"title\": \"Mass Communication and the Social Structure\",\n      \"authors\": \"Katz, E.\",\n      \"year\": 1959,\n      \"journal\": \"Public Opinion Quarterly\",\n      \"doi\": \"10.1086/266734\",\n      \"url\": null\n    },\n    {\n      \"title\": \"The Uses of Mass Media: Current Perspectives in Gratifications Research\",\n      \"authors\": \"Rubin, A. M.\",\n      \"year\": 1983,\n      \"journal\": \"Sage Annual Review of Communication Research\",\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"Uses and gratifications theory and research\",\n      \"authors\": \"Ruggiero, T. E.\",\n      \"year\": 2000,\n      \"journal\": \"Mass Communication & Society\",\n      \"doi\": \"10.1207/s15327825mcs0301_04\",\n      \"url\": null\n    },\n    {\n      \"title\": \"A uses and gratification perspective on Internet use and its implications for loneliness\",\n      \"authors\": \"Kaye, L. K., & Clark, S.\",\n      \"year\": 2011,\n      \"journal\": \"Computers in Human Behavior\",\n      \"doi\": \"10.1016/j.chb.2011.02.001\",\n      \"url\": null\n    },\n    {\n      \"title\": \"Uses and gratifications of social media: The role of social capital\",\n      \"authors\": \"Ellison, N. B., Steinfield, C., & Lampe, C.\",\n      \"year\": 2007,\n      \"journal\": \"Journal of Computer-Mediated Communication\",\n      \"doi\": \"10.1111/j.1083-6101.2007.00364.x\",\n      \"url\": null\n    }\n  ]\n}\n```",
+  "model_returned": "qwen3.8-flash",
+  "response_id": "chatcmpl-26df4c17-d485-9c64-ad05-0cbe2d4dec10",
+  "provider_status": "completed",
+  "search_executed": false,
+  "tool_records": [],
+  "upstream_snapshot": "unknown",
+  "api_surface": "qwen.official.chat.completions",
+  "upstream_route_claims": {},
+  "raw_http_body": "{\"id\":\"chatcmpl-26df4c17-d485-9c64-ad05-0cbe2d4dec10\",\"object\":\"chat.completion\",\"created\":1791732609,\"model\":\"qwen3.8-flash\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\"```json\\n{\\n  \\\"references\\\": [\\n    {\\n      \\\"title\\\": \\\"Mass Communication and the Social Structure\\\",\\n      \\\"authors\\\": \\\"Katz, E.\\\",\\n      \\\"year\\\": 1959,\\n      \\\"journal\\\": \\\"Public Opinion Quarterly\\\",\\n      \\\"doi\\\": \\\"10.1086/266734\\\",\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"The Uses of Mass Media: Current Perspectives in Gratifications Research\\\",\\n      \\\"authors\\\": \\\"Rubin, A. M.\\\",\\n      \\\"year\\\": 1983,\\n      \\\"journal\\\": \\\"Sage Annual Review of Communication Research\\\",\\n      \\\"doi\\\": null,\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"Uses and gratifications theory and research\\\",\\n      \\\"authors\\\": \\\"Ruggiero, T. E.\\\",\\n      \\\"year\\\": 2000,\\n      \\\"journal\\\": \\\"Mass Communication & Society\\\",\\n      \\\"doi\\\": \\\"10.1207/s15327825mcs0301_04\\\",\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"A uses and gratification perspective on Internet use and its implications for loneliness\\\",\\n      \\\"authors\\\": \\\"Kaye, L. K., & Clark, S.\\\",\\n      \\\"year\\\": 2011,\\n      \\\"journal\\\": \\\"Computers in Human Behavior\\\",\\n      \\\"doi\\\": \\\"10.1016/j.chb.2011.02.001\\\",\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"Uses and gratifications of social media: The role of social capital\\\",\\n      \\\"authors\\\": \\\"Ellison, N. B., Steinfield, C., & Lampe, C.\\\",\\n      \\\"year\\\": 2007,\\n      \\\"journal\\\": \\\"Journal of Computer-Mediated Communication\\\",\\n      \\\"doi\\\": \\\"10.1111/j.1083-6101.2007.00364.x\\\",\\n      \\\"url\\\": null\\n    }\\n  ]\\n}\\n```\"},\"finish_reason\":\"stop\",\"logprobs\":null}],\"usage\":{\"prompt_tokens\":159,\"total_tokens\":644,\"completion_tokens\":485,\"prompt_tokens_details\":{\"cached_tokens\":0,\"text_tokens\":159}}}",
+  "http_status": 200,
+  "safe_response_headers": {
+    "x-request-id": "26df4c17-d485-9c64-ad05-0cbe2d4dec10",
+    "server": "istio-envoy"
+  },
+  "sent_parameters": {
+    "model": "qwen3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「使用与满足理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "provider_request_id": "26df4c17-d485-9c64-ad05-0cbe2d4dec10",
+  "json_parsed": false,
+  "latency": 11.185309100001177,
+  "usage_price_estimate": {
+    "currency": "CNY",
+    "input_tokens_scenario": 159,
+    "output_tokens_scenario": 485,
+    "text_component_amount": "0.0014367",
+    "estimated_total_amount": null,
+    "verified_total_upper_bound": null,
+    "actual_billed_amount": null,
+    "cache_policy": "all_input_at_uncached_rate_scenario",
+    "multiplier_scenario": "1 (scenario only; not account verification)",
+    "tools": "not_requested",
+    "client_retries": 0,
+    "unknown_terms": [
+      "account_currency_confirmation",
+      "actual_account_discounts",
+      "cache_billing",
+      "failed_request_billing",
+      "billing_rounding"
+    ],
+    "price_snapshot_id": "51176537e343ad9e1d4e441ebf841a781aba65eda97a8275da5e9729f8327a04",
+    "usage_evidence": {
+      "prompt_tokens": 159,
+      "total_tokens": 644,
+      "completion_tokens": 485,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 159
+      }
+    },
+    "reasoning_tokens_reported": null,
+    "usage_cost_basis": "uncached list-rate component; not actual invoice"
+  }
+}

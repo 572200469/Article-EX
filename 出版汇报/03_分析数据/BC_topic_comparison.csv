@@ -1,0 +1,5 @@
+﻿group,positions,identity_confirmed,identity_unknown,mainland_independent_confirmed,non_mainland_confirmed,nonjournal_confirmed,institutional_unknown_or_unresolved,cnki_article_confirmed,cnki_article_unknown,cnki_scope,actual_jobs,raw_title_Han,topic_id,condition
+agenda_setting / directed_mainland_B,14,1,13,1,0,0,13,0,14,article_level_CJFQ,3,14,agenda_setting,directed_mainland_B
+agenda_setting / directed_cnki_C,10,5,5,0,4,0,6,0,10,article_level_CJFQ,2,5,agenda_setting,directed_cnki_C
+algorithms_bubbles / directed_mainland_B,11,0,11,0,0,0,11,0,11,article_level_CJFQ,3,11,algorithms_bubbles,directed_mainland_B
+algorithms_bubbles / directed_cnki_C,15,5,10,0,3,0,12,0,15,article_level_CJFQ,3,10,algorithms_bubbles,directed_cnki_C

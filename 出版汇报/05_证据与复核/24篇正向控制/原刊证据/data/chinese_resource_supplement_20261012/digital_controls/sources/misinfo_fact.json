@@ -1,0 +1,2244 @@
+{
+  "source_id": "misinfo_fact",
+  "requested_url": "http://cjjc.ruc.edu.cn/CN/Y2025/V47/I9/6",
+  "checked_at": "2026-10-12T09:17:05.733504+00:00",
+  "access_scope": "public_no_login",
+  "method": "GET",
+  "paid_request": false,
+  "http_status": 200,
+  "final_url": "http://cjjc.ruc.edu.cn/CN/Y2025/V47/I9/6",
+  "sha256": "fd287c2a51943c02184a62a85b524caef8aea5a5f46cc4673bd63ee8d5643354",
+  "content_length": 308691,
+  "metadata": {
+    "viewport": [
+      "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+      "width=device-width, initial-scale=1"
+    ],
+    "description": [
+      "事实核查作为新闻业因应数字化转型所尝试的创新实践方案，正在成为我国公共生活中一股不容忽视的力量。本文引入参与式核查概念，尝试把公众带至事实核查的中心视野。通过一项四因素混合设计在线实验（N = 405），本研究围绕专业核查和参与式核查的勘误潜能及其在新闻素养方面所需的经验条件展开比较分析。结果显示，常规核查与新闻素养的宣导相结合可有效帮助人们辨伪识真，在受众有机会直接参与新闻验证的前提下，新闻素养干预对提升其新闻辨识力不再具有额外的裨益。同时，公众参与事实核查或从外部干预新闻素养均可降低他们对新闻的准确度评价，特别在防止人们误信误判虚假新闻进而卷入对假新闻的扩散方面效果尤为显著。基于上述结果，我们在文章最后就公众参与事实核查对涵养公民素质和赋能知情公众的意义展开了讨论。"
+    ],
+    "authors": [
+      "闫文捷, 李振宇"
+    ],
+    "keywords": [
+      "事实核查,公众参与,新闻素养,新闻创新"
+    ],
+    "robots": [
+      "index"
+    ],
+    "renderer": [
+      "webkit"
+    ],
+    "format-detection": [
+      "telephone=no"
+    ],
+    "apple-mobile-web-app-capable": [
+      "yes"
+    ],
+    "apple-mobile-web-app-title": [
+      "作为集体探究的事实核查：公众参与和素养宣导的力量"
+    ],
+    "mobile-web-app-capable": [
+      "yes"
+    ],
+    "screen-orientation": [
+      "portrait"
+    ],
+    "x5-orientation": [
+      "portrait"
+    ],
+    "full-screen": [
+      "yes"
+    ],
+    "x5-fullscreen": [
+      "true"
+    ],
+    "browsermode": [
+      "application"
+    ],
+    "x5-page-mode": [
+      "app"
+    ],
+    "msapplication-tap-highlight": [
+      "no"
+    ],
+    "dc.relation.is": [
+      "国际新闻界"
+    ],
+    "dc.citation.volume": [
+      "47"
+    ],
+    "dc.citation.issue": [
+      "9"
+    ],
+    "dc.citation.spage": [
+      "6"
+    ],
+    "dc.citation.epage": [
+      "26"
+    ],
+    "dc.title": [
+      "作为集体探究的事实核查：公众参与和素养宣导的力量"
+    ],
+    "dc.source": [
+      "国际新闻界"
+    ],
+    "dc.format": [
+      "text/html"
+    ],
+    "dc.publisher": [
+      ""
+    ],
+    "dc.date": [
+      "2025-09-23"
+    ],
+    "dc.type": [
+      ""
+    ],
+    "dc.language": [
+      "Cn"
+    ],
+    "dc.copyright": [
+      ""
+    ],
+    "dc.description": [
+      "事实核查作为新闻业因应数字化转型所尝试的创新实践方案，正在成为我国公共生活中一股不容忽视的力量。本文引入参与式核查概念，尝试把公众带至事实核查的中心视野。通过一项四因素混合设计在线实验（N = 405），本研究围绕专业核查和参与式核查的勘误潜能及其在新闻素养方面所需的经验条件展开比较分析。结果显示，常规核查与新闻素养的宣导相结合可有效帮助人们辨伪识真，在受众有机会直接参与新闻验证的前提下，新闻素养干预对提升其新闻辨识力不再具有额外的裨益。同时，公众参与事实核查或从外部干预新闻素养均可降低他们对新闻的准确度评价，特别在防止人们误信误判虚假新闻进而卷入对假新闻的扩散方面效果尤为显著。基于上述结果，我们在文章最后就公众参与事实核查对涵养公民素质和赋能知情公众的意义展开了讨论。"
+    ],
+    "dc.relation.ispartof": [
+      "国际新闻界"
+    ],
+    "dc.creator": [
+      "闫文捷",
+      "李振宇"
+    ],
+    "dc.subject": [
+      "事实核查",
+      "公众参与",
+      "新闻素养",
+      "新闻创新"
+    ],
+    "prism.issn": [
+      "1002-5685"
+    ],
+    "prism.publicationDate": [
+      "2025-09-23"
+    ],
+    "prism.section": [
+      ""
+    ],
+    "prism.volume": [
+      "47"
+    ],
+    "prism.number": [
+      "9"
+    ],
+    "prism.startingPage": [
+      "6"
+    ],
+    "prism.endingPage": [
+      "26"
+    ],
+    "prism.copyright": [
+      ""
+    ],
+    "prism.url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2025/V47/I9/6"
+    ],
+    "citation_pdf_url": [
+      "http://cjjc.ruc.edu.cn/CN/PDF/1606"
+    ],
+    "citation_abstract_html_url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2025/V47/I9/6"
+    ],
+    "citation_fulltext_html_url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2025/V47/I9/6"
+    ],
+    "citation_journal_title": [
+      "国际新闻界"
+    ],
+    "citation_publisher": [
+      ""
+    ],
+    "citation_issn": [
+      "1002-5685"
+    ],
+    "citation_title": [
+      "作为集体探究的事实核查：公众参与和素养宣导的力量"
+    ],
+    "citation_authors": [
+      "闫文捷, 李振宇"
+    ],
+    "citation_volume": [
+      "47"
+    ],
+    "citation_issue": [
+      "9"
+    ],
+    "citation_publication_date": [
+      "2025/09/23"
+    ],
+    "citation_online_date": [
+      "2025/09/23"
+    ],
+    "citation_firstpage": [
+      "6"
+    ],
+    "citation_lastpage": [
+      "26"
+    ],
+    "citation_article_type": [
+      ""
+    ],
+    "citation_language": [
+      "zh"
+    ],
+    "citation_doi": [
+      ""
+    ],
+    "citation_abstract": [
+      "事实核查作为新闻业因应数字化转型所尝试的创新实践方案，正在成为我国公共生活中一股不容忽视的力量。本文引入参与式核查概念，尝试把公众带至事实核查的中心视野。通过一项四因素混合设计在线实验（N = 405），本研究围绕专业核查和参与式核查的勘误潜能及其在新闻素养方面所需的经验条件展开比较分析。结果显示，常规核查与新闻素养的宣导相结合可有效帮助人们辨伪识真，在受众有机会直接参与新闻验证的前提下，新闻素养干预对提升其新闻辨识力不再具有额外的裨益。同时，公众参与事实核查或从外部干预新闻素养均可降低他们对新闻的准确度评价，特别在防止人们误信误判虚假新闻进而卷入对假新闻的扩散方面效果尤为显著。基于上述结果，我们在文章最后就公众参与事实核查对涵养公民素质和赋能知情公众的意义展开了讨论。"
+    ],
+    "citation_keywords": [
+      "事实核查",
+      "公众参与",
+      "新闻素养",
+      "新闻创新"
+    ],
+    "citation_date": [
+      "2025/09/23"
+    ],
+    "citation_author": [
+      "闫文捷",
+      "李振宇"
+    ],
+    "article_references": [
+      "闫文捷, 李振宇. 作为集体探究的事实核查：公众参与和素养宣导的力量. 国际新闻界. 2025, 47 (9): 6-26."
+    ],
+    "google-site-verification": [
+      "GqftDyjkbLznCjwJH3xdvsEi1ZnXlVqxWMeQ5H2MD38"
+    ]
+  },
+  "structured_article": {
+    "bioList_en": [
+      {
+        "content": "<p id=\"F1\">Yan Wenjie is a professor in the School of Journalism and Communication at Beijing Normal University. Email: <a class=\"mag-xml-email-a\" href=\"mailto:wenjieyan@bnu.edu.cn\">wenjieyan@bnu.edu.cn</a>.</p>"
+      },
+      {
+        "content": "<p id=\"F2\">Li Zhenyu is a doctoral student in the School of Journalism and Communication at Beijing Normal University. Email: <a class=\"mag-xml-email-a\" href=\"mailto:leezymar@126.com\">leezymar@126.com</a>.</p>"
+      }
+    ],
+    "referenceList": [
+      {
+        "sourceCn": "《青年记者》",
+        "bodyP_ids": [
+          "mag_rich_body_p_1"
+        ],
+        "publicationType": "journal",
+        "id": "b1",
+        "label": "[1]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "白红义",
+                "personType": "author"
+              }
+            ],
+            "content": "白红义(<span class=\"yearStyle\">2018</span>). 重新审视新闻业与公众的关系. <span class=\"sourceStyle\">《青年记者》</span>,(6),20-22."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《真相:信息超载时代如何知道该相信什么》(陆佳怡,孙志刚译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_23"
+        ],
+        "publicationType": "book",
+        "id": "b2",
+        "label": "[2]",
+        "nian": 20102014,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "比尔·科瓦奇",
+                "personType": "author"
+              },
+              {
+                "name": "汤姆·罗森斯蒂尔",
+                "personType": "author"
+              }
+            ],
+            "content": "比尔·科瓦奇, 汤姆·罗森斯蒂尔,(<span class=\"yearStyle\">2010/2014</span>). <span class=\"sourceStyle\">《真相:信息超载时代如何知道该相信什么》(陆佳怡,孙志刚译)</span>. 中国人民大学出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《现代传播(中国传媒大学学报)》",
+        "bodyP_ids": [
+          "mag_rich_body_p_8"
+        ],
+        "publicationType": "journal",
+        "id": "b3",
+        "label": "[3]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "陈鹏",
+                "personType": "author"
+              }
+            ],
+            "content": "陈鹏(<span class=\"yearStyle\">2020</span>). 公众新闻生产如何改变新闻业:基于新闻规范、观念与文化的分析. <span class=\"sourceStyle\">《现代传播(中国传媒大学学报)》</span>,(12),63-67."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《南京社会科学》",
+        "bodyP_ids": [
+          "mag_rich_body_p_6"
+        ],
+        "publicationType": "journal",
+        "id": "b4",
+        "label": "[4]",
+        "nian": 2016,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "夏倩芳",
+                "personType": "author"
+              },
+              {
+                "name": "王艳",
+                "personType": "author"
+              }
+            ],
+            "content": "夏倩芳, 王艳(<span class=\"yearStyle\">2016</span>). 从“客观性”到“透明性”:新闻专业权威演进的历史与逻辑. <span class=\"sourceStyle\">《南京社会科学》</span>,(7),97-109."
+          }
+        ]
+      },
+      {
+        "sourceCn": "社区“附注”功能上线公告",
+        "bodyP_ids": [
+          "mag_rich_body_p_7"
+        ],
+        "publicationType": "journal",
+        "id": "b5",
+        "label": "[5]",
+        "nian": 2023,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "新浪微博",
+                "personType": "author"
+              }
+            ],
+            "content": "新浪微博(<span class=\"yearStyle\">2023</span>年8月2日). <span class=\"sourceStyle\">社区“附注”功能上线公告</span>. https://weibo.com/ttarticle/p/show?id=2309404930349917667993",
+            "url": "https://weibo.com/ttarticle/p/show?id=2309404930349917667993"
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_22"
+        ],
+        "publicationType": "report",
+        "id": "b6",
+        "label": "[6]",
+        "nian": 2023,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "中国互联网络信息中心",
+                "personType": "author"
+              }
+            ],
+            "content": "中国互联网络信息中心(<span class=\"yearStyle\">2023</span>年3月2日). 第51次中国互联网络发展状况统计报告. https://www.cnnic.net.cn/NMediaFile/2023/0807/MAIN169137187130308PEDV637M.pdf",
+            "url": "https://www.cnnic.net.cn/NMediaFile/2023/0807/MAIN169137187130308PEDV637M.pdf"
+          }
+        ]
+      },
+      {
+        "sourceCn": "《全球传媒学刊》",
+        "bodyP_ids": [
+          "mag_rich_body_p_2",
+          "mag_rich_body_p_8"
+        ],
+        "publicationType": "journal",
+        "id": "b7",
+        "label": "[7]",
+        "nian": 2022,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "闫文捷",
+                "personType": "author"
+              },
+              {
+                "name": "刘于思",
+                "personType": "author"
+              },
+              {
+                "name": "周睿鸣",
+                "personType": "author"
+              }
+            ],
+            "content": "闫文捷, 刘于思, 周睿鸣(<span class=\"yearStyle\">2022</span>). 从“核查什么”到“谁来核查”:事实核查的边界协商及其规范性愿景. <span class=\"sourceStyle\">《全球传媒学刊》</span>,(3),156-174."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻记者》",
+        "bodyP_ids": [
+          "mag_rich_body_p_10",
+          "mag_rich_body_p_12"
+        ],
+        "publicationType": "journal",
+        "id": "b8",
+        "label": "[8]",
+        "nian": 2023,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "闫文捷",
+                "personType": "author"
+              },
+              {
+                "name": "刘于思",
+                "personType": "author"
+              },
+              {
+                "name": "周睿鸣",
+                "personType": "author"
+              }
+            ],
+            "content": "闫文捷, 刘于思, 周睿鸣(<span class=\"yearStyle\">2023</span>). 事实核查:专业新闻生产者可为的创新实践——一项在线实验的启示. <span class=\"sourceStyle\">《新闻记者》</span>(2),46-59."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻大学》",
+        "bodyP_ids": [
+          "mag_rich_body_p_14"
+        ],
+        "publicationType": "journal",
+        "id": "b9",
+        "label": "[9]",
+        "nian": 2016,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "虞鑫",
+                "personType": "author"
+              },
+              {
+                "name": "陈昌凤",
+                "personType": "author"
+              }
+            ],
+            "content": "虞鑫, 陈昌凤(<span class=\"yearStyle\">2016</span>). 美国“事实核查新闻”的生产逻辑与效果困境. <span class=\"sourceStyle\">《新闻大学》</span>,(4),27-33+66+149."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻记者》",
+        "bodyP_ids": [
+          "mag_rich_body_p_1"
+        ],
+        "publicationType": "journal",
+        "id": "b10",
+        "label": "[10]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "张小强",
+                "personType": "author"
+              },
+              {
+                "name": "张萍",
+                "personType": "author"
+              },
+              {
+                "name": "刘志杰",
+                "personType": "author"
+              }
+            ],
+            "content": "张小强, 张萍, 刘志杰(<span class=\"yearStyle\">2019</span>). 用户评论与替代性公共领域——我国网络用户参与新闻阐释的特征与效果. <span class=\"sourceStyle\">《新闻记者》</span>,(12),13-26."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《当代传播》",
+        "bodyP_ids": [
+          "mag_rich_body_p_1"
+        ],
+        "publicationType": "journal",
+        "id": "b11",
+        "label": "[11]",
+        "nian": 2012,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "钟剑茜",
+                "personType": "author"
+              }
+            ],
+            "content": "钟剑茜(<span class=\"yearStyle\">2012</span>). 媒介融合时代新闻生产中的受众参与. <span class=\"sourceStyle\">《当代传播》</span>,(1),95-97."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Science Advances",
+        "bodyP_ids": [
+          "mag_rich_body_p_8",
+          "mag_rich_body_p_9"
+        ],
+        "publicationType": "journal",
+        "id": "b12",
+        "label": "[12]",
+        "nian": 2021,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Allen, J",
+                "personType": "author"
+              },
+              {
+                "name": "Arechar, A. A",
+                "personType": "author"
+              },
+              {
+                "name": "Pennycook, G",
+                "personType": "author"
+              },
+              {
+                "name": "Rand, D. G",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Allen,</surname> <given-names>J</given-names></name>., <name><surname>Arechar,</surname> <given-names>A. A</given-names></name>., <name><surname>Pennycook,</surname> <given-names>G</given-names></name>., &amp; <name><surname>Rand,</surname> <given-names>D. G</given-names></name> (<span class=\"yearStyle\">2021</span>). Scaling up fact-checking using the wisdom of crowds. <span class=\"sourceStyle\"><i>Science Advances</i></span>, <span class=\"volStyele\"><i>7</i></span>(36): eabf4393."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of Broadcasting &amp; Electronic Media",
+        "bodyP_ids": [
+          "mag_rich_body_p_14",
+          "mag_rich_body_p_15"
+        ],
+        "publicationType": "journal",
+        "id": "b13",
+        "label": "[13]",
+        "nian": 2019,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Amazeen, M. A",
+                "personType": "author"
+              },
+              {
+                "name": "Bucy, E. P",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Amazeen,</surname> <given-names>M. A</given-names></name>., &amp; <name><surname>Bucy,</surname> <given-names>E. P</given-names></name>. (<span class=\"yearStyle\">2019</span>). Conferring resistance to digital disinformation: The inoculating influence of procedural news knowledge. <span class=\"sourceStyle\"><i>Journal of Broadcasting &amp; Electronic Media</i></span>, <span class=\"volStyele\"><i>63</i></span>(3), 415-432."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of Media Literacy Education",
+        "bodyP_ids": [
+          "mag_rich_body_p_14"
+        ],
+        "publicationType": "journal",
+        "id": "b14",
+        "label": "[14]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Ashley, S",
+                "personType": "author"
+              },
+              {
+                "name": "Maksl, A",
+                "personType": "author"
+              },
+              {
+                "name": "Craft, S",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Ashley,</surname> <given-names>S</given-names></name>., <name><surname>Maksl,</surname> <given-names>A</given-names></name>., &amp; <name><surname>Craft,</surname> <given-names>S</given-names></name>. (<span class=\"yearStyle\">2017</span>). News media literacy and political engagement: What’s the connection? <span class=\"sourceStyle\"><i>Journal of Media Literacy Education</i></span>, <span class=\"volStyele\"><i>9</i></span>(1), 79-98. ",
+            "url": "https://digitalcommons.uri.edu/jmle",
+            "doi": "10.23860/JMLE"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of Experimental Psychology: General",
+        "bodyP_ids": [
+          "mag_rich_body_p_19"
+        ],
+        "publicationType": "journal",
+        "id": "b15",
+        "label": "[15]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Bago, B",
+                "personType": "author"
+              },
+              {
+                "name": "Rand, D. G",
+                "personType": "author"
+              },
+              {
+                "name": "Pennycook, G",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Bago,</surname> <given-names>B</given-names></name>., <name><surname>Rand,</surname> <given-names>D. G</given-names></name>., &amp; <name><surname>Pennycook,</surname> <given-names>G</given-names></name>. (<span class=\"yearStyle\">2020</span>). Fake news, fast and slow: Deliberation reduces belief in false (but not true) news headlines. <span class=\"sourceStyle\"><i>Journal of Experimental Psychology: General</i></span>, <span class=\"volStyele\"><i>149</i></span>(8), 1608-1613. ",
+            "url": "https://doi.apa.org/doi/10.1037/xge0000729",
+            "doi": "10.1037/xge0000729"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of public economics",
+        "bodyP_ids": [
+          "mag_rich_body_p_50"
+        ],
+        "publicationType": "journal",
+        "id": "b16",
+        "label": "[16]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Barrera, O",
+                "personType": "author"
+              },
+              {
+                "name": "Guriev, S",
+                "personType": "author"
+              },
+              {
+                "name": "Henry, E",
+                "personType": "author"
+              },
+              {
+                "name": "Zhuravskaya, E",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Barrera,</surname> <given-names>O</given-names></name>., <name><surname>Guriev,</surname> <given-names>S</given-names></name>., <name><surname>Henry,</surname> <given-names>E</given-names></name>., &amp; <name><surname>Zhuravskaya,</surname> <given-names>E</given-names></name>. (<span class=\"yearStyle\">2020</span>). Facts, alternative facts, and fact checking in times of post-truth politics. <span class=\"sourceStyle\"><i>Journal of public economics</i></span>, <span class=\"volStyele\"><i>182</i></span>, 104123. ",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S0047272719301859",
+            "doi": "10.1016/j.jpubeco.2019.104123"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journalism Practice",
+        "bodyP_ids": [
+          "mag_rich_body_p_50"
+        ],
+        "publicationType": "journal",
+        "id": "b17",
+        "label": "[17]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Brandtzaeg, P. B",
+                "personType": "author"
+              },
+              {
+                "name": "Følstad, A",
+                "personType": "author"
+              },
+              {
+                "name": "Domínguez, M. Á. C",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Brandtzaeg,</surname> <given-names>P. B</given-names></name>., <name><surname>Følstad,</surname> <given-names>A</given-names></name>., &amp; <name><surname>Domínguez,</surname> <given-names>M. Á. C</given-names></name>.. (<span class=\"yearStyle\">2017</span>). How journalists and social media users perceive online fact-checking and verification services. <span class=\"sourceStyle\"><i>Journalism Practice</i></span>, <span class=\"volStyele\"><i>12</i></span>(9), 1109-1129. ",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/17512786.2017.1363657",
+            "doi": "10.1080/17512786.2017.1363657"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Human Communication Research",
+        "bodyP_ids": [
+          "mag_rich_body_p_8"
+        ],
+        "publicationType": "journal",
+        "id": "b18",
+        "label": "[18]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "While fact-checking has received much attention as a potential tool to combat fake news, whether and how fact-checking information lessens intentions to share fake news on social media remains underexplored. Two experiments uncovered a theoretical mechanism underlying the effect of fact-checking on sharing intentions, and identified an important contextual cue (i.e., social media metrics) that interacts with fact-checking effects. Exposure to fake news with fact-checking information (vs. fake news without fact-checking information) yielded more negative evaluations of the news and a greater belief that others are more influenced by the news than oneself (third-person perception [TPP]). Increased TPP, in turn, led to weaker intentions to share fake news on social media. Fact-checking information also nullified the effect of social media metrics on sharing intentions; without fact-checking information, higher (vs. lower) social media metrics induced greater intentions to share the news. However, when fact-checking debunked the news, such an effect disappeared.",
+            "personList": [
+              {
+                "name": "Chung, M",
+                "personType": "author"
+              },
+              {
+                "name": "Kim, N",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Chung,</surname> <given-names>M</given-names></name>., &amp; <name><surname>Kim,</surname> <given-names>N</given-names></name>. (<span class=\"yearStyle\">2021</span>). When I learn the news is false: How fact-checking information stems the spread of fake news via third-person perception. <span class=\"sourceStyle\"><i>Human Communication Research</i></span>, <span class=\"volStyele\"><i>47</i></span>(1), 1-24. ",
+            "url": "https://academic.oup.com/hcr/article/47/1/1/5917727",
+            "doi": "10.1093/hcr/hqaa010"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Political Behavior",
+        "bodyP_ids": [
+          "mag_rich_body_p_48"
+        ],
+        "publicationType": "journal",
+        "id": "b19",
+        "label": "[19]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Clayton, K",
+                "personType": "author"
+              },
+              {
+                "name": "Blair, S",
+                "personType": "author"
+              },
+              {
+                "name": "Busam, J. A",
+                "personType": "author"
+              },
+              {
+                "name": "Forstner, S",
+                "personType": "author"
+              },
+              {
+                "name": "Glance, J",
+                "personType": "author"
+              },
+              {
+                "name": "Green, G",
+                "personType": "author"
+              },
+              {
+                "name": "Kawata, A",
+                "personType": "author"
+              },
+              {
+                "name": "Kovvuri, A",
+                "personType": "author"
+              },
+              {
+                "name": "Martin, J",
+                "personType": "author"
+              },
+              {
+                "name": "Morgan, E",
+                "personType": "author"
+              },
+              {
+                "name": "Sandhu, M",
+                "personType": "author"
+              },
+              {
+                "name": "Sang, R",
+                "personType": "author"
+              },
+              {
+                "name": "Scholz-Bright, R",
+                "personType": "author"
+              },
+              {
+                "name": "Welch, A. T",
+                "personType": "author"
+              },
+              {
+                "name": "Wolff, A. G",
+                "personType": "author"
+              },
+              {
+                "name": "Zhou A",
+                "personType": "author"
+              },
+              {
+                "name": "Nyhan, B",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Clayton,</surname> <given-names>K</given-names></name>., <name><surname>Blair,</surname> <given-names>S</given-names></name>., <name><surname>Busam,</surname> <given-names>J. A</given-names></name>., <name><surname>Forstner,</surname> <given-names>S</given-names></name>., <name><surname>Glance,</surname> <given-names>J</given-names></name>., <name><surname>Green,</surname> <given-names>G</given-names></name>., <name><surname>Kawata,</surname> <given-names>A</given-names></name>., <name><surname>Kovvuri,</surname> <given-names>A</given-names></name>., <name><surname>Martin,</surname> <given-names>J</given-names></name>., <name><surname>Morgan,</surname> <given-names>E</given-names></name>., <name><surname>Sandhu,</surname> <given-names>M</given-names></name>., <name><surname>Sang,</surname> <given-names>R</given-names></name>., <name><surname>Scholz-Bright,</surname> <given-names>R</given-names></name>., <name><surname>Welch,</surname> <given-names>A. T</given-names></name>., <name><surname>Wolff,</surname> <given-names>A. G</given-names></name>., <name><surname>Zhou</surname> <given-names>A</given-names></name>. &amp; <name><surname>Nyhan,</surname> <given-names>B</given-names></name>. (<span class=\"yearStyle\">2020</span>). Real solutions for fake news? Measuring the effectiveness of general warnings and fact-check tags in reducing belief in false stories on social media. <span class=\"sourceStyle\"><i>Political Behavior</i></span>, <span class=\"volStyele\"><i>42</i></span>, 1073-1095. ",
+            "doi": "10.1007/s11109-019-09533-0"
+          }
+        ]
+      },
+      {
+        "sourceEn": "International Journal of Communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_4"
+        ],
+        "publicationType": "journal",
+        "id": "b20",
+        "label": "[20]",
+        "nian": 2022,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Çömlekçi, M. F",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Çömlekçi,</surname> <given-names>M. F</given-names></name>. (<span class=\"yearStyle\">2022</span>). Why do fact-checking organizations go beyond fact-checking? A leap toward media and information literacy education. <span class=\"sourceStyle\"><i>International Journal of Communication</i></span>, <span class=\"volStyele\"><i>16</i></span>, 21."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Cogent Arts &amp; Humanities",
+        "bodyP_ids": [
+          "mag_rich_body_p_15"
+        ],
+        "publicationType": "journal",
+        "id": "b21",
+        "label": "[21]",
+        "nian": 2022,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Dame Adjin-Tettey, T",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Dame Adjin-Tettey,</surname> <given-names>T</given-names></name>. (<span class=\"yearStyle\">2022</span>). Combating fake news, disinformation, and misinformation: Experimental evidence for media literacy education. <span class=\"sourceStyle\"><i>Cogent Arts &amp; Humanities</i></span>, <span class=\"volStyele\"><i>9</i></span>(1), 2037229."
+          }
+        ]
+      },
+      {
+        "sourceEn": "In J. A. Boydston (Ed.), The later works, 1925-1953 (Vol. 2)",
+        "bodyP_ids": [
+          "mag_rich_body_p_52"
+        ],
+        "publicationType": "book",
+        "id": "b22",
+        "label": "[22]",
+        "nian": 19842008,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Dewey, J",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Dewey,</surname> <given-names>J</given-names></name>. (<span class=\"yearStyle\">1984/2008</span>). The public and its problems. <span class=\"sourceStyle\">In J. A. Boydston (<strong>Ed.</strong>), <i>The later works, 1925-1953 (Vol. 2)</i></span>(pp.235-372). Southern Illinois University Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Government Information Quarterly",
+        "bodyP_ids": [
+          "mag_rich_body_p_8"
+        ],
+        "publicationType": "journal",
+        "id": "b23",
+        "label": "[23]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Dongfang, G",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Dongfang,</surname> <given-names>G</given-names></name>. (<span class=\"yearStyle\">2021</span>). Flagging fake news on social media: An experimental study of media consumers’ identification of fake news. <span class=\"sourceStyle\"><i>Government Information Quarterly</i></span>, <span class=\"volStyele\"><i>38</i></span>(3), 101591."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Mass Communication and Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_51"
+        ],
+        "publicationType": "journal",
+        "id": "b24",
+        "label": "[24]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Edgerly, S",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Edgerly,</surname> <given-names>S</given-names></name>. (<span class=\"yearStyle\">2017</span>). Seeking out and avoiding the news media: Young adults’ proposed strategies for obtaining current events information. <span class=\"sourceStyle\"><i>Mass Communication and Society</i></span>, <span class=\"volStyele\"><i>20</i></span>(3), 358-377. ",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/15205436.2016.1262424",
+            "doi": "10.1080/15205436.2016.1262424"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journalism &amp; Mass Communication Quarterly",
+        "bodyP_ids": [
+          "mag_rich_body_p_51"
+        ],
+        "publicationType": "journal",
+        "id": "b25",
+        "label": "[25]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Edgerly, S",
+                "personType": "author"
+              },
+              {
+                "name": "Mourão, R. R",
+                "personType": "author"
+              },
+              {
+                "name": "Thorson, E",
+                "personType": "author"
+              },
+              {
+                "name": "Tham, S. M",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Edgerly,</surname> <given-names>S</given-names></name>., <name><surname>Mourão,</surname> <given-names>R. R</given-names></name>., <name><surname>Thorson,</surname> <given-names>E</given-names></name>., &amp; <name><surname>Tham,</surname> <given-names>S. M</given-names></name>. (<span class=\"yearStyle\">2020</span>). When do audiences verify? How perceptions about message and source influence audience verification of news headlines. <span class=\"sourceStyle\"><i>Journalism &amp; Mass Communication Quarterly</i></span>, <span class=\"volStyele\"><i>97</i></span>(1), 52-71."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of Computer-Mediated Communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_8"
+        ],
+        "publicationType": "journal",
+        "id": "b26",
+        "label": "[26]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "We present two studies evaluating the effectiveness of flagging inaccurate political posts on social media. In Study 1, we tested fact-checker flags, peer-generated flags, and a flag indicating that the publisher self-identified as a source of humor. We predicted that all would be effective, that their effectiveness would depend on prior beliefs, and that the self-identified humor flag would work best. Conducting a 2-wave online experiment (N = 218), we found that self-identified humor flags were most effective, reducing beliefs and sharing intentions, especially among those predisposed to believe the post. We found no evidence that warnings from fact checkers or peers were beneficial. Compared to the alternatives, participants exposed to self-identified humor flags exhibited less reactance to and had more positive appraisals of the flagging system. The second study (N = 610) replicated the findings of the first and provides a preliminary test of what makes this flag work.",
+            "personList": [
+              {
+                "name": "Garrett, R. K",
+                "personType": "author"
+              },
+              {
+                "name": "Poulsen, S",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Garrett,</surname> <given-names>R. K</given-names></name>., &amp; <name><surname>Poulsen,</surname> <given-names>S</given-names></name>. (<span class=\"yearStyle\">2019</span>). Flagging Facebook falsehoods: Self-identified humor warnings outperform fact checker and peer warnings. <span class=\"sourceStyle\"><i>Journal of Computer-Mediated Communication</i></span>, <span class=\"volStyele\"><i>24</i></span>(5), 240-258. ",
+            "doi": "10.1093/jcmc/zmz012"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of Online Trust and Safety",
+        "bodyP_ids": [
+          "mag_rich_body_p_9"
+        ],
+        "publicationType": "journal",
+        "id": "b27",
+        "label": "[27]",
+        "nian": 2021,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Godel, W",
+                "personType": "author"
+              },
+              {
+                "name": "Sanderson, Z",
+                "personType": "author"
+              },
+              {
+                "name": "Aslett, K",
+                "personType": "author"
+              },
+              {
+                "name": "Nagler, J",
+                "personType": "author"
+              },
+              {
+                "name": "Bonneau, R",
+                "personType": "author"
+              },
+              {
+                "name": "Persily, N",
+                "personType": "author"
+              },
+              {
+                "name": "Tucker, J. A",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Godel,</surname> <given-names>W</given-names></name>., <name><surname>Sanderson,</surname> <given-names>Z</given-names></name>., <name><surname>Aslett,</surname> <given-names>K</given-names></name>., <name><surname>Nagler,</surname> <given-names>J</given-names></name>., <name><surname>Bonneau,</surname> <given-names>R</given-names></name>., <name><surname>Persily,</surname> <given-names>N</given-names></name>., &amp; <name><surname>Tucker,</surname> <given-names>J. A</given-names></name>. (<span class=\"yearStyle\">2021</span>). Moderating with the mob: Evaluating the efficacy of real-time crowdsourced fact-checking. <span class=\"sourceStyle\"><i>Journal of Online Trust and Safety</i></span>, <span class=\"volStyele\"><i>1</i></span>(1), 1-36."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Communication Culture &amp; Critique",
+        "bodyP_ids": [
+          "mag_rich_body_p_2"
+        ],
+        "publicationType": "journal",
+        "id": "b28",
+        "label": "[28]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Graves, L",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Graves,</surname> <given-names>L</given-names></name>. (<span class=\"yearStyle\">2017</span>). Anatomy of a fact check: Objective practice and the contested epistemology of fact checking. <span class=\"sourceStyle\"><i>Communication Culture &amp; Critique</i></span>, <span class=\"volStyele\"><i>10</i></span>(3), 518-537."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Information, Communication &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_4",
+          "mag_rich_body_p_14",
+          "mag_rich_body_p_15",
+          "mag_rich_body_p_23",
+          "mag_rich_body_p_46"
+        ],
+        "publicationType": "patent",
+        "id": "b29",
+        "label": "[29]",
+        "nian": 2022,
+        "citedCount": 5,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Hameleers, M",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Hameleers,</surname> <given-names>M</given-names></name>. (<span class=\"yearStyle\">2022</span>). Separating truth from lies: comparing the effects of news media literacy interventions and fact-checkers in response to political misinformation in the US and Netherlands. <span class=\"sourceStyle\"><i>Information, Communication &amp; Society</i></span>, <span class=\"volStyele\"><i>25</i></span>(1), 110-126."
+          }
+        ]
+      },
+      {
+        "sourceEn": "American Behavioral Scientist",
+        "bodyP_ids": [
+          "mag_rich_body_p_14"
+        ],
+        "publicationType": "journal",
+        "id": "b30",
+        "label": "[30]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Jones-Jang, S. M",
+                "personType": "author"
+              },
+              {
+                "name": "Mortensen, T",
+                "personType": "author"
+              },
+              {
+                "name": "Liu, J",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Jones-Jang,</surname> <given-names>S. M</given-names></name>., <name><surname>Mortensen,</surname> <given-names>T</given-names></name>., &amp; <name><surname>Liu,</surname> <given-names>J</given-names></name>. (<span class=\"yearStyle\">2019</span>). Does media literacy help identification of fake news? Information literacy helps, but other literacies don’t. <span class=\"sourceStyle\"><i>American Behavioral Scientist</i></span>, <span class=\"volStyele\"><i>65</i></span>(2), 371-388. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/0002764219869406",
+            "doi": "10.1177/0002764219869406"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of Applied Social Psychology",
+        "bodyP_ids": [
+          "mag_rich_body_p_8"
+        ],
+        "publicationType": "journal",
+        "id": "b31",
+        "label": "[31]",
+        "nian": 2023,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Koch, T. K",
+                "personType": "author"
+              },
+              {
+                "name": "Frischlich, L",
+                "personType": "author"
+              },
+              {
+                "name": "Lermer, E",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Koch,</surname> <given-names>T. K</given-names></name>., <name><surname>Frischlich,</surname> <given-names>L</given-names></name>., &amp; <name><surname>Lermer,</surname> <given-names>E</given-names></name>. (<span class=\"yearStyle\">2023</span>). Effects of fact-checking warning labels and social endorsement cues on climate change fake news credibility and engagement on social media. <span class=\"sourceStyle\"><i>Journal of Applied Social Psychology</i></span>, <span class=\"volStyele\"><i>53</i></span>(6), 495-507. ",
+            "url": "https://onlinelibrary.wiley.com/toc/15591816/53/6",
+            "doi": "10.1111/jasp.v53.6"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Healthcare",
+        "bodyP_ids": [
+          "mag_rich_body_p_15"
+        ],
+        "publicationType": "journal",
+        "id": "b32",
+        "label": "[32]",
+        "nian": 2023,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Kožuh, I",
+                "personType": "author"
+              },
+              {
+                "name": "Čakš, P",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Kožuh,</surname> <given-names>I</given-names></name>., &amp; <name><surname>Čakš,</surname> <given-names>P</given-names></name>. (<span class=\"yearStyle\">2023</span>). Social media fact-checking: The effects of news literacy and news trust on the intent to verify health-related information. <span class=\"sourceStyle\"><i>Healthcare</i></span>, <span class=\"volStyele\"><i>11</i></span>(20), 2796."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Central European Journal of Communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_3"
+        ],
+        "publicationType": "journal",
+        "id": "b33",
+        "label": "[33]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Kuś, M",
+                "personType": "author"
+              },
+              {
+                "name": "Barczyszyn-Madziarz, P",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Kuś,</surname> <given-names>M</given-names></name>., &amp; <name><surname>Barczyszyn-Madziarz,</surname> <given-names>P</given-names></name>. (<span class=\"yearStyle\">2020</span>). Fact-checking initiatives as promoters of media and information literacy: The case of Poland. <span class=\"sourceStyle\"><i>Central European Journal of Communication</i></span>, <span class=\"volStyele\"><i>13</i></span>(2 (26)), 249-265. ",
+            "url": "https://wuwr.pl/cejc/article/view/11607",
+            "doi": "10.19195/1899-5101.13.2(26).6"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Information Communication &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_1",
+          "mag_rich_body_p_2",
+          "mag_rich_body_p_8"
+        ],
+        "publicationType": "journal",
+        "id": "b34",
+        "label": "[34]",
+        "nian": 2012,
+        "citedCount": 4,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Lewis, S. C",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Lewis,</surname> <given-names>S. C</given-names></name>. (<span class=\"yearStyle\">2012</span>). The tension between professional control and open participation journalism and its boundaries. <span class=\"sourceStyle\"><i>Information Communication &amp; Society</i></span>, <span class=\"volStyele\"><i>15</i></span>(6), 836-866."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Media Culture &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_1"
+        ],
+        "publicationType": "journal",
+        "id": "b35",
+        "label": "[35]",
+        "nian": 2013,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Lewis, S. C",
+                "personType": "author"
+              },
+              {
+                "name": "Usher, N",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Lewis,</surname> <given-names>S. C</given-names></name>., &amp; <name><surname>Usher,</surname> <given-names>N</given-names></name>. (<span class=\"yearStyle\">2013</span>). Open source and journalism: toward new frameworks for imagining news innovation. <span class=\"sourceStyle\"><i>Media Culture &amp; Society</i></span>, <span class=\"volStyele\"><i>35</i></span>(5), 602-619."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Digital Journalism",
+        "bodyP_ids": [
+          "mag_rich_body_p_1"
+        ],
+        "publicationType": "journal",
+        "id": "b36",
+        "label": "[36]",
+        "nian": 2015,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Lewis, S. C",
+                "personType": "author"
+              },
+              {
+                "name": "Westlund, O",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Lewis,</surname> <given-names>S. C</given-names></name>., &amp; <name><surname>Westlund,</surname> <given-names>O</given-names></name>. (<span class=\"yearStyle\">2015</span>). Actors, actants, audiences, and activities in cross-media news work: A matrix and a research agenda. <span class=\"sourceStyle\"><i>Digital Journalism</i></span>, <span class=\"volStyele\"><i>3</i></span>(1), 19-37. ",
+            "url": "http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.927986",
+            "doi": "10.1080/21670811.2014.927986"
+          }
+        ]
+      },
+      {
+        "sourceEn": "The challenges of defining “news literacy”",
+        "bodyP_ids": [
+          "mag_rich_body_p_14"
+        ],
+        "publicationType": "journal",
+        "id": "b37",
+        "label": "[37]",
+        "nian": 2013,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Malik, M",
+                "personType": "author"
+              },
+              {
+                "name": "Cortesi, S",
+                "personType": "author"
+              },
+              {
+                "name": "Gasser, U",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Malik,</surname> <given-names>M</given-names></name>., <name><surname>Cortesi,</surname> <given-names>S</given-names></name>., &amp; <name><surname>Gasser,</surname> <given-names>U</given-names></name>. (<span class=\"yearStyle\">2013</span>, October 22). <span class=\"sourceStyle\"><i>The challenges of defining “news literacy”</i></span>. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2342313",
+            "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2342313"
+          }
+        ]
+      },
+      {
+        "sourceEn": "El Profesional De La Información",
+        "bodyP_ids": [
+          "mag_rich_body_p_1"
+        ],
+        "publicationType": "journal",
+        "id": "b38",
+        "label": "[38]",
+        "nian": 2015,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Masip, P",
+                "personType": "author"
+              },
+              {
+                "name": "Guallar, J",
+                "personType": "author"
+              },
+              {
+                "name": "Suau, J",
+                "personType": "author"
+              },
+              {
+                "name": "Ruiz-Caballero, C",
+                "personType": "author"
+              },
+              {
+                "name": "Peralta, M",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Masip,</surname> <given-names>P</given-names></name>., <name><surname>Guallar,</surname> <given-names>J</given-names></name>., <name><surname>Suau,</surname> <given-names>J</given-names></name>., <name><surname>Ruiz-Caballero,</surname> <given-names>C</given-names></name>., &amp; <name><surname>Peralta,</surname> <given-names>M</given-names></name>. (<span class=\"yearStyle\">2015</span>). News and social networks: audience behavior. <span class=\"sourceStyle\"><i>El Profesional De La Información</i></span>, <span class=\"volStyele\"><i>24</i></span>(4), 363-370. ",
+            "url": "https://revista.profesionaldelainformacion.com/index.php/EPI/article/view/epi.2015.jul.02",
+            "doi": "10.3145/epi.2015.jul.02"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Media and Communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_3"
+        ],
+        "publicationType": "journal",
+        "id": "b39",
+        "label": "[39]",
+        "nian": 2024,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Mesquita, L",
+                "personType": "author"
+              },
+              {
+                "name": "Maneta, M",
+                "personType": "author"
+              },
+              {
+                "name": "Brites, M. J",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Mesquita,</surname> <given-names>L</given-names></name>., <name><surname>Maneta,</surname> <given-names>M</given-names></name>., &amp; <name><surname>Brites,</surname> <given-names>M. J</given-names></name>. (<span class=\"yearStyle\">2024</span>). Beyond verification: The evolving role of fact-checking organisations in media literacy education for youth. <span class=\"sourceStyle\"><i>Media and Communication</i></span>, <span class=\"volStyele\"><i>12</i></span>, Article 8690."
+          }
+        ]
+      },
+      {
+        "sourceEn": "American Behavioral Scientist",
+        "bodyP_ids": [
+          "mag_rich_body_p_50"
+        ],
+        "publicationType": "journal",
+        "id": "b40",
+        "label": "[40]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "This article explores the phenomenon of spectacle in the lead up and immediate aftermath of the 2016 U.S. presidential election. Through the spread of misinformation, the appropriation of cultural iconography, and the willing engagement of mainstream media to perpetuate partisan and polarizing information, the proliferation of populist rhetoric, polarizing views, and vitriolic opinions spread. Revisiting the world of critical theorist Guy Debord, this article argues that the proliferation of citizen-drive spectacle is unique in its origination and perpetuation, and a direct result of an increasingly polarized and distrustful public spending an increasing amount of time in homophilous networks where contrarian views are few and far between. We apply the frame of spreadable media to explore how citizen expression online initiated, sustained, and expanded the media spectacle that pervaded the 2016 U.S. presidential election. The conclusion of this work argues that media literacies, as a popular response mechanism to help cultivate more critical consumers of media, must be repositioned to respond to an era of partisanship and distrust. We present a set of considerations for repositioning the literacies to focus on critique and creation of media in support of a common good, and that can respond meaningfully in an era of spreadability, connectivity, and spectacle.",
+            "personList": [
+              {
+                "name": "Mihailidis, P",
+                "personType": "author"
+              },
+              {
+                "name": "Viotty, S",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Mihailidis,</surname> <given-names>P</given-names></name>., &amp; <name><surname>Viotty,</surname> <given-names>S</given-names></name>. (<span class=\"yearStyle\">2017</span>). Spreadable spectacle in digital culture: civic expression, fake news, and the role of media literacies in “Post-Fact” society. <span class=\"sourceStyle\"><i>American Behavioral Scientist</i></span>, <span class=\"volStyele\"><i>61</i></span>(4), 441-454. ",
+            "url": "http://journals.sagepub.com/doi/10.1177/0002764217701217",
+            "doi": "10.1177/0002764217701217"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Cognition",
+        "bodyP_ids": [
+          "mag_rich_body_p_28"
+        ],
+        "publicationType": "journal",
+        "id": "b41",
+        "label": "[41]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Why do people believe blatantly inaccurate news headlines (\"fake news\")? Do we use our reasoning abilities to convince ourselves that statements that align with our ideology are true, or does reasoning allow us to effectively differentiate fake from real regardless of political ideology? Here we test these competing accounts in two studies (total N = 3446 Mechanical Turk workers) by using the Cognitive Reflection Test (CRT) as a measure of the propensity to engage in analytical reasoning. We find that CRT performance is negatively correlated with the perceived accuracy of fake news, and positively correlated with the ability to discern fake news from real news - even for headlines that align with individuals' political ideology. Moreover, overall discernment was actually better for ideologically aligned headlines than for misaligned headlines. Finally, a headline-level analysis finds that CRT is negatively correlated with perceived accuracy of relatively implausible (primarily fake) headlines, and positively correlated with perceived accuracy of relatively plausible (primarily real) headlines. In contrast, the correlation between CRT and perceived accuracy is unrelated to how closely the headline aligns with the participant's ideology. Thus, we conclude that analytic thinking is used to assess the plausibility of headlines, regardless of whether the stories are consistent or inconsistent with one's political ideology. Our findings therefore suggest that susceptibility to fake news is driven more by lazy thinking than it is by partisan bias per se - a finding that opens potential avenues for fighting fake news.Copyright © 2018 Elsevier B.V. All rights reserved.",
+            "personList": [
+              {
+                "name": "Pennycook, G",
+                "personType": "author"
+              },
+              {
+                "name": "Rand, D. G",
+                "personType": "author"
+              }
+            ],
+            "pmid": "29935897",
+            "content": "<name><surname>Pennycook,</surname> <given-names>G</given-names></name>., &amp; <name><surname>Rand,</surname> <given-names>D. G</given-names></name>. (<span class=\"yearStyle\">2019</span>). Lazy, not biased: Susceptibility to partisan fake news is better explained by lack of reasoning than by motivated reasoning. <span class=\"sourceStyle\"><i>Cognition</i></span>, <span class=\"volStyele\"><i>188</i></span>, 39-50. ",
+            "doi": "S0010-0277(18)30163-X"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Psychological Science",
+        "bodyP_ids": [
+          "mag_rich_body_p_15"
+        ],
+        "publicationType": "journal",
+        "id": "b42",
+        "label": "[42]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Across two studies with more than 1,700 U.S. adults recruited online, we present evidence that people share false claims about COVID-19 partly because they simply fail to think sufficiently about whether or not the content is accurate when deciding what to share. In Study 1, participants were far worse at discerning between true and false content when deciding what they would share on social media relative to when they were asked directly about accuracy. Furthermore, greater cognitive reflection and science knowledge were associated with stronger discernment. In Study 2, we found that a simple accuracy reminder at the beginning of the study (i.e., judging the accuracy of a non-COVID-19-related headline) nearly tripled the level of truth discernment in participants' subsequent sharing intentions. Our results, which mirror those found previously for political fake news, suggest that nudging people to think about accuracy is a simple way to improve choices about what to share on social media.",
+            "personList": [
+              {
+                "name": "Pennycook, G",
+                "personType": "author"
+              },
+              {
+                "name": "McPhetres, J",
+                "personType": "author"
+              },
+              {
+                "name": "Zhang, Y",
+                "personType": "author"
+              },
+              {
+                "name": "Lu, J. G",
+                "personType": "author"
+              },
+              {
+                "name": "Rand, D. G",
+                "personType": "author"
+              }
+            ],
+            "pmid": "32603243",
+            "content": "<name><surname>Pennycook,</surname> <given-names>G</given-names></name>., <name><surname>McPhetres,</surname> <given-names>J</given-names></name>., <name><surname>Zhang,</surname> <given-names>Y</given-names></name>., <name><surname>Lu,</surname> <given-names>J. G</given-names></name>., &amp; <name><surname>Rand,</surname> <given-names>D. G</given-names></name>. (<span class=\"yearStyle\">2020</span>). Fighting COVID-19 misinformation on social media: Experimental evidence for a scalable accuracy-nudge intervention. <span class=\"sourceStyle\"><i>Psychological Science</i></span>, <span class=\"volStyele\"><i>31</i></span>(7), 770-780. ",
+            "doi": "10.1177/0956797620939054"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Nature",
+        "bodyP_ids": [
+          "mag_rich_body_p_48"
+        ],
+        "publicationType": "journal",
+        "id": "b43",
+        "label": "[43]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Pennycook, G",
+                "personType": "author"
+              },
+              {
+                "name": "Epstein, Z",
+                "personType": "author"
+              },
+              {
+                "name": "Mosleh, M",
+                "personType": "author"
+              },
+              {
+                "name": "Arechar, A. A",
+                "personType": "author"
+              },
+              {
+                "name": "Eckles, D",
+                "personType": "author"
+              },
+              {
+                "name": "Rand, D. G",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Pennycook,</surname> <given-names>G</given-names></name>., <name><surname>Epstein,</surname> <given-names>Z</given-names></name>., <name><surname>Mosleh,</surname> <given-names>M</given-names></name>., <name><surname>Arechar,</surname> <given-names>A. A</given-names></name>., <name><surname>Eckles,</surname> <given-names>D</given-names></name>., &amp; <name><surname>Rand,</surname> <given-names>D. G</given-names></name>. (<span class=\"yearStyle\">2021</span>). Shifting attention to accuracy can reduce misinformation online. <span class=\"sourceStyle\"><i>Nature</i></span>, <span class=\"volStyele\"><i>592</i></span>(7855), 590-595. ",
+            "doi": "10.1038/s41586-021-03344-2"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Media and communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_3"
+        ],
+        "publicationType": "journal",
+        "id": "b44",
+        "label": "[44]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Quandt, T",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Quandt,</surname> <given-names>T</given-names></name>. (<span class=\"yearStyle\">2018</span>). Dark participation. <span class=\"sourceStyle\"><i>Media and communication</i></span>, <span class=\"volStyele\"><i>6</i></span>(4), 36-48. ",
+            "url": "https://www.cogitatiopress.com/mediaandcommunication/article/view/1519",
+            "doi": "10.17645/mac.v6i4.1519"
+          }
+        ]
+      },
+      {
+        "sourceEn": "The Harvard Kennedy School Misinformation Review",
+        "bodyP_ids": [
+          "mag_rich_body_p_14"
+        ],
+        "publicationType": "journal",
+        "id": "b45",
+        "label": "[45]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Roozenbeek, J",
+                "personType": "author"
+              },
+              {
+                "name": "Van Der Linden, S",
+                "personType": "author"
+              },
+              {
+                "name": "Nygren, T",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Roozenbeek,</surname> <given-names>J</given-names></name>., <name><surname>Van Der Linden,</surname> <given-names>S</given-names></name>., &amp; <name><surname>Nygren,</surname> <given-names>T</given-names></name>. (<span class=\"yearStyle\">2020</span>). Prebunking interventions based on “inoculation” theory can reduce susceptibility to misinformation across cultures. <span class=\"sourceStyle\"><i>The Harvard Kennedy School Misinformation Review</i></span>, <span class=\"volStyele\"><i>1</i></span>(2), 1-23."
+          }
+        ]
+      },
+      {
+        "sourceEn": "New Media &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_1"
+        ],
+        "publicationType": "journal",
+        "id": "b46",
+        "label": "[46]",
+        "nian": 2014,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "This article explores implications of the transition to an environment in which users have become secondary gatekeepers of the content published on media websites. This expanded user role, facilitated by technology and enabled by digital news editors, includes assessment of contributions by other users; communication of the perceived value or quality of user- and journalist-produced content; and selective re-dissemination of that content. The result is a two-step gatekeeping process, in which initial editorial decisions to make an item part of the news product are followed by user decisions to upgrade or downgrade the visibility of that item for a secondary audience. Preliminary empirical evidence indicates these user gatekeeping capabilities are now pervasive on US newspaper sites.",
+            "personList": [
+              {
+                "name": "Singer, J. B",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Singer,</surname> <given-names>J. B</given-names></name>. (<span class=\"yearStyle\">2014</span>). User-generated visibility: Secondary gatekeeping in a shared media space. <span class=\"sourceStyle\"><i>New Media &amp; Society</i></span>, <span class=\"volStyele\"><i>16</i></span>(1), 55-73. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1461444813477833",
+            "doi": "10.1177/1461444813477833"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Human agency and behavioral economics: Nudging fast and slow",
+        "bodyP_ids": [
+          "mag_rich_body_p_49"
+        ],
+        "publicationType": "book",
+        "id": "b47",
+        "label": "[47]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Sunstein, C. R",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Sunstein,</surname> <given-names>C. R</given-names></name>. (<span class=\"yearStyle\">2017</span>). <span class=\"sourceStyle\"><i>Human agency and behavioral economics: Nudging fast and slow</i></span>. Springer."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of Communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_12",
+          "mag_rich_body_p_16",
+          "mag_rich_body_p_19",
+          "mag_rich_body_p_28",
+          "mag_rich_body_p_47",
+          "mag_rich_body_p_49",
+          "mag_rich_body_p_51"
+        ],
+        "publicationType": "journal",
+        "id": "b48",
+        "label": "[48]",
+        "nian": 2024,
+        "citedCount": 8,
+        "citationList": [
+          {
+            "annotation": "How can we empower social media users to better discern the veracity of news and share less false news? This survey experiment (N = 636) assessed the effectiveness of two interventions—signing a Pro-Truth Pledge and utilizing a Fact-Checking Guide. Results showed that utilizing the Fact-Checking Guide increased skepticism of news posts, likelihood to verify news posts, verification engagement, and reduced intention to share news without regard to news veracity. Before and after comparisons indicated that after verification engagement activities, truth and sharing discernment improved with higher factual accuracy ratings for true news, lower accuracy ratings for false news, and a greater likelihood to share true news compared to false news. Individual’s engagement in verification was identified as a crucial mechanism through which the Fact-Checking Guide intervention led to better truth and sharing discernment. The study could inform social media designs that promote a truthful news environment.",
+            "personList": [
+              {
+                "name": "Tu, F",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Tu,</surname> <given-names>F</given-names></name>. (<span class=\"yearStyle\">2024</span>). Empowering social media users: nudge toward self-engaged verification for improved truth and sharing discernment. <span class=\"sourceStyle\"><i>Journal of Communication</i></span>, <span class=\"volStyele\"><i>74</i></span>(3), 225-236. ",
+            "url": "https://academic.oup.com/joc/article/74/3/225/7625162",
+            "doi": "10.1093/joc/jqae007"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of Broadcasting &amp; Electronic Media",
+        "bodyP_ids": [
+          "mag_rich_body_p_15"
+        ],
+        "publicationType": "journal",
+        "id": "b49",
+        "label": "[49]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Tully, M",
+                "personType": "author"
+              },
+              {
+                "name": "Vraga, E. K",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Tully,</surname> <given-names>M</given-names></name>., &amp; <name><surname>Vraga,</surname> <given-names>E. K</given-names></name>. (<span class=\"yearStyle\">2017</span>). Effectiveness of a news media literacy advertisement in partisan versus nonpartisan online media contexts. <span class=\"sourceStyle\"><i>Journal of Broadcasting &amp; Electronic Media</i></span>, <span class=\"volStyele\"><i>61</i></span>(1), 144-162."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Mass Communication and Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_4",
+          "mag_rich_body_p_15"
+        ],
+        "publicationType": "journal",
+        "id": "b50",
+        "label": "[50]",
+        "nian": 2020,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "annotation": "As concerns grow about the spread of misinformation through social media, scholars have called for improving the public's media literacy as a potential solution. This study examines the effectiveness of deploying news literacy (NL) messages on social media by testing whether NL tweets are able to affect perceptions of information credibility and NL beliefs. Using two experiments, this study tests NL tweets designed to (a) mitigate the impact of exposure to misinformation about two health issues (genetically modified foods and the flu vaccine) and (b) boost people's perceptions of their own media literacy and media literacy's value to society broadly. Findings suggest that NL messages are able to alter misinformation perceptions and NL beliefs, but not with a single message, suggesting the need to develop tailored and targeted NL campaigns that feature multiple messages and calls to action.",
+            "personList": [
+              {
+                "name": "Tully, M",
+                "personType": "author"
+              },
+              {
+                "name": "Vraga, E. K",
+                "personType": "author"
+              },
+              {
+                "name": "Bode, L",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Tully,</surname> <given-names>M</given-names></name>., <name><surname>Vraga,</surname> <given-names>E. K</given-names></name>., &amp; <name><surname>Bode,</surname> <given-names>L</given-names></name>. (<span class=\"yearStyle\">2020</span>). Designing and testing news literacy messages for social media. <span class=\"sourceStyle\"><i>Mass Communication and Society</i></span>, <span class=\"volStyele\"><i>23</i></span>(1), 22-46. ",
+            "doi": "10.1080/15205436.2019.1604970"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Mass Communication and Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_15"
+        ],
+        "publicationType": "journal",
+        "id": "b51",
+        "label": "[51]",
+        "nian": 2015,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Vraga, E. K",
+                "personType": "author"
+              },
+              {
+                "name": "Tully, M",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Vraga,</surname> <given-names>E. K</given-names></name>., &amp; <name><surname>Tully,</surname> <given-names>M</given-names></name>. (<span class=\"yearStyle\">2015</span>). Media literacy messages and hostile media perceptions: Processing of nonpartisan versus partisan political information. <span class=\"sourceStyle\"><i>Mass Communication and Society</i></span>, <span class=\"volStyele\"><i>18</i></span>(4), 422-448. ",
+            "url": "http://www.tandfonline.com/doi/full/10.1080/15205436.2014.1001910",
+            "doi": "10.1080/15205436.2014.1001910"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Information, Communication &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_19",
+          "mag_rich_body_p_47"
+        ],
+        "publicationType": "journal",
+        "id": "b52",
+        "label": "[52]",
+        "nian": 2021,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Vraga, E. K",
+                "personType": "author"
+              },
+              {
+                "name": "Tully, M",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Vraga,</surname> <given-names>E. K</given-names></name>., &amp; <name><surname>Tully,</surname> <given-names>M</given-names></name>. (<span class=\"yearStyle\">2021</span>). News literacy, social media behaviors, and skepticism toward information on social media. <span class=\"sourceStyle\"><i>Information, Communication &amp; Society</i></span>, <span class=\"volStyele\"><i>24</i></span>(2), 150-166."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Communication Research",
+        "bodyP_ids": [
+          "mag_rich_body_p_19",
+          "mag_rich_body_p_48"
+        ],
+        "publicationType": "journal",
+        "id": "b53",
+        "label": "[53]",
+        "nian": 2022,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "annotation": "A number of solutions have been proposed to address concerns about misinformation online, including encouraging experts to engage in corrections of misinformation being shared and improving media literacy among the American public. This study combines these approaches to examine whether news literacy (NL) messages on social media enhance the effectiveness of expert correction of misinformation on Twitter. Two experiments suggest that expert organizations can successfully correct misinformation on social media across two controversial issues with a single tweet. However, three different NL messages did not improve the effectiveness of expert corrections. We discuss the difficulties of crafting NL messages that break through the clutter on social media and suggest guidelines for organizations attempting to address misinformation online.",
+            "personList": [
+              {
+                "name": "Vraga, E. K",
+                "personType": "author"
+              },
+              {
+                "name": "Bode, L",
+                "personType": "author"
+              },
+              {
+                "name": "Tully, M",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Vraga,</surname> <given-names>E. K</given-names></name>., <name><surname>Bode,</surname> <given-names>L</given-names></name>., &amp; <name><surname>Tully,</surname> <given-names>M</given-names></name>. (<span class=\"yearStyle\">2022</span>). Creating news literacy messages to enhance expert corrections of misinformation on Twitter. <span class=\"sourceStyle\"><i>Communication Research</i></span>, <span class=\"volStyele\"><i>49</i></span>(2), 245-267. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/0093650219898094",
+            "doi": "10.1177/0093650219898094"
+          }
+        ]
+      },
+      {
+        "sourceEn": "New Media &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_14",
+          "mag_rich_body_p_15",
+          "mag_rich_body_p_16",
+          "mag_rich_body_p_23"
+        ],
+        "publicationType": "journal",
+        "id": "b54",
+        "label": "[54]",
+        "nian": 2022,
+        "citedCount": 4,
+        "citationList": [
+          {
+            "annotation": "Extending previous research, we test two solutions for addressing misinformation by pairing news literacy (NL) messages with corrective responses to health misinformation shared on Twitter. Importantly, we consider a range of outcomes, including not just credibility or misperceptions, but also feelings of news literacy and support for its value. Using an experiment, we find that user corrections of a meme containing false information reduced credibility assessments of the misinformation post and misperceptions but seeing misinformation also produced lower perceptions of personal news literacy and its value for society, regardless of whether it is corrected or not. Exposure to an NL message did not enhance the effectiveness of these corrective responses nor boost NL attitudes and may have generated cynicism. We discuss the challenges of designing NL messages for social media that achieve the wide range of goals news literacy interventions aspire to address.",
+            "personList": [
+              {
+                "name": "Vraga, E",
+                "personType": "author"
+              },
+              {
+                "name": "Tully, M",
+                "personType": "author"
+              },
+              {
+                "name": "Bode, L",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Vraga,</surname> <given-names>E</given-names></name>., <name><surname>Tully,</surname> <given-names>M</given-names></name>., &amp; <name><surname>Bode,</surname> <given-names>L</given-names></name>. (<span class=\"yearStyle\">2022</span>). Assessing the relative merits of news literacy and corrections in responding to misinformation on Twitter. <span class=\"sourceStyle\"><i>New Media &amp; Society</i></span>, <span class=\"volStyele\"><i>24</i></span>(10), 2354-2371. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1461444821998691",
+            "doi": "10.1177/1461444821998691"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Political communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_50"
+        ],
+        "publicationType": "journal",
+        "id": "b55",
+        "label": "[55]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Despite its growing prominence in news coverage and public discourse, there is still considerable ambiguity regarding when and how fact-checking affects beliefs. Informed by theories of motivated reasoning and message design, a meta-analytic review was undertaken to examine the effectiveness of fact-checking in correcting political misinformation (k = 30,N = 20,963). Fact-checking has a significantly positive overall influence on political beliefs (d = 0.29), but the effects gradually weaken when using \"truth scales,\" refuting only parts of a claim, and fact-checking campaign-related statements. Likewise, the ability to correct political misinformation with fact-checking is substantially attenuated by participants' preexisting beliefs, ideology, and knowledge. The study concludes with a discussion of the fact-checking literature in light of current gaps and future opportunities.",
+            "personList": [
+              {
+                "name": "Walter, N",
+                "personType": "author"
+              },
+              {
+                "name": "Cohen, J",
+                "personType": "author"
+              },
+              {
+                "name": "Holbert, R. L",
+                "personType": "author"
+              },
+              {
+                "name": "Morag, Y",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Walter,</surname> <given-names>N</given-names></name>., <name><surname>Cohen,</surname> <given-names>J</given-names></name>., <name><surname>Holbert,</surname> <given-names>R. L</given-names></name>., &amp; <name><surname>Morag,</surname> <given-names>Y</given-names></name>. (<span class=\"yearStyle\">2020</span>). Fact-checking: A meta-analysis of what works and for whom. <span class=\"sourceStyle\"><i>Political communication</i></span>, <span class=\"volStyele\"><i>37</i></span>(3), 350-375. ",
+            "doi": "10.1080/10584609.2019.1668894"
+          }
+        ]
+      }
+    ],
+    "bioList_cn": [
+      {
+        "content": "<p id=\"com1\">闫文捷，北京师范大学新闻传播学院教授。电子邮箱：<a class=\"mag-xml-email-a\" href=\"mailto:wenjieyan@bnu.edu.cn\">wenjieyan@bnu.edu.cn</a>。</p>"
+      },
+      {
+        "content": "<p id=\"com2\">李振宇，北京师范大学新闻传播学院博士研究生。电子邮箱：<a class=\"mag-xml-email-a\" href=\"mailto:leezymar@126.com\">leezymar@126.com</a>。</p>"
+      }
+    ],
+    "fnList": [
+      {
+        "id": "note1",
+        "content": "<p id=\"p00300\">1. 受篇幅所限，文中未完整显示微博新闻、新闻素养宣导信息和事实核查的具体内容，读者可联系作者获取。</p>"
+      }
+    ],
+    "article": {
+      "keywordList_cn": [
+        "事实核查",
+        "公众参与",
+        "新闻素养",
+        "新闻创新"
+      ],
+      "juan": "47",
+      "zhaiyao_cn": "<p id=\"p00010\">事实核查作为新闻业因应数字化转型所尝试的创新实践方案，正在成为我国公共生活中一股不容忽视的力量。本文引入参与式核查概念，尝试把公众带至事实核查的中心视野。通过一项四因素混合设计在线实验（N = 405），本研究围绕专业核查和参与式核查的勘误潜能及其在新闻素养方面所需的经验条件展开比较分析。结果显示，常规核查与新闻素养的宣导相结合可有效帮助人们辨伪识真，在受众有机会直接参与新闻验证的前提下，新闻素养干预对提升其新闻辨识力不再具有额外的裨益。同时，公众参与事实核查或从外部干预新闻素养均可降低他们对新闻的准确度评价，特别在防止人们误信误判虚假新闻进而卷入对假新闻的扩散方面效果尤为显著。基于上述结果，我们在文章最后就公众参与事实核查对涵养公民素质和赋能知情公众的意义展开了讨论。</p>",
+      "endNoteUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=EndNote&id=1606",
+      "bibtexUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=BibTeX&id=1606",
+      "articleType": "A",
+      "abstractUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2025/V47/I9/6",
+      "qi": "9",
+      "id": 1606,
+      "nian": 2025,
+      "bianHao": "1778321918518-245632980",
+      "juanUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2025",
+      "shouCiFaBuRiQi": "2026-05-09",
+      "qiShiYe": "6",
+      "qiUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2025/V47/I9",
+      "lanMu_cn": "本期话题/数字时代的新闻生产",
+      "pdfSize": "1666KB",
+      "risUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=Ris&id=1606",
+      "title_cn": "作为集体探究的事实核查：公众参与和素养宣导的力量",
+      "jieShuYe": "26",
+      "keywordList_en": [
+        "Fact-checking",
+        "public engagement",
+        "news literacy",
+        "journalism innovation"
+      ],
+      "endNoteUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=EndNote&id=1606",
+      "zhaiyao_en": "<p id=\"p00015\">Fact-checking—an innovative journalism practice amid digital transformation—has become an increasingly consequential social force in China’s public life. This study leverages the concept of participatory fact-checking to bring the public to the center stage of fact-checking journalism. Based on a four-factor mixed design online experiment (N = 405), this study compares the debunking effects between professional and participatory fact-checking, as well as the constraints placed by news literacy intervention. The results show that the combination of professional fact-checking and news literacy intervention significantly increases people’s truth discernment, and that news literacy intervention no longer provides additional benefits, once people have the opportunity to participate in the verification process. Moreover, both participation in fact-checking and the news literacy intervention can reduce people’s accuracy ratings of news, especially by preventing them from misbelieving false news. The implications of participatory fact-checking for cultivating citizenship and empowering an informed public are discussed.</p>",
+      "bibtexUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=BibTeX&id=1606",
+      "abstractUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2025/V47/I9/6",
+      "juanUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2025",
+      "lanMu_en": "Specific Topic / News Production in the Digital Age",
+      "qiUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2025/V47/I9",
+      "risUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=Ris&id=1606",
+      "title_en": "Fact-Checking as Collective Inquiry: The Role of Public Engagement and News Literacy Intervention",
+      "hasPdf": "true"
+    },
+    "authorList_en": [
+      {
+        "deceased": false,
+        "name_cn": "闫文捷",
+        "email": "wenjieyan@bnu.edu.cn",
+        "name_en": "YAN Wenjie"
+      },
+      {
+        "deceased": false,
+        "name_cn": "李振宇",
+        "email": "leezymar@126.com",
+        "name_en": "LI Zhenyu"
+      }
+    ],
+    "authorList_cn": [
+      {
+        "deceased": false,
+        "name_cn": "闫文捷",
+        "email": "wenjieyan@bnu.edu.cn",
+        "name_en": "YAN Wenjie"
+      },
+      {
+        "deceased": false,
+        "name_cn": "李振宇",
+        "email": "leezymar@126.com",
+        "name_en": "LI Zhenyu"
+      }
+    ],
+    "tabList": [
+      {
+        "captionCn": "<p id=\"p00205\">预测新闻准确度评价和分享意愿的混合效应模型</p>",
+        "magId": "8ed8d6e8-2d93-4f36-9f14-9e832f7b99c1",
+        "labelCn": "表1：",
+        "titleCn": "表1： 预测新闻准确度评价和分享意愿的混合效应模型",
+        "id": "T1",
+        "footFnList": [
+          {
+            "pList": [
+              "注：两个模型均为线性混合效果回归模型，采用限制性最大似然法（REML）估测，表格中为非标准化回归系数，括号内为标准误差。两个空模型（无条件模型）的组内相关系数（ICC）分别为0.27和0.61。社会人口变量未在表格中出现，包括年龄、性别、受教育程度和家庭收入。"
+            ]
+          },
+          {
+            "pList": [
+              "（† p &lt;.1，* p &lt;.05，** p &lt;.01，*** p &lt;.001）"
+            ]
+          }
+        ],
+        "table": "<table class=\"mag_table table\"> <thead> <tr> <th valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">模型一<br/>新闻准确度评价</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">模型二<br/>新闻分享意愿</th></tr></thead> <tbody> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">新闻层次（<i>N</i> = 1620，固定效果）</td> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">新闻真实性（1 = 真实）</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.27（.11）*</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.26（.11）*</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">新闻议题（0 = 俄乌冲突，1 = 新冠疫苗）</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.06（.05）</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.06（.05）</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">曾听说过该新闻（1 = 是）</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.05（.07）</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.13（.07）†</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">新闻准确度评价（初测）</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.49（.02）***</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">--</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">新闻分享意愿（初测）</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">--</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.54（.02）***</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">个体层次（<i>N</i> = 405，固定效果）</td> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">事实核查类型（0 = 常规核查，1 = 参与式核查）</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-.69（.15）***</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-.26（.16）†</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">新闻素养干预（0 = 控制组，1 = 干预组）</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-.46（.14）***</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-.14（.15）</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">事实核查类型×新闻素养干预</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.49（.20）*</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.14（.22）</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">跨层交互（固定效果）</td> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">新闻真实性×事实核查类型</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.37（.15）*</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.13（.15）</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">新闻真实性×新闻素养干预</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.38（.15）**</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-.02（.15）</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">新闻真实性×事实核查类型×新闻素养干预</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-.57（.21）**</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-.05（.22）</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">随机效果</td> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">截距方差</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.44（.05）***</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.61（.07）***</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">模型拟合度</td> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/> <td valign=\"middle\" align=\"\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"/></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\"><i>χ</i><sup>2</sup>（<i>df</i> = 14）</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">640.20 ***</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">787.91 ***</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">边际<i>R</i><sup>2</sup></td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.28</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.38</td></tr> <tr> <td valign=\"middle\" align=\"justify\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">条件<i>R</i><sup>2</sup></td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.48</td> <td valign=\"middle\" align=\"left\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">.59</td></tr></tbody></table>"
+      }
+    ],
+    "journal": {
+      "issn": "1002-5685",
+      "qiKanWangZhi": "http://cjjc.ruc.edu.cn",
+      "qiKanMingCheng_CN": "国际新闻界",
+      "id": 1,
+      "qiKanMingCheng_EN": "Chinese Journal of Journalism & Communication"
+    },
+    "authorList": [
+      {
+        "deceased": false,
+        "name_cn": "闫文捷",
+        "email": "wenjieyan@bnu.edu.cn",
+        "name_en": "YAN Wenjie"
+      },
+      {
+        "deceased": false,
+        "name_cn": "李振宇",
+        "email": "leezymar@126.com",
+        "name_en": "LI Zhenyu"
+      }
+    ],
+    "fundList_cn": [
+      "国家社科基金一般项目“社交平台虚假信息治理模式比较研究”(21BXW065)",
+      "北京师范大学中央高校基本科研业务费专项资金资助(1233300010)"
+    ],
+    "figList": [
+      {
+        "captionCn": "<title>事实核查和新闻素养干预对新闻辨识力的交互影响</title>",
+        "magId": "7c67a1a1-e430-48db-9e3b-f1a5b370bd40",
+        "labelCn": "图1：",
+        "pptUrl": "1002-5685-47-9-6/img_1.png.ppt",
+        "figUrl": "1002-5685-47-9-6/img_1.png",
+        "titleCn": "图1： 事实核查和新闻素养干预对新闻辨识力的交互影响",
+        "id": "F1",
+        "thumbnailUrl": "1002-5685-47-9-6/thumbnail/img_1.png"
+      },
+      {
+        "captionCn": "<title>事实核查类型与新闻素养干预对新闻准确度评价的交互影响</title>",
+        "magId": "fa47f375-45c2-4dcb-ae22-7045cb8f7771",
+        "labelCn": "图2：",
+        "pptUrl": "1002-5685-47-9-6/img_2.png.ppt",
+        "figUrl": "1002-5685-47-9-6/img_2.png",
+        "titleCn": "图2： 事实核查类型与新闻素养干预对新闻准确度评价的交互影响",
+        "id": "F2",
+        "thumbnailUrl": "1002-5685-47-9-6/thumbnail/img_2.png"
+      },
+      {
+        "captionCn": "<title>新闻真实性与事实核查类型对新闻准确度评价的交互影响</title>",
+        "magId": "3d258f95-8aab-4300-b79b-82205974e101",
+        "labelCn": "图3：",
+        "pptUrl": "1002-5685-47-9-6/img_3.png.ppt",
+        "figUrl": "1002-5685-47-9-6/img_3.png",
+        "titleCn": "图3： 新闻真实性与事实核查类型对新闻准确度评价的交互影响",
+        "id": "F3",
+        "thumbnailUrl": "1002-5685-47-9-6/thumbnail/img_3.png"
+      },
+      {
+        "captionCn": "<title>新闻真实性与新闻素养干预对新闻准确度评价的交互影响</title>",
+        "magId": "f644fe63-c5d7-40fa-9863-54da064bbc18",
+        "labelCn": "图4：",
+        "pptUrl": "1002-5685-47-9-6/img_4.png.ppt",
+        "figUrl": "1002-5685-47-9-6/img_4.png",
+        "titleCn": "图4： 新闻真实性与新闻素养干预对新闻准确度评价的交互影响",
+        "id": "F4",
+        "thumbnailUrl": "1002-5685-47-9-6/thumbnail/img_4.png"
+      }
+    ],
+    "fundList_en": [
+      "National Social Science Fund of China(21BXW065)",
+      "Fundamental Research Funds for the Central Universities(1233300010)"
+    ],
+    "backFnGroupList": [
+      {
+        "fnList": [
+          {
+            "pList": [
+              "<p id=\"p00300\">受篇幅所限，文中未完整显示微博新闻、新闻素养宣导信息和事实核查的具体内容，读者可联系作者获取。</p>"
+            ],
+            "fnType": "note",
+            "id": "note1",
+            "label": "1.",
+            "content": "<p id=\"p00300\">1. 受篇幅所限，文中未完整显示微博新闻、新闻素养宣导信息和事实核查的具体内容，读者可联系作者获取。</p>"
+          }
+        ],
+        "title_cn": "注释 [Notes]"
+      }
+    ]
+  },
+  "text": "作为集体探究的事实核查：公众参与和素养宣导的力量 × 模态框（Modal）标题 在这里添加一些文本 关闭 关闭 提交更改 取消 确定并提交 × 模态框（Modal）标题 × 下载引用文件后，可以用常见的文献管理软件打开和编辑，包括: BibTex, EndNote, ProCite, RefWorks, and Reference Manager. 选择文件类型/文献管理软件名称 RIS (ProCite, Reference Manager, EndNote) BibTeX 选择包含的内容 仅文章引用信息 引用信息及摘要 导出 作为集体探究的事实核查：公众参与和素养宣导的力量 闫文捷, 李振宇 国际新闻界 ›› 2025, Vol. 47 ›› Issue (9) : 6-26. PDF(1666 KB) Toggle navigation 首 页 期刊介绍 编委会 投稿指南 格式规范 期刊订阅 联系我们 English 投稿指南 格式规范 PDF(1666 KB) 国际新闻界 ›› 2025, Vol. 47 ›› Issue (9) : 6-26. 本期话题/数字时代的新闻生产 作为集体探究的事实核查：公众参与和素养宣导的力量 闫文捷 , 李振宇 作者信息 + 作者简介: 闫文捷，北京师范大学新闻传播学院教授。电子邮箱： wenjieyan@bnu.edu.cn 。 李振宇，北京师范大学新闻传播学院博士研究生。电子邮箱： leezymar@126.com 。 折叠 Fact-Checking as Collective Inquiry: The Role of Public Engagement and News Literacy Intervention YAN Wenjie , LI Zhenyu Author information + About authors: Yan Wenjie is a professor in the School of Journalism and Communication at Beijing Normal University. Email: wenjieyan@bnu.edu.cn . Li Zhenyu is a doctoral student in the School of Journalism and Communication at Beijing Normal University. Email: leezymar@126.com . Show less 文章历史 + 出版日期 2025-09-23 发布日期 2026-05-09 摘要 事实核查作为新闻业因应数字化转型所尝试的创新实践方案，正在成为我国公共生活中一股不容忽视的力量。本文引入参与式核查概念，尝试把公众带至事实核查的中心视野。通过一项四因素混合设计在线实验（N = 405），本研究围绕专业核查和参与式核查的勘误潜能及其在新闻素养方面所需的经验条件展开比较分析。结果显示，常规核查与新闻素养的宣导相结合可有效帮助人们辨伪识真，在受众有机会直接参与新闻验证的前提下，新闻素养干预对提升其新闻辨识力不再具有额外的裨益。同时，公众参与事实核查或从外部干预新闻素养均可降低他们对新闻的准确度评价，特别在防止人们误信误判虚假新闻进而卷入对假新闻的扩散方面效果尤为显著。基于上述结果，我们在文章最后就公众参与事实核查对涵养公民素质和赋能知情公众的意义展开了讨论。 Abstract Fact-checking—an innovative journalism practice amid digital transformation—has become an increasingly consequential social force in China’s public life. This study leverages the concept of participatory fact-checking to bring the public to the center stage of fact-checking journalism. Based on a four-factor mixed design online experiment (N = 405), this study compares the debunking effects between professional and participatory fact-checking, as well as the constraints placed by news literacy intervention. The results show that the combination of professional fact-checking and news literacy intervention significantly increases people’s truth discernment, and that news literacy intervention no longer provides additional benefits, once people have the opportunity to participate in the verification process. Moreover, both participation in fact-checking and the news literacy intervention can reduce people’s accuracy ratings of news, especially by preventing them from misbelieving false news. The implications of participatory fact-checking for cultivating citizenship and empowering an informed public are discussed. 关键词 事实核查 / 公众参与 / 新闻素养 / 新闻创新 Key words Fact-checking / public engagement / news literacy / journalism innovation 引用本文 EndNote Ris (Procite) Bibtex 导出引用 闫文捷 , 李振宇 . 作为集体探究的事实核查：公众参与和素养宣导的力量[J]. 国际新闻界 . 2025, 47(9): 6-26 YAN Wenjie , LI Zhenyu . Fact-Checking as Collective Inquiry: The Role of Public Engagement and News Literacy Intervention[J]. Chinese Journal of Journalism & Communication . 2025, 47(9): 6-26 {{custom_sec.title}} {{custom_sec.title}} {{custom_sec.content}} 参考文献 列表( 原文顺序 | 文献年度倒序 | 文中引用次数倒序 ) 可视化分析 [1] 白红义( 2018 ). 重新审视新闻业与公众的关系. 《青年记者》 ,(6),20-22. 本文引用 [1] [2] 比尔·科瓦奇, 汤姆·罗森斯蒂尔,( 2010/2014 ). 《真相:信息超载时代如何知道该相信什么》(陆佳怡,孙志刚译) . 中国人民大学出版社. 本文引用 [1] [3] 陈鹏( 2020 ). 公众新闻生产如何改变新闻业:基于新闻规范、观念与文化的分析. 《现代传播(中国传媒大学学报)》 ,(12),63-67. 本文引用 [1] [4] 夏倩芳, 王艳( 2016 ). 从“客观性”到“透明性”:新闻专业权威演进的历史与逻辑. 《南京社会科学》 ,(7),97-109. 本文引用 [1] [5] 新浪微博( 2023 年8月2日). 社区“附注”功能上线公告 . https://weibo.com/ttarticle/p/show?id=2309404930349917667993 https://weibo.com/ttarticle/p/show?id=2309404930349917667993 本文引用 [1] [6] 中国互联网络信息中心( 2023 年3月2日). 第51次中国互联网络发展状况统计报告. https://www.cnnic.net.cn/NMediaFile/2023/0807/MAIN169137187130308PEDV637M.pdf https://www.cnnic.net.cn/NMediaFile/2023/0807/MAIN169137187130308PEDV637M.pdf 本文引用 [1] [7] 闫文捷, 刘于思, 周睿鸣( 2022 ). 从“核查什么”到“谁来核查”:事实核查的边界协商及其规范性愿景. 《全球传媒学刊》 ,(3),156-174. 本文引用 [2] [8] 闫文捷, 刘于思, 周睿鸣( 2023 ). 事实核查:专业新闻生产者可为的创新实践——一项在线实验的启示. 《新闻记者》 (2),46-59. 本文引用 [2] [9] 虞鑫, 陈昌凤( 2016 ). 美国“事实核查新闻”的生产逻辑与效果困境. 《新闻大学》 ,(4),27-33+66+149. 本文引用 [1] [10] 张小强, 张萍, 刘志杰( 2019 ). 用户评论与替代性公共领域——我国网络用户参与新闻阐释的特征与效果. 《新闻记者》 ,(12),13-26. 本文引用 [1] [11] 钟剑茜( 2012 ). 媒介融合时代新闻生产中的受众参与. 《当代传播》 ,(1),95-97. 本文引用 [1] [12] Allen, J ., Arechar, A. A ., Pennycook, G ., & Rand, D. G ( 2021 ). Scaling up fact-checking using the wisdom of crowds. Science Advances , 7 (36): eabf4393. 本文引用 [2] [13] Amazeen, M. A ., & Bucy, E. P . ( 2019 ). Conferring resistance to digital disinformation: The inoculating influence of procedural news knowledge. Journal of Broadcasting & Electronic Media , 63 (3), 415-432. 本文引用 [2] [14] Ashley, S ., Maksl, A ., & Craft, S . ( 2017 ). News media literacy and political engagement: What’s the connection? Journal of Media Literacy Education , 9 (1), 79-98. https://doi.org/10.23860/JMLE https://digitalcommons.uri.edu/jmle 本文引用 [1] [15] Bago, B ., Rand, D. G ., & Pennycook, G . ( 2020 ). Fake news, fast and slow: Deliberation reduces belief in false (but not true) news headlines. Journal of Experimental Psychology: General , 149 (8), 1608-1613. https://doi.org/10.1037/xge0000729 https://doi.apa.org/doi/10.1037/xge0000729 本文引用 [1] [16] Barrera, O ., Guriev, S ., Henry, E ., & Zhuravskaya, E . ( 2020 ). Facts, alternative facts, and fact checking in times of post-truth politics. Journal of public economics , 182 , 104123. https://doi.org/10.1016/j.jpubeco.2019.104123 https://linkinghub.elsevier.com/retrieve/pii/S0047272719301859 本文引用 [1] [17] Brandtzaeg, P. B ., Følstad, A ., & Domínguez, M. Á. C .. ( 2017 ). How journalists and social media users perceive online fact-checking and verification services. Journalism Practice , 12 (9), 1109-1129. https://doi.org/10.1080/17512786.2017.1363657 https://www.tandfonline.com/doi/full/10.1080/17512786.2017.1363657 本文引用 [1] [18] Chung, M ., & Kim, N . ( 2021 ). When I learn the news is false: How fact-checking information stems the spread of fake news via third-person perception. Human Communication Research , 47 (1), 1-24. https://doi.org/10.1093/hcr/hqaa010 https://academic.oup.com/hcr/article/47/1/1/5917727 本文引用 [1] 摘要 While fact-checking has received much attention as a potential tool to combat fake news, whether and how fact-checking information lessens intentions to share fake news on social media remains underexplored. Two experiments uncovered a theoretical mechanism underlying the effect of fact-checking on sharing intentions, and identified an important contextual cue (i.e., social media metrics) that interacts with fact-checking effects. Exposure to fake news with fact-checking information (vs. fake news without fact-checking information) yielded more negative evaluations of the news and a greater belief that others are more influenced by the news than oneself (third-person perception [TPP]). Increased TPP, in turn, led to weaker intentions to share fake news on social media. Fact-checking information also nullified the effect of social media metrics on sharing intentions; without fact-checking information, higher (vs. lower) social media metrics induced greater intentions to share the news. However, when fact-checking debunked the news, such an effect disappeared. [19] Clayton, K ., Blair, S ., Busam, J. A ., Forstner, S ., Glance, J ., Green, G ., Kawata, A ., Kovvuri, A ., Martin, J ., Morgan, E ., Sandhu, M ., Sang, R ., Scholz-Bright, R ., Welch, A. T ., Wolff, A. G ., Zhou A . & Nyhan, B . ( 2020 ). Real solutions for fake news? Measuring the effectiveness of general warnings and fact-check tags in reducing belief in false stories on social media. Political Behavior , 42 , 1073-1095. https://doi.org/10.1007/s11109-019-09533-0 本文引用 [1] [20] Çömlekçi, M. F . ( 2022 ). Why do fact-checking organizations go beyond fact-checking? A leap toward media and information literacy education. International Journal of Communication , 16 , 21. 本文引用 [1] [21] Dame Adjin-Tettey, T . ( 2022 ). Combating fake news, disinformation, and misinformation: Experimental evidence for media literacy education. Cogent Arts & Humanities , 9 (1), 2037229. 本文引用 [1] [22] Dewey, J . ( 1984/2008 ). The public and its problems. In J. A. Boydston ( Ed. ), The later works, 1925-1953 (Vol. 2) (pp.235-372). Southern Illinois University Press. 本文引用 [1] [23] Dongfang, G . ( 2021 ). Flagging fake news on social media: An experimental study of media consumers’ identification of fake news. Government Information Quarterly , 38 (3), 101591. 本文引用 [1] [24] Edgerly, S . ( 2017 ). Seeking out and avoiding the news media: Young adults’ proposed strategies for obtaining current events information. Mass Communication and Society , 20 (3), 358-377. https://doi.org/10.1080/15205436.2016.1262424 https://www.tandfonline.com/doi/full/10.1080/15205436.2016.1262424 本文引用 [1] [25] Edgerly, S ., Mourão, R. R ., Thorson, E ., & Tham, S. M . ( 2020 ). When do audiences verify? How perceptions about message and source influence audience verification of news headlines. Journalism & Mass Communication Quarterly , 97 (1), 52-71. 本文引用 [1] [26] Garrett, R. K ., & Poulsen, S . ( 2019 ). Flagging Facebook falsehoods: Self-identified humor warnings outperform fact checker and peer warnings. Journal of Computer-Mediated Communication , 24 (5), 240-258. https://doi.org/10.1093/jcmc/zmz012 本文引用 [1] 摘要 We present two studies evaluating the effectiveness of flagging inaccurate political posts on social media. In Study 1, we tested fact-checker flags, peer-generated flags, and a flag indicating that the publisher self-identified as a source of humor. We predicted that all would be effective, that their effectiveness would depend on prior beliefs, and that the self-identified humor flag would work best. Conducting a 2-wave online experiment (N = 218), we found that self-identified humor flags were most effective, reducing beliefs and sharing intentions, especially among those predisposed to believe the post. We found no evidence that warnings from fact checkers or peers were beneficial. Compared to the alternatives, participants exposed to self-identified humor flags exhibited less reactance to and had more positive appraisals of the flagging system. The second study (N = 610) replicated the findings of the first and provides a preliminary test of what makes this flag work. [27] Godel, W ., Sanderson, Z ., Aslett, K ., Nagler, J ., Bonneau, R ., Persily, N ., & Tucker, J. A . ( 2021 ). Moderating with the mob: Evaluating the efficacy of real-time crowdsourced fact-checking. Journal of Online Trust and Safety , 1 (1), 1-36. 本文引用 [2] [28] Graves, L . ( 2017 ). Anatomy of a fact check: Objective practice and the contested epistemology of fact checking. Communication Culture & Critique , 10 (3), 518-537. 本文引用 [1] [29] Hameleers, M . ( 2022 ). Separating truth from lies: comparing the effects of news media literacy interventions and fact-checkers in response to political misinformation in the US and Netherlands. Information, Communication & Society , 25 (1), 110-126. 本文引用 [5] [30] Jones-Jang, S. M ., Mortensen, T ., & Liu, J . ( 2019 ). Does media literacy help identification of fake news? Information literacy helps, but other literacies don’t. American Behavioral Scientist , 65 (2), 371-388. https://doi.org/10.1177/0002764219869406 https://journals.sagepub.com/doi/10.1177/0002764219869406 本文引用 [1] [31] Koch, T. K ., Frischlich, L ., & Lermer, E . ( 2023 ). Effects of fact-checking warning labels and social endorsement cues on climate change fake news credibility and engagement on social media. Journal of Applied Social Psychology , 53 (6), 495-507. https://doi.org/10.1111/jasp.v53.6 https://onlinelibrary.wiley.com/toc/15591816/53/6 本文引用 [1] [32] Kožuh, I ., & Čakš, P . ( 2023 ). Social media fact-checking: The effects of news literacy and news trust on the intent to verify health-related information. Healthcare , 11 (20), 2796. 本文引用 [1] [33] Kuś, M ., & Barczyszyn-Madziarz, P . ( 2020 ). Fact-checking initiatives as promoters of media and information literacy: The case of Poland. Central European Journal of Communication , 13 (2 (26)), 249-265. https://doi.org/10.19195/1899-5101.13.2(26).6 https://wuwr.pl/cejc/article/view/11607 本文引用 [1] [34] Lewis, S. C . ( 2012 ). The tension between professional control and open participation journalism and its boundaries. Information Communication & Society , 15 (6), 836-866. 本文引用 [4] [35] Lewis, S. C ., & Usher, N . ( 2013 ). Open source and journalism: toward new frameworks for imagining news innovation. Media Culture & Society , 35 (5), 602-619. 本文引用 [1] [36] Lewis, S. C ., & Westlund, O . ( 2015 ). Actors, actants, audiences, and activities in cross-media news work: A matrix and a research agenda. Digital Journalism , 3 (1), 19-37. https://doi.org/10.1080/21670811.2014.927986 http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.927986 本文引用 [1] [37] Malik, M ., Cortesi, S ., & Gasser, U . ( 2013 , October 22). The challenges of defining “news literacy” . https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2342313 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2342313 本文引用 [1] [38] Masip, P ., Guallar, J ., Suau, J ., Ruiz-Caballero, C ., & Peralta, M . ( 2015 ). News and social networks: audience behavior. El Profesional De La Información , 24 (4), 363-370. https://doi.org/10.3145/epi.2015.jul.02 https://revista.profesionaldelainformacion.com/index.php/EPI/article/view/epi.2015.jul.02 本文引用 [1] [39] Mesquita, L ., Maneta, M ., & Brites, M. J . ( 2024 ). Beyond verification: The evolving role of fact-checking organisations in media literacy education for youth. Media and Communication , 12 , Article 8690. 本文引用 [1] [40] Mihailidis, P ., & Viotty, S . ( 2017 ). Spreadable spectacle in digital culture: civic expression, fake news, and the role of media literacies in “Post-Fact” society. American Behavioral Scientist , 61 (4), 441-454. https://doi.org/10.1177/0002764217701217 http://journals.sagepub.com/doi/10.1177/0002764217701217 本文引用 [1] 摘要 This article explores the phenomenon of spectacle in the lead up and immediate aftermath of the 2016 U.S. presidential election. Through the spread of misinformation, the appropriation of cultural iconography, and the willing engagement of mainstream media to perpetuate partisan and polarizing information, the proliferation of populist rhetoric, polarizing views, and vitriolic opinions spread. Revisiting the world of critical theorist Guy Debord, this article argues that the proliferation of citizen-drive spectacle is unique in its origination and perpetuation, and a direct result of an increasingly polarized and distrustful public spending an increasing amount of time in homophilous networks where contrarian views are few and far between. We apply the frame of spreadable media to explore how citizen expression online initiated, sustained, and expanded the media spectacle that pervaded the 2016 U.S. presidential election. The conclusion of this work argues that media literacies, as a popular response mechanism to help cultivate more critical consumers of media, must be repositioned to respond to an era of partisanship and distrust. We present a set of considerations for repositioning the literacies to focus on critique and creation of media in support of a common good, and that can respond meaningfully in an era of spreadability, connectivity, and spectacle. [41] Pennycook, G ., & Rand, D. G . ( 2019 ). Lazy, not biased: Susceptibility to partisan fake news is better explained by lack of reasoning than by motivated reasoning. Cognition , 188 , 39-50. https://doi.org/S0010-0277(18)30163-X https://www.ncbi.nlm.nih.gov/pubmed/29935897 本文引用 [1] 摘要 Why do people believe blatantly inaccurate news headlines (\"fake news\")? Do we use our reasoning abilities to convince ourselves that statements that align with our ideology are true, or does reasoning allow us to effectively differentiate fake from real regardless of political ideology? Here we test these competing accounts in two studies (total N = 3446 Mechanical Turk workers) by using the Cognitive Reflection Test (CRT) as a measure of the propensity to engage in analytical reasoning. We find that CRT performance is negatively correlated with the perceived accuracy of fake news, and positively correlated with the ability to discern fake news from real news - even for headlines that align with individuals' political ideology. Moreover, overall discernment was actually better for ideologically aligned headlines than for misaligned headlines. Finally, a headline-level analysis finds that CRT is negatively correlated with perceived accuracy of relatively implausible (primarily fake) headlines, and positively correlated with perceived accuracy of relatively plausible (primarily real) headlines. In contrast, the correlation between CRT and perceived accuracy is unrelated to how closely the headline aligns with the participant's ideology. Thus, we conclude that analytic thinking is used to assess the plausibility of headlines, regardless of whether the stories are consistent or inconsistent with one's political ideology. Our findings therefore suggest that susceptibility to fake news is driven more by lazy thinking than it is by partisan bias per se - a finding that opens potential avenues for fighting fake news.Copyright © 2018 Elsevier B.V. All rights reserved. [42] Pennycook, G ., McPhetres, J ., Zhang, Y ., Lu, J. G ., & Rand, D. G . ( 2020 ). Fighting COVID-19 misinformation on social media: Experimental evidence for a scalable accuracy-nudge intervention. Psychological Science , 31 (7), 770-780. https://doi.org/10.1177/0956797620939054 https://www.ncbi.nlm.nih.gov/pubmed/32603243 本文引用 [1] 摘要 Across two studies with more than 1,700 U.S. adults recruited online, we present evidence that people share false claims about COVID-19 partly because they simply fail to think sufficiently about whether or not the content is accurate when deciding what to share. In Study 1, participants were far worse at discerning between true and false content when deciding what they would share on social media relative to when they were asked directly about accuracy. Furthermore, greater cognitive reflection and science knowledge were associated with stronger discernment. In Study 2, we found that a simple accuracy reminder at the beginning of the study (i.e., judging the accuracy of a non-COVID-19-related headline) nearly tripled the level of truth discernment in participants' subsequent sharing intentions. Our results, which mirror those found previously for political fake news, suggest that nudging people to think about accuracy is a simple way to improve choices about what to share on social media. [43] Pennycook, G ., Epstein, Z ., Mosleh, M ., Arechar, A. A ., Eckles, D ., & Rand, D. G . ( 2021 ). Shifting attention to accuracy can reduce misinformation online. Nature , 592 (7855), 590-595. https://doi.org/10.1038/s41586-021-03344-2 本文引用 [1] [44] Quandt, T . ( 2018 ). Dark participation. Media and communication , 6 (4), 36-48. https://doi.org/10.17645/mac.v6i4.1519 https://www.cogitatiopress.com/mediaandcommunication/article/view/1519 本文引用 [1] [45] Roozenbeek, J ., Van Der Linden, S ., & Nygren, T . ( 2020 ). Prebunking interventions based on “inoculation” theory can reduce susceptibility to misinformation across cultures. The Harvard Kennedy School Misinformation Review , 1 (2), 1-23. 本文引用 [1] [46] Singer, J. B . ( 2014 ). User-generated visibility: Secondary gatekeeping in a shared media space. New Media & Society , 16 (1), 55-73. https://doi.org/10.1177/1461444813477833 https://journals.sagepub.com/doi/10.1177/1461444813477833 本文引用 [1] 摘要 This article explores implications of the transition to an environment in which users have become secondary gatekeepers of the content published on media websites. This expanded user role, facilitated by technology and enabled by digital news editors, includes assessment of contributions by other users; communication of the perceived value or quality of user- and journalist-produced content; and selective re-dissemination of that content. The result is a two-step gatekeeping process, in which initial editorial decisions to make an item part of the news product are followed by user decisions to upgrade or downgrade the visibility of that item for a secondary audience. Preliminary empirical evidence indicates these user gatekeeping capabilities are now pervasive on US newspaper sites. [47] Sunstein, C. R . ( 2017 ). Human agency and behavioral economics: Nudging fast and slow . Springer. 本文引用 [1] [48] Tu, F . ( 2024 ). Empowering social media users: nudge toward self-engaged verification for improved truth and sharing discernment. Journal of Communication , 74 (3), 225-236. https://doi.org/10.1093/joc/jqae007 https://academic.oup.com/joc/article/74/3/225/7625162 本文引用 [8] 摘要 How can we empower social media users to better discern the veracity of news and share less false news? This survey experiment (N = 636) assessed the effectiveness of two interventions—signing a Pro-Truth Pledge and utilizing a Fact-Checking Guide. Results showed that utilizing the Fact-Checking Guide increased skepticism of news posts, likelihood to verify news posts, verification engagement, and reduced intention to share news without regard to news veracity. Before and after comparisons indicated that after verification engagement activities, truth and sharing discernment improved with higher factual accuracy ratings for true news, lower accuracy ratings for false news, and a greater likelihood to share true news compared to false news. Individual’s engagement in verification was identified as a crucial mechanism through which the Fact-Checking Guide intervention led to better truth and sharing discernment. The study could inform social media designs that promote a truthful news environment. [49] Tully, M ., & Vraga, E. K . ( 2017 ). Effectiveness of a news media literacy advertisement in partisan versus nonpartisan online media contexts. Journal of Broadcasting & Electronic Media , 61 (1), 144-162. 本文引用 [1] [50] Tully, M ., Vraga, E. K ., & Bode, L . ( 2020 ). Designing and testing news literacy messages for social media. Mass Communication and Society , 23 (1), 22-46. https://doi.org/10.1080/15205436.2019.1604970 本文引用 [2] 摘要 As concerns grow about the spread of misinformation through social media, scholars have called for improving the public's media literacy as a potential solution. This study examines the effectiveness of deploying news literacy (NL) messages on social media by testing whether NL tweets are able to affect perceptions of information credibility and NL beliefs. Using two experiments, this study tests NL tweets designed to (a) mitigate the impact of exposure to misinformation about two health issues (genetically modified foods and the flu vaccine) and (b) boost people's perceptions of their own media literacy and media literacy's value to society broadly. Findings suggest that NL messages are able to alter misinformation perceptions and NL beliefs, but not with a single message, suggesting the need to develop tailored and targeted NL campaigns that feature multiple messages and calls to action. [51] Vraga, E. K ., & Tully, M . ( 2015 ). Media literacy messages and hostile media perceptions: Processing of nonpartisan versus partisan political information. Mass Communication and Society , 18 (4), 422-448. https://doi.org/10.1080/15205436.2014.1001910 http://www.tandfonline.com/doi/full/10.1080/15205436.2014.1001910 本文引用 [1] [52] Vraga, E. K ., & Tully, M . ( 2021 ). News literacy, social media behaviors, and skepticism toward information on social media. Information, Communication & Society , 24 (2), 150-166. 本文引用 [2] [53] Vraga, E. K ., Bode, L ., & Tully, M . ( 2022 ). Creating news literacy messages to enhance expert corrections of misinformation on Twitter. Communication Research , 49 (2), 245-267. https://doi.org/10.1177/0093650219898094 https://journals.sagepub.com/doi/10.1177/0093650219898094 本文引用 [2] 摘要 A number of solutions have been proposed to address concerns about misinformation online, including encouraging experts to engage in corrections of misinformation being shared and improving media literacy among the American public. This study combines these approaches to examine whether news literacy (NL) messages on social media enhance the effectiveness of expert correction of misinformation on Twitter. Two experiments suggest that expert organizations can successfully correct misinformation on social media across two controversial issues with a single tweet. However, three different NL messages did not improve the effectiveness of expert corrections. We discuss the difficulties of crafting NL messages that break through the clutter on social media and suggest guidelines for organizations attempting to address misinformation online. [54] Vraga, E ., Tully, M ., & Bode, L . ( 2022 ). Assessing the relative merits of news literacy and corrections in responding to misinformation on Twitter. New Media & Society , 24 (10), 2354-2371. https://doi.org/10.1177/1461444821998691 https://journals.sagepub.com/doi/10.1177/1461444821998691 本文引用 [4] 摘要 Extending previous research, we test two solutions for addressing misinformation by pairing news literacy (NL) messages with corrective responses to health misinformation shared on Twitter. Importantly, we consider a range of outcomes, including not just credibility or misperceptions, but also feelings of news literacy and support for its value. Using an experiment, we find that user corrections of a meme containing false information reduced credibility assessments of the misinformation post and misperceptions but seeing misinformation also produced lower perceptions of personal news literacy and its value for society, regardless of whether it is corrected or not. Exposure to an NL message did not enhance the effectiveness of these corrective responses nor boost NL attitudes and may have generated cynicism. We discuss the challenges of designing NL messages for social media that achieve the wide range of goals news literacy interventions aspire to address. [55] Walter, N ., Cohen, J ., Holbert, R. L ., & Morag, Y . ( 2020 ). Fact-checking: A meta-analysis of what works and for whom. Political communication , 37 (3), 350-375. https://doi.org/10.1080/10584609.2019.1668894 本文引用 [1] 摘要 Despite its growing prominence in news coverage and public discourse, there is still considerable ambiguity regarding when and how fact-checking affects beliefs. Informed by theories of motivated reasoning and message design, a meta-analytic review was undertaken to examine the effectiveness of fact-checking in correcting political misinformation (k = 30,N = 20,963). Fact-checking has a significantly positive overall influence on political beliefs (d = 0.29), but the effects gradually weaken when using \"truth scales,\" refuting only parts of a claim, and fact-checking campaign-related statements. Likewise, the ability to correct political misinformation with fact-checking is substantially attenuated by participants' preexisting beliefs, ideology, and knowledge. The study concludes with a discussion of the fact-checking literature in light of current gaps and future opportunities. 文章年度分布 文献类型分布 被引期刊分布 被引用学者 注释 [Notes] 1. 受篇幅所限，文中未完整显示微博新闻、新闻素养宣导信息和事实核查的具体内容，读者可联系作者获取。 基金 国家社科基金一般项目“社交平台虚假信息治理模式比较研究”(21BXW065) 北京师范大学中央高校基本科研业务费专项资金资助(1233300010) × 微信扫一扫 PDF(1666 KB) 可视化 Accesses Citation Altmetric Detail 段落导航 相关文章 期刊信息 期刊介绍 编委会 投稿指南 格式规范 期刊订阅 联系我们 在线期刊 当期目录 过刊浏览 E-mail Alert RSS 联系我们 地址：北京市海淀区中关村大街59号明德新闻楼 邮编：100872 电话：010-82509362 E-mail:gjxwj@ruc.edu.cn 访问统计 总访问量 ： 今日访问： 在线人数： 版权所有 © 《国际新闻界》编辑部 技术支持： 北京玛格泰克科技发展有限公司 / 〈 〉",
+  "links": [
+    "http://cjjc.ruc.edu.cn",
+    "http://cjjc.ruc.edu.cn/CN/archive/2025",
+    "http://cjjc.ruc.edu.cn/CN/Y2025/V47/I9",
+    "http://cjjc.ruc.edu.cn/CN/home",
+    "http://cjjc.ruc.edu.cn/CN/home",
+    "http://cjjc.ruc.edu.cn/CN/column/column1.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column2.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column5.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column6.shtml",
+    "http://cjjc.ruc.edu.cn/EN/home",
+    "https://www.ruc.edu.cn/",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn",
+    "http://cjjc.ruc.edu.cn/CN/archive/2025",
+    "http://cjjc.ruc.edu.cn/CN/Y2025/V47/I9",
+    "javascript:;",
+    "mailto:wenjieyan@bnu.edu.cn",
+    "javascript:;",
+    "mailto:leezymar@126.com",
+    "mailto:wenjieyan@bnu.edu.cn",
+    "mailto:leezymar@126.com",
+    "javascript:;",
+    "mailto:wenjieyan@bnu.edu.cn",
+    "javascript:;",
+    "mailto:leezymar@126.com",
+    "mailto:wenjieyan@bnu.edu.cn",
+    "mailto:leezymar@126.com",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=EndNote&id=1606",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=Ris&id=1606",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=BibTeX&id=1606",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://weibo.com/ttarticle/p/show?id=2309404930349917667993",
+    "javascript:;",
+    "https://www.cnnic.net.cn/NMediaFile/2023/0807/MAIN169137187130308PEDV637M.pdf",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.23860/JMLE",
+    "https://digitalcommons.uri.edu/jmle",
+    "javascript:;",
+    "https://doi.org/10.1037/xge0000729",
+    "https://doi.apa.org/doi/10.1037/xge0000729",
+    "javascript:;",
+    "https://doi.org/10.1016/j.jpubeco.2019.104123",
+    "https://linkinghub.elsevier.com/retrieve/pii/S0047272719301859",
+    "javascript:;",
+    "https://doi.org/10.1080/17512786.2017.1363657",
+    "https://www.tandfonline.com/doi/full/10.1080/17512786.2017.1363657",
+    "javascript:;",
+    "https://doi.org/10.1093/hcr/hqaa010",
+    "https://academic.oup.com/hcr/article/47/1/1/5917727",
+    "javascript:;",
+    "https://doi.org/10.1007/s11109-019-09533-0",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1080/15205436.2016.1262424",
+    "https://www.tandfonline.com/doi/full/10.1080/15205436.2016.1262424",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1093/jcmc/zmz012",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1177/0002764219869406",
+    "https://journals.sagepub.com/doi/10.1177/0002764219869406",
+    "javascript:;",
+    "https://doi.org/10.1111/jasp.v53.6",
+    "https://onlinelibrary.wiley.com/toc/15591816/53/6",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.19195/1899-5101.13.2(26).6",
+    "https://wuwr.pl/cejc/article/view/11607",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1080/21670811.2014.927986",
+    "http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.927986",
+    "javascript:;",
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2342313",
+    "javascript:;",
+    "https://doi.org/10.3145/epi.2015.jul.02",
+    "https://revista.profesionaldelainformacion.com/index.php/EPI/article/view/epi.2015.jul.02",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1177/0002764217701217",
+    "http://journals.sagepub.com/doi/10.1177/0002764217701217",
+    "javascript:;",
+    "https://doi.org/S0010-0277(18)30163-X",
+    "https://www.ncbi.nlm.nih.gov/pubmed/29935897",
+    "javascript:;",
+    "https://doi.org/10.1177/0956797620939054",
+    "https://www.ncbi.nlm.nih.gov/pubmed/32603243",
+    "javascript:;",
+    "https://doi.org/10.1038/s41586-021-03344-2",
+    "javascript:;",
+    "https://doi.org/10.17645/mac.v6i4.1519",
+    "https://www.cogitatiopress.com/mediaandcommunication/article/view/1519",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1177/1461444813477833",
+    "https://journals.sagepub.com/doi/10.1177/1461444813477833",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1093/joc/jqae007",
+    "https://academic.oup.com/joc/article/74/3/225/7625162",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1080/15205436.2019.1604970",
+    "javascript:;",
+    "https://doi.org/10.1080/15205436.2014.1001910",
+    "http://www.tandfonline.com/doi/full/10.1080/15205436.2014.1001910",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1177/0093650219898094",
+    "https://journals.sagepub.com/doi/10.1177/0093650219898094",
+    "javascript:;",
+    "https://doi.org/10.1177/1461444821998691",
+    "https://journals.sagepub.com/doi/10.1177/1461444821998691",
+    "javascript:;",
+    "https://doi.org/10.1080/10584609.2019.1668894",
+    "javascript:;",
+    "http://www.facebook.com/sharer.php?u=http://cjjc.ruc.edu.cn/CN/Y2025/V47/I9/6",
+    "http://twitter.com/share?url=http://cjjc.ruc.edu.cn/CN/Y2025/V47/I9/6",
+    "http://service.weibo.com/share/share.php?url=http://cjjc.ruc.edu.cn/CN/Y2025/V47/I9/6&title=作为集体探究的事实核查：公众参与和素养宣导的力量",
+    "javascript:;",
+    "javascript:;",
+    "http://cjjc.ruc.edu.cn/CN/column/column1.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column2.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column5.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column6.shtml",
+    "http://cjjc.ruc.edu.cn/CN/current",
+    "http://cjjc.ruc.edu.cn/CN/archive_by_years",
+    "http://cjjc.ruc.edu.cn/CN/alert/showAlertInfo.do",
+    "http://cjjc.ruc.edu.cn/CN/rss/showRssInfo.do",
+    "https://www.magtech.com.cn/"
+  ]
+}

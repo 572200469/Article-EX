@@ -1,0 +1,1132 @@
+{
+  "protocol": "china_directed_prompt_v1-9597931c4a07c93b2921",
+  "configuration_fingerprint": "9597931c4a07c93b292137ee5de04b478cfde0543ac42ab93509e3744574ad77",
+  "status": "researcher_review_and_new_generation_authorization_required",
+  "prompt_language": "zh",
+  "jobs": [
+    {
+      "protocol": "china_directed_prompt_v1-9597931c4a07c93b2921",
+      "batch_id": "china_directed_16-9597931c4a07c93b",
+      "cohort": "china_directed_discovery_pilot",
+      "condition": "directed_cnki_C",
+      "prompt_language": "zh",
+      "topic_id": "agenda_setting",
+      "topic_group": "classical",
+      "provider": "openai",
+      "model_requested": "gpt-5.6-terra",
+      "requested_model": "gpt-5.6-terra",
+      "route": {
+        "provider": "openai",
+        "adapter": "relay",
+        "access_channel": "relay",
+        "base_url": "https://token.mmh1.top/v1",
+        "api_key_env": "RELAY_API_KEY",
+        "model": "gpt-5.6-terra",
+        "confirmed": true,
+        "parameters_confirmed": false,
+        "reasoning_effort": "none",
+        "thinking_mode": "none",
+        "output_limit_field": "max_completion_tokens"
+      },
+      "route_id": "80c1a0800214d59a110d079ba69bfd04955cbdd093fcc0077d0e7fc4b8f144f2",
+      "access_channel": "relay",
+      "base_url": "https://token.mmh1.top/v1",
+      "adapter": "relay",
+      "repeat_index": 1,
+      "mode": "baseline",
+      "search_enabled": false,
+      "source_type": "api",
+      "prompt_text": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构；论文须为能够在中国知网检索到的学术期刊论文。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "request_parameters": {
+        "max_output_tokens": 8192,
+        "timeout": 180
+      },
+      "thinking_mode": "none",
+      "coding_rule_version": "publication_visibility_coding_v2",
+      "sdk_retries": 0,
+      "caller_retries": 0,
+      "generation_authorized": false,
+      "request_config_id": "9597931c4a07c93b292137ee5de04b478cfde0543ac42ab93509e3744574ad77",
+      "effective_reasoning_parameters": {
+        "reasoning_effort": "none",
+        "thinking_mode": "none"
+      },
+      "proposed_wire_parameters": {
+        "model": "gpt-5.6-terra",
+        "messages": [
+          {
+            "role": "user",
+            "content": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构；论文须为能够在中国知网检索到的学术期刊论文。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+          }
+        ],
+        "max_completion_tokens": 8192,
+        "reasoning_effort": "none"
+      },
+      "source_generation_protocol": "supplement_only_not_main",
+      "parent_prompt_text": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "parent_configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+      "parent_job_id": "0eef724a85feeda99fa18edb4dcaf38c2e941dd1ff0a4661a821a2c796d9638d",
+      "job_id": "china_directed_2c745f101d2c056e29c1a0f2dc87511ad11da219738a4de86051c4a08ec91290",
+      "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\openai\\china_directed_2c745f101d2c056e29c1a0f2dc87511ad11da219738a4de86051c4a08ec91290",
+      "sequence": 1
+    },
+    {
+      "protocol": "china_directed_prompt_v1-9597931c4a07c93b2921",
+      "batch_id": "china_directed_16-9597931c4a07c93b",
+      "cohort": "china_directed_discovery_pilot",
+      "condition": "directed_mainland_B",
+      "prompt_language": "zh",
+      "topic_id": "algorithms_bubbles",
+      "topic_group": "digital",
+      "provider": "qwen",
+      "model_requested": "qwen3.8-flash",
+      "requested_model": "qwen3.8-flash",
+      "route": {
+        "provider": "qwen",
+        "adapter": "qwen",
+        "access_channel": "official",
+        "base_url_env": "QWEN_BASE_URL",
+        "api_key_env": "DASHSCOPE_API_KEY",
+        "api_key_env_fallback": "QWEN_API_KEY",
+        "model": "qwen3.8-flash",
+        "confirmed": true,
+        "parameters_confirmed": true,
+        "thinking_mode": "disabled",
+        "output_limit_field": "max_tokens",
+        "extra_body": {
+          "enable_thinking": false
+        },
+        "base_url_configured": true,
+        "base_url": "https://ws-18kq1brc00g4ilrj.cn-beijing.maas.aliyuncs.com/compatible-mode/v1"
+      },
+      "route_id": "ae189316847bd67ccdfa1e1ecc37cb3cbd45761f39d89dfe18dba2844c6737c7",
+      "access_channel": "official",
+      "base_url": "https://ws-18kq1brc00g4ilrj.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
+      "adapter": "qwen",
+      "repeat_index": 1,
+      "mode": "baseline",
+      "search_enabled": false,
+      "source_type": "api",
+      "prompt_text": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构和论文发表语言；论文须发表于中国大陆主办的学术期刊，不限制其出版服务商。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "request_parameters": {
+        "max_output_tokens": 8192,
+        "timeout": 180
+      },
+      "thinking_mode": "disabled",
+      "coding_rule_version": "publication_visibility_coding_v2",
+      "sdk_retries": 0,
+      "caller_retries": 0,
+      "generation_authorized": false,
+      "request_config_id": "9597931c4a07c93b292137ee5de04b478cfde0543ac42ab93509e3744574ad77",
+      "effective_reasoning_parameters": {
+        "thinking_mode": "disabled",
+        "extra_body": {
+          "enable_thinking": false
+        }
+      },
+      "proposed_wire_parameters": {
+        "model": "qwen3.8-flash",
+        "messages": [
+          {
+            "role": "user",
+            "content": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构和论文发表语言；论文须发表于中国大陆主办的学术期刊，不限制其出版服务商。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+          }
+        ],
+        "max_tokens": 8192,
+        "extra_body": {
+          "enable_thinking": false
+        }
+      },
+      "source_generation_protocol": "supplement_only_not_main",
+      "parent_prompt_text": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "parent_configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+      "parent_job_id": "ad2b468d05b6a93ef9cf51fb1d17241ab90a860a86594454c4791569ee33bf98",
+      "job_id": "china_directed_a7c7b6fefffb69d07b17e4227c67d9f4f993e684f95c4f14a2450e16691f8954",
+      "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\qwen\\china_directed_a7c7b6fefffb69d07b17e4227c67d9f4f993e684f95c4f14a2450e16691f8954",
+      "sequence": 2
+    },
+    {
+      "protocol": "china_directed_prompt_v1-9597931c4a07c93b2921",
+      "batch_id": "china_directed_16-9597931c4a07c93b",
+      "cohort": "china_directed_discovery_pilot",
+      "condition": "directed_cnki_C",
+      "prompt_language": "zh",
+      "topic_id": "agenda_setting",
+      "topic_group": "classical",
+      "provider": "deepseek",
+      "model_requested": "deepseek-flash",
+      "requested_model": "deepseek-flash",
+      "route": {
+        "provider": "deepseek",
+        "adapter": "deepseek",
+        "access_channel": "official",
+        "base_url": "https://api.deepseek.com",
+        "api_key_env": "DEEPSEEK_API_KEY",
+        "model": "deepseek-flash",
+        "confirmed": true,
+        "parameters_confirmed": true,
+        "thinking_mode": "disabled",
+        "output_limit_field": "max_tokens"
+      },
+      "route_id": "f3719c7d0d754267a4db12b6b157678bf0cab6b0f149c6fbb51c587d68cadd3b",
+      "access_channel": "official",
+      "base_url": "https://api.deepseek.com",
+      "adapter": "deepseek",
+      "repeat_index": 1,
+      "mode": "baseline",
+      "search_enabled": false,
+      "source_type": "api",
+      "prompt_text": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构；论文须为能够在中国知网检索到的学术期刊论文。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "request_parameters": {
+        "max_output_tokens": 8192,
+        "timeout": 180,
+        "thinking_mode": "disabled"
+      },
+      "thinking_mode": "disabled",
+      "coding_rule_version": "publication_visibility_coding_v2",
+      "sdk_retries": 0,
+      "caller_retries": 0,
+      "generation_authorized": false,
+      "request_config_id": "9597931c4a07c93b292137ee5de04b478cfde0543ac42ab93509e3744574ad77",
+      "effective_reasoning_parameters": {
+        "thinking_mode": "disabled"
+      },
+      "proposed_wire_parameters": {
+        "model": "deepseek-flash",
+        "messages": [
+          {
+            "role": "user",
+            "content": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构；论文须为能够在中国知网检索到的学术期刊论文。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+          }
+        ],
+        "max_tokens": 8192,
+        "extra_body": {
+          "thinking": {
+            "type": "disabled"
+          }
+        }
+      },
+      "source_generation_protocol": "supplement_only_not_main",
+      "parent_prompt_text": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "parent_configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+      "parent_job_id": "72565ac927968172a01e8adda7cb6b9c019ebf05f2e061a7a95004020bb85d3a",
+      "job_id": "china_directed_d4b7588992c1978d541944228a55416bac689b8007df0ec0769efee99c41609c",
+      "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\deepseek\\china_directed_d4b7588992c1978d541944228a55416bac689b8007df0ec0769efee99c41609c",
+      "sequence": 3
+    },
+    {
+      "protocol": "china_directed_prompt_v1-9597931c4a07c93b2921",
+      "batch_id": "china_directed_16-9597931c4a07c93b",
+      "cohort": "china_directed_discovery_pilot",
+      "condition": "directed_cnki_C",
+      "prompt_language": "zh",
+      "topic_id": "algorithms_bubbles",
+      "topic_group": "digital",
+      "provider": "gemini",
+      "model_requested": "gemini-3.8-flash",
+      "requested_model": "gemini-3.8-flash",
+      "route": {
+        "provider": "gemini",
+        "adapter": "relay",
+        "access_channel": "relay",
+        "base_url": "https://token.mmh1.top/v1",
+        "api_key_env": "RELAY_API_KEY",
+        "model": "gemini-3.8-flash",
+        "confirmed": true,
+        "parameters_confirmed": false,
+        "reasoning_effort": "low",
+        "thinking_mode": "low",
+        "output_limit_field": "max_tokens"
+      },
+      "route_id": "a3de5fc638c197d2fe22997af2ae183beca5b62892a11fe68972fefc96c59c5a",
+      "access_channel": "relay",
+      "base_url": "https://token.mmh1.top/v1",
+      "adapter": "relay",
+      "repeat_index": 1,
+      "mode": "baseline",
+      "search_enabled": false,
+      "source_type": "api",
+      "prompt_text": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构；论文须为能够在中国知网检索到的学术期刊论文。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "request_parameters": {
+        "max_output_tokens": 8192,
+        "timeout": 180
+      },
+      "thinking_mode": "low",
+      "coding_rule_version": "publication_visibility_coding_v2",
+      "sdk_retries": 0,
+      "caller_retries": 0,
+      "generation_authorized": false,
+      "request_config_id": "9597931c4a07c93b292137ee5de04b478cfde0543ac42ab93509e3744574ad77",
+      "effective_reasoning_parameters": {
+        "reasoning_effort": "low",
+        "thinking_mode": "low"
+      },
+      "proposed_wire_parameters": {
+        "model": "gemini-3.8-flash",
+        "messages": [
+          {
+            "role": "user",
+            "content": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构；论文须为能够在中国知网检索到的学术期刊论文。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+          }
+        ],
+        "max_tokens": 8192,
+        "reasoning_effort": "low"
+      },
+      "source_generation_protocol": "supplement_only_not_main",
+      "parent_prompt_text": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "parent_configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+      "parent_job_id": "f4c0e0cea8ed2e66d7b50afd9319167e93efc04e52a56ff13a084d0e2b33d849",
+      "job_id": "china_directed_7631d62ab81afd388be254881906c3a30d2f0c2ddfedae29bfc7c0945dc7d24c",
+      "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\gemini\\china_directed_7631d62ab81afd388be254881906c3a30d2f0c2ddfedae29bfc7c0945dc7d24c",
+      "sequence": 4
+    },
+    {
+      "protocol": "china_directed_prompt_v1-9597931c4a07c93b2921",
+      "batch_id": "china_directed_16-9597931c4a07c93b",
+      "cohort": "china_directed_discovery_pilot",
+      "condition": "directed_mainland_B",
+      "prompt_language": "zh",
+      "topic_id": "agenda_setting",
+      "topic_group": "classical",
+      "provider": "openai",
+      "model_requested": "gpt-5.6-terra",
+      "requested_model": "gpt-5.6-terra",
+      "route": {
+        "provider": "openai",
+        "adapter": "relay",
+        "access_channel": "relay",
+        "base_url": "https://token.mmh1.top/v1",
+        "api_key_env": "RELAY_API_KEY",
+        "model": "gpt-5.6-terra",
+        "confirmed": true,
+        "parameters_confirmed": false,
+        "reasoning_effort": "none",
+        "thinking_mode": "none",
+        "output_limit_field": "max_completion_tokens"
+      },
+      "route_id": "80c1a0800214d59a110d079ba69bfd04955cbdd093fcc0077d0e7fc4b8f144f2",
+      "access_channel": "relay",
+      "base_url": "https://token.mmh1.top/v1",
+      "adapter": "relay",
+      "repeat_index": 1,
+      "mode": "baseline",
+      "search_enabled": false,
+      "source_type": "api",
+      "prompt_text": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构和论文发表语言；论文须发表于中国大陆主办的学术期刊，不限制其出版服务商。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "request_parameters": {
+        "max_output_tokens": 8192,
+        "timeout": 180
+      },
+      "thinking_mode": "none",
+      "coding_rule_version": "publication_visibility_coding_v2",
+      "sdk_retries": 0,
+      "caller_retries": 0,
+      "generation_authorized": false,
+      "request_config_id": "9597931c4a07c93b292137ee5de04b478cfde0543ac42ab93509e3744574ad77",
+      "effective_reasoning_parameters": {
+        "reasoning_effort": "none",
+        "thinking_mode": "none"
+      },
+      "proposed_wire_parameters": {
+        "model": "gpt-5.6-terra",
+        "messages": [
+          {
+            "role": "user",
+            "content": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构和论文发表语言；论文须发表于中国大陆主办的学术期刊，不限制其出版服务商。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+          }
+        ],
+        "max_completion_tokens": 8192,
+        "reasoning_effort": "none"
+      },
+      "source_generation_protocol": "supplement_only_not_main",
+      "parent_prompt_text": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "parent_configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+      "parent_job_id": "0eef724a85feeda99fa18edb4dcaf38c2e941dd1ff0a4661a821a2c796d9638d",
+      "job_id": "china_directed_72615dfa1871d6fb7fefde4f4bf8b99cdf604e09fba9f6f908145da63d7dc16c",
+      "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\openai\\china_directed_72615dfa1871d6fb7fefde4f4bf8b99cdf604e09fba9f6f908145da63d7dc16c",
+      "sequence": 5
+    },
+    {
+      "protocol": "china_directed_prompt_v1-9597931c4a07c93b2921",
+      "batch_id": "china_directed_16-9597931c4a07c93b",
+      "cohort": "china_directed_discovery_pilot",
+      "condition": "directed_mainland_B",
+      "prompt_language": "zh",
+      "topic_id": "agenda_setting",
+      "topic_group": "classical",
+      "provider": "gemini",
+      "model_requested": "gemini-3.8-flash",
+      "requested_model": "gemini-3.8-flash",
+      "route": {
+        "provider": "gemini",
+        "adapter": "relay",
+        "access_channel": "relay",
+        "base_url": "https://token.mmh1.top/v1",
+        "api_key_env": "RELAY_API_KEY",
+        "model": "gemini-3.8-flash",
+        "confirmed": true,
+        "parameters_confirmed": false,
+        "reasoning_effort": "low",
+        "thinking_mode": "low",
+        "output_limit_field": "max_tokens"
+      },
+      "route_id": "a3de5fc638c197d2fe22997af2ae183beca5b62892a11fe68972fefc96c59c5a",
+      "access_channel": "relay",
+      "base_url": "https://token.mmh1.top/v1",
+      "adapter": "relay",
+      "repeat_index": 1,
+      "mode": "baseline",
+      "search_enabled": false,
+      "source_type": "api",
+      "prompt_text": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构和论文发表语言；论文须发表于中国大陆主办的学术期刊，不限制其出版服务商。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "request_parameters": {
+        "max_output_tokens": 8192,
+        "timeout": 180
+      },
+      "thinking_mode": "low",
+      "coding_rule_version": "publication_visibility_coding_v2",
+      "sdk_retries": 0,
+      "caller_retries": 0,
+      "generation_authorized": false,
+      "request_config_id": "9597931c4a07c93b292137ee5de04b478cfde0543ac42ab93509e3744574ad77",
+      "effective_reasoning_parameters": {
+        "reasoning_effort": "low",
+        "thinking_mode": "low"
+      },
+      "proposed_wire_parameters": {
+        "model": "gemini-3.8-flash",
+        "messages": [
+          {
+            "role": "user",
+            "content": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构和论文发表语言；论文须发表于中国大陆主办的学术期刊，不限制其出版服务商。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+          }
+        ],
+        "max_tokens": 8192,
+        "reasoning_effort": "low"
+      },
+      "source_generation_protocol": "supplement_only_not_main",
+      "parent_prompt_text": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "parent_configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+      "parent_job_id": "ef13351091e330b212061f52fbf1dde3e41c285f0b67fd14487321b5f1586a05",
+      "job_id": "china_directed_929e5b48b3bcbeb1d4a8f7e8a5980237160afe01560a355737b3d3a42d772f03",
+      "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\gemini\\china_directed_929e5b48b3bcbeb1d4a8f7e8a5980237160afe01560a355737b3d3a42d772f03",
+      "sequence": 6
+    },
+    {
+      "protocol": "china_directed_prompt_v1-9597931c4a07c93b2921",
+      "batch_id": "china_directed_16-9597931c4a07c93b",
+      "cohort": "china_directed_discovery_pilot",
+      "condition": "directed_cnki_C",
+      "prompt_language": "zh",
+      "topic_id": "algorithms_bubbles",
+      "topic_group": "digital",
+      "provider": "qwen",
+      "model_requested": "qwen3.8-flash",
+      "requested_model": "qwen3.8-flash",
+      "route": {
+        "provider": "qwen",
+        "adapter": "qwen",
+        "access_channel": "official",
+        "base_url_env": "QWEN_BASE_URL",
+        "api_key_env": "DASHSCOPE_API_KEY",
+        "api_key_env_fallback": "QWEN_API_KEY",
+        "model": "qwen3.8-flash",
+        "confirmed": true,
+        "parameters_confirmed": true,
+        "thinking_mode": "disabled",
+        "output_limit_field": "max_tokens",
+        "extra_body": {
+          "enable_thinking": false
+        },
+        "base_url_configured": true,
+        "base_url": "https://ws-18kq1brc00g4ilrj.cn-beijing.maas.aliyuncs.com/compatible-mode/v1"
+      },
+      "route_id": "ae189316847bd67ccdfa1e1ecc37cb3cbd45761f39d89dfe18dba2844c6737c7",
+      "access_channel": "official",
+      "base_url": "https://ws-18kq1brc00g4ilrj.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
+      "adapter": "qwen",
+      "repeat_index": 1,
+      "mode": "baseline",
+      "search_enabled": false,
+      "source_type": "api",
+      "prompt_text": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构；论文须为能够在中国知网检索到的学术期刊论文。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "request_parameters": {
+        "max_output_tokens": 8192,
+        "timeout": 180
+      },
+      "thinking_mode": "disabled",
+      "coding_rule_version": "publication_visibility_coding_v2",
+      "sdk_retries": 0,
+      "caller_retries": 0,
+      "generation_authorized": false,
+      "request_config_id": "9597931c4a07c93b292137ee5de04b478cfde0543ac42ab93509e3744574ad77",
+      "effective_reasoning_parameters": {
+        "thinking_mode": "disabled",
+        "extra_body": {
+          "enable_thinking": false
+        }
+      },
+      "proposed_wire_parameters": {
+        "model": "qwen3.8-flash",
+        "messages": [
+          {
+            "role": "user",
+            "content": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构；论文须为能够在中国知网检索到的学术期刊论文。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+          }
+        ],
+        "max_tokens": 8192,
+        "extra_body": {
+          "enable_thinking": false
+        }
+      },
+      "source_generation_protocol": "supplement_only_not_main",
+      "parent_prompt_text": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "parent_configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+      "parent_job_id": "ad2b468d05b6a93ef9cf51fb1d17241ab90a860a86594454c4791569ee33bf98",
+      "job_id": "china_directed_e7d42621b75ad6eaa5bd36239a36356654ace5f9bae671c325582e151b5fd1c5",
+      "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\qwen\\china_directed_e7d42621b75ad6eaa5bd36239a36356654ace5f9bae671c325582e151b5fd1c5",
+      "sequence": 7
+    },
+    {
+      "protocol": "china_directed_prompt_v1-9597931c4a07c93b2921",
+      "batch_id": "china_directed_16-9597931c4a07c93b",
+      "cohort": "china_directed_discovery_pilot",
+      "condition": "directed_mainland_B",
+      "prompt_language": "zh",
+      "topic_id": "algorithms_bubbles",
+      "topic_group": "digital",
+      "provider": "deepseek",
+      "model_requested": "deepseek-flash",
+      "requested_model": "deepseek-flash",
+      "route": {
+        "provider": "deepseek",
+        "adapter": "deepseek",
+        "access_channel": "official",
+        "base_url": "https://api.deepseek.com",
+        "api_key_env": "DEEPSEEK_API_KEY",
+        "model": "deepseek-flash",
+        "confirmed": true,
+        "parameters_confirmed": true,
+        "thinking_mode": "disabled",
+        "output_limit_field": "max_tokens"
+      },
+      "route_id": "f3719c7d0d754267a4db12b6b157678bf0cab6b0f149c6fbb51c587d68cadd3b",
+      "access_channel": "official",
+      "base_url": "https://api.deepseek.com",
+      "adapter": "deepseek",
+      "repeat_index": 1,
+      "mode": "baseline",
+      "search_enabled": false,
+      "source_type": "api",
+      "prompt_text": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构和论文发表语言；论文须发表于中国大陆主办的学术期刊，不限制其出版服务商。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "request_parameters": {
+        "max_output_tokens": 8192,
+        "timeout": 180,
+        "thinking_mode": "disabled"
+      },
+      "thinking_mode": "disabled",
+      "coding_rule_version": "publication_visibility_coding_v2",
+      "sdk_retries": 0,
+      "caller_retries": 0,
+      "generation_authorized": false,
+      "request_config_id": "9597931c4a07c93b292137ee5de04b478cfde0543ac42ab93509e3744574ad77",
+      "effective_reasoning_parameters": {
+        "thinking_mode": "disabled"
+      },
+      "proposed_wire_parameters": {
+        "model": "deepseek-flash",
+        "messages": [
+          {
+            "role": "user",
+            "content": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构和论文发表语言；论文须发表于中国大陆主办的学术期刊，不限制其出版服务商。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+          }
+        ],
+        "max_tokens": 8192,
+        "extra_body": {
+          "thinking": {
+            "type": "disabled"
+          }
+        }
+      },
+      "source_generation_protocol": "supplement_only_not_main",
+      "parent_prompt_text": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "parent_configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+      "parent_job_id": "be7f2d0ba7124d5a38ed51c4e1b9d31311c1cf1797538ccf87d8ca15c501cec4",
+      "job_id": "china_directed_7e911ec6415bf833c5d4468920383cedff7772c1205d5e3fce1b7a13559a935a",
+      "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\deepseek\\china_directed_7e911ec6415bf833c5d4468920383cedff7772c1205d5e3fce1b7a13559a935a",
+      "sequence": 8
+    },
+    {
+      "protocol": "china_directed_prompt_v1-9597931c4a07c93b2921",
+      "batch_id": "china_directed_16-9597931c4a07c93b",
+      "cohort": "china_directed_discovery_pilot",
+      "condition": "directed_mainland_B",
+      "prompt_language": "zh",
+      "topic_id": "agenda_setting",
+      "topic_group": "classical",
+      "provider": "qwen",
+      "model_requested": "qwen3.8-flash",
+      "requested_model": "qwen3.8-flash",
+      "route": {
+        "provider": "qwen",
+        "adapter": "qwen",
+        "access_channel": "official",
+        "base_url_env": "QWEN_BASE_URL",
+        "api_key_env": "DASHSCOPE_API_KEY",
+        "api_key_env_fallback": "QWEN_API_KEY",
+        "model": "qwen3.8-flash",
+        "confirmed": true,
+        "parameters_confirmed": true,
+        "thinking_mode": "disabled",
+        "output_limit_field": "max_tokens",
+        "extra_body": {
+          "enable_thinking": false
+        },
+        "base_url_configured": true,
+        "base_url": "https://ws-18kq1brc00g4ilrj.cn-beijing.maas.aliyuncs.com/compatible-mode/v1"
+      },
+      "route_id": "ae189316847bd67ccdfa1e1ecc37cb3cbd45761f39d89dfe18dba2844c6737c7",
+      "access_channel": "official",
+      "base_url": "https://ws-18kq1brc00g4ilrj.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
+      "adapter": "qwen",
+      "repeat_index": 1,
+      "mode": "baseline",
+      "search_enabled": false,
+      "source_type": "api",
+      "prompt_text": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构和论文发表语言；论文须发表于中国大陆主办的学术期刊，不限制其出版服务商。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "request_parameters": {
+        "max_output_tokens": 8192,
+        "timeout": 180
+      },
+      "thinking_mode": "disabled",
+      "coding_rule_version": "publication_visibility_coding_v2",
+      "sdk_retries": 0,
+      "caller_retries": 0,
+      "generation_authorized": false,
+      "request_config_id": "9597931c4a07c93b292137ee5de04b478cfde0543ac42ab93509e3744574ad77",
+      "effective_reasoning_parameters": {
+        "thinking_mode": "disabled",
+        "extra_body": {
+          "enable_thinking": false
+        }
+      },
+      "proposed_wire_parameters": {
+        "model": "qwen3.8-flash",
+        "messages": [
+          {
+            "role": "user",
+            "content": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构和论文发表语言；论文须发表于中国大陆主办的学术期刊，不限制其出版服务商。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+          }
+        ],
+        "max_tokens": 8192,
+        "extra_body": {
+          "enable_thinking": false
+        }
+      },
+      "source_generation_protocol": "supplement_only_not_main",
+      "parent_prompt_text": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "parent_configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+      "parent_job_id": "e9daa730e6b971ea0e389501a25974d60522de940db466fefd0c23d78ef398a8",
+      "job_id": "china_directed_8f82cb9d4317914d25635a375ea300eed2e4ed87a025c263a70c5790de5fac4d",
+      "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\qwen\\china_directed_8f82cb9d4317914d25635a375ea300eed2e4ed87a025c263a70c5790de5fac4d",
+      "sequence": 9
+    },
+    {
+      "protocol": "china_directed_prompt_v1-9597931c4a07c93b2921",
+      "batch_id": "china_directed_16-9597931c4a07c93b",
+      "cohort": "china_directed_discovery_pilot",
+      "condition": "directed_cnki_C",
+      "prompt_language": "zh",
+      "topic_id": "algorithms_bubbles",
+      "topic_group": "digital",
+      "provider": "deepseek",
+      "model_requested": "deepseek-flash",
+      "requested_model": "deepseek-flash",
+      "route": {
+        "provider": "deepseek",
+        "adapter": "deepseek",
+        "access_channel": "official",
+        "base_url": "https://api.deepseek.com",
+        "api_key_env": "DEEPSEEK_API_KEY",
+        "model": "deepseek-flash",
+        "confirmed": true,
+        "parameters_confirmed": true,
+        "thinking_mode": "disabled",
+        "output_limit_field": "max_tokens"
+      },
+      "route_id": "f3719c7d0d754267a4db12b6b157678bf0cab6b0f149c6fbb51c587d68cadd3b",
+      "access_channel": "official",
+      "base_url": "https://api.deepseek.com",
+      "adapter": "deepseek",
+      "repeat_index": 1,
+      "mode": "baseline",
+      "search_enabled": false,
+      "source_type": "api",
+      "prompt_text": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构；论文须为能够在中国知网检索到的学术期刊论文。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "request_parameters": {
+        "max_output_tokens": 8192,
+        "timeout": 180,
+        "thinking_mode": "disabled"
+      },
+      "thinking_mode": "disabled",
+      "coding_rule_version": "publication_visibility_coding_v2",
+      "sdk_retries": 0,
+      "caller_retries": 0,
+      "generation_authorized": false,
+      "request_config_id": "9597931c4a07c93b292137ee5de04b478cfde0543ac42ab93509e3744574ad77",
+      "effective_reasoning_parameters": {
+        "thinking_mode": "disabled"
+      },
+      "proposed_wire_parameters": {
+        "model": "deepseek-flash",
+        "messages": [
+          {
+            "role": "user",
+            "content": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构；论文须为能够在中国知网检索到的学术期刊论文。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+          }
+        ],
+        "max_tokens": 8192,
+        "extra_body": {
+          "thinking": {
+            "type": "disabled"
+          }
+        }
+      },
+      "source_generation_protocol": "supplement_only_not_main",
+      "parent_prompt_text": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "parent_configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+      "parent_job_id": "be7f2d0ba7124d5a38ed51c4e1b9d31311c1cf1797538ccf87d8ca15c501cec4",
+      "job_id": "china_directed_d89223edadd98e68eaf7e11143ffa8694bebd1f08fc91ffc23d854d3790c6219",
+      "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\deepseek\\china_directed_d89223edadd98e68eaf7e11143ffa8694bebd1f08fc91ffc23d854d3790c6219",
+      "sequence": 10
+    },
+    {
+      "protocol": "china_directed_prompt_v1-9597931c4a07c93b2921",
+      "batch_id": "china_directed_16-9597931c4a07c93b",
+      "cohort": "china_directed_discovery_pilot",
+      "condition": "directed_cnki_C",
+      "prompt_language": "zh",
+      "topic_id": "agenda_setting",
+      "topic_group": "classical",
+      "provider": "qwen",
+      "model_requested": "qwen3.8-flash",
+      "requested_model": "qwen3.8-flash",
+      "route": {
+        "provider": "qwen",
+        "adapter": "qwen",
+        "access_channel": "official",
+        "base_url_env": "QWEN_BASE_URL",
+        "api_key_env": "DASHSCOPE_API_KEY",
+        "api_key_env_fallback": "QWEN_API_KEY",
+        "model": "qwen3.8-flash",
+        "confirmed": true,
+        "parameters_confirmed": true,
+        "thinking_mode": "disabled",
+        "output_limit_field": "max_tokens",
+        "extra_body": {
+          "enable_thinking": false
+        },
+        "base_url_configured": true,
+        "base_url": "https://ws-18kq1brc00g4ilrj.cn-beijing.maas.aliyuncs.com/compatible-mode/v1"
+      },
+      "route_id": "ae189316847bd67ccdfa1e1ecc37cb3cbd45761f39d89dfe18dba2844c6737c7",
+      "access_channel": "official",
+      "base_url": "https://ws-18kq1brc00g4ilrj.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
+      "adapter": "qwen",
+      "repeat_index": 1,
+      "mode": "baseline",
+      "search_enabled": false,
+      "source_type": "api",
+      "prompt_text": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构；论文须为能够在中国知网检索到的学术期刊论文。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "request_parameters": {
+        "max_output_tokens": 8192,
+        "timeout": 180
+      },
+      "thinking_mode": "disabled",
+      "coding_rule_version": "publication_visibility_coding_v2",
+      "sdk_retries": 0,
+      "caller_retries": 0,
+      "generation_authorized": false,
+      "request_config_id": "9597931c4a07c93b292137ee5de04b478cfde0543ac42ab93509e3744574ad77",
+      "effective_reasoning_parameters": {
+        "thinking_mode": "disabled",
+        "extra_body": {
+          "enable_thinking": false
+        }
+      },
+      "proposed_wire_parameters": {
+        "model": "qwen3.8-flash",
+        "messages": [
+          {
+            "role": "user",
+            "content": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构；论文须为能够在中国知网检索到的学术期刊论文。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+          }
+        ],
+        "max_tokens": 8192,
+        "extra_body": {
+          "enable_thinking": false
+        }
+      },
+      "source_generation_protocol": "supplement_only_not_main",
+      "parent_prompt_text": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "parent_configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+      "parent_job_id": "e9daa730e6b971ea0e389501a25974d60522de940db466fefd0c23d78ef398a8",
+      "job_id": "china_directed_f9bbbf2da48081daa4c3ba824a41010e7a08bdbc0847643bf311b5688ebf7029",
+      "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\qwen\\china_directed_f9bbbf2da48081daa4c3ba824a41010e7a08bdbc0847643bf311b5688ebf7029",
+      "sequence": 11
+    },
+    {
+      "protocol": "china_directed_prompt_v1-9597931c4a07c93b2921",
+      "batch_id": "china_directed_16-9597931c4a07c93b",
+      "cohort": "china_directed_discovery_pilot",
+      "condition": "directed_mainland_B",
+      "prompt_language": "zh",
+      "topic_id": "agenda_setting",
+      "topic_group": "classical",
+      "provider": "deepseek",
+      "model_requested": "deepseek-flash",
+      "requested_model": "deepseek-flash",
+      "route": {
+        "provider": "deepseek",
+        "adapter": "deepseek",
+        "access_channel": "official",
+        "base_url": "https://api.deepseek.com",
+        "api_key_env": "DEEPSEEK_API_KEY",
+        "model": "deepseek-flash",
+        "confirmed": true,
+        "parameters_confirmed": true,
+        "thinking_mode": "disabled",
+        "output_limit_field": "max_tokens"
+      },
+      "route_id": "f3719c7d0d754267a4db12b6b157678bf0cab6b0f149c6fbb51c587d68cadd3b",
+      "access_channel": "official",
+      "base_url": "https://api.deepseek.com",
+      "adapter": "deepseek",
+      "repeat_index": 1,
+      "mode": "baseline",
+      "search_enabled": false,
+      "source_type": "api",
+      "prompt_text": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构和论文发表语言；论文须发表于中国大陆主办的学术期刊，不限制其出版服务商。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "request_parameters": {
+        "max_output_tokens": 8192,
+        "timeout": 180,
+        "thinking_mode": "disabled"
+      },
+      "thinking_mode": "disabled",
+      "coding_rule_version": "publication_visibility_coding_v2",
+      "sdk_retries": 0,
+      "caller_retries": 0,
+      "generation_authorized": false,
+      "request_config_id": "9597931c4a07c93b292137ee5de04b478cfde0543ac42ab93509e3744574ad77",
+      "effective_reasoning_parameters": {
+        "thinking_mode": "disabled"
+      },
+      "proposed_wire_parameters": {
+        "model": "deepseek-flash",
+        "messages": [
+          {
+            "role": "user",
+            "content": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构和论文发表语言；论文须发表于中国大陆主办的学术期刊，不限制其出版服务商。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+          }
+        ],
+        "max_tokens": 8192,
+        "extra_body": {
+          "thinking": {
+            "type": "disabled"
+          }
+        }
+      },
+      "source_generation_protocol": "supplement_only_not_main",
+      "parent_prompt_text": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "parent_configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+      "parent_job_id": "72565ac927968172a01e8adda7cb6b9c019ebf05f2e061a7a95004020bb85d3a",
+      "job_id": "china_directed_16cbbb345646c96e0e142a0287458f2c8570fdec068cf2732103a60504e38a5a",
+      "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\deepseek\\china_directed_16cbbb345646c96e0e142a0287458f2c8570fdec068cf2732103a60504e38a5a",
+      "sequence": 12
+    },
+    {
+      "protocol": "china_directed_prompt_v1-9597931c4a07c93b2921",
+      "batch_id": "china_directed_16-9597931c4a07c93b",
+      "cohort": "china_directed_discovery_pilot",
+      "condition": "directed_mainland_B",
+      "prompt_language": "zh",
+      "topic_id": "algorithms_bubbles",
+      "topic_group": "digital",
+      "provider": "openai",
+      "model_requested": "gpt-5.6-terra",
+      "requested_model": "gpt-5.6-terra",
+      "route": {
+        "provider": "openai",
+        "adapter": "relay",
+        "access_channel": "relay",
+        "base_url": "https://token.mmh1.top/v1",
+        "api_key_env": "RELAY_API_KEY",
+        "model": "gpt-5.6-terra",
+        "confirmed": true,
+        "parameters_confirmed": false,
+        "reasoning_effort": "none",
+        "thinking_mode": "none",
+        "output_limit_field": "max_completion_tokens"
+      },
+      "route_id": "80c1a0800214d59a110d079ba69bfd04955cbdd093fcc0077d0e7fc4b8f144f2",
+      "access_channel": "relay",
+      "base_url": "https://token.mmh1.top/v1",
+      "adapter": "relay",
+      "repeat_index": 1,
+      "mode": "baseline",
+      "search_enabled": false,
+      "source_type": "api",
+      "prompt_text": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构和论文发表语言；论文须发表于中国大陆主办的学术期刊，不限制其出版服务商。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "request_parameters": {
+        "max_output_tokens": 8192,
+        "timeout": 180
+      },
+      "thinking_mode": "none",
+      "coding_rule_version": "publication_visibility_coding_v2",
+      "sdk_retries": 0,
+      "caller_retries": 0,
+      "generation_authorized": false,
+      "request_config_id": "9597931c4a07c93b292137ee5de04b478cfde0543ac42ab93509e3744574ad77",
+      "effective_reasoning_parameters": {
+        "reasoning_effort": "none",
+        "thinking_mode": "none"
+      },
+      "proposed_wire_parameters": {
+        "model": "gpt-5.6-terra",
+        "messages": [
+          {
+            "role": "user",
+            "content": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构和论文发表语言；论文须发表于中国大陆主办的学术期刊，不限制其出版服务商。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+          }
+        ],
+        "max_completion_tokens": 8192,
+        "reasoning_effort": "none"
+      },
+      "source_generation_protocol": "supplement_only_not_main",
+      "parent_prompt_text": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "parent_configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+      "parent_job_id": "6e7387a1bd0ebbae4cba9e350e78a8a32c8b038fc01cd6503a9d9d546c7df780",
+      "job_id": "china_directed_4d78c5bbf0a94131a1769211012195fd02a5e9bd7b99b7dbd2938b601c0bb278",
+      "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\openai\\china_directed_4d78c5bbf0a94131a1769211012195fd02a5e9bd7b99b7dbd2938b601c0bb278",
+      "sequence": 13
+    },
+    {
+      "protocol": "china_directed_prompt_v1-9597931c4a07c93b2921",
+      "batch_id": "china_directed_16-9597931c4a07c93b",
+      "cohort": "china_directed_discovery_pilot",
+      "condition": "directed_mainland_B",
+      "prompt_language": "zh",
+      "topic_id": "algorithms_bubbles",
+      "topic_group": "digital",
+      "provider": "gemini",
+      "model_requested": "gemini-3.8-flash",
+      "requested_model": "gemini-3.8-flash",
+      "route": {
+        "provider": "gemini",
+        "adapter": "relay",
+        "access_channel": "relay",
+        "base_url": "https://token.mmh1.top/v1",
+        "api_key_env": "RELAY_API_KEY",
+        "model": "gemini-3.8-flash",
+        "confirmed": true,
+        "parameters_confirmed": false,
+        "reasoning_effort": "low",
+        "thinking_mode": "low",
+        "output_limit_field": "max_tokens"
+      },
+      "route_id": "a3de5fc638c197d2fe22997af2ae183beca5b62892a11fe68972fefc96c59c5a",
+      "access_channel": "relay",
+      "base_url": "https://token.mmh1.top/v1",
+      "adapter": "relay",
+      "repeat_index": 1,
+      "mode": "baseline",
+      "search_enabled": false,
+      "source_type": "api",
+      "prompt_text": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构和论文发表语言；论文须发表于中国大陆主办的学术期刊，不限制其出版服务商。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "request_parameters": {
+        "max_output_tokens": 8192,
+        "timeout": 180
+      },
+      "thinking_mode": "low",
+      "coding_rule_version": "publication_visibility_coding_v2",
+      "sdk_retries": 0,
+      "caller_retries": 0,
+      "generation_authorized": false,
+      "request_config_id": "9597931c4a07c93b292137ee5de04b478cfde0543ac42ab93509e3744574ad77",
+      "effective_reasoning_parameters": {
+        "reasoning_effort": "low",
+        "thinking_mode": "low"
+      },
+      "proposed_wire_parameters": {
+        "model": "gemini-3.8-flash",
+        "messages": [
+          {
+            "role": "user",
+            "content": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构和论文发表语言；论文须发表于中国大陆主办的学术期刊，不限制其出版服务商。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+          }
+        ],
+        "max_tokens": 8192,
+        "reasoning_effort": "low"
+      },
+      "source_generation_protocol": "supplement_only_not_main",
+      "parent_prompt_text": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "parent_configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+      "parent_job_id": "f4c0e0cea8ed2e66d7b50afd9319167e93efc04e52a56ff13a084d0e2b33d849",
+      "job_id": "china_directed_b3c77e12230174520bcefaa74389eb9dc07e5a954804060a4eb37cafd0253034",
+      "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\gemini\\china_directed_b3c77e12230174520bcefaa74389eb9dc07e5a954804060a4eb37cafd0253034",
+      "sequence": 14
+    },
+    {
+      "protocol": "china_directed_prompt_v1-9597931c4a07c93b2921",
+      "batch_id": "china_directed_16-9597931c4a07c93b",
+      "cohort": "china_directed_discovery_pilot",
+      "condition": "directed_cnki_C",
+      "prompt_language": "zh",
+      "topic_id": "agenda_setting",
+      "topic_group": "classical",
+      "provider": "gemini",
+      "model_requested": "gemini-3.8-flash",
+      "requested_model": "gemini-3.8-flash",
+      "route": {
+        "provider": "gemini",
+        "adapter": "relay",
+        "access_channel": "relay",
+        "base_url": "https://token.mmh1.top/v1",
+        "api_key_env": "RELAY_API_KEY",
+        "model": "gemini-3.8-flash",
+        "confirmed": true,
+        "parameters_confirmed": false,
+        "reasoning_effort": "low",
+        "thinking_mode": "low",
+        "output_limit_field": "max_tokens"
+      },
+      "route_id": "a3de5fc638c197d2fe22997af2ae183beca5b62892a11fe68972fefc96c59c5a",
+      "access_channel": "relay",
+      "base_url": "https://token.mmh1.top/v1",
+      "adapter": "relay",
+      "repeat_index": 1,
+      "mode": "baseline",
+      "search_enabled": false,
+      "source_type": "api",
+      "prompt_text": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构；论文须为能够在中国知网检索到的学术期刊论文。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "request_parameters": {
+        "max_output_tokens": 8192,
+        "timeout": 180
+      },
+      "thinking_mode": "low",
+      "coding_rule_version": "publication_visibility_coding_v2",
+      "sdk_retries": 0,
+      "caller_retries": 0,
+      "generation_authorized": false,
+      "request_config_id": "9597931c4a07c93b292137ee5de04b478cfde0543ac42ab93509e3744574ad77",
+      "effective_reasoning_parameters": {
+        "reasoning_effort": "low",
+        "thinking_mode": "low"
+      },
+      "proposed_wire_parameters": {
+        "model": "gemini-3.8-flash",
+        "messages": [
+          {
+            "role": "user",
+            "content": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构；论文须为能够在中国知网检索到的学术期刊论文。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+          }
+        ],
+        "max_tokens": 8192,
+        "reasoning_effort": "low"
+      },
+      "source_generation_protocol": "supplement_only_not_main",
+      "parent_prompt_text": "请推荐关于「议程设置理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "parent_configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+      "parent_job_id": "ef13351091e330b212061f52fbf1dde3e41c285f0b67fd14487321b5f1586a05",
+      "job_id": "china_directed_a6c972270a1f6b15c3c1fb2c03cc70cdb619ffbf68509588593b3925341f2729",
+      "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\gemini\\china_directed_a6c972270a1f6b15c3c1fb2c03cc70cdb619ffbf68509588593b3925341f2729",
+      "sequence": 15
+    },
+    {
+      "protocol": "china_directed_prompt_v1-9597931c4a07c93b2921",
+      "batch_id": "china_directed_16-9597931c4a07c93b",
+      "cohort": "china_directed_discovery_pilot",
+      "condition": "directed_cnki_C",
+      "prompt_language": "zh",
+      "topic_id": "algorithms_bubbles",
+      "topic_group": "digital",
+      "provider": "openai",
+      "model_requested": "gpt-5.6-terra",
+      "requested_model": "gpt-5.6-terra",
+      "route": {
+        "provider": "openai",
+        "adapter": "relay",
+        "access_channel": "relay",
+        "base_url": "https://token.mmh1.top/v1",
+        "api_key_env": "RELAY_API_KEY",
+        "model": "gpt-5.6-terra",
+        "confirmed": true,
+        "parameters_confirmed": false,
+        "reasoning_effort": "none",
+        "thinking_mode": "none",
+        "output_limit_field": "max_completion_tokens"
+      },
+      "route_id": "80c1a0800214d59a110d079ba69bfd04955cbdd093fcc0077d0e7fc4b8f144f2",
+      "access_channel": "relay",
+      "base_url": "https://token.mmh1.top/v1",
+      "adapter": "relay",
+      "repeat_index": 1,
+      "mode": "baseline",
+      "search_enabled": false,
+      "source_type": "api",
+      "prompt_text": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构；论文须为能够在中国知网检索到的学术期刊论文。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "request_parameters": {
+        "max_output_tokens": 8192,
+        "timeout": 180
+      },
+      "thinking_mode": "none",
+      "coding_rule_version": "publication_visibility_coding_v2",
+      "sdk_retries": 0,
+      "caller_retries": 0,
+      "generation_authorized": false,
+      "request_config_id": "9597931c4a07c93b292137ee5de04b478cfde0543ac42ab93509e3744574ad77",
+      "effective_reasoning_parameters": {
+        "reasoning_effort": "none",
+        "thinking_mode": "none"
+      },
+      "proposed_wire_parameters": {
+        "model": "gpt-5.6-terra",
+        "messages": [
+          {
+            "role": "user",
+            "content": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构；论文须为能够在中国知网检索到的学术期刊论文。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+          }
+        ],
+        "max_completion_tokens": 8192,
+        "reasoning_effort": "none"
+      },
+      "source_generation_protocol": "supplement_only_not_main",
+      "parent_prompt_text": "请推荐关于「算法推荐与信息茧房」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+      "parent_configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+      "parent_job_id": "6e7387a1bd0ebbae4cba9e350e78a8a32c8b038fc01cd6503a9d9d546c7df780",
+      "job_id": "china_directed_a80d839d194bf4ba978a7aedbd66287464067d777059d3673c9390d467bbc447",
+      "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\openai\\china_directed_a80d839d194bf4ba978a7aedbd66287464067d777059d3673c9390d467bbc447",
+      "sequence": 16
+    }
+  ],
+  "random_seed": 2026101202,
+  "planned_generation_requests": 16,
+  "authorized_generation_requests": 0,
+  "actual_generation_requests": 0,
+  "ready_to_execute": false,
+  "dry_run": true,
+  "software_reservation": {
+    "CNY": "1.40",
+    "USD": "0.40"
+  },
+  "planned_provider_requests": {
+    "openai": 4,
+    "gemini": 4,
+    "deepseek": 4,
+    "qwen": 4
+  },
+  "billing_risk_accepted": false,
+  "user_authorized": false,
+  "parent_main_manifest_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+  "verification_policy": "CNKI indexing and Mainland institutional responsibility are independent evidence dimensions; baseline model output is not proof of online retrieval"
+}

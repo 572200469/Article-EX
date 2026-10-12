@@ -1,0 +1,1798 @@
+{
+  "source_id": "labor_stream",
+  "requested_url": "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/6",
+  "checked_at": "2026-10-12T09:16:58.236870+00:00",
+  "access_scope": "public_no_login",
+  "method": "GET",
+  "paid_request": false,
+  "http_status": 200,
+  "final_url": "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/6",
+  "sha256": "e8e09af7596f3acbb5f2f3b01948c5104c654cc63cfd5ec1b9c81e5dbcb304d0",
+  "content_length": 289638,
+  "metadata": {
+    "viewport": [
+      "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+      "width=device-width, initial-scale=1"
+    ],
+    "description": [
+      "根据第45次《中国互联网络发展状况统计报告》的统计，截至2020年3月，中国网络秀场直播的用户规模达到2.07亿，成为互联网中一项重要的经济产业。既有研究往往借用情感劳动这一概念，聚焦于直播平台与公会如何异化和剥削从业者。然而，这一取向一方面在很大程度上忽略了主播作为劳动者的主观体验；另一方面，情感劳动在解释主播工作实践的过程中也显现出局限性。因此，本研究基于12个月的数码民族志，通过将“关系劳动”与“平台化”这两个理论视角加以结合，考察了秀场主播如何理解并实践自己与观众在直播间内/外形成的经济关系与亲密关系，并梳理出“标价”“区分”和“界限”三种行动策略。在此基础上，本研究进一步对关系劳动、平台化与秀场主播的主体性这三个概念进行了理论反思。"
+    ],
+    "authors": [
+      "董晨宇, 叶蓁"
+    ],
+    "keywords": [
+      "主播,数码民族志,关系劳动,平台化,双重不稳定性"
+    ],
+    "robots": [
+      "index"
+    ],
+    "renderer": [
+      "webkit"
+    ],
+    "format-detection": [
+      "telephone=no"
+    ],
+    "apple-mobile-web-app-capable": [
+      "yes"
+    ],
+    "apple-mobile-web-app-title": [
+      "做主播：一项关系劳动的数码民族志"
+    ],
+    "mobile-web-app-capable": [
+      "yes"
+    ],
+    "screen-orientation": [
+      "portrait"
+    ],
+    "x5-orientation": [
+      "portrait"
+    ],
+    "full-screen": [
+      "yes"
+    ],
+    "x5-fullscreen": [
+      "true"
+    ],
+    "browsermode": [
+      "application"
+    ],
+    "x5-page-mode": [
+      "app"
+    ],
+    "msapplication-tap-highlight": [
+      "no"
+    ],
+    "dc.relation.is": [
+      "国际新闻界"
+    ],
+    "dc.citation.volume": [
+      "43"
+    ],
+    "dc.citation.issue": [
+      "12"
+    ],
+    "dc.citation.spage": [
+      "6"
+    ],
+    "dc.citation.epage": [
+      "28"
+    ],
+    "dc.title": [
+      "做主播：一项关系劳动的数码民族志"
+    ],
+    "dc.source": [
+      "国际新闻界"
+    ],
+    "dc.format": [
+      "text/html"
+    ],
+    "dc.publisher": [
+      ""
+    ],
+    "dc.date": [
+      "2021-12-23"
+    ],
+    "dc.type": [
+      ""
+    ],
+    "dc.language": [
+      "Cn"
+    ],
+    "dc.copyright": [
+      ""
+    ],
+    "dc.description": [
+      "根据第45次《中国互联网络发展状况统计报告》的统计，截至2020年3月，中国网络秀场直播的用户规模达到2.07亿，成为互联网中一项重要的经济产业。既有研究往往借用情感劳动这一概念，聚焦于直播平台与公会如何异化和剥削从业者。然而，这一取向一方面在很大程度上忽略了主播作为劳动者的主观体验；另一方面，情感劳动在解释主播工作实践的过程中也显现出局限性。因此，本研究基于12个月的数码民族志，通过将“关系劳动”与“平台化”这两个理论视角加以结合，考察了秀场主播如何理解并实践自己与观众在直播间内/外形成的经济关系与亲密关系，并梳理出“标价”“区分”和“界限”三种行动策略。在此基础上，本研究进一步对关系劳动、平台化与秀场主播的主体性这三个概念进行了理论反思。"
+    ],
+    "dc.relation.ispartof": [
+      "国际新闻界"
+    ],
+    "dc.creator": [
+      "董晨宇",
+      "叶蓁"
+    ],
+    "dc.subject": [
+      "主播",
+      "数码民族志",
+      "关系劳动",
+      "平台化",
+      "双重不稳定性"
+    ],
+    "prism.issn": [
+      "1002-5685"
+    ],
+    "prism.publicationDate": [
+      "2021-12-23"
+    ],
+    "prism.section": [
+      ""
+    ],
+    "prism.volume": [
+      "43"
+    ],
+    "prism.number": [
+      "12"
+    ],
+    "prism.startingPage": [
+      "6"
+    ],
+    "prism.endingPage": [
+      "28"
+    ],
+    "prism.copyright": [
+      ""
+    ],
+    "prism.url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/6"
+    ],
+    "citation_pdf_url": [
+      "http://cjjc.ruc.edu.cn/CN/PDF/1185"
+    ],
+    "citation_abstract_html_url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/6"
+    ],
+    "citation_fulltext_html_url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/6"
+    ],
+    "citation_journal_title": [
+      "国际新闻界"
+    ],
+    "citation_publisher": [
+      ""
+    ],
+    "citation_issn": [
+      "1002-5685"
+    ],
+    "citation_title": [
+      "做主播：一项关系劳动的数码民族志"
+    ],
+    "citation_authors": [
+      "董晨宇, 叶蓁"
+    ],
+    "citation_volume": [
+      "43"
+    ],
+    "citation_issue": [
+      "12"
+    ],
+    "citation_publication_date": [
+      "2021/12/23"
+    ],
+    "citation_online_date": [
+      "2021/12/23"
+    ],
+    "citation_firstpage": [
+      "6"
+    ],
+    "citation_lastpage": [
+      "28"
+    ],
+    "citation_article_type": [
+      ""
+    ],
+    "citation_language": [
+      "zh"
+    ],
+    "citation_doi": [
+      ""
+    ],
+    "citation_abstract": [
+      "根据第45次《中国互联网络发展状况统计报告》的统计，截至2020年3月，中国网络秀场直播的用户规模达到2.07亿，成为互联网中一项重要的经济产业。既有研究往往借用情感劳动这一概念，聚焦于直播平台与公会如何异化和剥削从业者。然而，这一取向一方面在很大程度上忽略了主播作为劳动者的主观体验；另一方面，情感劳动在解释主播工作实践的过程中也显现出局限性。因此，本研究基于12个月的数码民族志，通过将“关系劳动”与“平台化”这两个理论视角加以结合，考察了秀场主播如何理解并实践自己与观众在直播间内/外形成的经济关系与亲密关系，并梳理出“标价”“区分”和“界限”三种行动策略。在此基础上，本研究进一步对关系劳动、平台化与秀场主播的主体性这三个概念进行了理论反思。"
+    ],
+    "citation_keywords": [
+      "主播",
+      "数码民族志",
+      "关系劳动",
+      "平台化",
+      "双重不稳定性"
+    ],
+    "citation_date": [
+      "2021/12/23"
+    ],
+    "citation_author": [
+      "董晨宇",
+      "叶蓁"
+    ],
+    "article_references": [
+      "董晨宇, 叶蓁. 做主播：一项关系劳动的数码民族志. 国际新闻界. 2021, 43 (12): 6-28."
+    ],
+    "google-site-verification": [
+      "GqftDyjkbLznCjwJH3xdvsEi1ZnXlVqxWMeQ5H2MD38"
+    ]
+  },
+  "structured_article": {
+    "bioList_en": [
+      {
+        "content": "<p id=\"com2\">Dong Chenyu is a lecturer of School of Journalism, Renmin University of China. Email: <a class=\"mag-xml-email-a\" href=\"mailto:mlln@ruc.edu.cn\">mlln@ruc.edu.cn</a>.</p>"
+      },
+      {
+        "content": "<p id=\"com4\">Ye Zhen is a Ph.D. student of Erasmus School of History, Culture and Communication, Erasmus University Rotterdam. Email: <a class=\"mag-xml-email-a\" href=\"mailto:ye@eshcc.eur.nl\">ye@eshcc.eur.nl</a>.</p>"
+      }
+    ],
+    "referenceList": [
+      {
+        "publicationType": "report",
+        "id": "b1",
+        "label": "[1]",
+        "nian": 2020,
+        "citedCount": 0,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "中国互联网络信息中心",
+                "personType": "author"
+              }
+            ],
+            "content": "中国互联网络信息中心(<span class=\"yearStyle\">2020</span>). 第 45 次《中国互联网络发展状况统计报告》.检索于 http://www.cac.gov.cn/2020-04/27/c_1589535470378587.htm. ",
+            "url": "http://www.cac.gov.cn/2020-04/27/c_1589535470378587.htm"
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_3"
+        ],
+        "publicationType": "report",
+        "id": "b2",
+        "label": "[2]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "社交平台陌陌",
+                "personType": "author"
+              }
+            ],
+            "content": "社交平台陌陌(<span class=\"yearStyle\">2019</span>). 2018主播职业报告.检索于 http://www.199it.com/archives/818625.html. ",
+            "url": "http://www.199it.com/archives/818625.html"
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_3"
+        ],
+        "publicationType": "report",
+        "id": "b3",
+        "label": "[3]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "社交平台陌陌",
+                "personType": "author"
+              }
+            ],
+            "content": "社交平台陌陌(<span class=\"yearStyle\">2020</span>). 2019主播职业报告.检索于 http://www.199it.com/archives/995592.html. ",
+            "url": "http://www.199it.com/archives/995592.html"
+          }
+        ]
+      },
+      {
+        "sourceCn": "《福建师范大学学报(哲学社会科学版)》",
+        "publicationType": "journal",
+        "id": "b4",
+        "label": "[4]",
+        "nian": 2021,
+        "citedCount": 0,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "董晨宇",
+                "personType": "author"
+              },
+              {
+                "name": "丁依然",
+                "personType": "author"
+              },
+              {
+                "name": "叶蓁",
+                "personType": "author"
+              }
+            ],
+            "content": "董晨宇, 丁依然, 叶蓁(<span class=\"yearStyle\">2021</span>). 制造亲密:中国网络秀场直播中的商品化关系及其不稳定性. <span class=\"sourceStyle\">《福建师范大学学报(哲学社会科学版)》</span>,(3),137-151."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻界》",
+        "bodyP_ids": [
+          "mag_rich_body_p_62"
+        ],
+        "publicationType": "journal",
+        "id": "b5",
+        "label": "[5]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "丁依然",
+                "personType": "author"
+              }
+            ],
+            "content": "丁依然(<span class=\"yearStyle\">2021</span>). 从\"剥削\"中突围:数字劳工研究的现状、问题和再陌生化. <span class=\"sourceStyle\">《新闻界》</span>,(5),68-77."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻与传播研究》",
+        "bodyP_ids": [
+          "mag_rich_body_p_6",
+          "mag_rich_body_p_17",
+          "mag_rich_body_p_27"
+        ],
+        "publicationType": "journal",
+        "id": "b6",
+        "label": "[6]",
+        "nian": 2019,
+        "citedCount": 3,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "胡鹏辉",
+                "personType": "author"
+              },
+              {
+                "name": "余富强",
+                "personType": "author"
+              }
+            ],
+            "content": "胡鹏辉, 余富强(<span class=\"yearStyle\">2019</span>). 网络主播与情感劳动:一项探索性研究. <span class=\"sourceStyle\">《新闻与传播研究》</span>,(2),38-61+126."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻学研究》(台湾)",
+        "bodyP_ids": [
+          "mag_rich_body_p_11"
+        ],
+        "publicationType": "journal",
+        "id": "b7",
+        "label": "[7]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "林怡洁",
+                "personType": "author"
+              },
+              {
+                "name": "单蔓婷",
+                "personType": "author"
+              }
+            ],
+            "content": "林怡洁, 单蔓婷(<span class=\"yearStyle\">2021</span>). 中国大陆女性社交直播主的数位劳动与性别政治. <span class=\"sourceStyle\">《新闻学研究》(台湾)</span>,(146),53-95."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻记者》",
+        "bodyP_ids": [
+          "mag_rich_body_p_4",
+          "mag_rich_body_p_9",
+          "mag_rich_body_p_12"
+        ],
+        "publicationType": "journal",
+        "id": "b8",
+        "label": "[8]",
+        "nian": 2020,
+        "citedCount": 3,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "孙信茹",
+                "personType": "author"
+              },
+              {
+                "name": "甘庆超",
+                "personType": "author"
+              }
+            ],
+            "content": "孙信茹, 甘庆超(<span class=\"yearStyle\">2020</span>). “熟悉的陌生人”:网络直播中刷礼物与私密关系研究. <span class=\"sourceStyle\">《新闻记者》</span>,(5),25-35."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻记者》",
+        "bodyP_ids": [
+          "mag_rich_body_p_17"
+        ],
+        "publicationType": "journal",
+        "id": "b9",
+        "label": "[9]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "夏冰青",
+                "personType": "author"
+              }
+            ],
+            "content": "夏冰青(<span class=\"yearStyle\">2020</span>). 数字劳工的概念、学派与主体性问题——西方数字劳工理论发展述评. <span class=\"sourceStyle\">《新闻记者》</span>,(8),87-96."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《制造网红——直播时代的情感、算法与数码资本主义》",
+        "bodyP_ids": [
+          "mag_rich_body_p_36",
+          "mag_rich_body_p_67"
+        ],
+        "publicationType": "thesis",
+        "id": "b10",
+        "label": "[10]",
+        "nian": 2020,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "郑肯",
+                "personType": "author"
+              }
+            ],
+            "content": "郑肯(<span class=\"yearStyle\">2020</span>). <span class=\"sourceStyle\">《制造网红——直播时代的情感、算法与数码资本主义》</span>.北京大学社会学系硕士论文.北京."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Women's Studies International Forum",
+        "bodyP_ids": [
+          "mag_rich_body_p_24"
+        ],
+        "publicationType": "journal",
+        "id": "b11",
+        "label": "[11]",
+        "nian": 2012,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Abidin C.",
+                "personType": "author"
+              },
+              {
+                "name": "Thompson E. C.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Abidin</surname> <given-names>C.</given-names></name>, &amp; <name><surname>Thompson</surname> <given-names>E. C.</given-names></name> (<span class=\"yearStyle\">2012</span>). Buymylife. com: Cyber-femininities and commercial intimacy in blogshops. <span class=\"sourceStyle\">Women's Studies International Forum</span>, <span class=\"volStyele\">35</span>(6), 467-477. ",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S027753951200129X",
+            "doi": "10.1016/j.wsif.2012.10.005"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Feminist Media Studies",
+        "bodyP_ids": [
+          "mag_rich_body_p_67"
+        ],
+        "publicationType": "journal",
+        "id": "b12",
+        "label": "[12]",
+        "nian": 2016,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Arcy J.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Arcy</surname> <given-names>J.</given-names></name> (<span class=\"yearStyle\">2016</span>). Emotion work: Considering gender in digital labor. <span class=\"sourceStyle\">Feminist Media Studies</span>, <span class=\"volStyele\">16</span>(2), 365-368. ",
+            "url": "http://www.tandfonline.com/doi/full/10.1080/14680777.2016.1138609",
+            "doi": "10.1080/14680777.2016.1138609"
+          }
+        ]
+      },
+      {
+        "sourceEn": "politics, philosophy &amp; economics",
+        "bodyP_ids": [
+          "mag_rich_body_p_9"
+        ],
+        "publicationType": "journal",
+        "id": "b13",
+        "label": "[13]",
+        "nian": 2008,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Badhwar N. K.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Badhwar</surname> <given-names>N. K.</given-names></name> (<span class=\"yearStyle\">2008</span>). Friendship and commercial societies. <span class=\"sourceStyle\">politics, philosophy &amp; economics</span>, <span class=\"volStyele\">7</span>(3), 301-326."
+          }
+        ]
+      },
+      {
+        "sourceEn": "The communication review",
+        "bodyP_ids": [
+          "mag_rich_body_p_7",
+          "mag_rich_body_p_9",
+          "mag_rich_body_p_61"
+        ],
+        "publicationType": "journal",
+        "id": "b14",
+        "label": "[14]",
+        "nian": 2015,
+        "citedCount": 4,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Baym N. K.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Baym</surname> <given-names>N. K.</given-names></name> (<span class=\"yearStyle\">2015</span>). Connect with your audience! The relational labor of connection. <span class=\"sourceStyle\">The communication review</span>, <span class=\"volStyele\">18</span>(1), 14-22. ",
+            "url": "http://www.tandfonline.com/doi/abs/10.1080/10714421.2015.996401",
+            "doi": "10.1080/10714421.2015.996401"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Playing to the crowd:Musicians, audiences, and the intimate work of connection",
+        "bodyP_ids": [
+          "mag_rich_body_p_7",
+          "mag_rich_body_p_8",
+          "mag_rich_body_p_59",
+          "mag_rich_body_p_61"
+        ],
+        "publicationType": "book",
+        "id": "b15",
+        "label": "[15]",
+        "nian": 2018,
+        "citedCount": 5,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Baym N. K.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Baym</surname> <given-names>N. K.</given-names></name> (<span class=\"yearStyle\">2018</span>). <span class=\"sourceStyle\">Playing to the crowd:Musicians, audiences, and the intimate work of connection</span>. NY: New York University Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Ethnography",
+        "publicationType": "journal",
+        "id": "b16",
+        "label": "[16]",
+        "nian": 2001,
+        "citedCount": 0,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Bernstein E.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Bernstein</surname> <given-names>E.</given-names></name> (<span class=\"yearStyle\">2001</span>). The Meaning of the Purchase: Desire, Demand and the Commerce of Sex. <span class=\"sourceStyle\">Ethnography</span>, <span class=\"volStyele\">2</span>(3): 389-420. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/14661380122230975",
+            "doi": "10.1177/14661380122230975"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Current sociology",
+        "bodyP_ids": [
+          "mag_rich_body_p_51"
+        ],
+        "publicationType": "journal",
+        "id": "b17",
+        "label": "[17]",
+        "nian": 2007,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Brighenti A.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Brighenti</surname> <given-names>A.</given-names></name> (<span class=\"yearStyle\">2007</span>). Visibility: A category for the social sciences. <span class=\"sourceStyle\">Current sociology</span>, <span class=\"volStyele\">55</span>(3), 323-342. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/0011392107076079",
+            "doi": "10.1177/0011392107076079"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Sociology",
+        "bodyP_ids": [
+          "mag_rich_body_p_59"
+        ],
+        "publicationType": "journal",
+        "id": "b18",
+        "label": "[18]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Carbonero M. A.",
+                "personType": "author"
+              },
+              {
+                "name": "Gómez G. M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Carbonero</surname> <given-names>M. A.</given-names></name>, &amp; <name><surname>Gómez</surname> <given-names>G. M.</given-names></name> (<span class=\"yearStyle\">2018</span>). Being like your girlfriend: Authenticity and the shifting borders of intimacy in sex work. <span class=\"sourceStyle\">Sociology</span>, <span class=\"volStyele\">52</span>(2), 384-399. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/0038038516688609",
+            "doi": "10.1177/0038038516688609"
+          }
+        ]
+      },
+      {
+        "sourceEn": "International Journal of Cultural Studies",
+        "bodyP_ids": [
+          "mag_rich_body_p_6",
+          "mag_rich_body_p_36",
+          "mag_rich_body_p_67"
+        ],
+        "publicationType": "journal",
+        "id": "b19",
+        "label": "[19]",
+        "nian": 2019,
+        "citedCount": 3,
+        "citationList": [
+          {
+            "annotation": "This article examines conditions placing China’s livestreamers as central focal points in the increasing tensions between the cultural politics and economic ambitions of digital China. Framed by concerns around ‘platformization’, this research uses a creator-centric critical media industries studies perspective. Chinese livestreamers enjoy a greater degree of opportunity than their Western counterparts, including competing gameplay platforms that vie for premier gameplayers who can dictate their own terms. Decades-old cultural policies fostered underlying conditions that advantage female streamers engaging in gendered performativity to appeal to lonely rich men. Livestreamers ride marketing imperatives directing consumers to cross-integrated e-commerce platforms that fuel China’s emerging consumption culture. But livestreamers engage in ‘edge ball’ violations of Chinese norms that make them subject to an ever-increasing level of state regulatory restraint, signaling the return of ideology designed to mold online expression and behavior.",
+            "personList": [
+              {
+                "name": "Cunningham S.",
+                "personType": "author"
+              },
+              {
+                "name": "Craig D.",
+                "personType": "author"
+              },
+              {
+                "name": "Lv J.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Cunningham</surname> <given-names>S.</given-names></name>, <name><surname>Craig</surname> <given-names>D.</given-names></name>, &amp; <name><surname>Lv</surname> <given-names>J.</given-names></name> (<span class=\"yearStyle\">2019</span>). China’s livestreaming industry: platforms, politics, and precarity. <span class=\"sourceStyle\">International Journal of Cultural Studies</span>, <span class=\"volStyele\">22</span>(6), 719-736. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1367877919834942",
+            "doi": "10.1177/1367877919834942"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of Digital Social Research",
+        "bodyP_ids": [
+          "mag_rich_body_p_22"
+        ],
+        "publicationType": "journal",
+        "id": "b20",
+        "label": "[20]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "\\r\\nThe relative novelty of digital ethnography as a research methodology, along with the challenges that it moves to classical understandings of fieldwork, participation and representation, results in a repertoire of professional illusions through which digital ethnographers justify their work when confronted with the disciplinary culture of anthropology. This essay is based on the author’s reflexive experience of researching digital media use in China, and updates Gary Alan Fine’s 1993 article “Ten Lies of Ethnography” by identifying three lies of digital ethnography. Illustrating each of these lies through an archetypal figure – the ‘networked field-weaver’, the ‘eager participant-lurker’ and the ‘expert fabricator’ – this article argues for the need to confront methodological illusions and embrace the tensions behind them as useful heuristics for conducting ethnographic research on, through and about digital media.\\r\\n",
+            "personList": [
+              {
+                "name": "De Seta G.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>De Seta</surname> <given-names>G.</given-names></name> (<span class=\"yearStyle\">2020</span>). Three lies of digital ethnography. <span class=\"sourceStyle\">Journal of Digital Social Research</span>, <span class=\"volStyele\">2</span>(1), 2020, 77-97. ",
+            "url": "https://publicera.kb.se/jdsr/article/view/25246",
+            "doi": "10.33621/jdsr.v2i1.24"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Social Media+ Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_17",
+          "mag_rich_body_p_66"
+        ],
+        "publicationType": "journal",
+        "id": "b21",
+        "label": "[21]",
+        "nian": 2019,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Duffy B. E.",
+                "personType": "author"
+              },
+              {
+                "name": "Poell T.",
+                "personType": "author"
+              },
+              {
+                "name": "Nieborg D. B.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Duffy</surname> <given-names>B. E.</given-names></name>, <name><surname>Poell</surname> <given-names>T.</given-names></name>, &amp; <name><surname>Nieborg</surname> <given-names>D. B.</given-names></name> (<span class=\"yearStyle\">2019</span>). Platform practices in the cultural industries: Creativity, labor, and citizenship. <span class=\"sourceStyle\">Social Media+ Society</span>, <span class=\"volStyele\">5</span>(4)."
+          }
+        ]
+      },
+      {
+        "sourceEn": "The Routledge Companion to Digital Ethnography",
+        "bodyP_ids": [
+          "mag_rich_body_p_61"
+        ],
+        "publicationType": "standard",
+        "id": "b22",
+        "label": "[22]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Dumont G.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Dumont</surname> <given-names>G.</given-names></name> (<span class=\"yearStyle\">2017</span>). Relational Labor, Fans, and Collaborations in Professional Rock Climbing. In Larissa H., Heather H., Anne G. &amp; Genevieve B. (<strong>Eds.</strong>), <span class=\"sourceStyle\">The Routledge Companion to Digital Ethnography</span> (pp. 147-158). NY: Routledge."
+          }
+        ]
+      },
+      {
+        "sourceEn": "New Media &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_66"
+        ],
+        "publicationType": "journal",
+        "id": "b23",
+        "label": "[23]",
+        "nian": 2010,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Gillespie T.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Gillespie</surname> <given-names>T.</given-names></name> (<span class=\"yearStyle\">2010</span>). The politics of ‘platforms’. <span class=\"sourceStyle\">New Media &amp; Society</span>, <span class=\"volStyele\">12</span>(3), 347-364. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1461444809342738",
+            "doi": "10.1177/1461444809342738"
+          }
+        ]
+      },
+      {
+        "sourceEn": "New Media &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_61"
+        ],
+        "publicationType": "journal",
+        "id": "b24",
+        "label": "[24]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Based on Internet Ethnography of a popular female live streamer on YouTube Gaming, this article theorizes how game live streaming invokes new forms of paid emotional labor that intersect with traditionally feminized demands of unpaid attentive and caring work. Drawing from an intersectional feminist framework that takes seriously small data and everyday life, this article suggests there is a shift toward one’s work being part of a personalized media economy that can relate to one’s audience. This study concludes with an invitation to think how folks under neoliberal capitalism are willing to leave secure, traditional 9-to-5 jobs, in order to be a professional gamer without any social safety nets and ultimately be always-on-the-clock.",
+            "personList": [
+              {
+                "name": "Guarriello N. B.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Guarriello</surname> <given-names>N. B.</given-names></name> (<span class=\"yearStyle\">2019</span>). Never give up, never surrender: Game live streaming, neoliberal work, and personalized media economies. <span class=\"sourceStyle\">New Media &amp; Society</span>, <span class=\"volStyele\">21</span>(8), 1750-1769. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1461444819831653",
+            "doi": "10.1177/1461444819831653"
+          }
+        ]
+      },
+      {
+        "sourceEn": "The managed heart",
+        "publicationType": "journal",
+        "id": "b25",
+        "label": "[25]",
+        "nian": 2012,
+        "citedCount": 0,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Hochschild A. R.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Hochschild</surname> <given-names>A. R.</given-names></name> (<span class=\"yearStyle\">2012</span>). <span class=\"sourceStyle\">The managed heart</span>. Oakland, CA: University of California press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Yonsei Medical Journal",
+        "bodyP_ids": [
+          "mag_rich_body_p_64"
+        ],
+        "publicationType": "journal",
+        "id": "b26",
+        "label": "[26]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "This literature review was conducted to investigate the association between emotional labor and burnout and to explore the role of personality in this relationship. The results of this review indicate that emotional labor is a job stressor that leads to burnout. Further examination of personality traits, such as self-efficacy and type A behavior pattern, is needed to understand the relationships between emotional labor and health outcomes, such as burnout, psychological distress, and depression. The results also emphasized the importance of stress management programs to reduce the adverse outcomes of emotional labor, as well as coping repertories to strengthen the personal potential suitable to organizational goals. Moreover, enhancing employees' capacities and competence and encouraging a positive personality through behavior modification are also necessary.© Copyright: Yonsei University College of Medicine 2018.",
+            "personList": [
+              {
+                "name": "Jeung D. Y.",
+                "personType": "author"
+              },
+              {
+                "name": "Kim C.",
+                "personType": "author"
+              },
+              {
+                "name": "Chang S. J.",
+                "personType": "author"
+              }
+            ],
+            "pmid": "29436185",
+            "content": "<name><surname>Jeung</surname> <given-names>D. Y.</given-names></name>, <name><surname>Kim</surname> <given-names>C.</given-names></name>, &amp; <name><surname>Chang</surname> <given-names>S. J.</given-names></name> (<span class=\"yearStyle\">2018</span>). Emotional labor and burnout: A review of the literature. <span class=\"sourceStyle\">Yonsei Medical Journal</span>, <span class=\"volStyele\">59</span>(2), 187-193. ",
+            "doi": "10.3349/ymj.2018.59.2.187"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Finance and Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_14"
+        ],
+        "publicationType": "journal",
+        "id": "b27",
+        "label": "[27]",
+        "nian": 2017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Langley P.",
+                "personType": "author"
+              },
+              {
+                "name": "Leyshon A.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Langley</surname> <given-names>P.</given-names></name>, &amp; <name><surname>Leyshon</surname> <given-names>A.</given-names></name> (<span class=\"yearStyle\">2017</span>). Platform capitalism: the intermediation and capitalization of digital economic circulation. <span class=\"sourceStyle\">Finance and Society</span>, <span class=\"volStyele\">3</span>(1), 11-31. ",
+            "url": "https://www.cambridge.org/core/product/identifier/FAS_3_1/type/journal_issue",
+            "doi": "10.2218/finsoc.v3i1"
+          }
+        ]
+      },
+      {
+        "sourceEn": "New Media &amp; Society",
+        "publicationType": "journal",
+        "id": "b28",
+        "label": "[28]",
+        "nian": 2018,
+        "citedCount": 0,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Light B.",
+                "personType": "author"
+              },
+              {
+                "name": "Burgess J.",
+                "personType": "author"
+              },
+              {
+                "name": "Duguay S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Light</surname> <given-names>B.</given-names></name>, <name><surname>Burgess</surname> <given-names>J.</given-names></name>, &amp; <name><surname>Duguay</surname> <given-names>S.</given-names></name> (<span class=\"yearStyle\">2018</span>). The walkthrough method: An approach to the study of apps. <span class=\"sourceStyle\">New Media &amp; Society</span>, <span class=\"volStyele\">20</span>(3), 881-900. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1461444816675438",
+            "doi": "10.1177/1461444816675438"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Social Media+ Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_11",
+          "mag_rich_body_p_13"
+        ],
+        "publicationType": "journal",
+        "id": "b29",
+        "label": "[29]",
+        "nian": 2019,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Lin J.",
+                "personType": "author"
+              },
+              {
+                "name": "de Kloet J.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Lin</surname> <given-names>J.</given-names></name>, &amp; <name><surname>de Kloet</surname> <given-names>J.</given-names></name> (<span class=\"yearStyle\">2019</span>). Platformization of the unlikely creative class: Kuaishou and Chinese digital cultural production. <span class=\"sourceStyle\">Social Media+ Society</span>, <span class=\"volStyele\">5</span>(4)."
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_22"
+        ],
+        "publicationType": "journal",
+        "id": "b30",
+        "label": "[30]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Lu Z.",
+                "personType": "author"
+              },
+              {
+                "name": "Xia H.",
+                "personType": "author"
+              },
+              {
+                "name": "Heo S.",
+                "personType": "author"
+              },
+              {
+                "name": "Wigdor D.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Lu</surname> <given-names>Z.</given-names></name>, <name><surname>Xia</surname> <given-names>H.</given-names></name>, <name><surname>Heo</surname> <given-names>S.</given-names></name>, &amp; <name><surname>Wigdor</surname> <given-names>D.</given-names></name> (<span class=\"yearStyle\">2018</span>, April). You watch, you give, and you engage: a study of live streaming practices in China. &gt;Paper presented at 2018 CHI conference on human factors in computing systems. Montreal."
+          }
+        ]
+      },
+      {
+        "sourceEn": "New Media &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_13",
+          "mag_rich_body_p_14",
+          "mag_rich_body_p_62"
+        ],
+        "publicationType": "journal",
+        "id": "b31",
+        "label": "[31]",
+        "nian": 2018,
+        "citedCount": 3,
+        "citationList": [
+          {
+            "annotation": "This article explores how the political economy of the cultural industries changes through platformization: the penetration of economic and infrastructural extensions of online platforms into the web, affecting the production, distribution, and circulation of cultural content. It pursues this investigation in critical dialogue with current research in business studies, political economy, and software studies. Focusing on the production of news and games, the analysis shows that in economic terms platformization entails the replacement of two-sided market structures with complex multisided platform configurations, dominated by big platform corporations. Cultural content producers have to continuously grapple with seemingly serendipitous changes in platform governance, ranging from content curation to pricing strategies. Simultaneously, these producers are enticed by new platform services and infrastructural changes. In the process, cultural commodities become fundamentally “contingent,” that is increasingly modular in design and continuously reworked and repackaged, informed by datafied user feedback.",
+            "personList": [
+              {
+                "name": "Nieborg D. B.",
+                "personType": "author"
+              },
+              {
+                "name": "Poell T.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Nieborg</surname> <given-names>D. B.</given-names></name>, &amp; <name><surname>Poell</surname> <given-names>T.</given-names></name> (<span class=\"yearStyle\">2018</span>). The platformization of cultural production: Theorizing the contingent cultural commodity. <span class=\"sourceStyle\">New Media &amp; Society</span>, <span class=\"volStyele\">20</span>(11), 4275-4292. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1461444818769694",
+            "doi": "10.1177/1461444818769694"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Social Media+ Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_61"
+        ],
+        "publicationType": "journal",
+        "id": "b32",
+        "label": "[32]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "O’Meara V.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>O’Meara</surname> <given-names>V.</given-names></name> (<span class=\"yearStyle\">2019</span>). Weapons of the chic: Instagram influencer engagement pods as practices of resistance to Instagram platform labor. <span class=\"sourceStyle\">Social Media+ Society</span>, <span class=\"volStyele\">5</span>(4)."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Camgirls:Celebrity and community in the age of social networks",
+        "publicationType": "standard",
+        "id": "b33",
+        "label": "[33]",
+        "nian": 2008,
+        "citedCount": 0,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Senft T. M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Senft</surname> <given-names>T. M.</given-names></name> (<span class=\"yearStyle\">2008</span>). <span class=\"sourceStyle\">Camgirls:Celebrity and community in the age of social networks</span>. NY: Peter Lang."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Platform capitalism",
+        "bodyP_ids": [
+          "mag_rich_body_p_11"
+        ],
+        "publicationType": "book",
+        "id": "b34",
+        "label": "[34]",
+        "nian": 2016,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Srnicek N.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Srnicek</surname> <given-names>N.</given-names></name> (<span class=\"yearStyle\">2016</span>). <span class=\"sourceStyle\">Platform capitalism</span>. Malden, MA: Polity Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of Computer-Mediated Communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_50"
+        ],
+        "publicationType": "journal",
+        "id": "b35",
+        "label": "[35]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Guided by the frameworks of niche and polymedia theories, this study sought to understand the phenomenon of platform-swinging on social media, which refers to the routine use of multiple social media platforms that has become commonplace across different ages. Based on focus group discussions (FGDs) with 62 social media users in Singapore, this study found that social media users engage in platform-swinging for relationship management and self-presentation gratifications. While these gratifications are also served by individual social media platforms, platform-swinging allows social media users to navigate structural, social, and norm barriers to obtain greater gratification opportunities. This has implications on how social media users subsequently regard and segment their personal relationships.",
+            "personList": [
+              {
+                "name": "Tandoc Jr E. C.",
+                "personType": "author"
+              },
+              {
+                "name": "Lou C.",
+                "personType": "author"
+              },
+              {
+                "name": "Min V. L. H.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Tandoc Jr</surname> <given-names>E. C.</given-names></name>, <name><surname>Lou</surname> <given-names>C.</given-names></name>, &amp; <name><surname>Min</surname> <given-names>V. L. H.</given-names></name> (<span class=\"yearStyle\">2019</span>). Platform-swinging in a poly-social-media context: How and why users navigate multiple social media platforms. <span class=\"sourceStyle\">Journal of Computer-Mediated Communication</span>, <span class=\"volStyele\">24</span>(1), 21-35. ",
+            "doi": "10.1093/jcmc/zmy022"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Watch me play:Twitch and the rise of game live streaming",
+        "bodyP_ids": [
+          "mag_rich_body_p_5"
+        ],
+        "publicationType": "book",
+        "id": "b36",
+        "label": "[36]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Taylor T. L.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Taylor</surname> <given-names>T. L.</given-names></name> (<span class=\"yearStyle\">2018</span>). <span class=\"sourceStyle\">Watch me play:Twitch and the rise of game live streaming</span>. Princeton, NJ: Princeton University Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Annual Review of Sociology",
+        "bodyP_ids": [
+          "mag_rich_body_p_63"
+        ],
+        "publicationType": "journal",
+        "id": "b37",
+        "label": "[37]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Vallas S.",
+                "personType": "author"
+              },
+              {
+                "name": "Schor J. B.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Vallas</surname> <given-names>S.</given-names></name>, &amp; <name><surname>Schor</surname> <given-names>J. B.</given-names></name> (<span class=\"yearStyle\">2020</span>). What do platforms do? Understanding the gig economy. <span class=\"sourceStyle\">Annual Review of Sociology</span>, <span class=\"volStyele\">46</span>, 273-294. ",
+            "url": "https://www.annualreviews.org/toc/soc/46/1",
+            "doi": "10.1146/soc.2020.46.issue-1"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Media and communication",
+        "publicationType": "journal",
+        "id": "b38",
+        "label": "[38]",
+        "nian": 2013,
+        "citedCount": 0,
+        "citationList": [
+          {
+            "annotation": "Over the past decade, social media platforms have penetrated deeply into the mech­anics of everyday life, affecting people's informal interactions, as well as institutional structures and professional routines. Far from being neutral platforms for everyone, social media have changed the conditions and rules of social interaction. In this article, we examine the intricate dynamic between social media platforms, mass media, users, and social institutions by calling attention to social media logic—the norms, strategies, mechanisms, and economies—underpin­ning its dynamics. This logic will be considered in light of what has been identified as mass me­dia logic, which has helped spread the media's powerful discourse outside its institutional boundaries. Theorizing social media logic, we identify four grounding principles—programmabil­ity, popularity, connectivity, and datafication—and argue that these principles become increas­ingly entangled with mass media logic. The logic of social media, rooted in these grounding principles and strategies, is gradually invading all areas of public life. Besides print news and broadcasting, it also affects law and order, social activism, politics, and so forth. Therefore, its sustaining logic and widespread dissemination deserve to be scrutinized in detail in order to better understand its impact in various domains. Concentrating on the tactics and strategies at work in social media logic, we reassess the constellation of power relationships in which social practices unfold, raising questions such as: How does social media logic modify or enhance ex­isting mass media logic? And how is this new media logic exported beyond the boundaries of (social or mass) media proper? The underlying principles, tactics, and strategies may be relat­ively simple to identify, but it is much harder to map the complex connections between plat­forms that distribute this logic: users that employ them, technologies that drive them, economic structures that scaffold them, and institutional bodies that incorporate them.",
+            "personList": [
+              {
+                "name": "van Dijck J.",
+                "personType": "author"
+              },
+              {
+                "name": "Poell T.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>van Dijck</surname> <given-names>J.</given-names></name>, &amp; <name><surname>Poell</surname> <given-names>T.</given-names></name> (<span class=\"yearStyle\">2013</span>). Understanding social media logic. <span class=\"sourceStyle\">Media and communication</span>, <span class=\"volStyele\">1</span>(1), 2-14. ",
+            "url": "https://www.cogitatiopress.com/mediaandcommunication/article/view/70",
+            "doi": "10.17645/mac.v1i1.70"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Social Media+ Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_13"
+        ],
+        "publicationType": "journal",
+        "id": "b39",
+        "label": "[39]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "van Es K.",
+                "personType": "author"
+              },
+              {
+                "name": "Poell T.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>van Es</surname> <given-names>K.</given-names></name>, &amp; <name><surname>Poell</surname> <given-names>T.</given-names></name> (<span class=\"yearStyle\">2020</span>). Platform imaginaries and Dutch public service media. <span class=\"sourceStyle\">Social Media+ Society</span>, <span class=\"volStyele\">6</span>(2)."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of Gender Studies",
+        "bodyP_ids": [
+          "mag_rich_body_p_17"
+        ],
+        "publicationType": "journal",
+        "id": "b40",
+        "label": "[40]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Wang Y.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Wang</surname> <given-names>Y.</given-names></name> (<span class=\"yearStyle\">2021</span>). Playing live-streaming ‘love games’: mediated intimacy and desperational labour in digital China. <span class=\"sourceStyle\">Journal of Gender Studies</span>, <span class=\"volStyele\">30</span>(5), 1-12. ",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/09589236.2020.1851508",
+            "doi": "10.1080/09589236.2020.1851508"
+          }
+        ]
+      },
+      {
+        "sourceEn": "tv. Television &amp; New Media",
+        "bodyP_ids": [
+          "mag_rich_body_p_6"
+        ],
+        "publicationType": "journal",
+        "id": "b41",
+        "label": "[41]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Woodcock J.",
+                "personType": "author"
+              },
+              {
+                "name": "Johnson M. R.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Woodcock</surname> <given-names>J.</given-names></name>, &amp; <name><surname>Johnson</surname> <given-names>M. R.</given-names></name> (<span class=\"yearStyle\">2019</span>). The affective labor and performance of live streaming on Twitch. <span class=\"sourceStyle\">tv. Television &amp; New Media</span>, <span class=\"volStyele\">20</span>(8), 813-823."
+          }
+        ]
+      },
+      {
+        "sourceEn": "The purchase of intimacy",
+        "bodyP_ids": [
+          "mag_rich_body_p_7"
+        ],
+        "publicationType": "book",
+        "id": "b42",
+        "label": "[42]",
+        "nian": 2005,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Zelizer V. A.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Zelizer</surname> <given-names>V. A.</given-names></name> (<span class=\"yearStyle\">2005</span>). <span class=\"sourceStyle\">The purchase of intimacy</span>. Princeton, NJ: Princeton University Press."
+          }
+        ]
+      },
+      {
+        "publicationType": "thesis",
+        "id": "b43",
+        "label": "[43]",
+        "nian": 2019,
+        "citedCount": 0,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Zhang G.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Zhang</surname> <given-names>G.</given-names></name> (<span class=\"yearStyle\">2019</span>). Zhibo: An ethnography of ordinary, boring, and vulgar livestreams. PhD dissertation, RMIT University, Melbourne."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Chinese Journal of Communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_4",
+          "mag_rich_body_p_8",
+          "mag_rich_body_p_12",
+          "mag_rich_body_p_16",
+          "mag_rich_body_p_24",
+          "mag_rich_body_p_65"
+        ],
+        "publicationType": "journal",
+        "id": "b44",
+        "label": "[44]",
+        "nian": 2019,
+        "citedCount": 6,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Zhang X.",
+                "personType": "author"
+              },
+              {
+                "name": "Xiang Y.",
+                "personType": "author"
+              },
+              {
+                "name": "Hao L.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Zhang</surname> <given-names>X.</given-names></name>, <name><surname>Xiang</surname> <given-names>Y.</given-names></name>, &amp; <name><surname>Hao</surname> <given-names>L.</given-names></name> (<span class=\"yearStyle\">2019</span>). Virtual gifting on China’s live streaming platforms: Hijacking the online gift economy. <span class=\"sourceStyle\">Chinese Journal of Communication</span>, <span class=\"volStyele\">12</span>(3), 340-355. ",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/17544750.2019.1583260",
+            "doi": "10.1080/17544750.2019.1583260"
+          }
+        ]
+      },
+      {
+        "sourceEn": "New Media &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_42"
+        ],
+        "publicationType": "journal",
+        "id": "b45",
+        "label": "[45]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Daigou, literally translated as buying on behalf of, is a Mandarin term that refers to a form of personalised transnational trading activity, which is generally characterised by practices of purchasing locally manufactured products overseas and reselling them to consumers in China via international courier services. This article examines Chinese international students’ digital labour invested in daigou and their use of social media, particularly WeChat, in running their personal enterprises. Through the analytical lens of ‘boundary’, the article reveals how daigou activities involve sustained crossing and reconstructing boundaries of privacy through selective self-disclosure of personal information. This study contributes to the empirical literature on international students’ everyday use of digital media by highlighting their work practices in the digital age. Conceptually, the case study of daigou suggests overlapping spaces between various forms of digital labour and the relevance of ‘unproductive’ labour which constitutes a necessary dimension of online work.",
+            "personList": [
+              {
+                "name": "Zhao X.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Zhao</surname> <given-names>X.</given-names></name> (<span class=\"yearStyle\">2021</span>). Digital labour in transnational mobility: Chinese international students’ online boundary work in daigou. <span class=\"sourceStyle\">New Media &amp; Society</span>, <span class=\"volStyele\">23</span>(9), 2554-2574. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1461444820934096",
+            "doi": "10.1177/1461444820934096"
+          }
+        ]
+      },
+      {
+        "sourceEn": "TripleC: Communication, Capitalism &amp; Critique",
+        "bodyP_ids": [
+          "mag_rich_body_p_4"
+        ],
+        "publicationType": "journal",
+        "id": "b46",
+        "label": "[46]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Zou S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Zou</surname> <given-names>S.</given-names></name> (<span class=\"yearStyle\">2018</span>). Producing value out of the invaluable: A critical/cultural perspective on the live streaming industry in China. <span class=\"sourceStyle\">TripleC: Communication, Capitalism &amp; Critique</span>, <span class=\"volStyele\">16</span>(2), 805-819."
+          }
+        ]
+      }
+    ],
+    "bioList_cn": [
+      {
+        "content": "<p id=\"com1\">董晨宇，中国人民大学新闻学院讲师。电子邮箱：<a class=\"mag-xml-email-a\" href=\"mailto:mlln@ruc.edu.cn\">mlln@ruc.edu.cn</a>。</p>"
+      },
+      {
+        "content": "<p id=\"com3\">叶蓁，荷兰鹿特丹伊拉斯姆斯大学博士研究生。电子邮箱：<a class=\"mag-xml-email-a\" href=\"mailto:ye@eshcc.eur.nl\">ye@eshcc.eur.nl</a>。</p>"
+      }
+    ],
+    "fnList": [
+      {
+        "id": "note1",
+        "content": "<p id=\"C1\">1. 所谓PK，即一个主播对另一个主播发起的连线挑战，双方通过连麦的形式，在一定时间内，基于各自收到打赏的总金额来判定胜负，败方则要在PK结束之后接受事先约定好的惩罚游戏。</p>"
+      },
+      {
+        "id": "note2",
+        "content": "<p id=\"C2\">2. 当然，这里所谓的工作协议往往并不是传统意义上的劳动合同，而是类似于艺人合作协议。因此，大部分主播不会获得稳定的保底薪水。部分主播是可以通过签约获得底薪，例如公会与主播签订两个月的短期合同，承诺每个月的底薪为3000元。不过，因为合同本身往往并没有多少法律效力，在最终支付的问题上便会大打折扣甚至完全落空。在我们的田野中，主播Gill便签订了底薪合约，但两个月的工作之后，公司借口财务问题，拒绝支付。Gill在向劳动仲裁部门申诉时被拒绝，因为这份合同不属于劳动合同。</p>"
+      },
+      {
+        "id": "note3",
+        "content": "<p id=\"C3\">3. 直播行业从业者的流动性很大，我们接触的运营普遍认为，主播这一职业的平均从业寿命大概在两个月。在我们进行参与式观察的九个月时间内，有些主播在此期间“退网”，有些主播在此期间退网又复播，也有些主播则一直在从事直播。因此，我们对5位女主播的田野时间为两到六个月。</p>"
+      },
+      {
+        "id": "note4",
+        "content": "<p id=\"C4\">4. 对于具体秀场主播的选择，涉及到了时间和空间两个维度的代表性问题。从时间维度来讲，互联网平台始终处于一种持续转型的状态。因此，研究者必须明白自己所在田野工作的具体时期（periodization），以及蕴藏其中的局限性（Zhang，<xref ref-type=\"bibr\" rid=\"b43\">2019</xref>：22）。在我们的田野过程中，抖音直播的界面功能出现了多次调整（例如主播的总收入和观众总打赏被调整为不可见），因此，本研究注定只能截取直播行业发展的某一个片段。不过，在这一过程中，不论是平台的技术配置，还是公会的管理制度，它们的变化逻辑都是以收益最大化为目标，因此又具有相对的稳定性，并不会对我们的研究问题产生干扰；从空间维度来讲（“直播间”本身就是一种空间隐喻），我们挑选在哪些直播间进行田野，又忽略了哪些直播间，这本身是一个逐渐浮现（emerging）的过程，并且一定无法涵盖所有类别，或许这也已经超越了方法本身的野心。</p>"
+      },
+      {
+        "id": "note5",
+        "content": "<p id=\"C5\">5. 全职且高收入的所谓“大主播”，往往会拥有一个团队来协助直播工作，她们的场控一部分是团队内部的工作人员，另一部分则是刷礼物较多的“财团”。因为直播间人数和公屏发言较多，财团作为场控，可以通过“飘屏”让他们的发言被主播看到。当然，这一部分高度职业化“头部主播”数量较少，也并不是本研究主要的考察对象。</p>"
+      },
+      {
+        "id": "note6",
+        "content": "<p id=\"C6\">6. 这并不意味着小号会比大号更加“虚假”。例如，在小号中，主播可能反而会展现对生活的抱怨，在大号中却从不会这样做。其中的原因，一方面是因为主播可能会将小号视为自我情绪披露更安全的场所，另一方面，正如前文所言，则可能是因为主播会将真实自我的选择性披露作为一种换取信任的资源，女主播对自己生活的抱怨，也可能更大程度上激发男性观众的保护欲。</p>"
+      },
+      {
+        "id": "note7",
+        "content": "<p id=\"C7\">7. 抖音直播界面在这次访谈之后不久便做出改版，主播在邀请观众上麦语音聊天时，仍然需要进行视频直播，这更深一步地强化了可见性的不对等。</p>"
+      }
+    ],
+    "article": {
+      "keywordList_cn": [
+        "主播",
+        "数码民族志",
+        "关系劳动",
+        "平台化",
+        "双重不稳定性"
+      ],
+      "juan": "43",
+      "zhaiyao_cn": "<p id=\"p00010\">根据第45次《中国互联网络发展状况统计报告》的统计，截至2020年3月，中国网络秀场直播的用户规模达到2.07亿，成为互联网中一项重要的经济产业。既有研究往往借用情感劳动这一概念，聚焦于直播平台与公会如何异化和剥削从业者。然而，这一取向一方面在很大程度上忽略了主播作为劳动者的主观体验；另一方面，情感劳动在解释主播工作实践的过程中也显现出局限性。因此，本研究基于12个月的数码民族志，通过将“关系劳动”与“平台化”这两个理论视角加以结合，考察了秀场主播如何理解并实践自己与观众在直播间内/外形成的经济关系与亲密关系，并梳理出“标价”“区分”和“界限”三种行动策略。在此基础上，本研究进一步对关系劳动、平台化与秀场主播的主体性这三个概念进行了理论反思。</p>",
+      "endNoteUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=EndNote&id=1185",
+      "bibtexUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=BibTeX&id=1185",
+      "articleType": "A",
+      "abstractUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2021/V43/I12/6",
+      "qi": "12",
+      "id": 1185,
+      "nian": 2021,
+      "bianHao": "20211201",
+      "juanUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2021",
+      "shouCiFaBuRiQi": "2021-12-23",
+      "qiShiYe": "6",
+      "qiUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12",
+      "lanMu_cn": "本期话题/网络直播研究",
+      "pdfSize": "1644KB",
+      "risUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=Ris&id=1185",
+      "title_cn": "做主播：一项关系劳动的数码民族志",
+      "jieShuYe": "28",
+      "keywordList_en": [
+        "live-streamer",
+        "digital ethnography",
+        "relational labor",
+        "platformization",
+        "dual precarity"
+      ],
+      "endNoteUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=EndNote&id=1185",
+      "zhaiyao_en": "<p id=\"p00015\">According to the 45th Statistical Report on China’s Internet Development, as of March 2020, live-streaming show in China, which attracted 207 million users, has become an important economic industry. Previous studies often employed concept of emotional labor to investigate how live-streaming platforms alienated and exploited the practitioners. However, on the one hand, this approach largely ignored the live-streamers’ subjective experience; on the other hand, the use of emotional labor also showed limitations in explaining the live-streamers’ working practice. Therefore, based on a 12-month digital ethnography, this study combines “relational labor” and “platformization” to examine how live-streamers negotiate the economic and intimate relationships with their audiences inside/outside the live-streaming platform, and concludes three strategies of “pricing”, “differentiation” and “boundary”. The study also makes a further theoretical reflection on relational labor, platformization and the subjectivity of live-streamers.</p>",
+      "bibtexUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=BibTeX&id=1185",
+      "abstractUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/6",
+      "juanUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2021",
+      "lanMu_en": "Specific Topic / Live Webcast Studies",
+      "qiUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2021/V43/I12",
+      "risUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=Ris&id=1185",
+      "title_en": "Learning to Live-stream: A Digital Ethnography of Relational Labor",
+      "hasPdf": "true"
+    },
+    "authorList_en": [
+      {
+        "deceased": false,
+        "name_cn": "董晨宇",
+        "email": "mlln@ruc.edu.cn",
+        "name_en": "DONG Chenyu"
+      },
+      {
+        "deceased": false,
+        "name_cn": "叶蓁",
+        "email": "ye@eshcc.eur.nl",
+        "name_en": "YE Zhen"
+      }
+    ],
+    "authorList_cn": [
+      {
+        "deceased": false,
+        "name_cn": "董晨宇",
+        "email": "mlln@ruc.edu.cn",
+        "name_en": "DONG Chenyu"
+      },
+      {
+        "deceased": false,
+        "name_cn": "叶蓁",
+        "email": "ye@eshcc.eur.nl",
+        "name_en": "YE Zhen"
+      }
+    ],
+    "tabList": [
+      {
+        "captionCn": "<p id=\"p00115\">本文研究对象基本情况一览表</p>",
+        "magId": "f34c9bee-bf04-442e-99ab-0d7bfd878074",
+        "labelCn": "表1：",
+        "titleCn": "表1： 本文研究对象基本情况一览表",
+        "id": "T1",
+        "footFnList": [
+          {
+            "pList": [
+              "注：“-”部分表示被访者拒绝提供相关信息。"
+            ]
+          }
+        ],
+        "table": "<table class=\"mag_table table\"> <thead> <tr> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">序号</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">姓名</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">性别</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">年龄</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">职业</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">从业/观看历史</th> <th valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">接触方式</th></tr></thead> <tbody> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\" colspan=\"7\">1.主播</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Wendy</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">24</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">老师</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">8个月</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">参与式观察</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Pearl</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">24</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">私企行政</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">10个月</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">参与式观察</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Jessie</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">22</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">幼师</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">6个月</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">参与式观察</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">4</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Gill</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">22</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">在校生</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3个月</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">参与式观察</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">5</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Qiao</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">23</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">化妆师</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2个月</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">参与式观察</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">6</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Sugar</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">25</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">销售</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1个月</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">电话访谈</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">7</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Finn</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">23</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">国企行政</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">5年</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">电话访谈</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">8</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Gigi</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">21</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">在校生</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3个月</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">电话访谈</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">9</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Yiyi</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">24</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">销售</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2个月</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">电话访谈</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">10</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Manting</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">26</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">钢琴老师</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">微信语音访谈</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">11</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Qiu</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">19</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">在校生</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">微信语音访谈</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">12</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Pear</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">22</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">媒体运营</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2个月</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">微信语音访谈</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">13</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Cissy</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">24</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">金融销售</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">6个月</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">微信文字访谈</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">14</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Lovely</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">25</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">政府机关</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2个月</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">微信文字访谈</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">15</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Bing</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">26</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">微信文字访谈</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">16</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Sea</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">23</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">空姐</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1个月</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">抖音文字访谈</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">17</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Daisy</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">22</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2个月</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">抖音文字访谈</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\" colspan=\"7\">2.公会运营</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Jean</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">女</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">运营</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">24个月</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">电话访谈</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">John</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">男</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">运营</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">18个月</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">微信语音访谈</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Ming</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">男</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">运营</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">微信文字访谈</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\" colspan=\"7\">3.观众</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">1</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Fire</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">男</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">37</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">医药销售</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">30个月</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">电话访谈</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">2</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Smoke</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">男</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">21</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">在校生</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">5个月</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">电话访谈</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">3</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Zean</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">男</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">38</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">银行职员</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">18个月</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">微信文字访谈</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">4</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Sky</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">男</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">30</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">私企老板</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">12个月</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">微信文字访谈</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">5</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Brown</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">男</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">26</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">无业</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">6个月</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">微信文字访谈</td></tr> <tr> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">6</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">Fish</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">男</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">-</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">10个月</td> <td valign=\"middle\" align=\"center\" style=\"border-top:1px solid #000;border-bottom:1px solid #000;\">微信文字访谈</td></tr></tbody></table>"
+      }
+    ],
+    "journal": {
+      "issn": "1002-5685",
+      "qiKanWangZhi": "http://cjjc.ruc.edu.cn",
+      "qiKanMingCheng_CN": "国际新闻界",
+      "id": 1,
+      "qiKanMingCheng_EN": "Chinese Journal of Journalism & Communication"
+    },
+    "authorList": [
+      {
+        "deceased": false,
+        "name_cn": "董晨宇",
+        "email": "mlln@ruc.edu.cn",
+        "name_en": "DONG Chenyu"
+      },
+      {
+        "deceased": false,
+        "name_cn": "叶蓁",
+        "email": "ye@eshcc.eur.nl",
+        "name_en": "YE Zhen"
+      }
+    ],
+    "fundList_cn": [
+      "中国人民大学马克思主义新闻观研究中心课题(19MXG08)"
+    ],
+    "figList": [
+      {
+        "captionCn": "<title>：秀场主播平台劳动的基本模式</title>",
+        "magId": "1e6374ff-32e7-44cf-8332-bbc1fb6acd7b",
+        "labelCn": "图1",
+        "pptUrl": "1002-5685-43-12-6/img_1.jpg.ppt",
+        "figUrl": "1002-5685-43-12-6/img_1.jpg",
+        "titleCn": "图1 ：秀场主播平台劳动的基本模式",
+        "id": "F1",
+        "thumbnailUrl": "1002-5685-43-12-6/thumbnail/img_1.jpg"
+      },
+      {
+        "captionCn": "<title>：主播对于直播间观众常见的主观分类</title>",
+        "magId": "1470d91b-f5f3-4e68-89a2-e81dd659deaf",
+        "labelCn": "图2",
+        "pptUrl": "1002-5685-43-12-6/img_2.jpg.ppt",
+        "figUrl": "1002-5685-43-12-6/img_2.jpg",
+        "titleCn": "图2 ：主播对于直播间观众常见的主观分类",
+        "id": "F2",
+        "thumbnailUrl": "1002-5685-43-12-6/thumbnail/img_2.jpg"
+      }
+    ],
+    "fundList_en": [
+      "The Research Center of Marxist Thoughts of Journalism(19MXG08)"
+    ],
+    "backFnGroupList": [
+      {
+        "fnList": [
+          {
+            "pList": [
+              "<p id=\"C1\">所谓PK，即一个主播对另一个主播发起的连线挑战，双方通过连麦的形式，在一定时间内，基于各自收到打赏的总金额来判定胜负，败方则要在PK结束之后接受事先约定好的惩罚游戏。</p>"
+            ],
+            "fnType": "note",
+            "id": "note1",
+            "label": "1.",
+            "content": "<p id=\"C1\">1. 所谓PK，即一个主播对另一个主播发起的连线挑战，双方通过连麦的形式，在一定时间内，基于各自收到打赏的总金额来判定胜负，败方则要在PK结束之后接受事先约定好的惩罚游戏。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C2\">当然，这里所谓的工作协议往往并不是传统意义上的劳动合同，而是类似于艺人合作协议。因此，大部分主播不会获得稳定的保底薪水。部分主播是可以通过签约获得底薪，例如公会与主播签订两个月的短期合同，承诺每个月的底薪为3000元。不过，因为合同本身往往并没有多少法律效力，在最终支付的问题上便会大打折扣甚至完全落空。在我们的田野中，主播Gill便签订了底薪合约，但两个月的工作之后，公司借口财务问题，拒绝支付。Gill在向劳动仲裁部门申诉时被拒绝，因为这份合同不属于劳动合同。</p>"
+            ],
+            "fnType": "note",
+            "id": "note2",
+            "label": "2.",
+            "content": "<p id=\"C2\">2. 当然，这里所谓的工作协议往往并不是传统意义上的劳动合同，而是类似于艺人合作协议。因此，大部分主播不会获得稳定的保底薪水。部分主播是可以通过签约获得底薪，例如公会与主播签订两个月的短期合同，承诺每个月的底薪为3000元。不过，因为合同本身往往并没有多少法律效力，在最终支付的问题上便会大打折扣甚至完全落空。在我们的田野中，主播Gill便签订了底薪合约，但两个月的工作之后，公司借口财务问题，拒绝支付。Gill在向劳动仲裁部门申诉时被拒绝，因为这份合同不属于劳动合同。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C3\">直播行业从业者的流动性很大，我们接触的运营普遍认为，主播这一职业的平均从业寿命大概在两个月。在我们进行参与式观察的九个月时间内，有些主播在此期间“退网”，有些主播在此期间退网又复播，也有些主播则一直在从事直播。因此，我们对5位女主播的田野时间为两到六个月。</p>"
+            ],
+            "fnType": "note",
+            "id": "note3",
+            "label": "3.",
+            "content": "<p id=\"C3\">3. 直播行业从业者的流动性很大，我们接触的运营普遍认为，主播这一职业的平均从业寿命大概在两个月。在我们进行参与式观察的九个月时间内，有些主播在此期间“退网”，有些主播在此期间退网又复播，也有些主播则一直在从事直播。因此，我们对5位女主播的田野时间为两到六个月。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C4\">对于具体秀场主播的选择，涉及到了时间和空间两个维度的代表性问题。从时间维度来讲，互联网平台始终处于一种持续转型的状态。因此，研究者必须明白自己所在田野工作的具体时期（periodization），以及蕴藏其中的局限性（Zhang，<xref ref-type=\"bibr\" rid=\"b43\">2019</xref>：22）。在我们的田野过程中，抖音直播的界面功能出现了多次调整（例如主播的总收入和观众总打赏被调整为不可见），因此，本研究注定只能截取直播行业发展的某一个片段。不过，在这一过程中，不论是平台的技术配置，还是公会的管理制度，它们的变化逻辑都是以收益最大化为目标，因此又具有相对的稳定性，并不会对我们的研究问题产生干扰；从空间维度来讲（“直播间”本身就是一种空间隐喻），我们挑选在哪些直播间进行田野，又忽略了哪些直播间，这本身是一个逐渐浮现（emerging）的过程，并且一定无法涵盖所有类别，或许这也已经超越了方法本身的野心。</p>"
+            ],
+            "fnType": "note",
+            "id": "note4",
+            "label": "4.",
+            "content": "<p id=\"C4\">4. 对于具体秀场主播的选择，涉及到了时间和空间两个维度的代表性问题。从时间维度来讲，互联网平台始终处于一种持续转型的状态。因此，研究者必须明白自己所在田野工作的具体时期（periodization），以及蕴藏其中的局限性（Zhang，<xref ref-type=\"bibr\" rid=\"b43\">2019</xref>：22）。在我们的田野过程中，抖音直播的界面功能出现了多次调整（例如主播的总收入和观众总打赏被调整为不可见），因此，本研究注定只能截取直播行业发展的某一个片段。不过，在这一过程中，不论是平台的技术配置，还是公会的管理制度，它们的变化逻辑都是以收益最大化为目标，因此又具有相对的稳定性，并不会对我们的研究问题产生干扰；从空间维度来讲（“直播间”本身就是一种空间隐喻），我们挑选在哪些直播间进行田野，又忽略了哪些直播间，这本身是一个逐渐浮现（emerging）的过程，并且一定无法涵盖所有类别，或许这也已经超越了方法本身的野心。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C5\">全职且高收入的所谓“大主播”，往往会拥有一个团队来协助直播工作，她们的场控一部分是团队内部的工作人员，另一部分则是刷礼物较多的“财团”。因为直播间人数和公屏发言较多，财团作为场控，可以通过“飘屏”让他们的发言被主播看到。当然，这一部分高度职业化“头部主播”数量较少，也并不是本研究主要的考察对象。</p>"
+            ],
+            "fnType": "note",
+            "id": "note5",
+            "label": "5.",
+            "content": "<p id=\"C5\">5. 全职且高收入的所谓“大主播”，往往会拥有一个团队来协助直播工作，她们的场控一部分是团队内部的工作人员，另一部分则是刷礼物较多的“财团”。因为直播间人数和公屏发言较多，财团作为场控，可以通过“飘屏”让他们的发言被主播看到。当然，这一部分高度职业化“头部主播”数量较少，也并不是本研究主要的考察对象。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C6\">这并不意味着小号会比大号更加“虚假”。例如，在小号中，主播可能反而会展现对生活的抱怨，在大号中却从不会这样做。其中的原因，一方面是因为主播可能会将小号视为自我情绪披露更安全的场所，另一方面，正如前文所言，则可能是因为主播会将真实自我的选择性披露作为一种换取信任的资源，女主播对自己生活的抱怨，也可能更大程度上激发男性观众的保护欲。</p>"
+            ],
+            "fnType": "note",
+            "id": "note6",
+            "label": "6.",
+            "content": "<p id=\"C6\">6. 这并不意味着小号会比大号更加“虚假”。例如，在小号中，主播可能反而会展现对生活的抱怨，在大号中却从不会这样做。其中的原因，一方面是因为主播可能会将小号视为自我情绪披露更安全的场所，另一方面，正如前文所言，则可能是因为主播会将真实自我的选择性披露作为一种换取信任的资源，女主播对自己生活的抱怨，也可能更大程度上激发男性观众的保护欲。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"C7\">抖音直播界面在这次访谈之后不久便做出改版，主播在邀请观众上麦语音聊天时，仍然需要进行视频直播，这更深一步地强化了可见性的不对等。</p>"
+            ],
+            "fnType": "note",
+            "id": "note7",
+            "label": "7.",
+            "content": "<p id=\"C7\">7. 抖音直播界面在这次访谈之后不久便做出改版，主播在邀请观众上麦语音聊天时，仍然需要进行视频直播，这更深一步地强化了可见性的不对等。</p>"
+          }
+        ],
+        "title_cn": "注释 [Notes]"
+      }
+    ]
+  },
+  "text": "做主播：一项关系劳动的数码民族志 × 模态框（Modal）标题 在这里添加一些文本 关闭 关闭 提交更改 取消 确定并提交 × 模态框（Modal）标题 × 下载引用文件后，可以用常见的文献管理软件打开和编辑，包括: BibTex, EndNote, ProCite, RefWorks, and Reference Manager. 选择文件类型/文献管理软件名称 RIS (ProCite, Reference Manager, EndNote) BibTeX 选择包含的内容 仅文章引用信息 引用信息及摘要 导出 做主播：一项关系劳动的数码民族志 董晨宇, 叶蓁 国际新闻界 ›› 2021, Vol. 43 ›› Issue (12) : 6-28. PDF(1644 KB) Toggle navigation 首 页 期刊介绍 编委会 投稿指南 格式规范 期刊订阅 联系我们 English 投稿指南 格式规范 PDF(1644 KB) 国际新闻界 ›› 2021, Vol. 43 ›› Issue (12) : 6-28. 本期话题/网络直播研究 做主播：一项关系劳动的数码民族志 董晨宇 , 叶蓁 作者信息 + 作者简介: 董晨宇，中国人民大学新闻学院讲师。电子邮箱： mlln@ruc.edu.cn 。 叶蓁，荷兰鹿特丹伊拉斯姆斯大学博士研究生。电子邮箱： ye@eshcc.eur.nl 。 折叠 Learning to Live-stream: A Digital Ethnography of Relational Labor DONG Chenyu , YE Zhen Author information + About authors: Dong Chenyu is a lecturer of School of Journalism, Renmin University of China. Email: mlln@ruc.edu.cn . Ye Zhen is a Ph.D. student of Erasmus School of History, Culture and Communication, Erasmus University Rotterdam. Email: ye@eshcc.eur.nl . Show less 文章历史 + 出版日期 2021-12-23 发布日期 2021-12-23 摘要 根据第45次《中国互联网络发展状况统计报告》的统计，截至2020年3月，中国网络秀场直播的用户规模达到2.07亿，成为互联网中一项重要的经济产业。既有研究往往借用情感劳动这一概念，聚焦于直播平台与公会如何异化和剥削从业者。然而，这一取向一方面在很大程度上忽略了主播作为劳动者的主观体验；另一方面，情感劳动在解释主播工作实践的过程中也显现出局限性。因此，本研究基于12个月的数码民族志，通过将“关系劳动”与“平台化”这两个理论视角加以结合，考察了秀场主播如何理解并实践自己与观众在直播间内/外形成的经济关系与亲密关系，并梳理出“标价”“区分”和“界限”三种行动策略。在此基础上，本研究进一步对关系劳动、平台化与秀场主播的主体性这三个概念进行了理论反思。 Abstract According to the 45th Statistical Report on China’s Internet Development, as of March 2020, live-streaming show in China, which attracted 207 million users, has become an important economic industry. Previous studies often employed concept of emotional labor to investigate how live-streaming platforms alienated and exploited the practitioners. However, on the one hand, this approach largely ignored the live-streamers’ subjective experience; on the other hand, the use of emotional labor also showed limitations in explaining the live-streamers’ working practice. Therefore, based on a 12-month digital ethnography, this study combines “relational labor” and “platformization” to examine how live-streamers negotiate the economic and intimate relationships with their audiences inside/outside the live-streaming platform, and concludes three strategies of “pricing”, “differentiation” and “boundary”. The study also makes a further theoretical reflection on relational labor, platformization and the subjectivity of live-streamers. 关键词 主播 / 数码民族志 / 关系劳动 / 平台化 / 双重不稳定性 Key words live-streamer / digital ethnography / relational labor / platformization / dual precarity 引用本文 EndNote Ris (Procite) Bibtex 导出引用 董晨宇 , 叶蓁 . 做主播：一项关系劳动的数码民族志[J]. 国际新闻界 . 2021, 43(12): 6-28 DONG Chenyu , YE Zhen . Learning to Live-stream: A Digital Ethnography of Relational Labor[J]. Chinese Journal of Journalism & Communication . 2021, 43(12): 6-28 {{custom_sec.title}} {{custom_sec.title}} {{custom_sec.content}} 参考文献 列表( 原文顺序 | 文献年度倒序 | 文中引用次数倒序 ) 可视化分析 [1] 中国互联网络信息中心( 2020 ). 第 45 次《中国互联网络发展状况统计报告》.检索于 http://www.cac.gov.cn/2020-04/27/c_1589535470378587.htm. http://www.cac.gov.cn/2020-04/27/c_1589535470378587.htm [2] 社交平台陌陌( 2019 ). 2018主播职业报告.检索于 http://www.199it.com/archives/818625.html. http://www.199it.com/archives/818625.html 本文引用 [1] [3] 社交平台陌陌( 2020 ). 2019主播职业报告.检索于 http://www.199it.com/archives/995592.html. http://www.199it.com/archives/995592.html 本文引用 [1] [4] 董晨宇, 丁依然, 叶蓁( 2021 ). 制造亲密:中国网络秀场直播中的商品化关系及其不稳定性. 《福建师范大学学报(哲学社会科学版)》 ,(3),137-151. [5] 丁依然( 2021 ). 从\"剥削\"中突围:数字劳工研究的现状、问题和再陌生化. 《新闻界》 ,(5),68-77. 本文引用 [1] [6] 胡鹏辉, 余富强( 2019 ). 网络主播与情感劳动:一项探索性研究. 《新闻与传播研究》 ,(2),38-61+126. 本文引用 [3] [7] 林怡洁, 单蔓婷( 2021 ). 中国大陆女性社交直播主的数位劳动与性别政治. 《新闻学研究》(台湾) ,(146),53-95. 本文引用 [1] [8] 孙信茹, 甘庆超( 2020 ). “熟悉的陌生人”:网络直播中刷礼物与私密关系研究. 《新闻记者》 ,(5),25-35. 本文引用 [3] [9] 夏冰青( 2020 ). 数字劳工的概念、学派与主体性问题——西方数字劳工理论发展述评. 《新闻记者》 ,(8),87-96. 本文引用 [1] [10] 郑肯( 2020 ). 《制造网红——直播时代的情感、算法与数码资本主义》 .北京大学社会学系硕士论文.北京. 本文引用 [2] [11] Abidin C. , & Thompson E. C. ( 2012 ). Buymylife. com: Cyber-femininities and commercial intimacy in blogshops. Women's Studies International Forum , 35 (6), 467-477. https://doi.org/10.1016/j.wsif.2012.10.005 https://linkinghub.elsevier.com/retrieve/pii/S027753951200129X 本文引用 [1] [12] Arcy J. ( 2016 ). Emotion work: Considering gender in digital labor. Feminist Media Studies , 16 (2), 365-368. https://doi.org/10.1080/14680777.2016.1138609 http://www.tandfonline.com/doi/full/10.1080/14680777.2016.1138609 本文引用 [1] [13] Badhwar N. K. ( 2008 ). Friendship and commercial societies. politics, philosophy & economics , 7 (3), 301-326. 本文引用 [1] [14] Baym N. K. ( 2015 ). Connect with your audience! The relational labor of connection. The communication review , 18 (1), 14-22. https://doi.org/10.1080/10714421.2015.996401 http://www.tandfonline.com/doi/abs/10.1080/10714421.2015.996401 本文引用 [4] [15] Baym N. K. ( 2018 ). Playing to the crowd:Musicians, audiences, and the intimate work of connection . NY: New York University Press. 本文引用 [5] [16] Bernstein E. ( 2001 ). The Meaning of the Purchase: Desire, Demand and the Commerce of Sex. Ethnography , 2 (3): 389-420. https://doi.org/10.1177/14661380122230975 https://journals.sagepub.com/doi/10.1177/14661380122230975 [17] Brighenti A. ( 2007 ). Visibility: A category for the social sciences. Current sociology , 55 (3), 323-342. https://doi.org/10.1177/0011392107076079 https://journals.sagepub.com/doi/10.1177/0011392107076079 本文引用 [1] [18] Carbonero M. A. , & Gómez G. M. ( 2018 ). Being like your girlfriend: Authenticity and the shifting borders of intimacy in sex work. Sociology , 52 (2), 384-399. https://doi.org/10.1177/0038038516688609 https://journals.sagepub.com/doi/10.1177/0038038516688609 本文引用 [1] [19] Cunningham S. , Craig D. , & Lv J. ( 2019 ). China’s livestreaming industry: platforms, politics, and precarity. International Journal of Cultural Studies , 22 (6), 719-736. https://doi.org/10.1177/1367877919834942 https://journals.sagepub.com/doi/10.1177/1367877919834942 本文引用 [3] 摘要 This article examines conditions placing China’s livestreamers as central focal points in the increasing tensions between the cultural politics and economic ambitions of digital China. Framed by concerns around ‘platformization’, this research uses a creator-centric critical media industries studies perspective. Chinese livestreamers enjoy a greater degree of opportunity than their Western counterparts, including competing gameplay platforms that vie for premier gameplayers who can dictate their own terms. Decades-old cultural policies fostered underlying conditions that advantage female streamers engaging in gendered performativity to appeal to lonely rich men. Livestreamers ride marketing imperatives directing consumers to cross-integrated e-commerce platforms that fuel China’s emerging consumption culture. But livestreamers engage in ‘edge ball’ violations of Chinese norms that make them subject to an ever-increasing level of state regulatory restraint, signaling the return of ideology designed to mold online expression and behavior. [20] De Seta G. ( 2020 ). Three lies of digital ethnography. Journal of Digital Social Research , 2 (1), 2020, 77-97. https://doi.org/10.33621/jdsr.v2i1.24 https://publicera.kb.se/jdsr/article/view/25246 本文引用 [1] 摘要 \\r\\nThe relative novelty of digital ethnography as a research methodology, along with the challenges that it moves to classical understandings of fieldwork, participation and representation, results in a repertoire of professional illusions through which digital ethnographers justify their work when confronted with the disciplinary culture of anthropology. This essay is based on the author’s reflexive experience of researching digital media use in China, and updates Gary Alan Fine’s 1993 article “Ten Lies of Ethnography” by identifying three lies of digital ethnography. Illustrating each of these lies through an archetypal figure – the ‘networked field-weaver’, the ‘eager participant-lurker’ and the ‘expert fabricator’ – this article argues for the need to confront methodological illusions and embrace the tensions behind them as useful heuristics for conducting ethnographic research on, through and about digital media.\\r\\n [21] Duffy B. E. , Poell T. , & Nieborg D. B. ( 2019 ). Platform practices in the cultural industries: Creativity, labor, and citizenship. Social Media+ Society , 5 (4). 本文引用 [2] [22] Dumont G. ( 2017 ). Relational Labor, Fans, and Collaborations in Professional Rock Climbing. In Larissa H., Heather H., Anne G. & Genevieve B. ( Eds. ), The Routledge Companion to Digital Ethnography (pp. 147-158). NY: Routledge. 本文引用 [1] [23] Gillespie T. ( 2010 ). The politics of ‘platforms’. New Media & Society , 12 (3), 347-364. https://doi.org/10.1177/1461444809342738 https://journals.sagepub.com/doi/10.1177/1461444809342738 本文引用 [1] [24] Guarriello N. B. ( 2019 ). Never give up, never surrender: Game live streaming, neoliberal work, and personalized media economies. New Media & Society , 21 (8), 1750-1769. https://doi.org/10.1177/1461444819831653 https://journals.sagepub.com/doi/10.1177/1461444819831653 本文引用 [1] 摘要 Based on Internet Ethnography of a popular female live streamer on YouTube Gaming, this article theorizes how game live streaming invokes new forms of paid emotional labor that intersect with traditionally feminized demands of unpaid attentive and caring work. Drawing from an intersectional feminist framework that takes seriously small data and everyday life, this article suggests there is a shift toward one’s work being part of a personalized media economy that can relate to one’s audience. This study concludes with an invitation to think how folks under neoliberal capitalism are willing to leave secure, traditional 9-to-5 jobs, in order to be a professional gamer without any social safety nets and ultimately be always-on-the-clock. [25] Hochschild A. R. ( 2012 ). The managed heart . Oakland, CA: University of California press. [26] Jeung D. Y. , Kim C. , & Chang S. J. ( 2018 ). Emotional labor and burnout: A review of the literature. Yonsei Medical Journal , 59 (2), 187-193. https://doi.org/10.3349/ymj.2018.59.2.187 https://www.ncbi.nlm.nih.gov/pubmed/29436185 本文引用 [1] 摘要 This literature review was conducted to investigate the association between emotional labor and burnout and to explore the role of personality in this relationship. The results of this review indicate that emotional labor is a job stressor that leads to burnout. Further examination of personality traits, such as self-efficacy and type A behavior pattern, is needed to understand the relationships between emotional labor and health outcomes, such as burnout, psychological distress, and depression. The results also emphasized the importance of stress management programs to reduce the adverse outcomes of emotional labor, as well as coping repertories to strengthen the personal potential suitable to organizational goals. Moreover, enhancing employees' capacities and competence and encouraging a positive personality through behavior modification are also necessary.© Copyright: Yonsei University College of Medicine 2018. [27] Langley P. , & Leyshon A. ( 2017 ). Platform capitalism: the intermediation and capitalization of digital economic circulation. Finance and Society , 3 (1), 11-31. https://doi.org/10.2218/finsoc.v3i1 https://www.cambridge.org/core/product/identifier/FAS_3_1/type/journal_issue 本文引用 [1] [28] Light B. , Burgess J. , & Duguay S. ( 2018 ). The walkthrough method: An approach to the study of apps. New Media & Society , 20 (3), 881-900. https://doi.org/10.1177/1461444816675438 https://journals.sagepub.com/doi/10.1177/1461444816675438 [29] Lin J. , & de Kloet J. ( 2019 ). Platformization of the unlikely creative class: Kuaishou and Chinese digital cultural production. Social Media+ Society , 5 (4). 本文引用 [2] [30] Lu Z. , Xia H. , Heo S. , & Wigdor D. ( 2018 , April). You watch, you give, and you engage: a study of live streaming practices in China. >Paper presented at 2018 CHI conference on human factors in computing systems. Montreal. 本文引用 [1] [31] Nieborg D. B. , & Poell T. ( 2018 ). The platformization of cultural production: Theorizing the contingent cultural commodity. New Media & Society , 20 (11), 4275-4292. https://doi.org/10.1177/1461444818769694 https://journals.sagepub.com/doi/10.1177/1461444818769694 本文引用 [3] 摘要 This article explores how the political economy of the cultural industries changes through platformization: the penetration of economic and infrastructural extensions of online platforms into the web, affecting the production, distribution, and circulation of cultural content. It pursues this investigation in critical dialogue with current research in business studies, political economy, and software studies. Focusing on the production of news and games, the analysis shows that in economic terms platformization entails the replacement of two-sided market structures with complex multisided platform configurations, dominated by big platform corporations. Cultural content producers have to continuously grapple with seemingly serendipitous changes in platform governance, ranging from content curation to pricing strategies. Simultaneously, these producers are enticed by new platform services and infrastructural changes. In the process, cultural commodities become fundamentally “contingent,” that is increasingly modular in design and continuously reworked and repackaged, informed by datafied user feedback. [32] O’Meara V. ( 2019 ). Weapons of the chic: Instagram influencer engagement pods as practices of resistance to Instagram platform labor. Social Media+ Society , 5 (4). 本文引用 [1] [33] Senft T. M. ( 2008 ). Camgirls:Celebrity and community in the age of social networks . NY: Peter Lang. [34] Srnicek N. ( 2016 ). Platform capitalism . Malden, MA: Polity Press. 本文引用 [1] [35] Tandoc Jr E. C. , Lou C. , & Min V. L. H. ( 2019 ). Platform-swinging in a poly-social-media context: How and why users navigate multiple social media platforms. Journal of Computer-Mediated Communication , 24 (1), 21-35. https://doi.org/10.1093/jcmc/zmy022 本文引用 [1] 摘要 Guided by the frameworks of niche and polymedia theories, this study sought to understand the phenomenon of platform-swinging on social media, which refers to the routine use of multiple social media platforms that has become commonplace across different ages. Based on focus group discussions (FGDs) with 62 social media users in Singapore, this study found that social media users engage in platform-swinging for relationship management and self-presentation gratifications. While these gratifications are also served by individual social media platforms, platform-swinging allows social media users to navigate structural, social, and norm barriers to obtain greater gratification opportunities. This has implications on how social media users subsequently regard and segment their personal relationships. [36] Taylor T. L. ( 2018 ). Watch me play:Twitch and the rise of game live streaming . Princeton, NJ: Princeton University Press. 本文引用 [1] [37] Vallas S. , & Schor J. B. ( 2020 ). What do platforms do? Understanding the gig economy. Annual Review of Sociology , 46 , 273-294. https://doi.org/10.1146/soc.2020.46.issue-1 https://www.annualreviews.org/toc/soc/46/1 本文引用 [1] [38] van Dijck J. , & Poell T. ( 2013 ). Understanding social media logic. Media and communication , 1 (1), 2-14. https://doi.org/10.17645/mac.v1i1.70 https://www.cogitatiopress.com/mediaandcommunication/article/view/70 摘要 Over the past decade, social media platforms have penetrated deeply into the mech­anics of everyday life, affecting people's informal interactions, as well as institutional structures and professional routines. Far from being neutral platforms for everyone, social media have changed the conditions and rules of social interaction. In this article, we examine the intricate dynamic between social media platforms, mass media, users, and social institutions by calling attention to social media logic—the norms, strategies, mechanisms, and economies—underpin­ning its dynamics. This logic will be considered in light of what has been identified as mass me­dia logic, which has helped spread the media's powerful discourse outside its institutional boundaries. Theorizing social media logic, we identify four grounding principles—programmabil­ity, popularity, connectivity, and datafication—and argue that these principles become increas­ingly entangled with mass media logic. The logic of social media, rooted in these grounding principles and strategies, is gradually invading all areas of public life. Besides print news and broadcasting, it also affects law and order, social activism, politics, and so forth. Therefore, its sustaining logic and widespread dissemination deserve to be scrutinized in detail in order to better understand its impact in various domains. Concentrating on the tactics and strategies at work in social media logic, we reassess the constellation of power relationships in which social practices unfold, raising questions such as: How does social media logic modify or enhance ex­isting mass media logic? And how is this new media logic exported beyond the boundaries of (social or mass) media proper? The underlying principles, tactics, and strategies may be relat­ively simple to identify, but it is much harder to map the complex connections between plat­forms that distribute this logic: users that employ them, technologies that drive them, economic structures that scaffold them, and institutional bodies that incorporate them. [39] van Es K. , & Poell T. ( 2020 ). Platform imaginaries and Dutch public service media. Social Media+ Society , 6 (2). 本文引用 [1] [40] Wang Y. ( 2021 ). Playing live-streaming ‘love games’: mediated intimacy and desperational labour in digital China. Journal of Gender Studies , 30 (5), 1-12. https://doi.org/10.1080/09589236.2020.1851508 https://www.tandfonline.com/doi/full/10.1080/09589236.2020.1851508 本文引用 [1] [41] Woodcock J. , & Johnson M. R. ( 2019 ). The affective labor and performance of live streaming on Twitch. tv. Television & New Media , 20 (8), 813-823. 本文引用 [1] [42] Zelizer V. A. ( 2005 ). The purchase of intimacy . Princeton, NJ: Princeton University Press. 本文引用 [1] [43] Zhang G. ( 2019 ). Zhibo: An ethnography of ordinary, boring, and vulgar livestreams. PhD dissertation, RMIT University, Melbourne. [44] Zhang X. , Xiang Y. , & Hao L. ( 2019 ). Virtual gifting on China’s live streaming platforms: Hijacking the online gift economy. Chinese Journal of Communication , 12 (3), 340-355. https://doi.org/10.1080/17544750.2019.1583260 https://www.tandfonline.com/doi/full/10.1080/17544750.2019.1583260 本文引用 [6] [45] Zhao X. ( 2021 ). Digital labour in transnational mobility: Chinese international students’ online boundary work in daigou. New Media & Society , 23 (9), 2554-2574. https://doi.org/10.1177/1461444820934096 https://journals.sagepub.com/doi/10.1177/1461444820934096 本文引用 [1] 摘要 Daigou, literally translated as buying on behalf of, is a Mandarin term that refers to a form of personalised transnational trading activity, which is generally characterised by practices of purchasing locally manufactured products overseas and reselling them to consumers in China via international courier services. This article examines Chinese international students’ digital labour invested in daigou and their use of social media, particularly WeChat, in running their personal enterprises. Through the analytical lens of ‘boundary’, the article reveals how daigou activities involve sustained crossing and reconstructing boundaries of privacy through selective self-disclosure of personal information. This study contributes to the empirical literature on international students’ everyday use of digital media by highlighting their work practices in the digital age. Conceptually, the case study of daigou suggests overlapping spaces between various forms of digital labour and the relevance of ‘unproductive’ labour which constitutes a necessary dimension of online work. [46] Zou S. ( 2018 ). Producing value out of the invaluable: A critical/cultural perspective on the live streaming industry in China. TripleC: Communication, Capitalism & Critique , 16 (2), 805-819. 本文引用 [1] 文章年度分布 文献类型分布 被引期刊分布 被引用学者 注释 [Notes] 1. 所谓PK，即一个主播对另一个主播发起的连线挑战，双方通过连麦的形式，在一定时间内，基于各自收到打赏的总金额来判定胜负，败方则要在PK结束之后接受事先约定好的惩罚游戏。 2. 当然，这里所谓的工作协议往往并不是传统意义上的劳动合同，而是类似于艺人合作协议。因此，大部分主播不会获得稳定的保底薪水。部分主播是可以通过签约获得底薪，例如公会与主播签订两个月的短期合同，承诺每个月的底薪为3000元。不过，因为合同本身往往并没有多少法律效力，在最终支付的问题上便会大打折扣甚至完全落空。在我们的田野中，主播Gill便签订了底薪合约，但两个月的工作之后，公司借口财务问题，拒绝支付。Gill在向劳动仲裁部门申诉时被拒绝，因为这份合同不属于劳动合同。 3. 直播行业从业者的流动性很大，我们接触的运营普遍认为，主播这一职业的平均从业寿命大概在两个月。在我们进行参与式观察的九个月时间内，有些主播在此期间“退网”，有些主播在此期间退网又复播，也有些主播则一直在从事直播。因此，我们对5位女主播的田野时间为两到六个月。 4. 对于具体秀场主播的选择，涉及到了时间和空间两个维度的代表性问题。从时间维度来讲，互联网平台始终处于一种持续转型的状态。因此，研究者必须明白自己所在田野工作的具体时期（periodization），以及蕴藏其中的局限性（Zhang， 2019 ：22）。在我们的田野过程中，抖音直播的界面功能出现了多次调整（例如主播的总收入和观众总打赏被调整为不可见），因此，本研究注定只能截取直播行业发展的某一个片段。不过，在这一过程中，不论是平台的技术配置，还是公会的管理制度，它们的变化逻辑都是以收益最大化为目标，因此又具有相对的稳定性，并不会对我们的研究问题产生干扰；从空间维度来讲（“直播间”本身就是一种空间隐喻），我们挑选在哪些直播间进行田野，又忽略了哪些直播间，这本身是一个逐渐浮现（emerging）的过程，并且一定无法涵盖所有类别，或许这也已经超越了方法本身的野心。 5. 全职且高收入的所谓“大主播”，往往会拥有一个团队来协助直播工作，她们的场控一部分是团队内部的工作人员，另一部分则是刷礼物较多的“财团”。因为直播间人数和公屏发言较多，财团作为场控，可以通过“飘屏”让他们的发言被主播看到。当然，这一部分高度职业化“头部主播”数量较少，也并不是本研究主要的考察对象。 6. 这并不意味着小号会比大号更加“虚假”。例如，在小号中，主播可能反而会展现对生活的抱怨，在大号中却从不会这样做。其中的原因，一方面是因为主播可能会将小号视为自我情绪披露更安全的场所，另一方面，正如前文所言，则可能是因为主播会将真实自我的选择性披露作为一种换取信任的资源，女主播对自己生活的抱怨，也可能更大程度上激发男性观众的保护欲。 7. 抖音直播界面在这次访谈之后不久便做出改版，主播在邀请观众上麦语音聊天时，仍然需要进行视频直播，这更深一步地强化了可见性的不对等。 基金 中国人民大学马克思主义新闻观研究中心课题(19MXG08) × 微信扫一扫 PDF(1644 KB) 可视化 Accesses Citation Altmetric Detail 段落导航 相关文章 期刊信息 期刊介绍 编委会 投稿指南 格式规范 期刊订阅 联系我们 在线期刊 当期目录 过刊浏览 E-mail Alert RSS 联系我们 地址：北京市海淀区中关村大街59号明德新闻楼 邮编：100872 电话：010-82509362 E-mail:gjxwj@ruc.edu.cn 访问统计 总访问量 ： 今日访问： 在线人数： 版权所有 © 《国际新闻界》编辑部 技术支持： 北京玛格泰克科技发展有限公司 / 〈 〉",
+  "links": [
+    "http://cjjc.ruc.edu.cn",
+    "http://cjjc.ruc.edu.cn/CN/archive/2021",
+    "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12",
+    "http://cjjc.ruc.edu.cn/CN/home",
+    "http://cjjc.ruc.edu.cn/CN/home",
+    "http://cjjc.ruc.edu.cn/CN/column/column1.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column2.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column5.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column6.shtml",
+    "http://cjjc.ruc.edu.cn/EN/home",
+    "https://www.ruc.edu.cn/",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn",
+    "http://cjjc.ruc.edu.cn/CN/archive/2021",
+    "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12",
+    "javascript:;",
+    "mailto:mlln@ruc.edu.cn",
+    "javascript:;",
+    "mailto:ye@eshcc.eur.nl",
+    "mailto:mlln@ruc.edu.cn",
+    "mailto:ye@eshcc.eur.nl",
+    "javascript:;",
+    "mailto:mlln@ruc.edu.cn",
+    "javascript:;",
+    "mailto:ye@eshcc.eur.nl",
+    "mailto:mlln@ruc.edu.cn",
+    "mailto:ye@eshcc.eur.nl",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=EndNote&id=1185",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=Ris&id=1185",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=BibTeX&id=1185",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "http://www.cac.gov.cn/2020-04/27/c_1589535470378587.htm",
+    "http://www.199it.com/archives/818625.html",
+    "javascript:;",
+    "http://www.199it.com/archives/995592.html",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1016/j.wsif.2012.10.005",
+    "https://linkinghub.elsevier.com/retrieve/pii/S027753951200129X",
+    "javascript:;",
+    "https://doi.org/10.1080/14680777.2016.1138609",
+    "http://www.tandfonline.com/doi/full/10.1080/14680777.2016.1138609",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1080/10714421.2015.996401",
+    "http://www.tandfonline.com/doi/abs/10.1080/10714421.2015.996401",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1177/14661380122230975",
+    "https://journals.sagepub.com/doi/10.1177/14661380122230975",
+    "https://doi.org/10.1177/0011392107076079",
+    "https://journals.sagepub.com/doi/10.1177/0011392107076079",
+    "javascript:;",
+    "https://doi.org/10.1177/0038038516688609",
+    "https://journals.sagepub.com/doi/10.1177/0038038516688609",
+    "javascript:;",
+    "https://doi.org/10.1177/1367877919834942",
+    "https://journals.sagepub.com/doi/10.1177/1367877919834942",
+    "javascript:;",
+    "https://doi.org/10.33621/jdsr.v2i1.24",
+    "https://publicera.kb.se/jdsr/article/view/25246",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1177/1461444809342738",
+    "https://journals.sagepub.com/doi/10.1177/1461444809342738",
+    "javascript:;",
+    "https://doi.org/10.1177/1461444819831653",
+    "https://journals.sagepub.com/doi/10.1177/1461444819831653",
+    "javascript:;",
+    "https://doi.org/10.3349/ymj.2018.59.2.187",
+    "https://www.ncbi.nlm.nih.gov/pubmed/29436185",
+    "javascript:;",
+    "https://doi.org/10.2218/finsoc.v3i1",
+    "https://www.cambridge.org/core/product/identifier/FAS_3_1/type/journal_issue",
+    "javascript:;",
+    "https://doi.org/10.1177/1461444816675438",
+    "https://journals.sagepub.com/doi/10.1177/1461444816675438",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1177/1461444818769694",
+    "https://journals.sagepub.com/doi/10.1177/1461444818769694",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1093/jcmc/zmy022",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1146/soc.2020.46.issue-1",
+    "https://www.annualreviews.org/toc/soc/46/1",
+    "javascript:;",
+    "https://doi.org/10.17645/mac.v1i1.70",
+    "https://www.cogitatiopress.com/mediaandcommunication/article/view/70",
+    "javascript:;",
+    "https://doi.org/10.1080/09589236.2020.1851508",
+    "https://www.tandfonline.com/doi/full/10.1080/09589236.2020.1851508",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1080/17544750.2019.1583260",
+    "https://www.tandfonline.com/doi/full/10.1080/17544750.2019.1583260",
+    "javascript:;",
+    "https://doi.org/10.1177/1461444820934096",
+    "https://journals.sagepub.com/doi/10.1177/1461444820934096",
+    "javascript:;",
+    "javascript:;",
+    "http://www.facebook.com/sharer.php?u=http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/6",
+    "http://twitter.com/share?url=http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/6",
+    "http://service.weibo.com/share/share.php?url=http://cjjc.ruc.edu.cn/CN/Y2021/V43/I12/6&title=做主播：一项关系劳动的数码民族志",
+    "javascript:;",
+    "javascript:;",
+    "http://cjjc.ruc.edu.cn/CN/column/column1.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column2.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column5.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column6.shtml",
+    "http://cjjc.ruc.edu.cn/CN/current",
+    "http://cjjc.ruc.edu.cn/CN/archive_by_years",
+    "http://cjjc.ruc.edu.cn/CN/alert/showAlertInfo.do",
+    "http://cjjc.ruc.edu.cn/CN/rss/showRssInfo.do",
+    "https://www.magtech.com.cn/"
+  ]
+}

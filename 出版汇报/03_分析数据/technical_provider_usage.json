@@ -1,0 +1,90 @@
+[
+  {
+    "provider": "openai",
+    "sent": 4,
+    "api_success": 2,
+    "failures": 2,
+    "successful_latency_mean_seconds": 83.44551710000087,
+    "all_latency_seconds": [
+      115.99770949999947,
+      129.49188880000293,
+      99.8954251000032,
+      66.99560909999855
+    ],
+    "input_tokens": 938,
+    "output_tokens": 3329,
+    "reasoning_tokens_reported": 2686,
+    "currency": "CNY",
+    "reservation_total": "0.40",
+    "successful_text_component_estimate": "0.0271856",
+    "failed_request_actual_charges": "unknown",
+    "actual_invoice": "unknown",
+    "upstream_identity_verified": false
+  },
+  {
+    "provider": "gemini",
+    "sent": 4,
+    "api_success": 2,
+    "failures": 2,
+    "successful_latency_mean_seconds": 108.37572229999569,
+    "all_latency_seconds": [
+      129.76674440000352,
+      124.21639849999337,
+      129.43518149999727,
+      92.535046099998
+    ],
+    "input_tokens": 310,
+    "output_tokens": 23283,
+    "reasoning_tokens_reported": 22329,
+    "currency": "CNY",
+    "reservation_total": "0.60",
+    "successful_text_component_estimate": "0.3360192",
+    "failed_request_actual_charges": "unknown",
+    "actual_invoice": "unknown",
+    "upstream_identity_verified": false
+  },
+  {
+    "provider": "deepseek",
+    "sent": 4,
+    "api_success": 4,
+    "failures": 0,
+    "successful_latency_mean_seconds": 7.356835450002109,
+    "all_latency_seconds": [
+      8.162626299999829,
+      5.8235464000026695,
+      9.860553600003186,
+      5.58061550000275
+    ],
+    "input_tokens": 602,
+    "output_tokens": 2072,
+    "reasoning_tokens_reported": 0,
+    "currency": "USD",
+    "reservation_total": "0.40",
+    "successful_text_component_estimate": "0.0026670",
+    "failed_request_actual_charges": "unknown",
+    "actual_invoice": "unknown",
+    "upstream_identity_verified": false
+  },
+  {
+    "provider": "qwen",
+    "sent": 4,
+    "api_success": 4,
+    "failures": 0,
+    "successful_latency_mean_seconds": 11.808044825000252,
+    "all_latency_seconds": [
+      8.56543740000052,
+      15.307700600002136,
+      11.384026799998537,
+      11.975014499999816
+    ],
+    "input_tokens": 668,
+    "output_tokens": 1868,
+    "reasoning_tokens_reported": 0,
+    "currency": "CNY",
+    "reservation_total": "0.40",
+    "successful_text_component_estimate": "0.0055780",
+    "failed_request_actual_charges": "unknown",
+    "actual_invoice": "unknown",
+    "upstream_identity_verified": false
+  }
+]

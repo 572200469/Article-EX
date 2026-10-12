@@ -1,0 +1,336 @@
+{
+  "protocol": "research_protocol_v1-f161bab9fb085136cd8a",
+  "batch_id": "publication_visibility_main-f161bab9fb085136",
+  "cohort": "publication_visibility_main",
+  "condition": "neutral_en",
+  "prompt_language": "en",
+  "topic_id": "platform_labor",
+  "topic_group": "digital",
+  "provider": "openai",
+  "model_requested": "gpt-5.6-terra",
+  "requested_model": "gpt-5.6-terra",
+  "route": {
+    "provider": "openai",
+    "adapter": "relay",
+    "access_channel": "relay",
+    "base_url": "https://token.mmh1.top/v1",
+    "api_key_env": "RELAY_API_KEY",
+    "model": "gpt-5.6-terra",
+    "confirmed": true,
+    "parameters_confirmed": false,
+    "reasoning_effort": "none",
+    "thinking_mode": "none",
+    "output_limit_field": "max_completion_tokens"
+  },
+  "route_id": "80c1a0800214d59a110d079ba69bfd04955cbdd093fcc0077d0e7fc4b8f144f2",
+  "access_channel": "relay",
+  "base_url": "https://token.mmh1.top/v1",
+  "adapter": "relay",
+  "repeat_index": 1,
+  "mode": "baseline",
+  "search_enabled": false,
+  "source_type": "api",
+  "prompt_text": "Recommend five representative research articles published in academic journals on \"Platform labor and digital labor\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+  "request_parameters": {
+    "max_output_tokens": 8192,
+    "timeout": 180
+  },
+  "thinking_mode": "none",
+  "coding_rule_version": "publication_visibility_coding_v2",
+  "sdk_retries": 0,
+  "caller_retries": 0,
+  "generation_authorized": true,
+  "request_config_id": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+  "effective_reasoning_parameters": {
+    "reasoning_effort": "none",
+    "thinking_mode": "none"
+  },
+  "proposed_wire_parameters": {
+    "model": "gpt-5.6-terra",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Platform labor and digital labor\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_completion_tokens": 8192,
+    "reasoning_effort": "none"
+  },
+  "sequence": 38,
+  "source_job_id": "3c82ab6b5e6a777d1cb65f118a93f290f1b40a59ba7dc0ab6d77d2c2367f24f4",
+  "source_generation_protocol": "research_protocol_v1-cf2812cdc4a6cc6ddda4",
+  "job_id": "fec5986c94ae7a00751937eaa3fb1d7442a9560895643ba21169eda2c6b31f4d",
+  "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\openai\\fec5986c94ae7a00751937eaa3fb1d7442a9560895643ba21169eda2c6b31f4d",
+  "main_authorization": {
+    "authorization_id": "publication_visibility_main_batch02_f161bab9fb085136",
+    "configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+    "allowed_job_ids": [
+      "1d6c883457fd01267fd38b478524a8fd81b4bd986c135101e8d95b6ef999e202",
+      "e9daa730e6b971ea0e389501a25974d60522de940db466fefd0c23d78ef398a8",
+      "3989455d856fcf1e8ce5994bf51993977d8f2c67c1cfa757f1ce5424bcfe604c",
+      "2b0e790a93c4f3228393c7dee9b40ede55bebb7727a989a92228e058a6da110e",
+      "38c7dbaae931a7102bfa4952110009adbef15dd90a752db02e4b3c9a738ad54f",
+      "ad2b468d05b6a93ef9cf51fb1d17241ab90a860a86594454c4791569ee33bf98",
+      "64cafd66e222a839f67278714b04ee7df61ac88472bbd1466c76c2c691b50eea",
+      "abc5f4d47f61e786de712a81110a2b0bf67d6dcac4c4762b1847a62592d17c5a",
+      "c53abbbd13242751dbe2dd3f244bfbf122e8d3850c393f1103a2331281b36590",
+      "21b2e72b569ec5f541981706e329d295fe304d632f2d210f6f248c65fa77033c",
+      "9e6e142f5c2f6b34e085e8e2b4e93237f71ddd5bedcf0a208f5031385338446d",
+      "1394e93271c8930214d3bb8cee63304bb443fd9b3ff915daec236ba76fe50ef4",
+      "63d1043d5b9b03407f70bcc072d45eeef5fe50552d4f5b80b90977561df53bd5",
+      "fec5986c94ae7a00751937eaa3fb1d7442a9560895643ba21169eda2c6b31f4d",
+      "0ab10cfbae896ad7f2efe02329da9690dc1f75802d69ec00c5e211c49fe7688a",
+      "be7f2d0ba7124d5a38ed51c4e1b9d31311c1cf1797538ccf87d8ca15c501cec4",
+      "30638ae8c8e11b6f859541bad62977edc5e928c1035094f976e74568d71221e4",
+      "d4a105405e5207c80f82fde1ae70efeeb2e6f497d1c7bedc4c224e51a000983d",
+      "9b1ef3a83bd717f1b7f78cfff324877da407c0ae090ea5df54b3b0ed098c3a5a",
+      "568434592fc9cfcf6a42e1765fc11a963999150cbd1a3ed10281f1aeff772aba",
+      "56564cc89f5dd494b8c5c93e7369b084e4c499e0bd74a1dbeb34513134451def",
+      "49bdd3ba98e2079e94f08b4a6b11044bcc1abd36e58ab47acbf753060365a227",
+      "091667987288b5da3c57b14929e6353e6d08cf457a0e6f97bac8a52eab0db383",
+      "ddaa05e2c36219b41414e8507ef7477f114e5dfdf32f128f1a6b39474f36ec4e"
+    ],
+    "batch_number": 2,
+    "maximum_total_requests": 24,
+    "maximum_provider_requests": {
+      "openai": 4,
+      "gemini": 9,
+      "deepseek": 5,
+      "qwen": 6
+    },
+    "software_budget_by_currency": {
+      "CNY": "2.35",
+      "USD": "0.50"
+    },
+    "maximum_job_requests": 1,
+    "user_authorized": true,
+    "billing_risk_accepted": true,
+    "source": "Explicit researcher authorization for main fixed jobs25-48 only: GPT4 Gemini9 DeepSeek5 Qwen6; CNY2.35/USD0.50; accepts disclosed relay billing/reasoning/invoice uncertainty; no third batch or retries."
+  },
+  "experiment_id": "fec5986c94ae7a00751937eaa3fb1d7442a9560895643ba21169eda2c6b31f4d",
+  "timestamp": "2026-10-11T13:25:54.066069+00:00",
+  "protocol_status": "frozen",
+  "status": "success",
+  "api_success": true,
+  "attempt_index": 1,
+  "raw_response": {
+    "id": "resp_02e7719d01f5167d016acb8e6ae05487d0bbbc43f8870c2739",
+    "object": "chat.completion",
+    "created": 1791725163,
+    "model": "gpt-5.6-terra",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"references\":[{\"title\":\"Digital Labour and Karl Marx\",\"authors\":[\"Christian Fuchs\"],\"year\":2012,\"journal\":\"tripleC: Communication, Capitalism & Critique\",\"doi\":\"10.31269/triplec.v10i2.273\",\"url\":\"https://doi.org/10.31269/triplec.v10i2.273\"},{\"title\":\"The Cultural Work of Microwork\",\"authors\":[\"Lilly Irani\"],\"year\":2015,\"journal\":\"New Media & Society\",\"doi\":\"10.1177/1461444813511926\",\"url\":\"https://doi.org/10.1177/1461444813511926\"},{\"title\":\"The Rise of the “Just-in-Time Workforce”: On-Demand Work, Crowdwork, and Labor Protection in the “Gig-Economy”\",\"authors\":[\"Valerio De Stefano\"],\"year\":2016,\"journal\":\"Comparative Labor Law & Policy Journal\",\"doi\":null,\"url\":\"https://ssrn.com/abstract=2682602\"},{\"title\":\"Algorithmic Labor and Information Asymmetries: A Case Study of Uber’s Drivers\",\"authors\":[\"Alex Rosenblat\",\"Luke Stark\"],\"year\":2016,\"journal\":\"International Journal of Communication\",\"doi\":null,\"url\":\"https://ijoc.org/index.php/ijoc/article/view/4896\"},{\"title\":\"Good Gig, Bad Gig: Autonomy and Algorithmic Control in the Global Gig Economy\",\"authors\":[\"Alex J. Wood\",\"Mark Graham\",\"Vili Lehdonvirta\",\"Isaac Hjorth\"],\"year\":2019,\"journal\":\"Work, Employment and Society\",\"doi\":\"10.1177/0950017018785616\",\"url\":\"https://doi.org/10.1177/0950017018785616\"}]}",
+          "reasoning_content": null,
+          "tool_calls": null
+        },
+        "finish_reason": "stop",
+        "native_finish_reason": "stop"
+      }
+    ],
+    "service_tier": "default",
+    "usage": {
+      "completion_tokens": 1407,
+      "total_tokens": 1847,
+      "prompt_tokens": 440,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_creation_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1034
+      }
+    }
+  },
+  "references": [
+    {
+      "title": "Digital Labour and Karl Marx",
+      "authors": [
+        "Christian Fuchs"
+      ],
+      "year": 2012,
+      "journal": "tripleC: Communication, Capitalism & Critique",
+      "doi": "10.31269/triplec.v10i2.273",
+      "url": "https://doi.org/10.31269/triplec.v10i2.273"
+    },
+    {
+      "title": "The Cultural Work of Microwork",
+      "authors": [
+        "Lilly Irani"
+      ],
+      "year": 2015,
+      "journal": "New Media & Society",
+      "doi": "10.1177/1461444813511926",
+      "url": "https://doi.org/10.1177/1461444813511926"
+    },
+    {
+      "title": "The Rise of the “Just-in-Time Workforce”: On-Demand Work, Crowdwork, and Labor Protection in the “Gig-Economy”",
+      "authors": [
+        "Valerio De Stefano"
+      ],
+      "year": 2016,
+      "journal": "Comparative Labor Law & Policy Journal",
+      "doi": null,
+      "url": "https://ssrn.com/abstract=2682602"
+    },
+    {
+      "title": "Algorithmic Labor and Information Asymmetries: A Case Study of Uber’s Drivers",
+      "authors": [
+        "Alex Rosenblat",
+        "Luke Stark"
+      ],
+      "year": 2016,
+      "journal": "International Journal of Communication",
+      "doi": null,
+      "url": "https://ijoc.org/index.php/ijoc/article/view/4896"
+    },
+    {
+      "title": "Good Gig, Bad Gig: Autonomy and Algorithmic Control in the Global Gig Economy",
+      "authors": [
+        "Alex J. Wood",
+        "Mark Graham",
+        "Vili Lehdonvirta",
+        "Isaac Hjorth"
+      ],
+      "year": 2019,
+      "journal": "Work, Employment and Society",
+      "doi": "10.1177/0950017018785616",
+      "url": "https://doi.org/10.1177/0950017018785616"
+    }
+  ],
+  "returned_model": "gpt-5.6-terra",
+  "usage": {
+    "completion_tokens": 1407,
+    "total_tokens": 1847,
+    "prompt_tokens": 440,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "cached_creation_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1034
+    }
+  },
+  "finish_reason": "stop",
+  "actual_billed_amount": null,
+  "budget_reservation": {
+    "currency": "CNY",
+    "amount": "0.10"
+  },
+  "pricing_snapshot": {
+    "provider": "openai",
+    "model": "gpt-5.6-terra",
+    "pricing_route_base_url": "https://token.mmh1.top/v1",
+    "access_channel": "relay",
+    "pricing_currency": "CNY",
+    "input_price_per_million": "1.30",
+    "output_price_per_million": "7.80",
+    "cached_input_price_per_million": "0.80",
+    "pricing_source": "user_provided_mmh1_screenshot_transcription",
+    "pricing_checked_at": "2026-10-11",
+    "source_url": "https://token.mmh1.top/pricing",
+    "evidence_limit": "Displayed prices only; original screenshot not available locally; actual deductions unverified.",
+    "tier": "standard_scenario_only",
+    "input_token_limit": null,
+    "reasoning_billing": "unknown",
+    "unknown_terms": [
+      "platform_multiplier",
+      "account_currency_or_quota_unit",
+      "dynamic_price",
+      "long_context_tier_threshold",
+      "long_context_rates",
+      "reasoning_billing",
+      "cache_write_fee",
+      "failed_request_billing",
+      "platform_internal_retries"
+    ],
+    "proposed_reservation": "0.10"
+  },
+  "budget_status": "reservation_retained_actual_invoice_unknown",
+  "planned_parameters": {
+    "model": "gpt-5.6-terra",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Platform labor and digital labor\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_completion_tokens": 8192,
+    "reasoning_effort": "none"
+  },
+  "upstream_identity_verified": false,
+  "response_text": "{\"references\":[{\"title\":\"Digital Labour and Karl Marx\",\"authors\":[\"Christian Fuchs\"],\"year\":2012,\"journal\":\"tripleC: Communication, Capitalism & Critique\",\"doi\":\"10.31269/triplec.v10i2.273\",\"url\":\"https://doi.org/10.31269/triplec.v10i2.273\"},{\"title\":\"The Cultural Work of Microwork\",\"authors\":[\"Lilly Irani\"],\"year\":2015,\"journal\":\"New Media & Society\",\"doi\":\"10.1177/1461444813511926\",\"url\":\"https://doi.org/10.1177/1461444813511926\"},{\"title\":\"The Rise of the “Just-in-Time Workforce”: On-Demand Work, Crowdwork, and Labor Protection in the “Gig-Economy”\",\"authors\":[\"Valerio De Stefano\"],\"year\":2016,\"journal\":\"Comparative Labor Law & Policy Journal\",\"doi\":null,\"url\":\"https://ssrn.com/abstract=2682602\"},{\"title\":\"Algorithmic Labor and Information Asymmetries: A Case Study of Uber’s Drivers\",\"authors\":[\"Alex Rosenblat\",\"Luke Stark\"],\"year\":2016,\"journal\":\"International Journal of Communication\",\"doi\":null,\"url\":\"https://ijoc.org/index.php/ijoc/article/view/4896\"},{\"title\":\"Good Gig, Bad Gig: Autonomy and Algorithmic Control in the Global Gig Economy\",\"authors\":[\"Alex J. Wood\",\"Mark Graham\",\"Vili Lehdonvirta\",\"Isaac Hjorth\"],\"year\":2019,\"journal\":\"Work, Employment and Society\",\"doi\":\"10.1177/0950017018785616\",\"url\":\"https://doi.org/10.1177/0950017018785616\"}]}",
+  "model_returned": "gpt-5.6-terra",
+  "response_id": "resp_02e7719d01f5167d016acb8e6ae05487d0bbbc43f8870c2739",
+  "provider_status": "completed",
+  "search_executed": false,
+  "tool_records": [],
+  "upstream_snapshot": "unknown",
+  "api_surface": "relay.openai_compatible.chat.completions",
+  "upstream_route_claims": {},
+  "raw_http_body": "{\"id\":\"resp_02e7719d01f5167d016acb8e6ae05487d0bbbc43f8870c2739\",\"object\":\"chat.completion\",\"created\":1791725163,\"model\":\"gpt-5.6-terra\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\"{\\\"references\\\":[{\\\"title\\\":\\\"Digital Labour and Karl Marx\\\",\\\"authors\\\":[\\\"Christian Fuchs\\\"],\\\"year\\\":2012,\\\"journal\\\":\\\"tripleC: Communication, Capitalism \\u0026 Critique\\\",\\\"doi\\\":\\\"10.31269/triplec.v10i2.273\\\",\\\"url\\\":\\\"https://doi.org/10.31269/triplec.v10i2.273\\\"},{\\\"title\\\":\\\"The Cultural Work of Microwork\\\",\\\"authors\\\":[\\\"Lilly Irani\\\"],\\\"year\\\":2015,\\\"journal\\\":\\\"New Media \\u0026 Society\\\",\\\"doi\\\":\\\"10.1177/1461444813511926\\\",\\\"url\\\":\\\"https://doi.org/10.1177/1461444813511926\\\"},{\\\"title\\\":\\\"The Rise of the “Just-in-Time Workforce”: On-Demand Work, Crowdwork, and Labor Protection in the “Gig-Economy”\\\",\\\"authors\\\":[\\\"Valerio De Stefano\\\"],\\\"year\\\":2016,\\\"journal\\\":\\\"Comparative Labor Law \\u0026 Policy Journal\\\",\\\"doi\\\":null,\\\"url\\\":\\\"https://ssrn.com/abstract=2682602\\\"},{\\\"title\\\":\\\"Algorithmic Labor and Information Asymmetries: A Case Study of Uber’s Drivers\\\",\\\"authors\\\":[\\\"Alex Rosenblat\\\",\\\"Luke Stark\\\"],\\\"year\\\":2016,\\\"journal\\\":\\\"International Journal of Communication\\\",\\\"doi\\\":null,\\\"url\\\":\\\"https://ijoc.org/index.php/ijoc/article/view/4896\\\"},{\\\"title\\\":\\\"Good Gig, Bad Gig: Autonomy and Algorithmic Control in the Global Gig Economy\\\",\\\"authors\\\":[\\\"Alex J. Wood\\\",\\\"Mark Graham\\\",\\\"Vili Lehdonvirta\\\",\\\"Isaac Hjorth\\\"],\\\"year\\\":2019,\\\"journal\\\":\\\"Work, Employment and Society\\\",\\\"doi\\\":\\\"10.1177/0950017018785616\\\",\\\"url\\\":\\\"https://doi.org/10.1177/0950017018785616\\\"}]}\",\"reasoning_content\":null,\"tool_calls\":null},\"finish_reason\":\"stop\",\"native_finish_reason\":\"stop\"}],\"service_tier\":\"default\",\"usage\":{\"completion_tokens\":1407,\"total_tokens\":1847,\"prompt_tokens\":440,\"prompt_tokens_details\":{\"cached_tokens\":0,\"cache_write_tokens\":0,\"cached_creation_tokens\":0},\"completion_tokens_details\":{\"reasoning_tokens\":1034}}}",
+  "http_status": 200,
+  "safe_response_headers": {
+    "server": "cloudflare"
+  },
+  "sent_parameters": {
+    "model": "gpt-5.6-terra",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Platform labor and digital labor\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_completion_tokens": 8192,
+    "reasoning_effort": "none"
+  },
+  "provider_request_id": null,
+  "entry_errors": [],
+  "json_parsed": true,
+  "latency": 85.38264680000066,
+  "usage_price_estimate": {
+    "currency": "CNY",
+    "input_tokens_scenario": 440,
+    "output_tokens_scenario": 1407,
+    "text_component_amount": "0.0115466",
+    "estimated_total_amount": null,
+    "verified_total_upper_bound": null,
+    "actual_billed_amount": null,
+    "cache_policy": "all_input_at_uncached_rate_scenario",
+    "multiplier_scenario": "1 (scenario only; not account verification)",
+    "tools": "not_requested",
+    "client_retries": 0,
+    "unknown_terms": [
+      "platform_multiplier",
+      "account_currency_or_quota_unit",
+      "dynamic_price",
+      "long_context_tier_threshold",
+      "long_context_rates",
+      "reasoning_billing",
+      "cache_write_fee",
+      "failed_request_billing",
+      "platform_internal_retries"
+    ],
+    "price_snapshot_id": "b803fd4ec7337a37f4ecbe02196da14a829c73077c25250a9bba6e9de9e18525",
+    "usage_evidence": {
+      "completion_tokens": 1407,
+      "total_tokens": 1847,
+      "prompt_tokens": 440,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_creation_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1034
+      }
+    },
+    "reasoning_tokens_reported": 1034,
+    "usage_cost_basis": "uncached list-rate component; not actual invoice"
+  }
+}

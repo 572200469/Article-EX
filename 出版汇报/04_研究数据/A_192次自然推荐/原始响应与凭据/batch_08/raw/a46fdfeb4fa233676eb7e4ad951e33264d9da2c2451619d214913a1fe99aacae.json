@@ -1,0 +1,271 @@
+{
+  "protocol": "research_protocol_v1-f161bab9fb085136cd8a",
+  "batch_id": "publication_visibility_main-f161bab9fb085136",
+  "cohort": "publication_visibility_main",
+  "condition": "neutral_en",
+  "prompt_language": "en",
+  "topic_id": "spiral_of_silence",
+  "topic_group": "classical",
+  "provider": "qwen",
+  "model_requested": "qwen3.8-flash",
+  "requested_model": "qwen3.8-flash",
+  "route": {
+    "provider": "qwen",
+    "adapter": "qwen",
+    "access_channel": "official",
+    "base_url_env": "QWEN_BASE_URL",
+    "api_key_env": "DASHSCOPE_API_KEY",
+    "api_key_env_fallback": "QWEN_API_KEY",
+    "model": "qwen3.8-flash",
+    "confirmed": true,
+    "parameters_confirmed": true,
+    "thinking_mode": "disabled",
+    "output_limit_field": "max_tokens",
+    "extra_body": {
+      "enable_thinking": false
+    },
+    "base_url_configured": true,
+    "base_url": "https://ws-18kq1brc00g4ilrj.cn-beijing.maas.aliyuncs.com/compatible-mode/v1"
+  },
+  "route_id": "ae189316847bd67ccdfa1e1ecc37cb3cbd45761f39d89dfe18dba2844c6737c7",
+  "access_channel": "official",
+  "base_url": "https://ws-18kq1brc00g4ilrj.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
+  "adapter": "qwen",
+  "repeat_index": 3,
+  "mode": "baseline",
+  "search_enabled": false,
+  "source_type": "api",
+  "prompt_text": "Recommend five representative research articles published in academic journals on \"Spiral of silence\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+  "request_parameters": {
+    "max_output_tokens": 8192,
+    "timeout": 180
+  },
+  "thinking_mode": "disabled",
+  "coding_rule_version": "publication_visibility_coding_v2",
+  "sdk_retries": 0,
+  "caller_retries": 0,
+  "generation_authorized": true,
+  "request_config_id": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+  "effective_reasoning_parameters": {
+    "thinking_mode": "disabled",
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "proposed_wire_parameters": {
+    "model": "qwen3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Spiral of silence\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "sequence": 188,
+  "source_job_id": "c19228e73b5febcaf713569d445fe0fefef306d8be21fd2caf814ff054aa7699",
+  "source_generation_protocol": "research_protocol_v1-cf2812cdc4a6cc6ddda4",
+  "job_id": "a46fdfeb4fa233676eb7e4ad951e33264d9da2c2451619d214913a1fe99aacae",
+  "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\qwen\\a46fdfeb4fa233676eb7e4ad951e33264d9da2c2451619d214913a1fe99aacae",
+  "main_authorization": {
+    "authorization_id": "publication_visibility_main_batch08_f161bab9fb085136",
+    "configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+    "allowed_job_ids": [
+      "9c9643651d4cb088bbaa800d7a22451aa589191d99fba3d8584fbe70168106a1",
+      "144da4d780b55cbec8e97f432f7ac51c29e20ab9391127ddb7520ef1289d159f",
+      "fc6e1b0eb5a688fafc17d7a8c529b163047b1b87b318b56e8c48f47d1d489bc7",
+      "98fd305a07aaa87ed502b5ec1ca11f2583d259d850cd0f774248a73b204efdf4",
+      "9d25ba8e0ed160be3cdff85db9d79a772ea83702f15ba474097eb2870fa8bfdb",
+      "e192c6f02971ec3775408318296a778f88ccba663c95c2a2627c1a6bff0364e1",
+      "9b19182061fd82bdf5d6f711deaa18bd49adfa9e19e1479483c865e9c9167b38",
+      "3b1851ba1a21d442485f054bf97a3a112027270af0edc1c1dfb5e32081e8d44a",
+      "4885c75b56d750ab70c71bbdf957dd40b419bb154e11236e0a2dad97f7a01d7d",
+      "640f766c9c55d9520f1ae1d085f2fc96ae2ba0b17ea4209caaf290c2c77ce397",
+      "98a4e7e6b2016d872e102ee7510bbdc5b4a19707aa5ad49145959700ccc2e7d5",
+      "5cb1da00afeb0137e72bdc1cc0c65c2e05469c604d60ad931431da24eefeb5a8",
+      "850b77d74b4fde23f257fd744a95fee6189e4cef873aca48d90ea2c5d658fa64",
+      "023e056033691379eac9f2c7fce6ef5910cb7ff34593322daf13f47d884b438d",
+      "cc55b1b543e26509bd1a7dbcb3ae356d1a292bf0635784e34a91c54f83b6de0b",
+      "b0c7d59574a2ecf3e8b980618d578c475aa0fa3856f4e6f028194548035f0408",
+      "a5afa49d8f03a820140f6f8a3c9b6cac668b66532966a70197066d24bf969171",
+      "addcd284ad72c7a77152a8cc2f2d6c34e06b7d6b5b0e69d6e7bc9523cf22857e",
+      "72a1167c2f73d9ad6365a95c380b3a94bd2f364e8fa9920e70f6ccb168a6c644",
+      "a46fdfeb4fa233676eb7e4ad951e33264d9da2c2451619d214913a1fe99aacae",
+      "484882adf333e3b439db94c57dc844a9b4e91cdc9b24b1dbafce3be387a11042",
+      "5f88e199993d01b2d9188ec8829f389ac69f24f507eac671df27005a76f5b953",
+      "3b102b44b60f173e90eb9f2b43ebf982ff8b6b81567f5e3286a8ff6fa2276104",
+      "902035a57ae09ef5fbf09b7140816d757748c1ef07ab986f17b2151f37bdaea7"
+    ],
+    "batch_number": 8,
+    "maximum_total_requests": 24,
+    "maximum_provider_requests": {
+      "openai": 7,
+      "qwen": 6,
+      "deepseek": 6,
+      "gemini": 5
+    },
+    "software_budget_by_currency": {
+      "CNY": "2.05",
+      "USD": "0.60"
+    },
+    "maximum_job_requests": 1,
+    "user_authorized": true,
+    "billing_risk_accepted": true,
+    "source": "remaining144:E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\remaining_049_192\\authorization.json"
+  },
+  "experiment_id": "a46fdfeb4fa233676eb7e4ad951e33264d9da2c2451619d214913a1fe99aacae",
+  "timestamp": "2026-10-12T01:38:29.759178+00:00",
+  "protocol_status": "frozen",
+  "status": "parse_error",
+  "api_success": true,
+  "attempt_index": 1,
+  "raw_response": {
+    "id": "chatcmpl-91a4fa05-889d-92d0-a847-f923ad0a77ee",
+    "object": "chat.completion",
+    "created": 1791769116,
+    "model": "qwen3.8-flash",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "```json\n{\n  \"references\": [\n    {\n      \"title\": \"The Spiral of Silence: Public Opinion—Our Social Conscience\",\n      \"authors\": null,\n      \"year\": null,\n      \"journal\": null,\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"Spiral of silence: A theory of public opinion\",\n      \"authors\": \"Noelle-Neumann, E.\",\n      \"year\": 1984,\n      \"journal\": \"University of Chicago Press\",\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"Testing the spiral of silence hypothesis in an online environment\",\n      \"authors\": \"Glynn, C. J., Ostman, R. E., & Hoogland, K. E.\",\n      \"year\": 2010,\n      \"journal\": \"Journalism & Mass Communication Quarterly\",\n      \"doi\": \"10.1177/107769901008700305\",\n      \"url\": null\n    },\n    {\n      \"title\": \"The spiral of silence and the media: A review of empirical evidence\",\n      \"authors\": \"Peyton, S. M., & Shapiro, R. Y.\",\n      \"year\": 1992,\n      \"journal\": \"Public Opinion Quarterly\",\n      \"doi\": \"10.1093/poq/56.1.100\",\n      \"url\": null\n    },\n    {\n      \"title\": \"Spiral of silence: A meta-analysis\",\n      \"authors\": \"Moy, P., & Gutierrez, F.\",\n      \"year\": 2001,\n      \"journal\": \"Journalism & Communication Monographs\",\n      \"doi\": null,\n      \"url\": null\n    }\n  ]\n}\n```"
+        },
+        "finish_reason": "stop",
+        "logprobs": null
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 162,
+      "total_tokens": 603,
+      "completion_tokens": 441,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 162
+      }
+    }
+  },
+  "references": [],
+  "returned_model": "qwen3.8-flash",
+  "usage": {
+    "prompt_tokens": 162,
+    "total_tokens": 603,
+    "completion_tokens": 441,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 162
+    }
+  },
+  "finish_reason": "stop",
+  "actual_billed_amount": null,
+  "budget_reservation": {
+    "currency": "CNY",
+    "amount": "0.10"
+  },
+  "pricing_snapshot": {
+    "provider": "qwen",
+    "model": "qwen3.8-flash",
+    "pricing_route_host_suffix": ".cn-beijing.maas.aliyuncs.com",
+    "access_channel": "official",
+    "pricing_currency": "CNY",
+    "input_price_per_million": "0.80",
+    "output_price_per_million": "2.70",
+    "cached_input_price_per_million": null,
+    "pricing_source": "alibaba_official_beijing_model_pricing",
+    "pricing_checked_at": "2026-10-11",
+    "source_url": "https://help.aliyun.com/zh/model-studio/model-pricing",
+    "evidence_limit": "Public Beijing list price; private account bill and free quota not verified.",
+    "tier": "beijing_input_up_to_1M",
+    "input_token_limit": 1000000,
+    "reasoning_billing": "included_in_output_tokens",
+    "unknown_terms": [
+      "account_currency_confirmation",
+      "actual_account_discounts",
+      "cache_billing",
+      "failed_request_billing",
+      "billing_rounding"
+    ],
+    "proposed_reservation": "0.10"
+  },
+  "budget_status": "reservation_retained_actual_invoice_unknown",
+  "planned_parameters": {
+    "model": "qwen3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Spiral of silence\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "upstream_identity_verified": false,
+  "response_text": "```json\n{\n  \"references\": [\n    {\n      \"title\": \"The Spiral of Silence: Public Opinion—Our Social Conscience\",\n      \"authors\": null,\n      \"year\": null,\n      \"journal\": null,\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"Spiral of silence: A theory of public opinion\",\n      \"authors\": \"Noelle-Neumann, E.\",\n      \"year\": 1984,\n      \"journal\": \"University of Chicago Press\",\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"Testing the spiral of silence hypothesis in an online environment\",\n      \"authors\": \"Glynn, C. J., Ostman, R. E., & Hoogland, K. E.\",\n      \"year\": 2010,\n      \"journal\": \"Journalism & Mass Communication Quarterly\",\n      \"doi\": \"10.1177/107769901008700305\",\n      \"url\": null\n    },\n    {\n      \"title\": \"The spiral of silence and the media: A review of empirical evidence\",\n      \"authors\": \"Peyton, S. M., & Shapiro, R. Y.\",\n      \"year\": 1992,\n      \"journal\": \"Public Opinion Quarterly\",\n      \"doi\": \"10.1093/poq/56.1.100\",\n      \"url\": null\n    },\n    {\n      \"title\": \"Spiral of silence: A meta-analysis\",\n      \"authors\": \"Moy, P., & Gutierrez, F.\",\n      \"year\": 2001,\n      \"journal\": \"Journalism & Communication Monographs\",\n      \"doi\": null,\n      \"url\": null\n    }\n  ]\n}\n```",
+  "model_returned": "qwen3.8-flash",
+  "response_id": "chatcmpl-91a4fa05-889d-92d0-a847-f923ad0a77ee",
+  "provider_status": "completed",
+  "search_executed": false,
+  "tool_records": [],
+  "upstream_snapshot": "unknown",
+  "api_surface": "qwen.official.chat.completions",
+  "upstream_route_claims": {},
+  "raw_http_body": "{\"id\":\"chatcmpl-91a4fa05-889d-92d0-a847-f923ad0a77ee\",\"object\":\"chat.completion\",\"created\":1791769116,\"model\":\"qwen3.8-flash\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\"```json\\n{\\n  \\\"references\\\": [\\n    {\\n      \\\"title\\\": \\\"The Spiral of Silence: Public Opinion—Our Social Conscience\\\",\\n      \\\"authors\\\": null,\\n      \\\"year\\\": null,\\n      \\\"journal\\\": null,\\n      \\\"doi\\\": null,\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"Spiral of silence: A theory of public opinion\\\",\\n      \\\"authors\\\": \\\"Noelle-Neumann, E.\\\",\\n      \\\"year\\\": 1984,\\n      \\\"journal\\\": \\\"University of Chicago Press\\\",\\n      \\\"doi\\\": null,\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"Testing the spiral of silence hypothesis in an online environment\\\",\\n      \\\"authors\\\": \\\"Glynn, C. J., Ostman, R. E., & Hoogland, K. E.\\\",\\n      \\\"year\\\": 2010,\\n      \\\"journal\\\": \\\"Journalism & Mass Communication Quarterly\\\",\\n      \\\"doi\\\": \\\"10.1177/107769901008700305\\\",\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"The spiral of silence and the media: A review of empirical evidence\\\",\\n      \\\"authors\\\": \\\"Peyton, S. M., & Shapiro, R. Y.\\\",\\n      \\\"year\\\": 1992,\\n      \\\"journal\\\": \\\"Public Opinion Quarterly\\\",\\n      \\\"doi\\\": \\\"10.1093/poq/56.1.100\\\",\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"Spiral of silence: A meta-analysis\\\",\\n      \\\"authors\\\": \\\"Moy, P., & Gutierrez, F.\\\",\\n      \\\"year\\\": 2001,\\n      \\\"journal\\\": \\\"Journalism & Communication Monographs\\\",\\n      \\\"doi\\\": null,\\n      \\\"url\\\": null\\n    }\\n  ]\\n}\\n```\"},\"finish_reason\":\"stop\",\"logprobs\":null}],\"usage\":{\"prompt_tokens\":162,\"total_tokens\":603,\"completion_tokens\":441,\"prompt_tokens_details\":{\"cached_tokens\":0,\"text_tokens\":162}}}",
+  "http_status": 200,
+  "safe_response_headers": {
+    "x-request-id": "91a4fa05-889d-92d0-a847-f923ad0a77ee",
+    "server": "istio-envoy"
+  },
+  "sent_parameters": {
+    "model": "qwen3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Spiral of silence\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "provider_request_id": "91a4fa05-889d-92d0-a847-f923ad0a77ee",
+  "json_parsed": false,
+  "latency": 9.89306549999992,
+  "usage_price_estimate": {
+    "currency": "CNY",
+    "input_tokens_scenario": 162,
+    "output_tokens_scenario": 441,
+    "text_component_amount": "0.0013203",
+    "estimated_total_amount": null,
+    "verified_total_upper_bound": null,
+    "actual_billed_amount": null,
+    "cache_policy": "all_input_at_uncached_rate_scenario",
+    "multiplier_scenario": "1 (scenario only; not account verification)",
+    "tools": "not_requested",
+    "client_retries": 0,
+    "unknown_terms": [
+      "account_currency_confirmation",
+      "actual_account_discounts",
+      "cache_billing",
+      "failed_request_billing",
+      "billing_rounding"
+    ],
+    "price_snapshot_id": "51176537e343ad9e1d4e441ebf841a781aba65eda97a8275da5e9729f8327a04",
+    "usage_evidence": {
+      "prompt_tokens": 162,
+      "total_tokens": 603,
+      "completion_tokens": 441,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 162
+      }
+    },
+    "reasoning_tokens_reported": null,
+    "usage_cost_basis": "uncached list-rate component; not actual invoice"
+  }
+}

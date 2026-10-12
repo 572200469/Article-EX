@@ -1,0 +1,9 @@
+﻿provider,condition,observed_position_denominator,identified_journal_denominator,geography_known_denominator,mainland_independent_lower_all,mainland_independent_upper_all,mainland_participation_lower_all,mainland_participation_upper_all,identified_journal_geography_coverage,note,identity_complete_response_jobs
+openai,neutral_zh,114,92,47,0.0,0.5350877192982456,0.0,0.5350877192982456,0.5108695652173914,"logical worst-case bounds, not confidence intervals; no MAR assumption",12
+openai,neutral_en,115,82,47,0.0,0.5478260869565217,0.0,0.5478260869565217,0.573170731707317,"logical worst-case bounds, not confidence intervals; no MAR assumption",11
+gemini,neutral_zh,120,104,61,0.0,0.43333333333333335,0.0,0.43333333333333335,0.5865384615384616,"logical worst-case bounds, not confidence intervals; no MAR assumption",17
+gemini,neutral_en,120,109,64,0.0,0.44166666666666665,0.0,0.44166666666666665,0.5871559633027523,"logical worst-case bounds, not confidence intervals; no MAR assumption",17
+deepseek,neutral_zh,120,53,30,0.0,0.6833333333333333,0.0,0.6833333333333333,0.5660377358490566,"logical worst-case bounds, not confidence intervals; no MAR assumption",2
+deepseek,neutral_en,120,47,34,0.0,0.6333333333333333,0.0,0.6333333333333333,0.723404255319149,"logical worst-case bounds, not confidence intervals; no MAR assumption",4
+qwen,neutral_zh,120,14,12,0.0,0.9,0.0,0.9,0.8571428571428571,"logical worst-case bounds, not confidence intervals; no MAR assumption",0
+qwen,neutral_en,120,9,6,0.0,0.9333333333333333,0.0,0.9333333333333333,0.6666666666666666,"logical worst-case bounds, not confidence intervals; no MAR assumption",0

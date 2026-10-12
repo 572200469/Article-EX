@@ -1,0 +1,13 @@
+{
+  "checked_at": "2026-10-12T11:16:47.812560+00:00",
+  "passed": true,
+  "16_raw_hashes_unchanged_after_analysis": true,
+  "six_slide_script": true,
+  "figures": 3,
+  "fourth_figure_omitted_insufficient_confirmed_theme_evidence": true,
+  "no_pending_or_uncertain_directed_jobs": true,
+  "all_raw_and_original_prompts_preserved": true,
+  "main_sample_not_merged_with_directed": true,
+  "researcher_review_pending": true,
+  "all_C_article_indexing_unknown": true
+}

@@ -1,0 +1,273 @@
+{
+  "protocol": "research_protocol_v1-f161bab9fb085136cd8a",
+  "batch_id": "publication_visibility_main-f161bab9fb085136",
+  "cohort": "publication_visibility_main",
+  "condition": "neutral_en",
+  "prompt_language": "en",
+  "topic_id": "algorithms_bubbles",
+  "topic_group": "digital",
+  "provider": "deepseek",
+  "model_requested": "deepseek-flash",
+  "requested_model": "deepseek-flash",
+  "route": {
+    "provider": "deepseek",
+    "adapter": "deepseek",
+    "access_channel": "official",
+    "base_url": "https://api.deepseek.com",
+    "api_key_env": "DEEPSEEK_API_KEY",
+    "model": "deepseek-flash",
+    "confirmed": true,
+    "parameters_confirmed": true,
+    "thinking_mode": "disabled",
+    "output_limit_field": "max_tokens"
+  },
+  "route_id": "f3719c7d0d754267a4db12b6b157678bf0cab6b0f149c6fbb51c587d68cadd3b",
+  "access_channel": "official",
+  "base_url": "https://api.deepseek.com",
+  "adapter": "deepseek",
+  "repeat_index": 3,
+  "mode": "baseline",
+  "search_enabled": false,
+  "source_type": "api",
+  "prompt_text": "Recommend five representative research articles published in academic journals on \"Algorithmic recommendation and filter bubbles\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+  "request_parameters": {
+    "max_output_tokens": 8192,
+    "timeout": 180,
+    "thinking_mode": "disabled"
+  },
+  "thinking_mode": "disabled",
+  "coding_rule_version": "publication_visibility_coding_v2",
+  "sdk_retries": 0,
+  "caller_retries": 0,
+  "generation_authorized": true,
+  "request_config_id": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+  "effective_reasoning_parameters": {
+    "thinking_mode": "disabled"
+  },
+  "proposed_wire_parameters": {
+    "model": "deepseek-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Algorithmic recommendation and filter bubbles\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "thinking": {
+        "type": "disabled"
+      }
+    }
+  },
+  "sequence": 165,
+  "source_job_id": "b5968c28fc78deb1809cf1e957786c05e95058903df95e621ee4c544828debf6",
+  "source_generation_protocol": "research_protocol_v1-cf2812cdc4a6cc6ddda4",
+  "job_id": "353b00e3d0c558499d54b6b861ae004294647edbb3e421a5c7df7489475a7a5f",
+  "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\deepseek\\353b00e3d0c558499d54b6b861ae004294647edbb3e421a5c7df7489475a7a5f",
+  "main_authorization": {
+    "authorization_id": "publication_visibility_main_batch07_f161bab9fb085136",
+    "configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+    "allowed_job_ids": [
+      "0c41f3409812e79e8cb5c133358ac25a19db9e863916540a40eecefe30c0925a",
+      "4ef957e0c90492c86edb7993acb717f49e9ab601e626889f811e22e957f58d1d",
+      "31de82294ed339109a46aebd1fc4a2ce834fd483262602de2e0d7cd422bc5bee",
+      "062a9b0946739a7f0757ae5333b627dcff457c04c105eafe81e2646a9f1ae10a",
+      "91be8431492ac67430c444c2b88c1bea0253f8533b5e12a657210858093fd9fb",
+      "f03b364150f41b31a5f649c8f5d681a6f4d10c47e185ac055790d6cbe40c023a",
+      "6d7efe3af7f643bf374235512fd39a8414044300c390d4f5f44bf9212f74c0ee",
+      "460fb219956288741aceeb7af48b40eeb1bbc084e50e2dd87b3c3db013343152",
+      "40dcea2cb0a0db596c902ac284a319defec39333655b2c90915eb23a7fbace90",
+      "973cb1169c727b34918081685e21f3b39548322845c994e1fecfd50b5ccf5b79",
+      "8208b0518640302b7fa13f8a15325e2333ea791aa1cd476ee52fe3b3a8731b14",
+      "3ca84d8bb1503622abdb032bf027d94e11e68c83f2238ad36e112efaa8376b60",
+      "e7d20436b90881624535eec24c6d2c61b6e119ad326443e25487ddbe0fbce624",
+      "9c9aa427558189abadf1093b1b1fcbfc76f838b48ab12dbb6c94e3cc68472976",
+      "ea72f0e73b8178764021c12b252bdbd6e30a3561a6cc764357e314c4590e014d",
+      "6525a0837fbcf949c447ff0f8c90e0256e8032c521f1f524923f391f43616de5",
+      "1ba428e8581796e100f510d0e15923714cde9cafff0f410ef09bc30028807ff9",
+      "9e5bd2838e29e3b375b0d4ee24445dfc85ca34efd347121a0cae6b3cc05f116c",
+      "d18ec339b4f211fbffa7e0b632352e569d5734f737664f4c5da20527748129f0",
+      "84aaef9b93d3843f12787c35246fefaa1f39a7896a6e18bb67c8db3938fbe32a",
+      "353b00e3d0c558499d54b6b861ae004294647edbb3e421a5c7df7489475a7a5f",
+      "f9eeb1525a9dd18616b2494768dd5a690d6ccd3462d1e5d011c39059f955a7c0",
+      "a338e961e79ca0532a178b0d68a87ed0f217e46ee1af66fe6321b732d0e0d60d",
+      "48c1a8398e4735f8957b22ec381b64bb9725f2b1d7c92b555863b9a4ddd6710c"
+    ],
+    "batch_number": 7,
+    "maximum_total_requests": 24,
+    "maximum_provider_requests": {
+      "qwen": 5,
+      "openai": 6,
+      "gemini": 10,
+      "deepseek": 3
+    },
+    "software_budget_by_currency": {
+      "CNY": "2.60",
+      "USD": "0.30"
+    },
+    "maximum_job_requests": 1,
+    "user_authorized": true,
+    "billing_risk_accepted": true,
+    "source": "remaining144:E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\remaining_049_192\\authorization.json"
+  },
+  "experiment_id": "353b00e3d0c558499d54b6b861ae004294647edbb3e421a5c7df7489475a7a5f",
+  "timestamp": "2026-10-11T15:43:00.149849+00:00",
+  "protocol_status": "frozen",
+  "status": "parse_error",
+  "api_success": true,
+  "attempt_index": 1,
+  "raw_response": {
+    "id": "e850bd18-b20d-4b57-8ee0-e77aac7d6a10",
+    "object": "chat.completion",
+    "created": 1791733387,
+    "model": "deepseek-flash",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "```json\n{\n  \"references\": [\n    {\n      \"title\": \"The Filter Bubble: What the Internet Is Hiding from You\",\n      \"authors\": \"Eli Pariser\",\n      \"year\": 2011,\n      \"journal\": null,\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"Burst of the Filter Bubble? Effects of Personalization on the Diversity of Google News\",\n      \"authors\": \"Mario Haim, Andreas Graefe, Hans-Bernd Brosius\",\n      \"year\": 2018,\n      \"journal\": \"Digital Journalism\",\n      \"doi\": \"10.1080/21670811.2017.1338145\",\n      \"url\": \"https://doi.org/10.1080/21670811.2017.1338145\"\n    },\n    {\n      \"title\": \"Filter Bubbles, Echo Chambers, and Online News Consumption\",\n      \"authors\": \"Seth Flaxman, Sharad Goel, Justin M. Rao\",\n      \"year\": 2016,\n      \"journal\": \"Public Opinion Quarterly\",\n      \"doi\": \"10.1093/poq/nfw006\",\n      \"url\": \"https://doi.org/10.1093/poq/nfw006\"\n    },\n    {\n      \"title\": \"Exposure to Ideologically Diverse News and Opinion on Facebook\",\n      \"authors\": \"Eytan Bakshy, Solomon Messing, Lada A. Adamic\",\n      \"year\": 2015,\n      \"journal\": \"Science\",\n      \"doi\": \"10.1126/science.aaa1160\",\n      \"url\": \"https://doi.org/10.1126/science.aaa1160\"\n    },\n    {\n      \"title\": \"Should We Worry About Filter Bubbles?\",\n      \"authors\": \"Frederik J. Zuiderveen Borgesius, Damian Trilling, Judith Möller, Balázs Bodó, Claes H. de Vreese, Natali Helberger\",\n      \"year\": 2016,\n      \"journal\": \"Internet Policy Review\",\n      \"doi\": \"10.14763/2016.1.401\",\n      \"url\": \"https://doi.org/10.14763/2016.1.401\"\n    }\n  ]\n}\n```"
+        },
+        "logprobs": null,
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 143,
+      "completion_tokens": 496,
+      "total_tokens": 639,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 143
+    },
+    "system_fingerprint": "aeb56401ca74e127821c4f9126dcb669"
+  },
+  "references": [],
+  "returned_model": "deepseek-flash",
+  "usage": {
+    "prompt_tokens": 143,
+    "completion_tokens": 496,
+    "total_tokens": 639,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 143
+  },
+  "finish_reason": "stop",
+  "actual_billed_amount": null,
+  "budget_reservation": {
+    "currency": "USD",
+    "amount": "0.10"
+  },
+  "pricing_snapshot": {
+    "provider": "deepseek",
+    "model": "deepseek-flash",
+    "access_channel": "official",
+    "pricing_route_base_url": "https://api.deepseek.com",
+    "pricing_currency": "USD",
+    "input_price_per_million": "0.30",
+    "output_price_per_million": "1.20",
+    "cached_input_price_per_million": null,
+    "input_token_limit": null,
+    "pricing_source": "prior_research_preexperiment_plan_official_peak_rate_snapshot",
+    "pricing_checked_at": "2026-10-11",
+    "source_url": "https://api-docs.deepseek.com/quick_start/pricing/",
+    "evidence_limit": "Prior public snapshot; current rate, account currency and actual deductions not verified.",
+    "unknown_terms": [
+      "current_rate",
+      "account_currency",
+      "cache_discount",
+      "off_peak_discount",
+      "failed_request_billing",
+      "actual_invoice"
+    ]
+  },
+  "budget_status": "reservation_retained_actual_invoice_unknown",
+  "planned_parameters": {
+    "model": "deepseek-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Algorithmic recommendation and filter bubbles\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "thinking": {
+        "type": "disabled"
+      }
+    }
+  },
+  "upstream_identity_verified": false,
+  "response_text": "```json\n{\n  \"references\": [\n    {\n      \"title\": \"The Filter Bubble: What the Internet Is Hiding from You\",\n      \"authors\": \"Eli Pariser\",\n      \"year\": 2011,\n      \"journal\": null,\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"Burst of the Filter Bubble? Effects of Personalization on the Diversity of Google News\",\n      \"authors\": \"Mario Haim, Andreas Graefe, Hans-Bernd Brosius\",\n      \"year\": 2018,\n      \"journal\": \"Digital Journalism\",\n      \"doi\": \"10.1080/21670811.2017.1338145\",\n      \"url\": \"https://doi.org/10.1080/21670811.2017.1338145\"\n    },\n    {\n      \"title\": \"Filter Bubbles, Echo Chambers, and Online News Consumption\",\n      \"authors\": \"Seth Flaxman, Sharad Goel, Justin M. Rao\",\n      \"year\": 2016,\n      \"journal\": \"Public Opinion Quarterly\",\n      \"doi\": \"10.1093/poq/nfw006\",\n      \"url\": \"https://doi.org/10.1093/poq/nfw006\"\n    },\n    {\n      \"title\": \"Exposure to Ideologically Diverse News and Opinion on Facebook\",\n      \"authors\": \"Eytan Bakshy, Solomon Messing, Lada A. Adamic\",\n      \"year\": 2015,\n      \"journal\": \"Science\",\n      \"doi\": \"10.1126/science.aaa1160\",\n      \"url\": \"https://doi.org/10.1126/science.aaa1160\"\n    },\n    {\n      \"title\": \"Should We Worry About Filter Bubbles?\",\n      \"authors\": \"Frederik J. Zuiderveen Borgesius, Damian Trilling, Judith Möller, Balázs Bodó, Claes H. de Vreese, Natali Helberger\",\n      \"year\": 2016,\n      \"journal\": \"Internet Policy Review\",\n      \"doi\": \"10.14763/2016.1.401\",\n      \"url\": \"https://doi.org/10.14763/2016.1.401\"\n    }\n  ]\n}\n```",
+  "model_returned": "deepseek-flash",
+  "response_id": "e850bd18-b20d-4b57-8ee0-e77aac7d6a10",
+  "provider_status": "completed",
+  "search_executed": false,
+  "tool_records": [],
+  "upstream_snapshot": "unknown",
+  "api_surface": "deepseek.chat.completions",
+  "upstream_route_claims": {
+    "system_fingerprint": "aeb56401ca74e127821c4f9126dcb669"
+  },
+  "raw_http_body": "{\"id\":\"e850bd18-b20d-4b57-8ee0-e77aac7d6a10\",\"object\":\"chat.completion\",\"created\":1791733387,\"model\":\"deepseek-flash\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\"```json\\n{\\n  \\\"references\\\": [\\n    {\\n      \\\"title\\\": \\\"The Filter Bubble: What the Internet Is Hiding from You\\\",\\n      \\\"authors\\\": \\\"Eli Pariser\\\",\\n      \\\"year\\\": 2011,\\n      \\\"journal\\\": null,\\n      \\\"doi\\\": null,\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"Burst of the Filter Bubble? Effects of Personalization on the Diversity of Google News\\\",\\n      \\\"authors\\\": \\\"Mario Haim, Andreas Graefe, Hans-Bernd Brosius\\\",\\n      \\\"year\\\": 2018,\\n      \\\"journal\\\": \\\"Digital Journalism\\\",\\n      \\\"doi\\\": \\\"10.1080/21670811.2017.1338145\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.1080/21670811.2017.1338145\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"Filter Bubbles, Echo Chambers, and Online News Consumption\\\",\\n      \\\"authors\\\": \\\"Seth Flaxman, Sharad Goel, Justin M. Rao\\\",\\n      \\\"year\\\": 2016,\\n      \\\"journal\\\": \\\"Public Opinion Quarterly\\\",\\n      \\\"doi\\\": \\\"10.1093/poq/nfw006\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.1093/poq/nfw006\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"Exposure to Ideologically Diverse News and Opinion on Facebook\\\",\\n      \\\"authors\\\": \\\"Eytan Bakshy, Solomon Messing, Lada A. Adamic\\\",\\n      \\\"year\\\": 2015,\\n      \\\"journal\\\": \\\"Science\\\",\\n      \\\"doi\\\": \\\"10.1126/science.aaa1160\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.1126/science.aaa1160\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"Should We Worry About Filter Bubbles?\\\",\\n      \\\"authors\\\": \\\"Frederik J. Zuiderveen Borgesius, Damian Trilling, Judith Möller, Balázs Bodó, Claes H. de Vreese, Natali Helberger\\\",\\n      \\\"year\\\": 2016,\\n      \\\"journal\\\": \\\"Internet Policy Review\\\",\\n      \\\"doi\\\": \\\"10.14763/2016.1.401\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.14763/2016.1.401\\\"\\n    }\\n  ]\\n}\\n```\"},\"logprobs\":null,\"finish_reason\":\"stop\"}],\"usage\":{\"prompt_tokens\":143,\"completion_tokens\":496,\"total_tokens\":639,\"prompt_tokens_details\":{\"cached_tokens\":0},\"prompt_cache_hit_tokens\":0,\"prompt_cache_miss_tokens\":143},\"system_fingerprint\":\"aeb56401ca74e127821c4f9126dcb669\"}",
+  "http_status": 200,
+  "safe_response_headers": {
+    "server": "openresty"
+  },
+  "sent_parameters": {
+    "model": "deepseek-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Algorithmic recommendation and filter bubbles\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "thinking": {
+        "type": "disabled"
+      }
+    }
+  },
+  "provider_request_id": null,
+  "json_parsed": false,
+  "latency": 7.615622999997868,
+  "usage_price_estimate": {
+    "currency": "USD",
+    "input_tokens_scenario": 143,
+    "output_tokens_scenario": 496,
+    "text_component_amount": "0.0006381",
+    "estimated_total_amount": null,
+    "verified_total_upper_bound": null,
+    "actual_billed_amount": null,
+    "cache_policy": "all_input_at_uncached_rate_scenario",
+    "multiplier_scenario": "1 (scenario only; not account verification)",
+    "tools": "not_requested",
+    "client_retries": 0,
+    "unknown_terms": [
+      "current_rate",
+      "account_currency",
+      "cache_discount",
+      "off_peak_discount",
+      "failed_request_billing",
+      "actual_invoice"
+    ],
+    "price_snapshot_id": "351ba27a464dc989be37ce2bae82bc2b23bdce7cd3bc17f3875ce3d2871c1841",
+    "usage_evidence": {
+      "prompt_tokens": 143,
+      "completion_tokens": 496,
+      "total_tokens": 639,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 143
+    },
+    "reasoning_tokens_reported": null,
+    "usage_cost_basis": "uncached list-rate component; not actual invoice"
+  }
+}

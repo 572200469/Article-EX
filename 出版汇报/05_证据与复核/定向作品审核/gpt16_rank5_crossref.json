@@ -1,0 +1,1102 @@
+{
+  "url": "https://api.crossref.org/works/10.1016%2Fj.chb.2018.07.043",
+  "status": 200,
+  "body": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2026-10-01T20:11:17Z",
+        "timestamp": 1790885477133,
+        "version": "4.1.0"
+      },
+      "reference-count": 99,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2019-01-01T00:00:00Z",
+            "timestamp": 1546300800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2019-01-01T00:00:00Z",
+            "timestamp": 1546300800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        }
+      ],
+      "funder": [
+        {
+          "name": "Tow Center for Digital Journalism at Columbia University"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Computers in Human Behavior"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            1
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.chb.2018.07.043",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2018,
+            8,
+            9
+          ]
+        ],
+        "date-time": "2018-08-09T05:42:21Z",
+        "timestamp": 1533793341000
+      },
+      "page": "298-307",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 184,
+      "special_numbering": "C",
+      "title": [
+        "What kind of news gatekeepers do we want machines to be? Filter bubbles, fragmentation, and the normative dimensions of algorithmic recommendations"
+      ],
+      "prefix": "10.1016",
+      "volume": "90",
+      "author": [
+        {
+          "given": "Efrat",
+          "family": "Nechushtai",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Seth C.",
+          "family": "Lewis",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib1",
+          "unstructured": "About Google News. (2013). Retrieved from: https://www.google.com/intl/en_us/about_google_news.html."
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib2",
+          "first-page": "529",
+          "article-title": "Deliberative, agonistic, and algorithmic Audiences: Journalism's vision of its public in an age of audience transparency",
+          "volume": "5",
+          "author": "Anderson",
+          "year": "2011",
+          "journal-title": "International Journal of Communication"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib3",
+          "series-title": "The Crisis of journalism reconsidered: Democratic culture, professional codes, digital future (153-169)",
+          "article-title": "Assembling publics, assembling routines, assembling values: Journalistic self-conception and the crisis in journalism",
+          "author": "Anderson",
+          "year": "2016"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib4",
+          "series-title": "The media monopoly",
+          "author": "Bagdikian",
+          "year": "1987"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.chb.2018.07.043_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "35",
+          "DOI": "10.1145/280324.280330",
+          "article-title": "The emerging role of electronic marketplaces on the internet",
+          "volume": "41",
+          "author": "Bakos",
+          "year": "1998",
+          "journal-title": "Communications of the ACM"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib6",
+          "first-page": "1",
+          "article-title": "Exposure to ideologically diverse news and opinion on Facebook",
+          "volume": "1160",
+          "author": "Bakshy",
+          "year": "2015",
+          "journal-title": "Science"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib7",
+          "series-title": "The platform press: How silicon valley reengineered journalism. Tow center for digital journalism",
+          "author": "Bell",
+          "year": "2017"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib8",
+          "series-title": "Study: Breitbart-led right-wing media ecosystem altered broader media agenda",
+          "author": "Benkler",
+          "year": "2017"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib9",
+          "series-title": "Shaping immigration news: A French-American comparison",
+          "author": "Benson",
+          "year": "2013"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib10",
+          "series-title": "Remaking the news",
+          "article-title": "From heterogeneity to differentiation: Searching for a good explanation in a new descriptivist era",
+          "author": "Benson",
+          "year": "2017"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.chb.2018.07.043_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "187",
+          "DOI": "10.1111/1467-923X.12071",
+          "article-title": "Putting electronic voting under the microscope",
+          "volume": "85",
+          "author": "Birch",
+          "year": "2014",
+          "journal-title": "The Political Quarterly"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.chb.2018.07.043_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "259",
+          "DOI": "10.1177/1464884913498689",
+          "article-title": "Normative perspectives on journalism studies: Stock-taking and future directions",
+          "volume": "15",
+          "author": "Blumler",
+          "year": "2014",
+          "journal-title": "Journalism"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib13",
+          "series-title": "News at work: Imitation in an age of information abundance",
+          "author": "Boczkowski",
+          "year": "2010"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.chb.2018.07.043_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "977",
+          "DOI": "10.1177/0003122417725865",
+          "article-title": "Big data surveillance: The case of policing",
+          "volume": "82",
+          "author": "Brayne",
+          "year": "2017",
+          "journal-title": "American Sociological Review"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.chb.2018.07.043_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "326",
+          "DOI": "10.2307/2573002",
+          "article-title": "Social control in the newsroom: A functional analysis",
+          "volume": "33",
+          "author": "Breed",
+          "year": "1955",
+          "journal-title": "Social Forces"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib1a",
+          "article-title": "Study: Apple News’s human editors prefer a few major newsrooms",
+          "author": "Brown",
+          "year": "2018",
+          "journal-title": "Columbia Journalism Review"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib16",
+          "series-title": "Paper presented in the 69th annual conference of the international communication association",
+          "article-title": "Following, mentioning, sharing: A search for filter bubbles in the australian twittersphere",
+          "author": "Bruns",
+          "year": "2018"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib17",
+          "series-title": "The second machine age: Work, progress, and prosperity in a time of brilliant technologies",
+          "author": "Brynjolfsson",
+          "year": "2016"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.chb.2018.07.043_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "1014",
+          "DOI": "10.1177/0163443707084346",
+          "article-title": "Order versus access: News search engines and the challenge to traditional journalistic roles",
+          "volume": "29",
+          "author": "Carlson",
+          "year": "2007",
+          "journal-title": "Media, Culture & Society"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib19",
+          "article-title": "Automating judgment? Algorithmic judgment, news knowledge, and journalistic professionalism",
+          "author": "Carlson",
+          "year": "2017",
+          "journal-title": "New Media & Society"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.chb.2018.07.043_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "4",
+          "DOI": "10.1080/21670811.2017.1298044",
+          "article-title": "Facebook in the news: Social media, journalism, and public responsibility following the 2016 trending topics controversy",
+          "volume": "6",
+          "author": "Carlson",
+          "year": "2018",
+          "journal-title": "Digital Journalism"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib21",
+          "series-title": "Boundaries of journalism: Professionalism, practices and participation",
+          "year": "2015"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.chb.2018.07.043_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "563",
+          "DOI": "10.1080/21670811.2015.1076344",
+          "article-title": "News startups as agents of innovation: For-profit digital news startup manifestos as metajournalistic discourse",
+          "volume": "4",
+          "author": "Carlson",
+          "year": "2016",
+          "journal-title": "Digital Journalism"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.chb.2018.07.043_bib23",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1177/2053951717718855",
+          "article-title": "Algorithms in practice: Comparing web journalism and criminal justice",
+          "volume": "4",
+          "author": "Christin",
+          "year": "2017",
+          "journal-title": "Big Data & Society"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.chb.2018.07.043_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "753",
+          "DOI": "10.1080/21670811.2016.1178592",
+          "article-title": "From editors to algorithms: A value-based approach to understanding story selection in the Facebook news feed",
+          "volume": "5",
+          "author": "DeVito",
+          "year": "2017",
+          "journal-title": "Digital Journalism"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.chb.2018.07.043_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "398",
+          "DOI": "10.1080/21670811.2014.976411",
+          "article-title": "Algorithmic accountability: Journalistic investigation of computational power structures",
+          "volume": "3",
+          "author": "Diakopoulos",
+          "year": "2015",
+          "journal-title": "Digital Journalism"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib26",
+          "series-title": "Digital dominance: The power of Google, Amazon, Facebook, and apple",
+          "first-page": "320",
+          "article-title": "I vote for—how search informs our choice of a candidate",
+          "author": "Diakopoulos",
+          "year": "2018"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.chb.2018.07.043_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "462",
+          "DOI": "10.1080/17512786.2010.551020",
+          "article-title": "Search engine optimisation in UK news production",
+          "volume": "5",
+          "author": "Dick",
+          "year": "2011",
+          "journal-title": "Journalism Practice"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.chb.2018.07.043_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "1523",
+          "DOI": "10.1002/asi.23294",
+          "article-title": "Big data, bigger dilemmas: A critical review",
+          "volume": "66",
+          "author": "Ekbia",
+          "year": "2015",
+          "journal-title": "Journal of the Association for Information Science and Technology"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib29",
+          "series-title": "Automating inequality: How high-tech tools profile, police, and punish the poor",
+          "author": "Eubanks",
+          "year": "2018"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib30",
+          "series-title": "Google news: The secret sauce",
+          "author": "Filloux",
+          "year": "2013"
+        },
+        {
+          "issue": "S1",
+          "key": "10.1016/j.chb.2018.07.043_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "298",
+          "DOI": "10.1093/poq/nfw006",
+          "article-title": "Filter bubbles, echo chambers, and online news consumption",
+          "volume": "80",
+          "author": "Flaxman",
+          "year": "2016",
+          "journal-title": "Public Opinion Quarterly"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib32",
+          "unstructured": "Fletcher, R., & Nielsen, R. K. (forthcoming). Automated serendipity: The effect of using search engines on news diet balance and diversity. Digital Journalism."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.chb.2018.07.043_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "476",
+          "DOI": "10.1111/jcom.12315",
+          "article-title": "Are news audiences increasingly fragmented? A cross-national comparative analysis of cross-platform news audience fragmentation and duplication",
+          "volume": "67",
+          "author": "Fletcher",
+          "year": "2017",
+          "journal-title": "Journal of Communication"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib34",
+          "series-title": "Rise of the robots: Technology and the threat of a jobless future",
+          "author": "Ford",
+          "year": "2016"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib35",
+          "series-title": "Deciding what's news: A study of CBS evening news, NBC nightly news, newsweek, and time",
+          "author": "Gans",
+          "year": "1979"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.chb.2018.07.043_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "1799",
+          "DOI": "10.1093/qje/qjr044",
+          "article-title": "Ideological segregation online and offline",
+          "volume": "126",
+          "author": "Gentzkow",
+          "year": "2011",
+          "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.chb.2018.07.043_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "347",
+          "DOI": "10.1177/1461444809342738",
+          "article-title": "The politics of ‘platforms’",
+          "volume": "12",
+          "author": "Gillespie",
+          "year": "2010",
+          "journal-title": "New Media & Society"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib38",
+          "series-title": "Media technologies: Essays on communication, materiality, and society",
+          "first-page": "167",
+          "year": "2014"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.chb.2018.07.043_bib39",
+          "doi-asserted-by": "crossref",
+          "first-page": "379",
+          "DOI": "10.1080/21670811.2015.1046992",
+          "article-title": "Investigating search engine optimization factors in media websites: The case of Greece",
+          "volume": "4",
+          "author": "Giomelakis",
+          "year": "2016",
+          "journal-title": "Digital Journalism"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib40",
+          "series-title": "Media, ritual and identity",
+          "article-title": "Public sphere or public sphericules?",
+          "author": "Gitlin",
+          "year": "2002"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.chb.2018.07.043_bib41",
+          "doi-asserted-by": "crossref",
+          "first-page": "263",
+          "DOI": "10.1007/s13347-017-0281-3",
+          "article-title": "Editor's introduction. Special section: Rethinking art and aesthetics in the age of creative machines",
+          "volume": "30",
+          "author": "Gunkel",
+          "year": "2017",
+          "journal-title": "Philosophy & Technology"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.chb.2018.07.043_bib42",
+          "doi-asserted-by": "crossref",
+          "first-page": "330",
+          "DOI": "10.1080/21670811.2017.1338145",
+          "article-title": "Burst of the filter bubble? Effects of personalization on the diversity of Google News",
+          "volume": "6",
+          "author": "Haim",
+          "year": "2018",
+          "journal-title": "Digital Journalism"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.chb.2018.07.043_bib43",
+          "doi-asserted-by": "crossref",
+          "first-page": "14",
+          "DOI": "10.1111/j.1460-2466.1992.tb00794.x",
+          "article-title": "The passing of the “high modernism” of American journalism",
+          "volume": "42",
+          "author": "Hallin",
+          "year": "1992",
+          "journal-title": "Journal of Communication"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib44",
+          "series-title": "Proceedings of the 22nd international conference on world wide web",
+          "first-page": "527",
+          "article-title": "Measuring personalization of web search",
+          "author": "Hannak",
+          "year": "2013"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.chb.2018.07.043_bib45",
+          "doi-asserted-by": "crossref",
+          "first-page": "191",
+          "DOI": "10.1080/1369118X.2016.1271900",
+          "article-title": "Exposure diversity as a design principle for recommender systems",
+          "volume": "21",
+          "author": "Helberger",
+          "year": "2018",
+          "journal-title": "Information, Communication & Society"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib46",
+          "series-title": "The myth of digital democracy",
+          "author": "Hindman",
+          "year": "2008"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib47",
+          "unstructured": "How Google News Results Are Selected. (2016). Retrieved from: https://support.google.com/news/answer/40213?hl=en&ref_topic=2428790."
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib48",
+          "series-title": "Pax Technica: How the Internet of things may set us free or lock us up",
+          "author": "Howard",
+          "year": "2015"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.chb.2018.07.043_bib49",
+          "doi-asserted-by": "crossref",
+          "first-page": "19",
+          "DOI": "10.1111/j.1460-2466.2008.01402.x",
+          "article-title": "Red media, blue media: Evidence of ideological selectivity in media use",
+          "volume": "59",
+          "author": "Iyengar",
+          "year": "2009",
+          "journal-title": "Journal of Communication"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.chb.2018.07.043_bib50",
+          "doi-asserted-by": "crossref",
+          "first-page": "251",
+          "DOI": "10.1007/s10676-010-9233-7",
+          "article-title": "Is there an ethics of algorithms?",
+          "volume": "13",
+          "author": "Kraemer",
+          "year": "2011",
+          "journal-title": "Ethics and Information Technology"
+        },
+        {
+          "issue": "6380",
+          "key": "10.1016/j.chb.2018.07.043_bib51",
+          "doi-asserted-by": "crossref",
+          "first-page": "1094",
+          "DOI": "10.1126/science.aao2998",
+          "article-title": "The science of fake news",
+          "volume": "359",
+          "author": "Lazer",
+          "year": "2018",
+          "journal-title": "Science"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib52",
+          "series-title": "How partisan media polarize America",
+          "author": "Levendusky",
+          "year": "2013"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib53",
+          "article-title": "Libel by algorithm? Automated journalism and the threat of legal liability",
+          "author": "Lewis",
+          "year": "2018",
+          "journal-title": "Journalism & Mass Communication Quarterly"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.chb.2018.07.043_bib54",
+          "doi-asserted-by": "crossref",
+          "first-page": "19",
+          "DOI": "10.1080/21670811.2014.927986",
+          "article-title": "Actors, actants, audiences, and activities in cross-media news work: A matrix and a research agenda",
+          "volume": "3",
+          "author": "Lewis",
+          "year": "2015",
+          "journal-title": "Digital Journalism"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.chb.2018.07.043_bib55",
+          "doi-asserted-by": "crossref",
+          "first-page": "447",
+          "DOI": "10.1080/21670811.2014.976418",
+          "article-title": "Big data and journalism: Epistemology, expertise, economics, and ethics",
+          "volume": "3",
+          "author": "Lewis",
+          "year": "2015",
+          "journal-title": "Digital Journalism"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.chb.2018.07.043_bib56",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.3758/s13428-011-0124-6",
+          "article-title": "Conducting behavioral research on Amazon's mechanical Turk",
+          "volume": "44",
+          "author": "Mason",
+          "year": "2012",
+          "journal-title": "Behavior Research Methods"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib57",
+          "series-title": "Rich media, poor democracy: Communication politics in dubious times",
+          "author": "McChesney",
+          "year": "1999"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib58",
+          "series-title": "Digital disconnect: How capitalism is turning the Internet against democracy",
+          "author": "McChesney",
+          "year": "2013"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.chb.2018.07.043_bib59",
+          "doi-asserted-by": "crossref",
+          "first-page": "543",
+          "DOI": "10.1080/14616700500250438",
+          "article-title": "A look at agenda-setting: Past, present and future",
+          "volume": "6",
+          "author": "McCombs",
+          "year": "2005",
+          "journal-title": "Journalism Studies"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib60",
+          "series-title": "Media performance: Mass communication and the public interest",
+          "author": "McQuail",
+          "year": "1992"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.chb.2018.07.043_bib61",
+          "doi-asserted-by": "crossref",
+          "first-page": "138",
+          "DOI": "10.1177/1940161212474472",
+          "article-title": "Networked gatekeeping and networked framing on #Egypt",
+          "volume": "18",
+          "author": "Meraz",
+          "year": "2013",
+          "journal-title": "The International Journal of Press/Politics"
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.chb.2018.07.043_bib62",
+          "doi-asserted-by": "crossref",
+          "first-page": "751",
+          "DOI": "10.1016/j.telpol.2014.12.003",
+          "article-title": "Social media and the public interest: Governance of news platforms in the realm of individual and algorithmic gatekeepers",
+          "volume": "39",
+          "author": "Napoli",
+          "year": "2015",
+          "journal-title": "Telecommunications Policy"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib63",
+          "series-title": "Being digital",
+          "author": "Negroponte",
+          "year": "1995"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib64",
+          "series-title": "Reuters institute digital news report 2017",
+          "author": "Newman",
+          "year": "2017"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib65",
+          "article-title": "Dealing with digital intermediaries: A case study of the relations between publishers and platforms",
+          "author": "Nielsen",
+          "year": "2017",
+          "journal-title": "New Media & Society"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib66",
+          "doi-asserted-by": "crossref",
+          "first-page": "e38",
+          "DOI": "10.7717/peerj-cs.38",
+          "article-title": "Measuring online social bubbles",
+          "volume": "1",
+          "author": "Nikolov",
+          "year": "2015",
+          "journal-title": "Peer Journal Computer Science"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.chb.2018.07.043_bib67",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1109/2.910905",
+          "article-title": "How computer systems embody values",
+          "volume": "34",
+          "author": "Nissenbaum",
+          "year": "2001",
+          "journal-title": "Computer"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.chb.2018.07.043_bib68",
+          "doi-asserted-by": "crossref",
+          "first-page": "107",
+          "DOI": "10.1080/21670811.2015.1093272",
+          "article-title": "Googling the news: Opportunities and challenges in studying news events through Google Search",
+          "volume": "4",
+          "author": "Ørmen",
+          "year": "2016",
+          "journal-title": "Digital Journalism"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib69",
+          "series-title": "Weapons of math destruction: How big data increases inequality and threatens democracy",
+          "author": "O'Neil",
+          "year": "2016"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib70",
+          "series-title": "The filter bubble: What the Internet is hiding from you",
+          "author": "Pariser",
+          "year": "2011"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib71",
+          "series-title": "Media independence: Working with Freedom or Working for free?",
+          "first-page": "182",
+          "article-title": "Social media and journalistic independence",
+          "author": "Poell",
+          "year": "2015"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib72",
+          "series-title": "Post-broadcast democracy: How media choice increases inequality in political involvement and polarizes elections",
+          "author": "Prior",
+          "year": "2007"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.chb.2018.07.043_bib73",
+          "doi-asserted-by": "crossref",
+          "first-page": "816",
+          "DOI": "10.1080/21670811.2016.1152903",
+          "article-title": "The new geography of journalism research: Levels and spaces",
+          "volume": "4",
+          "author": "Reese",
+          "year": "2016",
+          "journal-title": "Digital Journalism"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.chb.2018.07.043_bib74",
+          "doi-asserted-by": "crossref",
+          "first-page": "389",
+          "DOI": "10.1080/15205436.2016.1174268",
+          "article-title": "A media sociology for the networked public sphere: The hierarchy of influences model",
+          "volume": "19",
+          "author": "Reese",
+          "year": "2016",
+          "journal-title": "Mass Communication & Society"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib75",
+          "series-title": "Can journalism survive?: an inside look at American newsrooms",
+          "author": "Ryfe",
+          "year": "2013"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.chb.2018.07.043_bib76",
+          "doi-asserted-by": "crossref",
+          "first-page": "245",
+          "DOI": "10.1080/14616700500057486",
+          "article-title": "Journalism ex machina — google news Germany and its news selection processes",
+          "volume": "6",
+          "author": "Schroeder",
+          "year": "2005",
+          "journal-title": "Journalism Studies"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib77",
+          "series-title": "The power of news",
+          "author": "Schudson",
+          "year": "1995"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib78",
+          "series-title": "The control revolution: How the Internet is putting individuals in charge and changing the world we know",
+          "author": "Shapiro",
+          "year": "1999"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib2a",
+          "series-title": "How much of your news site’s search traffic comes from Google News? Probably 5 to 25 percent",
+          "author": "Sherk",
+          "year": "2014"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib79",
+          "series-title": "Here comes everybody: The power of organizing without organizations",
+          "author": "Shirky",
+          "year": "2008"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib80",
+          "series-title": "The handbook of journalism studies",
+          "first-page": "73",
+          "article-title": "Journalists as gatekeepers",
+          "author": "Shoemaker",
+          "year": "2008"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.chb.2018.07.043_bib81",
+          "doi-asserted-by": "crossref",
+          "first-page": "55",
+          "DOI": "10.1177/1461444813477833",
+          "article-title": "User-generated visibility: Secondary gatekeeping in a shared media space",
+          "volume": "16",
+          "author": "Singer",
+          "year": "2014",
+          "journal-title": "New Media & Society"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib82",
+          "series-title": "Paper presented at the world media economics and management conference",
+          "article-title": "How does news infomediation operate online? The examples of Google and Facebook",
+          "author": "Smyrnaios",
+          "year": "2012"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib83",
+          "series-title": "The sense of dissonance: Accounts of worth in economic life",
+          "author": "Stark",
+          "year": "2011"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib84",
+          "series-title": "Niche news: The politics of news choice",
+          "author": "Stroud",
+          "year": "2011"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib85",
+          "series-title": "Republic.com",
+          "author": "Sunstein",
+          "year": "2002"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib86",
+          "series-title": "#Republic: Divided democracy in the age of social media",
+          "author": "Sunstein",
+          "year": "2018"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.chb.2018.07.043_bib87",
+          "doi-asserted-by": "crossref",
+          "first-page": "10",
+          "DOI": "10.1145/2460276.2460278",
+          "article-title": "Discrimination in online ad delivery",
+          "volume": "11",
+          "author": "Sweeney",
+          "year": "2013",
+          "journal-title": "ACM Queue"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib3a",
+          "article-title": "News organizations’ use of native videos on Facebook: Tweaking the journalistic field one algorithm change at a time",
+          "author": "Tandoc",
+          "year": "2017",
+          "journal-title": "New Media & Society"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib4a",
+          "series-title": "Search engines sent more traffic to publishers than social media in 2017",
+          "author": "Tran",
+          "year": "2018"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib88",
+          "series-title": "Making news: A study in the construction of reality",
+          "author": "Tuchman",
+          "year": "1978"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib89",
+          "series-title": "The new google news: AI meets human intelligence",
+          "author": "Upstill",
+          "year": "2018"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.chb.2018.07.043_bib90",
+          "doi-asserted-by": "crossref",
+          "first-page": "582",
+          "DOI": "10.1177/107769909607300306",
+          "article-title": "Diversity in the news: A conceptual and methodological framework",
+          "volume": "73",
+          "author": "Voakes",
+          "year": "1996",
+          "journal-title": "Journalism & Mass Communication Quarterly"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib91",
+          "series-title": "Google news gets an update, with more AI-driven curation, more labeling, more reader controls (fingers crossed for No AI flops)",
+          "author": "Wang",
+          "year": "2018"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.chb.2018.07.043_bib92",
+          "doi-asserted-by": "crossref",
+          "first-page": "383",
+          "DOI": "10.1177/107769905002700403",
+          "article-title": "The “gate keeper”: A case study in the selection of news",
+          "volume": "27",
+          "author": "White",
+          "year": "1950",
+          "journal-title": "Journalism Bulletin"
+        },
+        {
+          "key": "10.1016/j.chb.2018.07.043_bib93",
+          "series-title": "After broadcast news: Media regimes, democracy, and the new information environment",
+          "author": "Williams",
+          "year": "2011"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.chb.2018.07.043_bib94",
+          "doi-asserted-by": "crossref",
+          "first-page": "3",
+          "DOI": "10.1177/0162243915608948",
+          "article-title": "Governing algorithms: Myth, mess, and methods",
+          "volume": "41",
+          "author": "Ziewitz",
+          "year": "2016",
+          "journal-title": "Science, Technology & Human Values"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.chb.2018.07.043_bib95",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.14763/2016.1.401",
+          "article-title": "Should we worry about filter bubbles?",
+          "volume": "5",
+          "author": "Zuiderveen Borgesius",
+          "year": "2016",
+          "journal-title": "Internet Policy Review"
+        }
+      ],
+      "container-title": [
+        "Computers in Human Behavior"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0747563218303650?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0747563218303650?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            10,
+            10
+          ]
+        ],
+        "date-time": "2025-10-10T00:31:14Z",
+        "timestamp": 1760056274000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0747563218303650"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            1
+          ]
+        ]
+      },
+      "references-count": 99,
+      "alternative-id": [
+        "S0747563218303650"
+      ],
+      "URL": "https://doi.org/10.1016/j.chb.2018.07.043",
+      "relation": {},
+      "ISSN": [
+        "0747-5632"
+      ],
+      "issn-type": [
+        {
+          "value": "0747-5632",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            1
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "What kind of news gatekeepers do we want machines to be? Filter bubbles, fragmentation, and the normative dimensions of algorithmic recommendations",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Computers in Human Behavior",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.chb.2018.07.043",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2018 Elsevier Ltd. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "protocol": "research_protocol_v1-f161bab9fb085136cd8a",
+  "batch_id": "publication_visibility_main-f161bab9fb085136",
+  "cohort": "publication_visibility_main",
+  "condition": "neutral_en",
+  "prompt_language": "en",
+  "topic_id": "spiral_of_silence",
+  "topic_group": "classical",
+  "provider": "openai",
+  "model_requested": "gpt-5.6-terra",
+  "requested_model": "gpt-5.6-terra",
+  "route": {
+    "provider": "openai",
+    "adapter": "relay",
+    "access_channel": "relay",
+    "base_url": "https://token.mmh1.top/v1",
+    "api_key_env": "RELAY_API_KEY",
+    "model": "gpt-5.6-terra",
+    "confirmed": true,
+    "parameters_confirmed": false,
+    "reasoning_effort": "none",
+    "thinking_mode": "none",
+    "output_limit_field": "max_completion_tokens"
+  },
+  "route_id": "80c1a0800214d59a110d079ba69bfd04955cbdd093fcc0077d0e7fc4b8f144f2",
+  "access_channel": "relay",
+  "base_url": "https://token.mmh1.top/v1",
+  "adapter": "relay",
+  "repeat_index": 1,
+  "mode": "baseline",
+  "search_enabled": false,
+  "source_type": "api",
+  "prompt_text": "Recommend five representative research articles published in academic journals on \"Spiral of silence\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+  "request_parameters": {
+    "max_output_tokens": 8192,
+    "timeout": 180
+  },
+  "thinking_mode": "none",
+  "coding_rule_version": "publication_visibility_coding_v2",
+  "sdk_retries": 0,
+  "caller_retries": 0,
+  "generation_authorized": true,
+  "request_config_id": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+  "effective_reasoning_parameters": {
+    "reasoning_effort": "none",
+    "thinking_mode": "none"
+  },
+  "proposed_wire_parameters": {
+    "model": "gpt-5.6-terra",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Spiral of silence\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_completion_tokens": 8192,
+    "reasoning_effort": "none"
+  },
+  "sequence": 64,
+  "source_job_id": "53f30c9f39883bb4ebfbafb6842a642b6daa9dd978d03329b0110da6000fc5b2",
+  "source_generation_protocol": "research_protocol_v1-cf2812cdc4a6cc6ddda4",
+  "job_id": "86efb94ef10fa895307c3a09e74ccf05c4bc8ef78446a19e578c405241ce6084",
+  "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\openai\\86efb94ef10fa895307c3a09e74ccf05c4bc8ef78446a19e578c405241ce6084",
+  "main_authorization": {
+    "authorization_id": "publication_visibility_main_batch03_f161bab9fb085136",
+    "configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+    "allowed_job_ids": [
+      "23eb926d70a739e90488f6fa10b7f9f6136ed8ad14f2067e4b551c1cb1cf6186",
+      "0e8d6ce840c891c7a88eeaa3317605636111ea82e6d580c35d04f14a2464420c",
+      "d02293027410241d961cd33c867fd1f8ce036d6246e8d255bda57335322563b5",
+      "27654723ec98bd234046acae1a9d8747430acdfbaa81ffea7f485d4d0211f569",
+      "4f8a92b14bc6aebb8201d7f522a99add0a6648e642f5f2039ccba668f62ad9b1",
+      "0b5952c4d8976ec1e8b0e2ada985c4824965d93e6bd322ac75d212920a3ec151",
+      "f612a1d986dceaf989e907359a2c35432a9cd09f898960486447b508e858abfe",
+      "9dae8a1f611c46be51b9070d1c08236470374cee9b058428afe213cfd7a7dc3d",
+      "3824770244375ffda53e180eb19c4f3ceff698719c072fe59747c1690c5f1694",
+      "3092d955cf83de87f4ade350977576a452847dcd22eea5f7d0565d19b0b5c011",
+      "c4a1dcd65a3a198bffbf47f62b6cce20b34cee5d1b275d4e17d4a03f378b5630",
+      "ab2794df0f21ec0cc569d0ce1beb20e025a560449381f9f2f8104ca484122645",
+      "1ccf49df7f9aaa264c669bf0649cac73bfa21d42f8954ff6d22d35998ac8dbbd",
+      "4ee0cfceeb28ff1bb4d13c864a64e7e7a2f4d84ceae39078160cfca383ea3ea4",
+      "b7d9c70f2edfee310699eb5eb5ed227e7a6d1b014563c0dd1d78368107d4173f",
+      "86efb94ef10fa895307c3a09e74ccf05c4bc8ef78446a19e578c405241ce6084",
+      "66b4993a482742b69c8e808e5023cd7b1b3e15a8280f1f7cd2c76cbe7e565821",
+      "012586fc0bdc694f3bf60ae1f2306464fb1c112f3a6bdd1e2866a6863cc6520f",
+      "4859d563a1dfdc6ef783e161c8a2523acbb8c03a1df657ec49b2e4ba90f47977",
+      "3ccd2992e960ea8ee96b6d478a601c08db4b6ee9a3328e0b8fb7c732abeb0a38",
+      "3795fbed02a6e74036f0983330bd9d4d873f5477f128195c784fba8a93b18908",
+      "ed756b063d82a7fcb17354259a74137c00d15651d769f738be90e682774f0f9e",
+      "635452d9ac7543e81faad4adc720798f2ff0dbf60f004caedd1049e85dda0a07",
+      "2e8605a8fa60d68026d9bea79b4533b5ef141e7a33289a3f62fce139fb203e13"
+    ],
+    "batch_number": 3,
+    "maximum_total_requests": 24,
+    "maximum_provider_requests": {
+      "deepseek": 4,
+      "qwen": 7,
+      "openai": 8,
+      "gemini": 5
+    },
+    "software_budget_by_currency": {
+      "CNY": "2.25",
+      "USD": "0.40"
+    },
+    "maximum_job_requests": 1,
+    "user_authorized": true,
+    "billing_risk_accepted": true,
+    "source": "remaining144:E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\remaining_049_192\\authorization.json"
+  },
+  "experiment_id": "86efb94ef10fa895307c3a09e74ccf05c4bc8ef78446a19e578c405241ce6084",
+  "timestamp": "2026-10-11T14:58:48.845493+00:00",
+  "protocol_status": "frozen",
+  "status": "success",
+  "api_success": true,
+  "attempt_index": 1,
+  "raw_response": {
+    "id": "resp_ft_120b98930cb240219ec19df0f391a425",
+    "object": "chat.completion",
+    "created": 1791730791,
+    "model": "gpt-5.6-terra",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": " {\"references\":[{\"title\":\"The Spiral of Silence: A Theory of Public Opinion\",\"authors\":[\"Elisabeth Noelle-Neumann\"],\"year\":1974,\"journal\":\"Journal of Communication\",\"doi\":\"10.1111/j.1460-2466.1974.tb00367.x\",\"url\":\"https://doi.org/10.1111/j.1460-2466.1974.tb00367.x\"},{\"title\":\"Public Opinion Du Jour: An Examination of the Spiral of Silence\",\"authors\":[\"Thomas M. Glynn\",\"Jack M. McLeod\"],\"year\":1984,\"journal\":\"Public Opinion Quarterly\",\"doi\":\"10.1086/268922\",\"url\":\"https://doi.org/10.1086/268922\"},{\"title\":\"The Spiral of Silence and Public Opinion on Affirmative Action\",\"authors\":[\"Michael D. Moy\",\"David Domke\",\"Keith Stamm\"],\"year\":2001,\"journal\":\"Journalism & Mass Communication Quarterly\",\"doi\":\"10.1177/107769900107800102\",\"url\":\"https://doi.org/10.1177/107769900107800102\"},{\"title\":\"The Spiral of Silence and Fear of Isolation\",\"authors\":[\"Kurt Neuwirth\",\"Edmund Frederick\",\"Clint Mayo\"],\"year\":2007,\"journal\":\"Communication Research\",\"doi\":\"10.1177/0093650206298792\",\"url\":\"https://doi.org/10.1177/0093650206298792\"},{\"title\":\"Exploring the Forms of Self-Censorship: On the Spiral of Silence and the Use of Opinion Expression\",\"authors\":[\"Andrew A. Hayes\"],\"year\":2007,\"journal\":\"Journal of Communication\",\"doi\":\"10.1111/j.1460-2466.2007.00355.x\",\"url\":\"https://doi.org/10.1111/j.1460-2466.2007.00355.x\"}]}",
+          "reasoning_content": "**Identifying key spiral of silence sources****Compiling spiral of silence references**"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 3699,
+      "completion_tokens": 897,
+      "total_tokens": 4596,
+      "completion_tokens_details": {
+        "reasoning_tokens": 500
+      }
+    },
+    "service_tier": "default"
+  },
+  "references": [
+    {
+      "title": "The Spiral of Silence: A Theory of Public Opinion",
+      "authors": [
+        "Elisabeth Noelle-Neumann"
+      ],
+      "year": 1974,
+      "journal": "Journal of Communication",
+      "doi": "10.1111/j.1460-2466.1974.tb00367.x",
+      "url": "https://doi.org/10.1111/j.1460-2466.1974.tb00367.x"
+    },
+    {
+      "title": "Public Opinion Du Jour: An Examination of the Spiral of Silence",
+      "authors": [
+        "Thomas M. Glynn",
+        "Jack M. McLeod"
+      ],
+      "year": 1984,
+      "journal": "Public Opinion Quarterly",
+      "doi": "10.1086/268922",
+      "url": "https://doi.org/10.1086/268922"
+    },
+    {
+      "title": "The Spiral of Silence and Public Opinion on Affirmative Action",
+      "authors": [
+        "Michael D. Moy",
+        "David Domke",
+        "Keith Stamm"
+      ],
+      "year": 2001,
+      "journal": "Journalism & Mass Communication Quarterly",
+      "doi": "10.1177/107769900107800102",
+      "url": "https://doi.org/10.1177/107769900107800102"
+    },
+    {
+      "title": "The Spiral of Silence and Fear of Isolation",
+      "authors": [
+        "Kurt Neuwirth",
+        "Edmund Frederick",
+        "Clint Mayo"
+      ],
+      "year": 2007,
+      "journal": "Communication Research",
+      "doi": "10.1177/0093650206298792",
+      "url": "https://doi.org/10.1177/0093650206298792"
+    },
+    {
+      "title": "Exploring the Forms of Self-Censorship: On the Spiral of Silence and the Use of Opinion Expression",
+      "authors": [
+        "Andrew A. Hayes"
+      ],
+      "year": 2007,
+      "journal": "Journal of Communication",
+      "doi": "10.1111/j.1460-2466.2007.00355.x",
+      "url": "https://doi.org/10.1111/j.1460-2466.2007.00355.x"
+    }
+  ],
+  "returned_model": "gpt-5.6-terra",
+  "usage": {
+    "prompt_tokens": 3699,
+    "completion_tokens": 897,
+    "total_tokens": 4596,
+    "completion_tokens_details": {
+      "reasoning_tokens": 500
+    }
+  },
+  "finish_reason": "stop",
+  "actual_billed_amount": null,
+  "budget_reservation": {
+    "currency": "CNY",
+    "amount": "0.10"
+  },
+  "pricing_snapshot": {
+    "provider": "openai",
+    "model": "gpt-5.6-terra",
+    "pricing_route_base_url": "https://token.mmh1.top/v1",
+    "access_channel": "relay",
+    "pricing_currency": "CNY",
+    "input_price_per_million": "1.30",
+    "output_price_per_million": "7.80",
+    "cached_input_price_per_million": "0.80",
+    "pricing_source": "user_provided_mmh1_screenshot_transcription",
+    "pricing_checked_at": "2026-10-11",
+    "source_url": "https://token.mmh1.top/pricing",
+    "evidence_limit": "Displayed prices only; original screenshot not available locally; actual deductions unverified.",
+    "tier": "standard_scenario_only",
+    "input_token_limit": null,
+    "reasoning_billing": "unknown",
+    "unknown_terms": [
+      "platform_multiplier",
+      "account_currency_or_quota_unit",
+      "dynamic_price",
+      "long_context_tier_threshold",
+      "long_context_rates",
+      "reasoning_billing",
+      "cache_write_fee",
+      "failed_request_billing",
+      "platform_internal_retries"
+    ],
+    "proposed_reservation": "0.10"
+  },
+  "budget_status": "reservation_retained_actual_invoice_unknown",
+  "planned_parameters": {
+    "model": "gpt-5.6-terra",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Spiral of silence\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_completion_tokens": 8192,
+    "reasoning_effort": "none"
+  },
+  "upstream_identity_verified": false,
+  "response_text": " {\"references\":[{\"title\":\"The Spiral of Silence: A Theory of Public Opinion\",\"authors\":[\"Elisabeth Noelle-Neumann\"],\"year\":1974,\"journal\":\"Journal of Communication\",\"doi\":\"10.1111/j.1460-2466.1974.tb00367.x\",\"url\":\"https://doi.org/10.1111/j.1460-2466.1974.tb00367.x\"},{\"title\":\"Public Opinion Du Jour: An Examination of the Spiral of Silence\",\"authors\":[\"Thomas M. Glynn\",\"Jack M. McLeod\"],\"year\":1984,\"journal\":\"Public Opinion Quarterly\",\"doi\":\"10.1086/268922\",\"url\":\"https://doi.org/10.1086/268922\"},{\"title\":\"The Spiral of Silence and Public Opinion on Affirmative Action\",\"authors\":[\"Michael D. Moy\",\"David Domke\",\"Keith Stamm\"],\"year\":2001,\"journal\":\"Journalism & Mass Communication Quarterly\",\"doi\":\"10.1177/107769900107800102\",\"url\":\"https://doi.org/10.1177/107769900107800102\"},{\"title\":\"The Spiral of Silence and Fear of Isolation\",\"authors\":[\"Kurt Neuwirth\",\"Edmund Frederick\",\"Clint Mayo\"],\"year\":2007,\"journal\":\"Communication Research\",\"doi\":\"10.1177/0093650206298792\",\"url\":\"https://doi.org/10.1177/0093650206298792\"},{\"title\":\"Exploring the Forms of Self-Censorship: On the Spiral of Silence and the Use of Opinion Expression\",\"authors\":[\"Andrew A. Hayes\"],\"year\":2007,\"journal\":\"Journal of Communication\",\"doi\":\"10.1111/j.1460-2466.2007.00355.x\",\"url\":\"https://doi.org/10.1111/j.1460-2466.2007.00355.x\"}]}",
+  "model_returned": "gpt-5.6-terra",
+  "response_id": "resp_ft_120b98930cb240219ec19df0f391a425",
+  "provider_status": "completed",
+  "search_executed": false,
+  "tool_records": [],
+  "upstream_snapshot": "unknown",
+  "api_surface": "relay.openai_compatible.chat.completions",
+  "upstream_route_claims": {},
+  "raw_http_body": "{\"id\":\"resp_ft_120b98930cb240219ec19df0f391a425\",\"object\":\"chat.completion\",\"created\":1791730791,\"model\":\"gpt-5.6-terra\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\" {\\\"references\\\":[{\\\"title\\\":\\\"The Spiral of Silence: A Theory of Public Opinion\\\",\\\"authors\\\":[\\\"Elisabeth Noelle-Neumann\\\"],\\\"year\\\":1974,\\\"journal\\\":\\\"Journal of Communication\\\",\\\"doi\\\":\\\"10.1111/j.1460-2466.1974.tb00367.x\\\",\\\"url\\\":\\\"https://doi.org/10.1111/j.1460-2466.1974.tb00367.x\\\"},{\\\"title\\\":\\\"Public Opinion Du Jour: An Examination of the Spiral of Silence\\\",\\\"authors\\\":[\\\"Thomas M. Glynn\\\",\\\"Jack M. McLeod\\\"],\\\"year\\\":1984,\\\"journal\\\":\\\"Public Opinion Quarterly\\\",\\\"doi\\\":\\\"10.1086/268922\\\",\\\"url\\\":\\\"https://doi.org/10.1086/268922\\\"},{\\\"title\\\":\\\"The Spiral of Silence and Public Opinion on Affirmative Action\\\",\\\"authors\\\":[\\\"Michael D. Moy\\\",\\\"David Domke\\\",\\\"Keith Stamm\\\"],\\\"year\\\":2001,\\\"journal\\\":\\\"Journalism \\u0026 Mass Communication Quarterly\\\",\\\"doi\\\":\\\"10.1177/107769900107800102\\\",\\\"url\\\":\\\"https://doi.org/10.1177/107769900107800102\\\"},{\\\"title\\\":\\\"The Spiral of Silence and Fear of Isolation\\\",\\\"authors\\\":[\\\"Kurt Neuwirth\\\",\\\"Edmund Frederick\\\",\\\"Clint Mayo\\\"],\\\"year\\\":2007,\\\"journal\\\":\\\"Communication Research\\\",\\\"doi\\\":\\\"10.1177/0093650206298792\\\",\\\"url\\\":\\\"https://doi.org/10.1177/0093650206298792\\\"},{\\\"title\\\":\\\"Exploring the Forms of Self-Censorship: On the Spiral of Silence and the Use of Opinion Expression\\\",\\\"authors\\\":[\\\"Andrew A. Hayes\\\"],\\\"year\\\":2007,\\\"journal\\\":\\\"Journal of Communication\\\",\\\"doi\\\":\\\"10.1111/j.1460-2466.2007.00355.x\\\",\\\"url\\\":\\\"https://doi.org/10.1111/j.1460-2466.2007.00355.x\\\"}]}\",\"reasoning_content\":\"**Identifying key spiral of silence sources****Compiling spiral of silence references**\"},\"finish_reason\":\"stop\"}],\"usage\":{\"prompt_tokens\":3699,\"completion_tokens\":897,\"total_tokens\":4596,\"completion_tokens_details\":{\"reasoning_tokens\":500}},\"service_tier\":\"default\"}",
+  "http_status": 200,
+  "safe_response_headers": {
+    "server": "cloudflare"
+  },
+  "sent_parameters": {
+    "model": "gpt-5.6-terra",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Spiral of silence\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_completion_tokens": 8192,
+    "reasoning_effort": "none"
+  },
+  "provider_request_id": null,
+  "entry_errors": [],
+  "json_parsed": true,
+  "latency": 60.02779019999434,
+  "usage_price_estimate": {
+    "currency": "CNY",
+    "input_tokens_scenario": 3699,
+    "output_tokens_scenario": 897,
+    "text_component_amount": "0.0118053",
+    "estimated_total_amount": null,
+    "verified_total_upper_bound": null,
+    "actual_billed_amount": null,
+    "cache_policy": "all_input_at_uncached_rate_scenario",
+    "multiplier_scenario": "1 (scenario only; not account verification)",
+    "tools": "not_requested",
+    "client_retries": 0,
+    "unknown_terms": [
+      "platform_multiplier",
+      "account_currency_or_quota_unit",
+      "dynamic_price",
+      "long_context_tier_threshold",
+      "long_context_rates",
+      "reasoning_billing",
+      "cache_write_fee",
+      "failed_request_billing",
+      "platform_internal_retries"
+    ],
+    "price_snapshot_id": "b803fd4ec7337a37f4ecbe02196da14a829c73077c25250a9bba6e9de9e18525",
+    "usage_evidence": {
+      "prompt_tokens": 3699,
+      "completion_tokens": 897,
+      "total_tokens": 4596,
+      "completion_tokens_details": {
+        "reasoning_tokens": 500
+      }
+    },
+    "reasoning_tokens_reported": 500,
+    "usage_cost_basis": "uncached list-rate component; not actual invoice"
+  }
+}

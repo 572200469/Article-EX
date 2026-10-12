@@ -1,0 +1,2744 @@
+{
+  "source_id": "network_sphere",
+  "requested_url": "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I5/49",
+  "checked_at": "2026-10-12T09:17:09.346651+00:00",
+  "access_scope": "public_no_login",
+  "method": "GET",
+  "paid_request": false,
+  "http_status": 200,
+  "final_url": "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I5/49",
+  "sha256": "6ec4183a150038ca2777a1fc4f1def87c7a11128cc05f115a8dbee92269a2fa7",
+  "content_length": 342053,
+  "metadata": {
+    "viewport": [
+      "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+      "width=device-width, initial-scale=1"
+    ],
+    "description": [
+      "每一个人都生活在世界之中，彼此之间有着多种面向的公共性，数字技术开启了一种新的公共性协商领域。本文将聚焦于数字技术以及社会文化背景所引发之公共领域的变革，以社会联结的视角来分析社会，从而理解数字公共领域。我们生存的社会是各类异质行动者所构成的动态网络，也是不同权力交锋、对话、协作的空间。我们身处于共识理想遭遇挑战的当下，但众声可见，差异性的多元沟通，或将培育较为容忍的承认政治。数字公共领域概念的提出可能唤起人们对“社会”“公共性”和“社会秩序”等理念的再思考。"
+    ],
+    "authors": [
+      "吴飞, 杨龙梦珏"
+    ],
+    "keywords": [
+      "公共领域,共通体,平台,社会行动者网络"
+    ],
+    "robots": [
+      "index"
+    ],
+    "renderer": [
+      "webkit"
+    ],
+    "format-detection": [
+      "telephone=no"
+    ],
+    "apple-mobile-web-app-capable": [
+      "yes"
+    ],
+    "apple-mobile-web-app-title": [
+      "论数字公共领域的结构新转型"
+    ],
+    "mobile-web-app-capable": [
+      "yes"
+    ],
+    "screen-orientation": [
+      "portrait"
+    ],
+    "x5-orientation": [
+      "portrait"
+    ],
+    "full-screen": [
+      "yes"
+    ],
+    "x5-fullscreen": [
+      "true"
+    ],
+    "browsermode": [
+      "application"
+    ],
+    "x5-page-mode": [
+      "app"
+    ],
+    "msapplication-tap-highlight": [
+      "no"
+    ],
+    "dc.relation.is": [
+      "国际新闻界"
+    ],
+    "dc.citation.volume": [
+      "45"
+    ],
+    "dc.citation.issue": [
+      "5"
+    ],
+    "dc.citation.spage": [
+      "49"
+    ],
+    "dc.citation.epage": [
+      "74"
+    ],
+    "dc.title": [
+      "论数字公共领域的结构新转型"
+    ],
+    "dc.source": [
+      "国际新闻界"
+    ],
+    "dc.format": [
+      "text/html"
+    ],
+    "dc.publisher": [
+      ""
+    ],
+    "dc.date": [
+      "2023-05-23"
+    ],
+    "dc.type": [
+      ""
+    ],
+    "dc.language": [
+      "Cn"
+    ],
+    "dc.copyright": [
+      ""
+    ],
+    "dc.description": [
+      "每一个人都生活在世界之中，彼此之间有着多种面向的公共性，数字技术开启了一种新的公共性协商领域。本文将聚焦于数字技术以及社会文化背景所引发之公共领域的变革，以社会联结的视角来分析社会，从而理解数字公共领域。我们生存的社会是各类异质行动者所构成的动态网络，也是不同权力交锋、对话、协作的空间。我们身处于共识理想遭遇挑战的当下，但众声可见，差异性的多元沟通，或将培育较为容忍的承认政治。数字公共领域概念的提出可能唤起人们对“社会”“公共性”和“社会秩序”等理念的再思考。"
+    ],
+    "dc.relation.ispartof": [
+      "国际新闻界"
+    ],
+    "dc.creator": [
+      "吴飞",
+      "杨龙梦珏"
+    ],
+    "dc.subject": [
+      "公共领域",
+      "共通体",
+      "平台",
+      "社会行动者网络"
+    ],
+    "prism.issn": [
+      "1002-5685"
+    ],
+    "prism.publicationDate": [
+      "2023-05-23"
+    ],
+    "prism.section": [
+      ""
+    ],
+    "prism.volume": [
+      "45"
+    ],
+    "prism.number": [
+      "5"
+    ],
+    "prism.startingPage": [
+      "49"
+    ],
+    "prism.endingPage": [
+      "74"
+    ],
+    "prism.copyright": [
+      ""
+    ],
+    "prism.url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I5/49"
+    ],
+    "citation_pdf_url": [
+      "http://cjjc.ruc.edu.cn/CN/PDF/1327"
+    ],
+    "citation_abstract_html_url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I5/49"
+    ],
+    "citation_fulltext_html_url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I5/49"
+    ],
+    "citation_journal_title": [
+      "国际新闻界"
+    ],
+    "citation_publisher": [
+      ""
+    ],
+    "citation_issn": [
+      "1002-5685"
+    ],
+    "citation_title": [
+      "论数字公共领域的结构新转型"
+    ],
+    "citation_authors": [
+      "吴飞, 杨龙梦珏"
+    ],
+    "citation_volume": [
+      "45"
+    ],
+    "citation_issue": [
+      "5"
+    ],
+    "citation_publication_date": [
+      "2023/05/23"
+    ],
+    "citation_online_date": [
+      "2023/05/23"
+    ],
+    "citation_firstpage": [
+      "49"
+    ],
+    "citation_lastpage": [
+      "74"
+    ],
+    "citation_article_type": [
+      ""
+    ],
+    "citation_language": [
+      "zh"
+    ],
+    "citation_doi": [
+      ""
+    ],
+    "citation_abstract": [
+      "每一个人都生活在世界之中，彼此之间有着多种面向的公共性，数字技术开启了一种新的公共性协商领域。本文将聚焦于数字技术以及社会文化背景所引发之公共领域的变革，以社会联结的视角来分析社会，从而理解数字公共领域。我们生存的社会是各类异质行动者所构成的动态网络，也是不同权力交锋、对话、协作的空间。我们身处于共识理想遭遇挑战的当下，但众声可见，差异性的多元沟通，或将培育较为容忍的承认政治。数字公共领域概念的提出可能唤起人们对“社会”“公共性”和“社会秩序”等理念的再思考。"
+    ],
+    "citation_keywords": [
+      "公共领域",
+      "共通体",
+      "平台",
+      "社会行动者网络"
+    ],
+    "citation_date": [
+      "2023/05/23"
+    ],
+    "citation_author": [
+      "吴飞",
+      "杨龙梦珏"
+    ],
+    "article_references": [
+      "吴飞, 杨龙梦珏. 论数字公共领域的结构新转型. 国际新闻界. 2023, 45 (5): 49-74."
+    ],
+    "google-site-verification": [
+      "GqftDyjkbLznCjwJH3xdvsEi1ZnXlVqxWMeQ5H2MD38"
+    ]
+  },
+  "structured_article": {
+    "bioList_en": [
+      {
+        "content": "<p id=\"com2\" xml:lang=\"en\">Wu Fei is a professor of School of Media and International Culture, Zhejiang University. Email: <a class=\"mag-xml-email-a\" href=\"mailto:ws114@zju.edu.cn\">ws114@zju.edu.cn</a>. </p>"
+      },
+      {
+        "content": "<p xml:lang=\"en\">Yanglong Mengjue is a Ph.D. candidate of School of Media and International Culture, Zhejiang University. Email: <a class=\"mag-xml-email-a\" href=\"mailto:yanglongmj@126.com\">yanglongmj@126.com</a>.</p>"
+      }
+    ],
+    "referenceList": [
+      {
+        "sourceCn": "《人的境况》(王寅丽译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_3",
+          "mag_rich_body_p_22"
+        ],
+        "publicationType": "book",
+        "id": "b1",
+        "label": "[1]",
+        "nian": 19582017,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "汉娜·阿伦特",
+                "personType": "author"
+              }
+            ],
+            "content": "汉娜·阿伦特(<span class=\"yearStyle\">1958/2017</span>). <span class=\"sourceStyle\">《人的境况》(王寅丽译)</span>. 上海: 上海人民出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《网民的狂欢:关于互联网弊端的反思》(丁德良译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_20"
+        ],
+        "publicationType": "book",
+        "id": "b2",
+        "label": "[2]",
+        "nian": 20072010,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "安德鲁·基恩",
+                "personType": "author"
+              }
+            ],
+            "content": "安德鲁·基恩(<span class=\"yearStyle\">2007/2010</span>). <span class=\"sourceStyle\">《网民的狂欢:关于互联网弊端的反思》(丁德良译)</span>. 海口: 南海出版公司."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《巴赫金全集(第六卷)》(李兆林,夏忠宪等译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_27"
+        ],
+        "publicationType": "book",
+        "id": "b3",
+        "label": "[3]",
+        "nian": 19962009,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "巴赫金",
+                "personType": "author"
+              }
+            ],
+            "content": "巴赫金(<span class=\"yearStyle\">1996/2009</span>). <span class=\"sourceStyle\">《巴赫金全集(第六卷)》(李兆林,夏忠宪等译)</span>. 石家庄: 河北教育出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《现代社会想象》(林曼红译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_12",
+          "mag_rich_body_p_29"
+        ],
+        "publicationType": "book",
+        "id": "b4",
+        "label": "[4]",
+        "nian": 20042014,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "查尔斯·泰勒",
+                "personType": "author"
+              }
+            ],
+            "content": "查尔斯·泰勒(<span class=\"yearStyle\">2004/2014</span>). <span class=\"sourceStyle\">《现代社会想象》(林曼红译)</span>. 北京: 译林出版社"
+          }
+        ]
+      },
+      {
+        "sourceCn": "《宋明理学的公私之辨及其现代意涵》.载黄克武,张哲嘉(主编),《公与私:近代中国个体与群体之重建》(第1-58页)",
+        "bodyP_ids": [
+          "mag_rich_body_p_10"
+        ],
+        "publicationType": "book",
+        "id": "b5",
+        "label": "[5]",
+        "nian": 2000,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "翟志成",
+                "personType": "author"
+              }
+            ],
+            "content": "翟志成(<span class=\"yearStyle\">2000</span>). <span class=\"sourceStyle\">《宋明理学的公私之辨及其现代意涵》.载黄克武,张哲嘉(主编),《公与私:近代中国个体与群体之重建》(第1-58页)</span>. 台北: 中研院近史所."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《社会学研究》",
+        "bodyP_ids": [
+          "mag_rich_body_p_35"
+        ],
+        "publicationType": "journal",
+        "id": "b6",
+        "label": "[6]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "冯济海",
+                "personType": "author"
+              }
+            ],
+            "content": "冯济海(<span class=\"yearStyle\">2021</span>). “粉”“黑”之争:网络迷群极化的“日常化”转向. <span class=\"sourceStyle\">《社会学研究》</span>,(6),113-135+228-229."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《数字乌托邦:从反主流文化到赛博文化》(张行舟译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_12"
+        ],
+        "publicationType": "book",
+        "id": "b7",
+        "label": "[7]",
+        "nian": 20082013,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "弗雷德·特纳",
+                "personType": "author"
+              }
+            ],
+            "content": "弗雷德·特纳(<span class=\"yearStyle\">2008/2013</span>). <span class=\"sourceStyle\">《数字乌托邦:从反主流文化到赛博文化》(张行舟译)</span>. 北京: 电子工业出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《中国的公与私·公私》(郑静译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_10"
+        ],
+        "publicationType": "book",
+        "id": "b8",
+        "label": "[8]",
+        "nian": 19952011,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "沟口雄三",
+                "personType": "author"
+              }
+            ],
+            "content": "沟口雄三(<span class=\"yearStyle\">1995/2011</span>). <span class=\"sourceStyle\">《中国的公与私·公私》(郑静译)</span>. 北京: 生活·读书·新知三联书店."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《公共领域的结构转型》(曹卫东,王晓珏,刘北城,宋伟杰译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_15"
+        ],
+        "publicationType": "book",
+        "id": "b9",
+        "label": "[9]",
+        "nian": 19901999,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "尤尔根·哈贝马斯",
+                "personType": "author"
+              }
+            ],
+            "content": "尤尔根·哈贝马斯(<span class=\"yearStyle\">1990/1999</span>). <span class=\"sourceStyle\">《公共领域的结构转型》(曹卫东,王晓珏,刘北城,宋伟杰译)</span>. 上海: 学林出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《在事实与规范之间》(童世骏译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_4",
+          "mag_rich_body_p_9"
+        ],
+        "publicationType": "book",
+        "id": "b10",
+        "label": "[10]",
+        "nian": 19922003,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "尤尔根·哈贝马斯",
+                "personType": "author"
+              }
+            ],
+            "content": "尤尔根·哈贝马斯(<span class=\"yearStyle\">1992/2003</span>). <span class=\"sourceStyle\">《在事实与规范之间》(童世骏译)</span>. 北京: 生活·读书·新知三联书店."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《交往行为理论(第1卷)》(曹卫东译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_12",
+          "mag_rich_body_p_30"
+        ],
+        "publicationType": "book",
+        "id": "b11",
+        "label": "[11]",
+        "nian": 19842004,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "尤尔根·哈贝马斯",
+                "personType": "author"
+              }
+            ],
+            "content": "尤尔根·哈贝马斯(<span class=\"yearStyle\">1984/2004</span>). <span class=\"sourceStyle\">《交往行为理论(第1卷)》(曹卫东译)</span>. 上海: 上海人民出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《现代性的哲学话语》(曹卫东译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_4",
+          "mag_rich_body_p_30"
+        ],
+        "publicationType": "book",
+        "id": "b12",
+        "label": "[12]",
+        "nian": 19852011,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "于尔根·哈贝马斯",
+                "personType": "author"
+              }
+            ],
+            "content": "于尔根·哈贝马斯(<span class=\"yearStyle\">1985/2011</span>). <span class=\"sourceStyle\">《现代性的哲学话语》(曹卫东译)</span>. 南京: 译林出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《后形而上学思想》(曹卫东,付德根译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_29"
+        ],
+        "publicationType": "book",
+        "id": "b13",
+        "label": "[13]",
+        "nian": 19882012,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "于尔根·哈贝马斯",
+                "personType": "author"
+              }
+            ],
+            "content": "于尔根·哈贝马斯(<span class=\"yearStyle\">1988/2012</span>). <span class=\"sourceStyle\">《后形而上学思想》(曹卫东,付德根译)</span>. 南京: 译林出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《在群中》(程巍译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_27"
+        ],
+        "publicationType": "book",
+        "id": "b14",
+        "label": "[14]",
+        "nian": 20132019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "韩炳哲",
+                "personType": "author"
+              }
+            ],
+            "content": "韩炳哲(<span class=\"yearStyle\">2013/2019</span>). <span class=\"sourceStyle\">《在群中》(程巍译)</span>. 北京: 中信出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《人类活动中的理性》(胡怀国,冯科译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_26"
+        ],
+        "publicationType": "book",
+        "id": "b15",
+        "label": "[15]",
+        "nian": 19832016,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "赫伯特·西蒙",
+                "personType": "author"
+              }
+            ],
+            "content": "赫伯特·西蒙(<span class=\"yearStyle\">1983/2016</span>). <span class=\"sourceStyle\">《人类活动中的理性》(胡怀国,冯科译)</span>. 南宁: 广西师范大学出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《众声喧哗》",
+        "bodyP_ids": [
+          "mag_rich_body_p_22"
+        ],
+        "publicationType": "book",
+        "id": "b16",
+        "label": "[16]",
+        "nian": 2008,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "胡泳",
+                "personType": "author"
+              }
+            ],
+            "content": "胡泳(<span class=\"yearStyle\">2008</span>). <span class=\"sourceStyle\">《众声喧哗》</span>. 南宁: 广西师范大学出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《从追求正道到认同国族——明末至清末中国公私观念的重整》.载黄克武,张哲嘉(主编),《公与私:近代中国个体与群体之重建》(第59-112页)",
+        "bodyP_ids": [
+          "mag_rich_body_p_11"
+        ],
+        "publicationType": "book",
+        "id": "b17",
+        "label": "[17]",
+        "nian": 2000,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "黃克武",
+                "personType": "author"
+              }
+            ],
+            "content": "黃克武(<span class=\"yearStyle\">2000</span>). <span class=\"sourceStyle\">《从追求正道到认同国族——明末至清末中国公私观念的重整》.载黄克武,张哲嘉(主编),《公与私:近代中国个体与群体之重建》(第59-112页)</span>. 台北: 中研院近史所."
+          }
+        ]
+      },
+      {
+        "sourceCn": "马克思恩格斯全集(第3卷)",
+        "bodyP_ids": [
+          "mag_rich_body_p_9"
+        ],
+        "publicationType": "book",
+        "id": "b18",
+        "label": "[18]",
+        "nian": 19822002,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "卡尔·马克思",
+                "personType": "author"
+              },
+              {
+                "name": "弗里德里希·恩格斯",
+                "personType": "author"
+              }
+            ],
+            "content": "卡尔·马克思, 弗里德里希·恩格斯(<span class=\"yearStyle\">1982/2002</span>). <span class=\"sourceStyle\">马克思恩格斯全集(第3卷)</span>. 北京: 人民出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "马克思恩格斯全集(第1卷)",
+        "bodyP_ids": [
+          "mag_rich_body_p_15"
+        ],
+        "publicationType": "book",
+        "id": "b19",
+        "label": "[19]",
+        "nian": 19821995,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "卡尔·马克思",
+                "personType": "author"
+              },
+              {
+                "name": "弗里德里希·恩格斯",
+                "personType": "author"
+              }
+            ],
+            "content": "卡尔·马克思, 弗里德里希·恩格斯(<span class=\"yearStyle\">1982/1995</span>). <span class=\"sourceStyle\">马克思恩格斯全集(第1卷)</span>, 北京: 人民出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "马克思恩格式全集(第14卷)",
+        "bodyP_ids": [
+          "mag_rich_body_p_14"
+        ],
+        "publicationType": "book",
+        "id": "b20",
+        "label": "[20]",
+        "nian": 19822013,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "卡尔·马克思",
+                "personType": "author"
+              },
+              {
+                "name": "弗里德里希·恩格斯",
+                "personType": "author"
+              }
+            ],
+            "content": "卡尔·马克思, 弗里德里希·恩格斯(<span class=\"yearStyle\">1982/2013</span>). <span class=\"sourceStyle\">马克思恩格式全集(第14卷)</span>, 北京: 人民出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《代码:塑造网络空间的法律》(李旭译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_19"
+        ],
+        "publicationType": "book",
+        "id": "b21",
+        "label": "[21]",
+        "nian": 19992004,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "劳伦斯·莱斯格",
+                "personType": "author"
+              }
+            ],
+            "content": "劳伦斯·莱斯格(<span class=\"yearStyle\">1999/2004</span>). <span class=\"sourceStyle\">《代码:塑造网络空间的法律》(李旭译)</span>. 北京: 中信出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《社会政治理论的重构》(黄瑞祺译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_12"
+        ],
+        "publicationType": "book",
+        "id": "b22",
+        "label": "[22]",
+        "nian": 19762008,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "理查德·J·伯恩斯坦",
+                "personType": "author"
+              }
+            ],
+            "content": "理查德·J·伯恩斯坦(<span class=\"yearStyle\">1976/2008</span>). <span class=\"sourceStyle\">《社会政治理论的重构》(黄瑞祺译)</span>. 南京: 译林出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《梁启超全集》",
+        "bodyP_ids": [
+          "mag_rich_body_p_11"
+        ],
+        "publicationType": "book",
+        "id": "b23",
+        "label": "[23]",
+        "nian": 1999,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "梁启超",
+                "personType": "author"
+              }
+            ],
+            "content": "梁启超(<span class=\"yearStyle\">1999</span>). <span class=\"sourceStyle\">《梁启超全集》</span>. 北京: 北京出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《施剑翘复仇案》(陈湘静译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_8"
+        ],
+        "publicationType": "book",
+        "id": "b24",
+        "label": "[24]",
+        "nian": 20072011,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "林郁沁",
+                "personType": "author"
+              }
+            ],
+            "content": "林郁沁(<span class=\"yearStyle\">2007/2011</span>). <span class=\"sourceStyle\">《施剑翘复仇案》(陈湘静译)</span>. 南京: 江苏人民出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻与传播研究》",
+        "bodyP_ids": [
+          "mag_rich_body_p_20"
+        ],
+        "publicationType": "journal",
+        "id": "b25",
+        "label": "[25]",
+        "nian": 2022,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "刘泱育",
+                "personType": "author"
+              }
+            ],
+            "content": "刘泱育(<span class=\"yearStyle\">2022</span>). 从“型构”到“互型”:媒介化理论核心概念“figuration”来龙去脉. <span class=\"sourceStyle\">《新闻与传播研究》</span>,(3),38-53+126-127."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《论人类不平等的起源和基础》(李常山译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_9"
+        ],
+        "publicationType": "book",
+        "id": "b26",
+        "label": "[26]",
+        "nian": 19541986,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "卢梭",
+                "personType": "author"
+              }
+            ],
+            "content": "卢梭(<span class=\"yearStyle\">1954/1986</span>). <span class=\"sourceStyle\">《论人类不平等的起源和基础》(李常山译)</span>. 北京: 商务印书馆."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《社会契约论》(何兆武译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_9"
+        ],
+        "publicationType": "book",
+        "id": "b27",
+        "label": "[27]",
+        "nian": 19432003,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "卢梭",
+                "personType": "author"
+              }
+            ],
+            "content": "卢梭(<span class=\"yearStyle\">1943/2003</span>). <span class=\"sourceStyle\">《社会契约论》(何兆武译)</span>. 北京: 商务印书馆."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《杰斐逊集(下)》(刘祚昌等译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_14"
+        ],
+        "publicationType": "book",
+        "id": "b28",
+        "label": "[28]",
+        "nian": 19841993,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "梅利尔·D·彼得森",
+                "personType": "author"
+              }
+            ],
+            "content": "梅利尔·D·彼得森(<span class=\"yearStyle\">1984/1993</span>). <span class=\"sourceStyle\">《杰斐逊集(下)》(刘祚昌等译)</span>. 北京: 生活·读书·新知三联书店."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《白领:美国的中产阶级》(杨小冬等译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_12"
+        ],
+        "publicationType": "book",
+        "id": "b29",
+        "label": "[29]",
+        "nian": 19631987,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "米尔斯·C·赖特",
+                "personType": "author"
+              }
+            ],
+            "content": "米尔斯·C·赖特(<span class=\"yearStyle\">1963/1987</span>). <span class=\"sourceStyle\">《白领:美国的中产阶级》(杨小冬等译)</span>. 杭州: 浙江人民出版社"
+          }
+        ]
+      },
+      {
+        "sourceCn": "《亚太安全与海洋研究》",
+        "bodyP_ids": [
+          "mag_rich_body_p_1"
+        ],
+        "publicationType": "journal",
+        "id": "b30",
+        "label": "[30]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "秦亚青",
+                "personType": "author"
+              }
+            ],
+            "content": "秦亚青(<span class=\"yearStyle\">2021</span>). 世界秩序的变革:从霸权到包容性多边主义. <span class=\"sourceStyle\">《亚太安全与海洋研究》</span>,(2),1-15+133."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《希腊思想的起源》(秦海鹰译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_3"
+        ],
+        "publicationType": "book",
+        "id": "b31",
+        "label": "[31]",
+        "nian": 19621997,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "让-皮埃尔·韦尔南",
+                "personType": "author"
+              }
+            ],
+            "content": "让-皮埃尔·韦尔南(<span class=\"yearStyle\">1962/1997</span>). <span class=\"sourceStyle\">《希腊思想的起源》(秦海鹰译)</span>. 北京: 生活·读书·新知三联书店."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《公民的激情》(谭安奎译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_25"
+        ],
+        "publicationType": "book",
+        "id": "b32",
+        "label": "[32]",
+        "nian": 20082015,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "莎伦·R·克劳斯",
+                "personType": "author"
+              }
+            ],
+            "content": "莎伦·R·克劳斯(<span class=\"yearStyle\">2008/2015</span>). <span class=\"sourceStyle\">《公民的激情》(谭安奎译)</span>. 南京: 译林出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻与传播研究》",
+        "bodyP_ids": [
+          "mag_rich_body_p_18"
+        ],
+        "publicationType": "newspaper",
+        "id": "b33",
+        "label": "[33]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "师文",
+                "personType": "author"
+              },
+              {
+                "name": "陈昌凤",
+                "personType": "author"
+              }
+            ],
+            "content": "师文, 陈昌凤(<span class=\"yearStyle\">2020</span>). 社交机器人在新闻扩散中的角色和行为模式研究——基于《纽约时报》“修例”风波报道在Twitter上扩散的分析. <span class=\"sourceStyle\">《新闻与传播研究》</span>,(5),5-20+126."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《公共理性与民主理想》",
+        "bodyP_ids": [
+          "mag_rich_body_p_12"
+        ],
+        "publicationType": "book",
+        "id": "b34",
+        "label": "[34]",
+        "nian": 2015,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "谭安奎",
+                "personType": "author"
+              }
+            ],
+            "content": "谭安奎(<span class=\"yearStyle\">2015</span>). <span class=\"sourceStyle\">《公共理性与民主理想》</span>. 北京: 生活·读书·新知三联书店."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《社会科学文摘》",
+        "bodyP_ids": [
+          "mag_rich_body_p_40"
+        ],
+        "publicationType": "journal",
+        "id": "b35",
+        "label": "[35]",
+        "nian": 2022,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "王天夫",
+                "personType": "author"
+              }
+            ],
+            "content": "王天夫(<span class=\"yearStyle\">2022</span>). 数字时代的社会变迁与社会研究. <span class=\"sourceStyle\">《社会科学文摘》</span>,(3),94-96."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《帕佩撒旦阿莱佩",
+        "bodyP_ids": [
+          "mag_rich_body_p_23"
+        ],
+        "publicationType": "book",
+        "id": "b36",
+        "label": "[36]",
+        "nian": 20162019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "翁贝托·埃科",
+                "personType": "author"
+              }
+            ],
+            "content": "翁贝托·埃科(<span class=\"yearStyle\">2016/2019</span>). <span class=\"sourceStyle\">《帕佩撒旦阿莱佩</span>:流动社会纪事》(李婧敬,陈英译). 上海: 上海译文出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻与传播研究》",
+        "bodyP_ids": [
+          "mag_rich_body_p_26"
+        ],
+        "publicationType": "journal",
+        "id": "b37",
+        "label": "[37]",
+        "nian": 2019,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "吴飞",
+                "personType": "author"
+              }
+            ],
+            "content": "吴飞(<span class=\"yearStyle\">2019</span>). 共情传播的理论基础与实践路径探索. <span class=\"sourceStyle\">《新闻与传播研究》</span>,(5),59-76+127."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻记者》",
+        "bodyP_ids": [
+          "mag_rich_body_p_30"
+        ],
+        "publicationType": "book",
+        "id": "b38",
+        "label": "[38]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "吴飞",
+                "personType": "author"
+              },
+              {
+                "name": "徐百灵",
+                "personType": "author"
+              }
+            ],
+            "content": "吴飞, 徐百灵(<span class=\"yearStyle\">2020</span>). 自媒体话语实践中的观点极化与社会流瀑——对方方日记海外出版争论的个案分析. <span class=\"sourceStyle\">《新闻记者》</span>,(6),37-46."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《新闻与写作》",
+        "bodyP_ids": [
+          "mag_rich_body_p_18"
+        ],
+        "publicationType": "journal",
+        "id": "b39",
+        "label": "[39]",
+        "nian": 2022,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "武沛颍",
+                "personType": "author"
+              },
+              {
+                "name": "陈昌凤",
+                "personType": "author"
+              }
+            ],
+            "content": "武沛颍, 陈昌凤(<span class=\"yearStyle\">2022</span>). 社交机器人能否操纵舆论——以Twitter平台的北京冬奥舆情为例. <span class=\"sourceStyle\">《新闻与写作》</span>,(9),79-88."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《公共性及其实践》",
+        "bodyP_ids": [
+          "mag_rich_body_p_9"
+        ],
+        "publicationType": "book",
+        "id": "b40",
+        "label": "[40]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "肖瑛",
+                "personType": "author"
+              }
+            ],
+            "content": "肖瑛(<span class=\"yearStyle\">2021</span>). <span class=\"sourceStyle\">《公共性及其实践》</span>. 北京: 社会科学文献出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《公共领域论》",
+        "bodyP_ids": [
+          "mag_rich_body_p_13"
+        ],
+        "publicationType": "book",
+        "id": "b41",
+        "label": "[41]",
+        "nian": 2009,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "杨仁忠",
+                "personType": "author"
+              }
+            ],
+            "content": "杨仁忠(<span class=\"yearStyle\">2009</span>). <span class=\"sourceStyle\">《公共领域论》</span>. 北京: 人民出版社"
+          }
+        ]
+      },
+      {
+        "sourceCn": "《对空言说:传播的观念史》(邓建国译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_33"
+        ],
+        "publicationType": "book",
+        "id": "b42",
+        "label": "[42]",
+        "nian": 19992017,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "约翰·杜翰姆·彼得斯",
+                "personType": "author"
+              }
+            ],
+            "content": "约翰·杜翰姆·彼得斯(<span class=\"yearStyle\">1999/2017</span>). <span class=\"sourceStyle\">《对空言说:传播的观念史》(邓建国译)</span>. 上海: 上海译文出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《政治自由主义》(万俊人译)",
+        "bodyP_ids": [
+          "mag_rich_body_p_12"
+        ],
+        "publicationType": "book",
+        "id": "b43",
+        "label": "[43]",
+        "nian": 19962000,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "约翰·罗尔斯",
+                "personType": "author"
+              }
+            ],
+            "content": "约翰·罗尔斯(<span class=\"yearStyle\">1996/2000</span>). <span class=\"sourceStyle\">《政治自由主义》(万俊人译)</span>. 南京: 译林出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《外国文学评论》",
+        "bodyP_ids": [
+          "mag_rich_body_p_30"
+        ],
+        "publicationType": "journal",
+        "id": "b44",
+        "label": "[44]",
+        "nian": 2000,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "章国锋",
+                "personType": "author"
+              }
+            ],
+            "content": "章国锋(<span class=\"yearStyle\">2000</span>). 哈贝马斯访谈录. <span class=\"sourceStyle\">《外国文学评论》</span>,(1),27-32."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《民主的限制》",
+        "bodyP_ids": [
+          "mag_rich_body_p_28"
+        ],
+        "publicationType": "book",
+        "id": "b45",
+        "label": "[45]",
+        "nian": 2012,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "赵鼎新",
+                "personType": "author"
+              }
+            ],
+            "content": "赵鼎新(<span class=\"yearStyle\">2012</span>). <span class=\"sourceStyle\">《民主的限制》</span>. 北京: 中信出版社."
+          }
+        ]
+      },
+      {
+        "sourceCn": "《国际新闻界》",
+        "bodyP_ids": [
+          "mag_rich_body_p_26"
+        ],
+        "publicationType": "journal",
+        "id": "b46",
+        "label": "[46]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "周葆华",
+                "personType": "author"
+              },
+              {
+                "name": "钟媛",
+                "personType": "author"
+              }
+            ],
+            "content": "周葆华, 钟媛(<span class=\"yearStyle\">2021</span>). “春天的花开秋天的风”:社交媒体、集体悼念与延展性情感空间——以李文亮微博评论(2020-2021)为例的计算传播分析. <span class=\"sourceStyle\">《国际新闻界》</span>,(3),79-106."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Cambridge, UK: Polity",
+        "bodyP_ids": [
+          "mag_rich_body_p_1"
+        ],
+        "publicationType": "journal",
+        "id": "b47",
+        "label": "[47]",
+        "nian": 2014,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Acharya, A.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Acharya,</surname> <given-names>A.</given-names></name> (<span class=\"yearStyle\">2014</span>). The End of American world order (1st edition). <span class=\"sourceStyle\"><i>Cambridge, UK: Polity</i></span>."
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_3",
+          "mag_rich_body_p_5"
+        ],
+        "publicationType": "book",
+        "id": "b48",
+        "label": "[48]",
+        "nian": 1992,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Benhabib, S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Benhabib,</surname> <given-names>S.</given-names></name> (<span class=\"yearStyle\">1992</span>). Models of public space:Hannah Arendt, the liberal tradition, and Jürgen Habermas. In Calhoun, C. (<strong>Ed.</strong>). <i>Habermas and the Public Sphere</i> (pp. 73-98). Cambridge, MA: MIT Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of Communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_5"
+        ],
+        "publicationType": "journal",
+        "id": "b49",
+        "label": "[49]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Bennett, W. L.",
+                "personType": "author"
+              },
+              {
+                "name": "Pfetsch, B.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Bennett,</surname> <given-names>W. L.</given-names></name>, &amp; <name><surname>Pfetsch,</surname> <given-names>B.</given-names></name> (<span class=\"yearStyle\">2018</span>). Rethinking political communication in a time of disrupted public spheres. <span class=\"sourceStyle\"><i>Journal of Communication</i></span>, <span class=\"volStyele\">68</span>(2), 243-253. ",
+            "url": "https://academic.oup.com/joc/article/68/2/243/4958957",
+            "doi": "10.1093/joc/jqx017"
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_35"
+        ],
+        "publicationType": "book",
+        "id": "b50",
+        "label": "[50]",
+        "nian": 2015,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Bennett, W. L.",
+                "personType": "author"
+              },
+              {
+                "name": "Segerberg, A.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Bennett,</surname> <given-names>W. L.</given-names></name>, &amp; <name><surname>Segerberg,</surname> <given-names>A.</given-names></name> (<span class=\"yearStyle\">2015</span>). The logic of connective action:Digital media and the personalization of contentious politics. In Coleman, S &amp; Freelon, D. (<strong>Eds.</strong>). <i>Handbook of Digital Politics</i> (pp. 169-198). Cheltenham, UK: Edward Elgar Publishing."
+          }
+        ]
+      },
+      {
+        "sourceEn": "New Media &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_5"
+        ],
+        "publicationType": "journal",
+        "id": "b51",
+        "label": "[51]",
+        "nian": 2020,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Bimber, B.",
+                "personType": "author"
+              },
+              {
+                "name": "Gil de Zúñiga, H.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Bimber,</surname> <given-names>B.</given-names></name>, &amp; <name><surname>Gil de Zúñiga,</surname> <given-names>H.</given-names></name> (<span class=\"yearStyle\">2020</span>). The unedited public sphere. <span class=\"sourceStyle\"><i>New Media &amp; Society</i></span>, <span class=\"volStyele\">22</span>(4), 700-715. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1461444819893980",
+            "doi": "10.1177/1461444819893980"
+          }
+        ]
+      },
+      {
+        "sourceEn": "American Behavioral Scientist",
+        "bodyP_ids": [
+          "mag_rich_body_p_28"
+        ],
+        "publicationType": "journal",
+        "id": "b52",
+        "label": "[52]",
+        "nian": 2004,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Borgida, E.",
+                "personType": "author"
+              },
+              {
+                "name": "Stark, E. N.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Borgida,</surname> <given-names>E.</given-names></name>, &amp; <name><surname>Stark,</surname> <given-names>E. N.</given-names></name> (<span class=\"yearStyle\">2004</span>). New media and politics: Some insights from social and political psychology. <span class=\"sourceStyle\"><i>American Behavioral Scientist</i></span>, <span class=\"volStyele\">48</span>(4), 467-478. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/0002764204270282",
+            "doi": "10.1177/0002764204270282"
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_18"
+        ],
+        "publicationType": "book",
+        "id": "b53",
+        "label": "[53]",
+        "nian": 2010,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Boyd, D.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Boyd,</surname> <given-names>D.</given-names></name> (<span class=\"yearStyle\">2010</span>). Social Network Sites as Networked Publics:Affordances, Dynamics, and Implications. In Papacharissi, Z. (<strong>Ed.</strong>). <i>A Networked Self</i> (pp. 47-66). New York, NY: Routledge."
+          }
+        ]
+      },
+      {
+        "sourceEn": "New Haven",
+        "bodyP_ids": [
+          "mag_rich_body_p_38"
+        ],
+        "publicationType": "book",
+        "id": "b54",
+        "label": "[54]",
+        "nian": 2014,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Boyd, D.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Boyd,</surname> <given-names>D.</given-names></name> (<span class=\"yearStyle\">2014</span>). It’s complicated:The social lives of networked teens. <span class=\"sourceStyle\"><i>New Haven</i></span>, CT: Yale University Press."
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_21"
+        ],
+        "publicationType": "journal",
+        "id": "b55",
+        "label": "[55]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Burrell, J.",
+                "personType": "author"
+              },
+              {
+                "name": "Fourcade, M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Burrell,</surname> <given-names>J.</given-names></name>, &amp; <name><surname>Fourcade,</surname> <given-names>M.</given-names></name> (<span class=\"yearStyle\">2021</span>). The society of algorithms. Annual Review of Sociology, <span class=\"volStyele\">47</span>(1), 213-237."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Information, Communication &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_25"
+        ],
+        "publicationType": "journal",
+        "id": "b56",
+        "label": "[56]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Camaj, L.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Camaj,</surname> <given-names>L.</given-names></name> (<span class=\"yearStyle\">2021</span>). Real time political deliberation on social media: Can televised debates lead to rational and civil discussions on broadcasters’ Facebook pages? <span class=\"sourceStyle\"><i>Information, Communication &amp; Society</i></span>, <span class=\"volStyele\">24</span>(13), 1907-1924."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Peterson and Company",
+        "bodyP_ids": [
+          "mag_rich_body_p_27"
+        ],
+        "publicationType": "journal",
+        "id": "b57",
+        "label": "[57]",
+        "nian": 1954,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Campbell, A.",
+                "personType": "author"
+              },
+              {
+                "name": "Gurin, G.",
+                "personType": "author"
+              },
+              {
+                "name": "Miller, W. E.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Campbell,</surname> <given-names>A.</given-names></name>, <name><surname>Gurin,</surname> <given-names>G.</given-names></name>, &amp; <name><surname>Miller,</surname> <given-names>W. E.</given-names></name> (<span class=\"yearStyle\">1954</span>). The voter decides. Evanston, IL: Row, <span class=\"sourceStyle\"><i>Peterson and Company</i></span>."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Oxford, UK: Basil Blackwell Ltd",
+        "bodyP_ids": [
+          "mag_rich_body_p_27"
+        ],
+        "publicationType": "journal",
+        "id": "b58",
+        "label": "[58]",
+        "nian": 2004,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Crossley, N.",
+                "personType": "author"
+              },
+              {
+                "name": "Roberts, J. M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Crossley,</surname> <given-names>N.</given-names></name>, &amp; <name><surname>Roberts,</surname> <given-names>J. M.</given-names></name> (<span class=\"yearStyle\">2004</span>). After Habermas: NewpPerspectives on the public sphere. <span class=\"sourceStyle\"><i>Oxford, UK: Basil Blackwell Ltd</i></span>."
+          }
+        ]
+      },
+      {
+        "sourceEn": "New Media &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_26"
+        ],
+        "publicationType": "journal",
+        "id": "b59",
+        "label": "[59]",
+        "nian": 2011,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "There is currently a diversity of understandings of digital democracy being deployed within popular commentary, research, policy making, and practical initiative. However, there is a lack of resources clearly outlining this diversity; this article undertakes such an outline. It provides a reconstruction of four digital democracy positions. These four positions are referred to here as liberal-individualist, deliberative, counter-publics, and autonomist Marxist. The delineation of each position draws from critical-interpretative research and has been developed with respect to three elements: the democratic subject assumed, the related conception of democracy promoted, and the associated democratic affordances of digital media technology. The aim is to draw attention to different understandings of what extending democracy through digital media means, and to provide a framework for further examination and evaluation of digital democracy rhetoric and practice.",
+            "personList": [
+              {
+                "name": "Dahlberg, L.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Dahlberg,</surname> <given-names>L.</given-names></name> (<span class=\"yearStyle\">2011</span>). Re-constructing digital democracy: An outline of four ‘positions’. <span class=\"sourceStyle\"><i>New Media &amp; Society</i></span>, <span class=\"volStyele\">13</span>(6), 855-872. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/1461444810389569",
+            "doi": "10.1177/1461444810389569"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Communication Theory",
+        "bodyP_ids": [
+          "mag_rich_body_p_4",
+          "mag_rich_body_p_35"
+        ],
+        "publicationType": "journal",
+        "id": "b60",
+        "label": "[60]",
+        "nian": 2014,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Dahlberg, L.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Dahlberg,</surname> <given-names>L.</given-names></name> (<span class=\"yearStyle\">2014</span>). The Habermasian public sphere and exclusion: An engagement with poststructuralist-influenced critics. <span class=\"sourceStyle\"><i>Communication Theory</i></span>, <span class=\"volStyele\">24</span>(1), 21-41. ",
+            "url": "http://doi.wiley.com/10.1111/comt.2014.24.issue-1",
+            "doi": "10.1111/comt.2014.24.issue-1"
+          }
+        ]
+      },
+      {
+        "sourceEn": "London, UK: Routledge",
+        "bodyP_ids": [
+          "mag_rich_body_p_4"
+        ],
+        "publicationType": "journal",
+        "id": "b61",
+        "label": "[61]",
+        "nian": 1993,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Dahlgren, P.",
+                "personType": "author"
+              },
+              {
+                "name": "Sparks, C.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Dahlgren,</surname> <given-names>P.</given-names></name>, &amp; <name><surname>Sparks,</surname> <given-names>C.</given-names></name> (<span class=\"yearStyle\">1993</span>). Communication and citizenship: Journalism and the public sphere. <span class=\"sourceStyle\"><i>London, UK: Routledge</i></span>."
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_23"
+        ],
+        "publicationType": "online",
+        "id": "b62",
+        "label": "[62]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Harwell, D.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Harwell,</surname> <given-names>D.</given-names></name> (<span class=\"yearStyle\">2020</span>). Thousands of Zoom video calls left exposed on open Web. Retrieved from https://www.washingtonpost.com/technology/2020/04/03/thousands-zoom-video-calls-left-exposed-open-web/. ",
+            "url": "https://www.washingtonpost.com/technology/2020/04/03/thousands-zoom-video-calls-left-exposed-open-web/"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Social Text",
+        "bodyP_ids": [
+          "mag_rich_body_p_8"
+        ],
+        "publicationType": "journal",
+        "id": "b63",
+        "label": "[63]",
+        "nian": 1990,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Fraser, N.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Fraser,</surname> <given-names>N.</given-names></name> (<span class=\"yearStyle\">1990</span>). Rethinking the public sphere: A contribution to the critique of actually existing democracy. <span class=\"sourceStyle\"><i>Social Text</i></span>, (25/26), 56-80."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Theory, Culture &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_4"
+        ],
+        "publicationType": "journal",
+        "id": "b64",
+        "label": "[64]",
+        "nian": 2007,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Fraser, N.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Fraser,</surname> <given-names>N.</given-names></name> (<span class=\"yearStyle\">2007</span>). Transnationalizing the public sphere: On the legitimacy and efficacy of public opinion in a Post-Westphalian world. <span class=\"sourceStyle\"><i>Theory, Culture &amp; Society</i></span>, <span class=\"volStyele\">24</span>(4), 7-30."
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_4"
+        ],
+        "publicationType": "book",
+        "id": "b65",
+        "label": "[65]",
+        "nian": 1992,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Habermas, J.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Habermas,</surname> <given-names>J.</given-names></name> (<span class=\"yearStyle\">1992</span>). Concluding remarks. In Calhoun, C. (<strong>Ed.</strong>), <i>Habermas and the Public Sphere</i> (pp. 462-479). Cambridge, MA: MIT Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Acta politica",
+        "bodyP_ids": [
+          "mag_rich_body_p_4"
+        ],
+        "publicationType": "journal",
+        "id": "b66",
+        "label": "[66]",
+        "nian": 2005,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Habermas, J.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Habermas,</surname> <given-names>J.</given-names></name> (<span class=\"yearStyle\">2005</span>). Concluding comments on empirical approaches to deliberative politics. <span class=\"sourceStyle\"><i>Acta politica</i></span>, <span class=\"volStyele\">40</span>, 384-392. ",
+            "url": "http://link.springer.com/10.1057/palgrave.ap.5500119",
+            "doi": "10.1057/palgrave.ap.5500119"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Communication Theory",
+        "bodyP_ids": [
+          "mag_rich_body_p_4",
+          "mag_rich_body_p_12"
+        ],
+        "publicationType": "journal",
+        "id": "b67",
+        "label": "[67]",
+        "nian": 2006,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Habermas, J.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Habermas,</surname> <given-names>J.</given-names></name> (<span class=\"yearStyle\">2006</span>). Political communication in media society: Does democracy still enjoy an epistemic dimension? The impact of normative theory on empirical research. <span class=\"sourceStyle\"><i>Communication Theory</i></span>, <span class=\"volStyele\">16</span>(4), 411-426. ",
+            "url": "http://www.blackwell-synergy.com/toc/comt/16/4",
+            "doi": "10.1111/comt.2006.16.issue-4"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Ein neuer strukturwandel der öffentlichkeit und die deliberative politik: platz 1 der sachbuchbestenliste der WELT (3rd edition)",
+        "bodyP_ids": [
+          "mag_rich_body_p_2",
+          "mag_rich_body_p_18"
+        ],
+        "publicationType": "book",
+        "id": "b68",
+        "label": "[68]",
+        "nian": 2022,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Habermas, J.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Habermas,</surname> <given-names>J.</given-names></name> (<span class=\"yearStyle\">2022</span>). <span class=\"sourceStyle\">Ein neuer strukturwandel der öffentlichkeit und die deliberative politik: platz 1 der sachbuchbestenliste der WELT (3rd edition)</span>. Berlin, DE: Suhrkamp Verlag."
+          }
+        ]
+      },
+      {
+        "sourceEn": "New German Critique",
+        "bodyP_ids": [
+          "mag_rich_body_p_4"
+        ],
+        "publicationType": "journal",
+        "id": "b69",
+        "label": "[69]",
+        "nian": 1974,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Habermas, J.",
+                "personType": "author"
+              },
+              {
+                "name": "Lennox, S.",
+                "personType": "author"
+              },
+              {
+                "name": "Lennox, F.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Habermas,</surname> <given-names>J.</given-names></name>, <name><surname>Lennox,</surname> <given-names>S.</given-names></name>, &amp; <name><surname>Lennox,</surname> <given-names>F.</given-names></name> (<span class=\"yearStyle\">1974</span>). The public sphere: An encyclopedia article (1964). <span class=\"sourceStyle\"><i>New German Critique</i></span>, <span class=\"volStyele\">3</span>, 49-55."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Government Information Quarterly",
+        "bodyP_ids": [
+          "mag_rich_body_p_35"
+        ],
+        "publicationType": "journal",
+        "id": "b70",
+        "label": "[70]",
+        "nian": 2016,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Hong, S.",
+                "personType": "author"
+              },
+              {
+                "name": "Kim, S. H.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Hong,</surname> <given-names>S.</given-names></name>, &amp; <name><surname>Kim,</surname> <given-names>S. H.</given-names></name> (<span class=\"yearStyle\">2016</span>). Political polarization on twitter: Implications for the use of social media in digital governments. <span class=\"sourceStyle\"><i>Government Information Quarterly</i></span>, <span class=\"volStyele\">33</span>(4), 777-782. ",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S0740624X16300375",
+            "doi": "10.1016/j.giq.2016.04.007"
+          }
+        ]
+      },
+      {
+        "sourceEn": "The platform society. Oxford",
+        "bodyP_ids": [
+          "mag_rich_body_p_21"
+        ],
+        "publicationType": "book",
+        "id": "b71",
+        "label": "[71]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "van Dijck, J.",
+                "personType": "author"
+              },
+              {
+                "name": "Poell, T",
+                "personType": "author"
+              },
+              {
+                "name": "de Waa, M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>van Dijck,</surname> <given-names>J.</given-names></name>, <name><surname>Poell,</surname> <given-names>T</given-names></name>. &amp; <name><surname>de Waa,</surname> <given-names>M.</given-names></name> (<span class=\"yearStyle\">2018</span>). <span class=\"sourceStyle\"><i>The platform society. Oxford</i></span>, UK: Oxford University Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Journal of Communication",
+        "bodyP_ids": [
+          "mag_rich_body_p_19"
+        ],
+        "publicationType": "journal",
+        "id": "b72",
+        "label": "[72]",
+        "nian": 2023,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Algorithms play a critical role in steering online attention on social media. Many have alleged that algorithms can perpetuate bias. This study audited shadowbanning, where a user or their content is temporarily hidden on Twitter. We repeatedly tested whether a stratified random sample of American Twitter accounts (n ≈ 25,000) had been subject to various forms of shadowbans. We then identified the type of user and tweet characteristics that predict a shadowban. In general, shadowbans are rare. We found that accounts with bot-like behavior were more likely to face shadowbans, while verified accounts were less likely to be shadowbanned. The replies by Twitter accounts that posted offensive tweets and tweets about politics (from both the left and the right) were more likely to be downtiered. The findings have implications for algorithmic accountability and the design of future audit studies of social media platforms.",
+            "personList": [
+              {
+                "name": "Jaidka, K.",
+                "personType": "author"
+              },
+              {
+                "name": "Mukerjee, S.",
+                "personType": "author"
+              },
+              {
+                "name": "Lelkes, Y.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Jaidka,</surname> <given-names>K.</given-names></name>, <name><surname>Mukerjee,</surname> <given-names>S.</given-names></name>, &amp; <name><surname>Lelkes,</surname> <given-names>Y.</given-names></name> (<span class=\"yearStyle\">2023</span>). Silenced on social media: The gatekeeping functions of shadowbans in the American Twitterverse. <span class=\"sourceStyle\"><i>Journal of Communication</i></span>, <span class=\"volStyele\">73</span>(2), 163-178. ",
+            "url": "https://academic.oup.com/joc/article/73/2/163/6967119",
+            "doi": "10.1093/joc/jqac050"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Social Science History",
+        "bodyP_ids": [
+          "mag_rich_body_p_9"
+        ],
+        "publicationType": "journal",
+        "id": "b73",
+        "label": "[73]",
+        "nian": 2010,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Koller, A.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Koller,</surname> <given-names>A.</given-names></name> (<span class=\"yearStyle\">2010</span>). The public sphere and comparative historical research: An introduction. <span class=\"sourceStyle\"><i>Social Science History</i></span>, <span class=\"volStyele\">34</span>(3), 261-290."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Communication Theory",
+        "bodyP_ids": [
+          "mag_rich_body_p_5"
+        ],
+        "publicationType": "journal",
+        "id": "b74",
+        "label": "[74]",
+        "nian": 2022,
+        "citedCount": 2,
+        "citationList": [
+          {
+            "annotation": "With right-wing populist movements gaining ever more traction worldwide, great attention is paid to addressing their exclusionary rhetoric. In this article, I focus on the question how to deal with these radical-right sentiments in our public debates. Believing that both exclusion and inclusion of right-wing populist voices wield counter-productive effects, I juxtapose Habermas’s public sphere theory to Mouffe’s model of agonistic pluralism and posit that both are ultimately insufficient to tackle the populist danger, albeit for different reasons. However, by synthesizing Mouffe’s model with the ideas of Zygmunt Bauman and Iris Marion Young, I introduce the concept of an empathetic public sphere as a model for creating minimal common grounds between right-wing populist “selves” and the “others” they oppose. Finally, I then move this normative model into the realm of media and communication studies and assess how empathetic storytelling might be given shape in today’s fragmented media ecology.",
+            "personList": [
+              {
+                "name": "Korstenbroek, T.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Korstenbroek,</surname> <given-names>T.</given-names></name> (<span class=\"yearStyle\">2022</span>). Rethinking the public sphere in an age of radical-right populism: A case for building an empathetic public sphere. <span class=\"sourceStyle\"><i>Communication Theory</i></span>, <span class=\"volStyele\">32</span>(1), 68-87. ",
+            "url": "https://academic.oup.com/ct/article/32/1/68/6288105",
+            "doi": "10.1093/ct/qtab005"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Information, Communication &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_18"
+        ],
+        "publicationType": "journal",
+        "id": "b75",
+        "label": "[75]",
+        "nian": 2022,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Lee, F. L. F.",
+                "personType": "author"
+              },
+              {
+                "name": "Liang, H.",
+                "personType": "author"
+              },
+              {
+                "name": "Cheng, E. W.",
+                "personType": "author"
+              },
+              {
+                "name": "Tang, G. K. Y.",
+                "personType": "author"
+              },
+              {
+                "name": "Yuen, S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Lee,</surname> <given-names>F. L. F.</given-names></name>, <name><surname>Liang,</surname> <given-names>H.</given-names></name>, <name><surname>Cheng,</surname> <given-names>E. W.</given-names></name>, <name><surname>Tang,</surname> <given-names>G. K. Y.</given-names></name>, &amp; <name><surname>Yuen,</surname> <given-names>S.</given-names></name> (<span class=\"yearStyle\">2022</span>). Affordances, movement dynamics, and a centralized digital communication platform in a networked movement. <span class=\"sourceStyle\"><i>Information, Communication &amp; Society</i></span>, <span class=\"volStyele\">25</span>(12), 1699-1716."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Essays on self-reference (First Edition). New York",
+        "bodyP_ids": [
+          "mag_rich_body_p_34"
+        ],
+        "publicationType": "book",
+        "id": "b76",
+        "label": "[76]",
+        "nian": 1990,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Luhmann, N.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Luhmann,</surname> <given-names>N.</given-names></name> (<span class=\"yearStyle\">1990</span>). <span class=\"sourceStyle\"><i>Essays on self-reference (First Edition). New York</i></span>, NY: Columbia University Press."
+          }
+        ]
+      },
+      {
+        "sourceEn": "London, UK: CMCP, Policy Institute",
+        "bodyP_ids": [
+          "mag_rich_body_p_19"
+        ],
+        "publicationType": "journal",
+        "id": "b77",
+        "label": "[77]",
+        "nian": 2016,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Moore, M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Moore,</surname> <given-names>M.</given-names></name> (<span class=\"yearStyle\">2016</span>). Tech giants and civic power. <span class=\"sourceStyle\"><i>London, UK: CMCP, Policy Institute</i></span>, King’s College London."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Trends in Cognitive Sciences",
+        "bodyP_ids": [
+          "mag_rich_body_p_26"
+        ],
+        "publicationType": "journal",
+        "id": "b78",
+        "label": "[78]",
+        "nian": 2016,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "There is growing interest in diffusion models to represent the cognitive and neural processes of speeded decision making. Sequential-sampling models like the diffusion model have a long history in psychology. They view decision making as a process of noisy accumulation of evidence from a stimulus. The standard model assumes that evidence accumulates at a constant rate during the second or two it takes to make a decision. This process can be linked to the behaviors of populations of neurons and to theories of optimality. Diffusion models have been used successfully in a range of cognitive tasks and as psychometric tools in clinical research to examine individual differences. In this review, we relate the models to both earlier and more recent research in psychology. Copyright © 2016. Published by Elsevier Ltd.",
+            "personList": [
+              {
+                "name": "Ratcliff, R.",
+                "personType": "author"
+              },
+              {
+                "name": "Smith, P. L.",
+                "personType": "author"
+              },
+              {
+                "name": "Brown, S. D.",
+                "personType": "author"
+              },
+              {
+                "name": "McKoon, G.",
+                "personType": "author"
+              }
+            ],
+            "pmid": "26952739",
+            "content": "<name><surname>Ratcliff,</surname> <given-names>R.</given-names></name>, <name><surname>Smith,</surname> <given-names>P. L.</given-names></name>, <name><surname>Brown,</surname> <given-names>S. D.</given-names></name>, &amp; <name><surname>McKoon,</surname> <given-names>G.</given-names></name> (<span class=\"yearStyle\">2016</span>). Diffusion decision model: Current issues and history. <span class=\"sourceStyle\"><i>Trends in Cognitive Sciences</i></span>, <span class=\"volStyele\">20</span>(4), 260-281. ",
+            "doi": "S1364-6613(16)00025-5"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Oxford Journal of Legal Studies",
+        "bodyP_ids": [
+          "mag_rich_body_p_30"
+        ],
+        "publicationType": "journal",
+        "id": "b79",
+        "label": "[79]",
+        "nian": 1987,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Rawls, J.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Rawls,</surname> <given-names>J.</given-names></name> (<span class=\"yearStyle\">1987</span>). The idea of an overlapping consensus. <span class=\"sourceStyle\"><i>Oxford Journal of Legal Studies</i></span>, <span class=\"volStyele\">7</span>(1), 1-25. ",
+            "url": "https://academic.oup.com/ojls/article-lookup/doi/10.1093/ojls/7.1.1",
+            "doi": "10.1093/ojls/7.1.1"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Culture &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_7"
+        ],
+        "publicationType": "journal",
+        "id": "b80",
+        "label": "[80]",
+        "nian": 2022,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Seeliger, M.",
+                "personType": "author"
+              },
+              {
+                "name": "Sevignani, S.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Seeliger,</surname> <given-names>M.</given-names></name>, &amp; <name><surname>Sevignani,</surname> <given-names>S.</given-names></name> (<span class=\"yearStyle\">2022</span>). A new structural transformation of the public sphere? An introduction. Theory, <span class=\"sourceStyle\"><i>Culture &amp; Society</i></span>, <span class=\"volStyele\">39</span>(4), 3-16."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Media, Culture &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_5"
+        ],
+        "publicationType": "journal",
+        "id": "b81",
+        "label": "[81]",
+        "nian": 2020,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Schlesinger, P.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Schlesinger,</surname> <given-names>P.</given-names></name> (<span class=\"yearStyle\">2020</span>). After the post-public sphere. <span class=\"sourceStyle\"><i>Media, Culture &amp; Society</i></span>, <span class=\"volStyele\">42</span>(7-8), 1545-1563."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Japanese Journal of Political Science",
+        "bodyP_ids": [
+          "mag_rich_body_p_30"
+        ],
+        "publicationType": "journal",
+        "id": "b82",
+        "label": "[82]",
+        "nian": 2021,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Contemporary Hong Kong is riven by serious political and social polarization. Hong Kong's problem does not lie in ideological differences among citizens; rather, the major issue is that people of different political stripes view each other as enemies. In this study, we conducted two experiments to compare the impacts of deliberation and discussion on political depolarization. In study 1, we invited participants of opposing views toward the Article 23 legislation and conducted a 90-min discussion session. The participants were divided into two groups: deliberation and causal discussion. The deliberation group received an information booklet on the issue and had to strictly follow rules of deliberation whereas the causal discussion group had no such stimuli. In study 2, we used video recordings from study 1 and presented the videos to two groups of participants. One group of participants watched the deliberation video and the other group watched the causal discussion video. The main finding of the study is both deliberation and causal discussion had mixed effects on reducing political polarization. After discussion, issue attitude and issue polarization remained largely the same, but people's attitude toward others with opposing views became more favorable and affective polarization was reduced. No systematic differences were found between deliberation and discussion. And watching discussion and deliberation will deliver similar effects but to a lesser extent.",
+            "personList": [
+              {
+                "name": "Shen, F.",
+                "personType": "author"
+              },
+              {
+                "name": "Yu, W.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Shen,</surname> <given-names>F.</given-names></name>, &amp; <name><surname>Yu,</surname> <given-names>W.</given-names></name> (<span class=\"yearStyle\">2021</span>). Reducing political polarization in Hong Kong: A pilot experiment of deliberation. <span class=\"sourceStyle\"><i>Japanese Journal of Political Science</i></span>, <span class=\"volStyele\">22</span>(4), 233-247. ",
+            "url": "https://www.cambridge.org/core/product/identifier/S1468109921000335/type/journal_article",
+            "doi": "10.1017/S1468109921000335"
+          }
+        ]
+      },
+      {
+        "sourceEn": "London, UK: Sage",
+        "bodyP_ids": [
+          "mag_rich_body_p_39"
+        ],
+        "publicationType": "journal",
+        "id": "b83",
+        "label": "[83]",
+        "nian": 1994,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Shotter, J.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Shotter,</surname> <given-names>J.</given-names></name> (<span class=\"yearStyle\">1994</span>). Conversational realities: constructing life through language (Inquiries in social construction series). <span class=\"sourceStyle\"><i>London, UK: Sage</i></span>."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Policy &amp; Internet",
+        "bodyP_ids": [
+          "mag_rich_body_p_21"
+        ],
+        "publicationType": "journal",
+        "id": "b84",
+        "label": "[84]",
+        "nian": 2009,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "Large‐scale e‐mail campaigns are a staple in the modern environmental movement. Interest groups increasingly use online mobilizations as a way to raise awareness, money, and membership. There are legitimate political, economic, and organizational reasons for doing so, but these gains may come at the expense of a more substantial and efficacious role for citizens who wish to use e‐mail to engage in public participation. This paper situates a close examination of the 1000 longest modified MoveOn. Org‐generated e‐mails sent to the Environmental Protection Agency (EPA) about its 2004 mercury rulemaking, in the broader context of online grassroots lobbying. The findings indicate that only a tiny portion of these public comments constitute potentially relevant new information for the EPA to consider. The vast majority of Move On comments are either exact duplicates of a two‐sentence form letter, or they are variants of a small number of broad claims about the inadequacy of the proposed rule. This paper argues that norms, rules, and tools will emerge to deal with the burden imposed by these communications. More broadly, it raises doubts about the notion that online public participation is a harbinger of a more deliberative and democratic era.",
+            "personList": [
+              {
+                "name": "Shulman, S. W.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Shulman,</surname> <given-names>S. W.</given-names></name> (<span class=\"yearStyle\">2009</span>). The case against mass E-mails: Perverse incentives and low quality public participation in U.S. federal rulemaking. <span class=\"sourceStyle\"><i>Policy &amp; Internet</i></span>, <span class=\"volStyele\">1</span>(1), 23-53. ",
+            "url": "https://onlinelibrary.wiley.com/doi/10.2202/1944-2866.1010",
+            "doi": "10.2202/1944-2866.1010"
+          }
+        ]
+      },
+      {
+        "sourceEn": "Theory, Culture &amp; Society",
+        "bodyP_ids": [
+          "mag_rich_body_p_22"
+        ],
+        "publicationType": "journal",
+        "id": "b85",
+        "label": "[85]",
+        "nian": 2011,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Thompson, J. B.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Thompson,</surname> <given-names>J. B.</given-names></name> (<span class=\"yearStyle\">2011</span>). Shifting boundaries of public and private life. <span class=\"sourceStyle\"><i>Theory, Culture &amp; Society</i></span>, <span class=\"volStyele\">28</span>(4), 49-70."
+          }
+        ]
+      },
+      {
+        "sourceEn": "MATRIZes",
+        "bodyP_ids": [
+          "mag_rich_body_p_24"
+        ],
+        "publicationType": "journal",
+        "id": "b86",
+        "label": "[86]",
+        "nian": 2018,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Thompson, J. B.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Thompson,</surname> <given-names>J. B.</given-names></name> (<span class=\"yearStyle\">2018</span>). Mediated interaction in the digital age. <span class=\"sourceStyle\"><i>MATRIZes</i></span>, <span class=\"volStyele\">12</span>(3), Article 3."
+          }
+        ]
+      },
+      {
+        "sourceEn": "China Information",
+        "bodyP_ids": [
+          "mag_rich_body_p_26"
+        ],
+        "publicationType": "journal",
+        "id": "b87",
+        "label": "[87]",
+        "nian": 2015,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "annotation": "This article discusses the importance of emotions to China’s public life and the way in which the Internet and news media channels have publicized emotional outbursts by the public in China in recent years. An agonistic public sphere is being formed, the basis of which is the expression of emotions, especially hatred, resentment, anger and compassion, both on the Internet and in the news media. As a result, conflicting interests are contested and paradoxes in society are exposed. This development is close to what radical democracy theories conceptualize as an agonistic public sphere. This emotional dimension in public life is a crucial means for China’s subordinated citizens to strive to utilize resources to change the current hierarchy in society. The formation of an agonistic public sphere democratizes communication processes, opens a space for public participation and gives voice to the public who are otherwise silent. The expression of emotions has the potential to break down the Chinese Communist Party’s hegemony.",
+            "personList": [
+              {
+                "name": "Tong, J.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Tong,</surname> <given-names>J.</given-names></name> (<span class=\"yearStyle\">2015</span>). The formation of an agonistic public sphere: Emotions, the Internet and news media in China. <span class=\"sourceStyle\"><i>China Information</i></span>, <span class=\"volStyele\">29</span>(3), 333-351. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/0920203X15602863",
+            "doi": "10.1177/0920203X15602863"
+          }
+        ]
+      },
+      {
+        "bodyP_ids": [
+          "mag_rich_body_p_18"
+        ],
+        "publicationType": "journal",
+        "id": "b88",
+        "label": "[88]",
+        "nian": 2015,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Van Dijck, J.",
+                "personType": "author"
+              },
+              {
+                "name": "Poell, T.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Van Dijck,</surname> <given-names>J.</given-names></name>, &amp; <name><surname>Poell,</surname> <given-names>T.</given-names></name> (<span class=\"yearStyle\">2015</span>). Social media and the transformation of public space. Social Media + Society, <span class=\"volStyele\">1</span>(2), 1-5."
+          }
+        ]
+      },
+      {
+        "sourceEn": "Political theory",
+        "bodyP_ids": [
+          "mag_rich_body_p_35"
+        ],
+        "publicationType": "journal",
+        "id": "b89",
+        "label": "[89]",
+        "nian": 2001,
+        "citedCount": 1,
+        "citationList": [
+          {
+            "personList": [
+              {
+                "name": "Young, I. M.",
+                "personType": "author"
+              }
+            ],
+            "content": "<name><surname>Young,</surname> <given-names>I. M.</given-names></name> (<span class=\"yearStyle\">2001</span>). Activist challenges to deliberative democracy. <span class=\"sourceStyle\"><i>Political theory</i></span>, <span class=\"volStyele\">29</span>(5), 670-690. ",
+            "url": "https://journals.sagepub.com/doi/10.1177/0090591701029005004",
+            "doi": "10.1177/0090591701029005004"
+          }
+        ]
+      }
+    ],
+    "bioList_cn": [
+      {
+        "content": "<p id=\"com1\">吴飞，浙江大学国际传播研究中心主任，浙江大学传媒与国际文化学院教授。电子邮箱：<a class=\"mag-xml-email-a\" href=\"mailto:ws114@zju.edu.cn\">ws114@zju.edu.cn</a>。</p>"
+      },
+      {
+        "content": "<p>杨龙梦珏，浙江大学传媒与国际文化学院博士候选人。电子邮箱：<a class=\"mag-xml-email-a\" href=\"mailto:yanglongmj@126.com\">yanglongmj@126.com</a>。</p>"
+      }
+    ],
+    "fnList": [
+      {
+        "id": "note1",
+        "content": "<p id=\"p00225\">1. 如成都的袍哥组织广泛使用“公口”一词是指“所有成员进出的地方”。其中的“公”指“全体同意”，“口”是指出入口的地方。参见：王笛（2018）。《袍哥：1940年代川西乡村的暴力与秩序》。北京：北京大学出版社。第104页。</p>"
+      },
+      {
+        "id": "note2",
+        "content": "<p id=\"p00230\">2. “理性的胡闹”的主要表现是，一些人发现利用他人的错误情感、情绪和偏见，能够给自己带来比尊重事实、追求真理更多的心理和实际利益的回报，因此他们便主动选择拥抱错误，不讲真相，不求真理的非理性的状态。参见：Caplan, B. (2001). Rational irrationality and the microfoundations of political failur. Public Choice, 107(3-4), pp.311-331.</p>"
+      },
+      {
+        "id": "note3",
+        "content": "<p id=\"p00235\">3. 在罗尔斯的正义论学说中，平等是一个很重要的条件，因为“只有在他们都是自由而平等的人，他们的相互关系是公正的情况下，他们才能就他们的合作条件取得一致意见”。参见：罗尔斯（1971/1991)。《正义论》（谢延光译）。上海：上海译文出版社。第10页。哈贝马斯接受了米尔斯关于“公众”（public）与“大众”（mass）区别的观点。米尔斯在《权力精英》中从四个方面区分了大众与公众的不同：（1）公众既表达意见也接受意见；大众表达意见的少，接受者多；（2）公众有立即的反应，大众反应困难；（3）公众有组织起反对主流意见的能力，而大众的行动被官方操控；（4）公众的自主和自治程度高，权力机构较难进入，而大众自治程度低。参见：C.赖特.米尔斯（2019）。《权力精英》（李子雯译）。北京：北京时代华文书局。第342页。</p>"
+      },
+      {
+        "id": "note4",
+        "content": "<p id=\"p00240\">4. “系统性扭曲”是一种结构性暴力，它以一种不为人知的方式阻挡了那些形成和传播有效的合法化信念的交流，参见：Habermas, J. (970). On systematically distorted communication. Inquiry, 13(1-4), pp.205-218；“至少有一方在欺骗自己，他是以成功为导向的态度行事的，只是在维持沟通行动的表象”（Habermas, J. (1984). The theory of communicative action. Volume 1: Reason and the rationalization of society. Boston, MA: Beacon Press, pp.332）。如第三帝国就通过现实的和结构性的暴力，并通过其语言表现形式，系统地扭曲交流来进行统治。（Habermas, J. (1983). Philosophical-Political Profiles. (Lawrence, F. G. Trans.). Cambridge, UK: The MIT Press. p.176.）这一扭曲现象在哈贝马斯的职业生涯的后期被忽略了是“令人吃惊和失望的”。爱丽丝·马里恩·杨（2003/2009）。《激进分子对协商民主的挑战》。载詹姆斯·菲什金、彼得·拉斯莱特（主编），《协商民主论争》（张晓敏译）（第123页）。北京：中央编译出版社。Gross, A. G. (2010). Systematically distorted communication: An impediment to social and political change. Informal Logic, 30 (4), pp.335-360.</p>"
+      },
+      {
+        "id": "note5",
+        "content": "<p id=\"p00245\">5. 哈贝马斯（1992/2014）。《在事实与规范之间：关于法律和民主法治国的商谈理论》（章世骏译）。北京：生活·读书·新知三联书店。第462页。哈贝马斯在另一篇文章中列举了传统公共领域的五类参与者：（a）代表特殊利益集团的游说者；（b）要么代表一般利益集团，要么代替无法有效代表其利益的边缘化群体的倡导者；（c)在某个专业领域拥有专业或科学知识并被邀请提供建议的专家；（d）道德企业家；（e）在某个领域获得了可感知的个人声誉的知识分子（例如作家和学者），他们自发地参与公共讨论，并宣称要促进普遍利益。参见Habermas, J. (2006). Political communication in media society: does democracy still enjoy an epistemic dimension? The impact of normative theory on empirical research. Communication Theory, 16 (4), pp.411-426.</p>"
+      },
+      {
+        "id": "note6",
+        "content": "<p id=\"p00250\">6. 当被问及为什么选择与他人分享表情包、GIF动图和迷因视频时（无论是公开还是私下分享），大部分人认为幽默是最常见的驱动因素。其中有61%的用户认为“分享行为”加强了和他人的联系感。2022：互联网文化解读报告（2022）。腾讯媒体研究院。检索于： <uri>https://mp.weixin.qq.com/s/tH5qhI2pO93pSmD32TWbTQ</uri>。</p>"
+      }
+    ],
+    "article": {
+      "keywordList_cn": [
+        "公共领域",
+        "共通体",
+        "平台",
+        "社会行动者网络"
+      ],
+      "juan": "45",
+      "zhaiyao_cn": "<p id=\"p00010\">每一个人都生活在世界之中，彼此之间有着多种面向的公共性，数字技术开启了一种新的公共性协商领域。本文将聚焦于数字技术以及社会文化背景所引发之公共领域的变革，以社会联结的视角来分析社会，从而理解数字公共领域。我们生存的社会是各类异质行动者所构成的动态网络，也是不同权力交锋、对话、协作的空间。我们身处于共识理想遭遇挑战的当下，但众声可见，差异性的多元沟通，或将培育较为容忍的承认政治。数字公共领域概念的提出可能唤起人们对“社会”“公共性”和“社会秩序”等理念的再思考。</p>",
+      "endNoteUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=EndNote&id=1327",
+      "bibtexUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=BibTeX&id=1327",
+      "articleType": "A",
+      "abstractUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2023/V45/I5/49",
+      "qi": "5",
+      "id": 1327,
+      "nian": 2023,
+      "bianHao": "20230503",
+      "juanUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2023",
+      "shouCiFaBuRiQi": "2023-10-11",
+      "qiShiYe": "49",
+      "qiUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I5",
+      "lanMu_cn": "研究论文",
+      "pdfSize": "1578KB",
+      "risUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=Ris&id=1327",
+      "title_cn": "论数字公共领域的结构新转型",
+      "jieShuYe": "74",
+      "keywordList_en": [
+        "public sphere",
+        "communities",
+        "platforms",
+        "actor-network-theory"
+      ],
+      "endNoteUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=EndNote&id=1327",
+      "zhaiyao_en": "<p id=\"p00015\">Everyone lives in a world with multiple orientations of communality, and digital technology has opened up a new field of public deliberation. This paper will focus on the transformation of the public sphere caused by digital technologies and social and cultural context. In order to understand the digital public sphere, through the lens of social connection, this paper will analyze society by seeing it as a Social connectome composed of fluid, active and heterogeneous networks of actors, a field of competition where various power vie for visibility and public opinion discourse around the public interest. We are at a time when the ideal of consensus is being challenged, but the multitude of voices is visible, and the plurality of communication of difference may foster a more tolerant politics of recognition. The concept of the digital public sphere is likely to evoke rethinking of ideas such as society, publicness and social order.</p>",
+      "bibtexUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=BibTeX&id=1327",
+      "abstractUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I5/49",
+      "juanUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2023",
+      "lanMu_en": "Research Articles",
+      "qiUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2023/V45/I5",
+      "risUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=Ris&id=1327",
+      "title_en": "On the New Structural Transformation of the Digital Public Sphere",
+      "hasPdf": "true"
+    },
+    "authorList_en": [
+      {
+        "deceased": false,
+        "name_cn": "吴飞",
+        "email": "ws114@zju.edu.cn",
+        "name_en": "WU Fei"
+      },
+      {
+        "deceased": false,
+        "name_cn": "杨龙梦珏",
+        "email": "yanglongmj@126.com",
+        "name_en": "YANGLONG Mengjue"
+      }
+    ],
+    "authorList_cn": [
+      {
+        "deceased": false,
+        "name_cn": "吴飞",
+        "email": "ws114@zju.edu.cn",
+        "name_en": "WU Fei"
+      },
+      {
+        "deceased": false,
+        "name_cn": "杨龙梦珏",
+        "email": "yanglongmj@126.com",
+        "name_en": "YANGLONG Mengjue"
+      }
+    ],
+    "journal": {
+      "issn": "1002-5685",
+      "qiKanWangZhi": "http://cjjc.ruc.edu.cn",
+      "qiKanMingCheng_CN": "国际新闻界",
+      "id": 1,
+      "qiKanMingCheng_EN": "Chinese Journal of Journalism & Communication"
+    },
+    "authorList": [
+      {
+        "deceased": false,
+        "name_cn": "吴飞",
+        "email": "ws114@zju.edu.cn",
+        "name_en": "WU Fei"
+      },
+      {
+        "deceased": false,
+        "name_cn": "杨龙梦珏",
+        "email": "yanglongmj@126.com",
+        "name_en": "YANGLONG Mengjue"
+      }
+    ],
+    "fundList_cn": [
+      "国家社科基金重大攻关项目《互联网环境下的新闻理论范式创新研究》(21＆ZD318)"
+    ],
+    "fundList_en": [
+      "Key Projects of the National Social Science Foundation entitled “Research on the Paradigm Innovation in the Journalism Theory in the new media environment ”(21＆ZD318)"
+    ],
+    "backFnGroupList": [
+      {
+        "fnList": [
+          {
+            "pList": [
+              "<p id=\"p00225\">如成都的袍哥组织广泛使用“公口”一词是指“所有成员进出的地方”。其中的“公”指“全体同意”，“口”是指出入口的地方。参见：王笛（2018）。《袍哥：1940年代川西乡村的暴力与秩序》。北京：北京大学出版社。第104页。</p>"
+            ],
+            "fnType": "note",
+            "id": "note1",
+            "label": "1.",
+            "content": "<p id=\"p00225\">1. 如成都的袍哥组织广泛使用“公口”一词是指“所有成员进出的地方”。其中的“公”指“全体同意”，“口”是指出入口的地方。参见：王笛（2018）。《袍哥：1940年代川西乡村的暴力与秩序》。北京：北京大学出版社。第104页。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"p00230\">“理性的胡闹”的主要表现是，一些人发现利用他人的错误情感、情绪和偏见，能够给自己带来比尊重事实、追求真理更多的心理和实际利益的回报，因此他们便主动选择拥抱错误，不讲真相，不求真理的非理性的状态。参见：Caplan, B. (2001). Rational irrationality and the microfoundations of political failur. Public Choice, 107(3-4), pp.311-331.</p>"
+            ],
+            "fnType": "note",
+            "id": "note2",
+            "label": "2.",
+            "content": "<p id=\"p00230\">2. “理性的胡闹”的主要表现是，一些人发现利用他人的错误情感、情绪和偏见，能够给自己带来比尊重事实、追求真理更多的心理和实际利益的回报，因此他们便主动选择拥抱错误，不讲真相，不求真理的非理性的状态。参见：Caplan, B. (2001). Rational irrationality and the microfoundations of political failur. Public Choice, 107(3-4), pp.311-331.</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"p00235\">在罗尔斯的正义论学说中，平等是一个很重要的条件，因为“只有在他们都是自由而平等的人，他们的相互关系是公正的情况下，他们才能就他们的合作条件取得一致意见”。参见：罗尔斯（1971/1991)。《正义论》（谢延光译）。上海：上海译文出版社。第10页。哈贝马斯接受了米尔斯关于“公众”（public）与“大众”（mass）区别的观点。米尔斯在《权力精英》中从四个方面区分了大众与公众的不同：（1）公众既表达意见也接受意见；大众表达意见的少，接受者多；（2）公众有立即的反应，大众反应困难；（3）公众有组织起反对主流意见的能力，而大众的行动被官方操控；（4）公众的自主和自治程度高，权力机构较难进入，而大众自治程度低。参见：C.赖特.米尔斯（2019）。《权力精英》（李子雯译）。北京：北京时代华文书局。第342页。</p>"
+            ],
+            "fnType": "note",
+            "id": "note3",
+            "label": "3.",
+            "content": "<p id=\"p00235\">3. 在罗尔斯的正义论学说中，平等是一个很重要的条件，因为“只有在他们都是自由而平等的人，他们的相互关系是公正的情况下，他们才能就他们的合作条件取得一致意见”。参见：罗尔斯（1971/1991)。《正义论》（谢延光译）。上海：上海译文出版社。第10页。哈贝马斯接受了米尔斯关于“公众”（public）与“大众”（mass）区别的观点。米尔斯在《权力精英》中从四个方面区分了大众与公众的不同：（1）公众既表达意见也接受意见；大众表达意见的少，接受者多；（2）公众有立即的反应，大众反应困难；（3）公众有组织起反对主流意见的能力，而大众的行动被官方操控；（4）公众的自主和自治程度高，权力机构较难进入，而大众自治程度低。参见：C.赖特.米尔斯（2019）。《权力精英》（李子雯译）。北京：北京时代华文书局。第342页。</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"p00240\">“系统性扭曲”是一种结构性暴力，它以一种不为人知的方式阻挡了那些形成和传播有效的合法化信念的交流，参见：Habermas, J. (970). On systematically distorted communication. Inquiry, 13(1-4), pp.205-218；“至少有一方在欺骗自己，他是以成功为导向的态度行事的，只是在维持沟通行动的表象”（Habermas, J. (1984). The theory of communicative action. Volume 1: Reason and the rationalization of society. Boston, MA: Beacon Press, pp.332）。如第三帝国就通过现实的和结构性的暴力，并通过其语言表现形式，系统地扭曲交流来进行统治。（Habermas, J. (1983). Philosophical-Political Profiles. (Lawrence, F. G. Trans.). Cambridge, UK: The MIT Press. p.176.）这一扭曲现象在哈贝马斯的职业生涯的后期被忽略了是“令人吃惊和失望的”。爱丽丝·马里恩·杨（2003/2009）。《激进分子对协商民主的挑战》。载詹姆斯·菲什金、彼得·拉斯莱特（主编），《协商民主论争》（张晓敏译）（第123页）。北京：中央编译出版社。Gross, A. G. (2010). Systematically distorted communication: An impediment to social and political change. Informal Logic, 30 (4), pp.335-360.</p>"
+            ],
+            "fnType": "note",
+            "id": "note4",
+            "label": "4.",
+            "content": "<p id=\"p00240\">4. “系统性扭曲”是一种结构性暴力，它以一种不为人知的方式阻挡了那些形成和传播有效的合法化信念的交流，参见：Habermas, J. (970). On systematically distorted communication. Inquiry, 13(1-4), pp.205-218；“至少有一方在欺骗自己，他是以成功为导向的态度行事的，只是在维持沟通行动的表象”（Habermas, J. (1984). The theory of communicative action. Volume 1: Reason and the rationalization of society. Boston, MA: Beacon Press, pp.332）。如第三帝国就通过现实的和结构性的暴力，并通过其语言表现形式，系统地扭曲交流来进行统治。（Habermas, J. (1983). Philosophical-Political Profiles. (Lawrence, F. G. Trans.). Cambridge, UK: The MIT Press. p.176.）这一扭曲现象在哈贝马斯的职业生涯的后期被忽略了是“令人吃惊和失望的”。爱丽丝·马里恩·杨（2003/2009）。《激进分子对协商民主的挑战》。载詹姆斯·菲什金、彼得·拉斯莱特（主编），《协商民主论争》（张晓敏译）（第123页）。北京：中央编译出版社。Gross, A. G. (2010). Systematically distorted communication: An impediment to social and political change. Informal Logic, 30 (4), pp.335-360.</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"p00245\">哈贝马斯（1992/2014）。《在事实与规范之间：关于法律和民主法治国的商谈理论》（章世骏译）。北京：生活·读书·新知三联书店。第462页。哈贝马斯在另一篇文章中列举了传统公共领域的五类参与者：（a）代表特殊利益集团的游说者；（b）要么代表一般利益集团，要么代替无法有效代表其利益的边缘化群体的倡导者；（c)在某个专业领域拥有专业或科学知识并被邀请提供建议的专家；（d）道德企业家；（e）在某个领域获得了可感知的个人声誉的知识分子（例如作家和学者），他们自发地参与公共讨论，并宣称要促进普遍利益。参见Habermas, J. (2006). Political communication in media society: does democracy still enjoy an epistemic dimension? The impact of normative theory on empirical research. Communication Theory, 16 (4), pp.411-426.</p>"
+            ],
+            "fnType": "note",
+            "id": "note5",
+            "label": "5.",
+            "content": "<p id=\"p00245\">5. 哈贝马斯（1992/2014）。《在事实与规范之间：关于法律和民主法治国的商谈理论》（章世骏译）。北京：生活·读书·新知三联书店。第462页。哈贝马斯在另一篇文章中列举了传统公共领域的五类参与者：（a）代表特殊利益集团的游说者；（b）要么代表一般利益集团，要么代替无法有效代表其利益的边缘化群体的倡导者；（c)在某个专业领域拥有专业或科学知识并被邀请提供建议的专家；（d）道德企业家；（e）在某个领域获得了可感知的个人声誉的知识分子（例如作家和学者），他们自发地参与公共讨论，并宣称要促进普遍利益。参见Habermas, J. (2006). Political communication in media society: does democracy still enjoy an epistemic dimension? The impact of normative theory on empirical research. Communication Theory, 16 (4), pp.411-426.</p>"
+          },
+          {
+            "pList": [
+              "<p id=\"p00250\">当被问及为什么选择与他人分享表情包、GIF动图和迷因视频时（无论是公开还是私下分享），大部分人认为幽默是最常见的驱动因素。其中有61%的用户认为“分享行为”加强了和他人的联系感。2022：互联网文化解读报告（2022）。腾讯媒体研究院。检索于： <uri>https://mp.weixin.qq.com/s/tH5qhI2pO93pSmD32TWbTQ</uri>。</p>"
+            ],
+            "fnType": "note",
+            "id": "note6",
+            "label": "6.",
+            "content": "<p id=\"p00250\">6. 当被问及为什么选择与他人分享表情包、GIF动图和迷因视频时（无论是公开还是私下分享），大部分人认为幽默是最常见的驱动因素。其中有61%的用户认为“分享行为”加强了和他人的联系感。2022：互联网文化解读报告（2022）。腾讯媒体研究院。检索于： <uri>https://mp.weixin.qq.com/s/tH5qhI2pO93pSmD32TWbTQ</uri>。</p>"
+          }
+        ],
+        "title_cn": "注释 [Notes]"
+      }
+    ]
+  },
+  "text": "论数字公共领域的结构新转型 × 模态框（Modal）标题 在这里添加一些文本 关闭 关闭 提交更改 取消 确定并提交 × 模态框（Modal）标题 × 下载引用文件后，可以用常见的文献管理软件打开和编辑，包括: BibTex, EndNote, ProCite, RefWorks, and Reference Manager. 选择文件类型/文献管理软件名称 RIS (ProCite, Reference Manager, EndNote) BibTeX 选择包含的内容 仅文章引用信息 引用信息及摘要 导出 论数字公共领域的结构新转型 吴飞, 杨龙梦珏 国际新闻界 ›› 2023, Vol. 45 ›› Issue (5) : 49-74. PDF(1578 KB) Toggle navigation 首 页 期刊介绍 编委会 投稿指南 格式规范 期刊订阅 联系我们 English 投稿指南 格式规范 PDF(1578 KB) 国际新闻界 ›› 2023, Vol. 45 ›› Issue (5) : 49-74. 研究论文 论数字公共领域的结构新转型 吴飞 , 杨龙梦珏 作者信息 + 作者简介: 吴飞，浙江大学国际传播研究中心主任，浙江大学传媒与国际文化学院教授。电子邮箱： ws114@zju.edu.cn 。 杨龙梦珏，浙江大学传媒与国际文化学院博士候选人。电子邮箱： yanglongmj@126.com 。 折叠 On the New Structural Transformation of the Digital Public Sphere WU Fei , YANGLONG Mengjue Author information + About authors: Wu Fei is a professor of School of Media and International Culture, Zhejiang University. Email: ws114@zju.edu.cn . Yanglong Mengjue is a Ph.D. candidate of School of Media and International Culture, Zhejiang University. Email: yanglongmj@126.com . Show less 文章历史 + 出版日期 2023-05-23 发布日期 2023-10-11 摘要 每一个人都生活在世界之中，彼此之间有着多种面向的公共性，数字技术开启了一种新的公共性协商领域。本文将聚焦于数字技术以及社会文化背景所引发之公共领域的变革，以社会联结的视角来分析社会，从而理解数字公共领域。我们生存的社会是各类异质行动者所构成的动态网络，也是不同权力交锋、对话、协作的空间。我们身处于共识理想遭遇挑战的当下，但众声可见，差异性的多元沟通，或将培育较为容忍的承认政治。数字公共领域概念的提出可能唤起人们对“社会”“公共性”和“社会秩序”等理念的再思考。 Abstract Everyone lives in a world with multiple orientations of communality, and digital technology has opened up a new field of public deliberation. This paper will focus on the transformation of the public sphere caused by digital technologies and social and cultural context. In order to understand the digital public sphere, through the lens of social connection, this paper will analyze society by seeing it as a Social connectome composed of fluid, active and heterogeneous networks of actors, a field of competition where various power vie for visibility and public opinion discourse around the public interest. We are at a time when the ideal of consensus is being challenged, but the multitude of voices is visible, and the plurality of communication of difference may foster a more tolerant politics of recognition. The concept of the digital public sphere is likely to evoke rethinking of ideas such as society, publicness and social order. 关键词 公共领域 / 共通体 / 平台 / 社会行动者网络 Key words public sphere / communities / platforms / actor-network-theory 引用本文 EndNote Ris (Procite) Bibtex 导出引用 吴飞 , 杨龙梦珏 . 论数字公共领域的结构新转型[J]. 国际新闻界 . 2023, 45(5): 49-74 WU Fei , YANGLONG Mengjue . On the New Structural Transformation of the Digital Public Sphere[J]. Chinese Journal of Journalism & Communication . 2023, 45(5): 49-74 {{custom_sec.title}} {{custom_sec.title}} {{custom_sec.content}} 参考文献 列表( 原文顺序 | 文献年度倒序 | 文中引用次数倒序 ) 可视化分析 [1] 汉娜·阿伦特( 1958/2017 ). 《人的境况》(王寅丽译) . 上海: 上海人民出版社. 本文引用 [2] [2] 安德鲁·基恩( 2007/2010 ). 《网民的狂欢:关于互联网弊端的反思》(丁德良译) . 海口: 南海出版公司. 本文引用 [1] [3] 巴赫金( 1996/2009 ). 《巴赫金全集(第六卷)》(李兆林,夏忠宪等译) . 石家庄: 河北教育出版社. 本文引用 [1] [4] 查尔斯·泰勒( 2004/2014 ). 《现代社会想象》(林曼红译) . 北京: 译林出版社 本文引用 [2] [5] 翟志成( 2000 ). 《宋明理学的公私之辨及其现代意涵》.载黄克武,张哲嘉(主编),《公与私:近代中国个体与群体之重建》(第1-58页) . 台北: 中研院近史所. 本文引用 [1] [6] 冯济海( 2021 ). “粉”“黑”之争:网络迷群极化的“日常化”转向. 《社会学研究》 ,(6),113-135+228-229. 本文引用 [1] [7] 弗雷德·特纳( 2008/2013 ). 《数字乌托邦:从反主流文化到赛博文化》(张行舟译) . 北京: 电子工业出版社. 本文引用 [1] [8] 沟口雄三( 1995/2011 ). 《中国的公与私·公私》(郑静译) . 北京: 生活·读书·新知三联书店. 本文引用 [2] [9] 尤尔根·哈贝马斯( 1990/1999 ). 《公共领域的结构转型》(曹卫东,王晓珏,刘北城,宋伟杰译) . 上海: 学林出版社. 本文引用 [1] [10] 尤尔根·哈贝马斯( 1992/2003 ). 《在事实与规范之间》(童世骏译) . 北京: 生活·读书·新知三联书店. 本文引用 [2] [11] 尤尔根·哈贝马斯( 1984/2004 ). 《交往行为理论(第1卷)》(曹卫东译) . 上海: 上海人民出版社. 本文引用 [2] [12] 于尔根·哈贝马斯( 1985/2011 ). 《现代性的哲学话语》(曹卫东译) . 南京: 译林出版社. 本文引用 [2] [13] 于尔根·哈贝马斯( 1988/2012 ). 《后形而上学思想》(曹卫东,付德根译) . 南京: 译林出版社. 本文引用 [1] [14] 韩炳哲( 2013/2019 ). 《在群中》(程巍译) . 北京: 中信出版社. 本文引用 [1] [15] 赫伯特·西蒙( 1983/2016 ). 《人类活动中的理性》(胡怀国,冯科译) . 南宁: 广西师范大学出版社. 本文引用 [1] [16] 胡泳( 2008 ). 《众声喧哗》 . 南宁: 广西师范大学出版社. 本文引用 [1] [17] 黃克武( 2000 ). 《从追求正道到认同国族——明末至清末中国公私观念的重整》.载黄克武,张哲嘉(主编),《公与私:近代中国个体与群体之重建》(第59-112页) . 台北: 中研院近史所. 本文引用 [1] [18] 卡尔·马克思, 弗里德里希·恩格斯( 1982/2002 ). 马克思恩格斯全集(第3卷) . 北京: 人民出版社. 本文引用 [1] [19] 卡尔·马克思, 弗里德里希·恩格斯( 1982/1995 ). 马克思恩格斯全集(第1卷) , 北京: 人民出版社. 本文引用 [1] [20] 卡尔·马克思, 弗里德里希·恩格斯( 1982/2013 ). 马克思恩格式全集(第14卷) , 北京: 人民出版社. 本文引用 [1] [21] 劳伦斯·莱斯格( 1999/2004 ). 《代码:塑造网络空间的法律》(李旭译) . 北京: 中信出版社. 本文引用 [1] [22] 理查德·J·伯恩斯坦( 1976/2008 ). 《社会政治理论的重构》(黄瑞祺译) . 南京: 译林出版社. 本文引用 [2] [23] 梁启超( 1999 ). 《梁启超全集》 . 北京: 北京出版社. 本文引用 [2] [24] 林郁沁( 2007/2011 ). 《施剑翘复仇案》(陈湘静译) . 南京: 江苏人民出版社. 本文引用 [1] [25] 刘泱育( 2022 ). 从“型构”到“互型”:媒介化理论核心概念“figuration”来龙去脉. 《新闻与传播研究》 ,(3),38-53+126-127. 本文引用 [1] [26] 卢梭( 1954/1986 ). 《论人类不平等的起源和基础》(李常山译) . 北京: 商务印书馆. 本文引用 [1] [27] 卢梭( 1943/2003 ). 《社会契约论》(何兆武译) . 北京: 商务印书馆. 本文引用 [1] [28] 梅利尔·D·彼得森( 1984/1993 ). 《杰斐逊集(下)》(刘祚昌等译) . 北京: 生活·读书·新知三联书店. 本文引用 [1] [29] 米尔斯·C·赖特( 1963/1987 ). 《白领:美国的中产阶级》(杨小冬等译) . 杭州: 浙江人民出版社 本文引用 [1] [30] 秦亚青( 2021 ). 世界秩序的变革:从霸权到包容性多边主义. 《亚太安全与海洋研究》 ,(2),1-15+133. 本文引用 [1] [31] 让-皮埃尔·韦尔南( 1962/1997 ). 《希腊思想的起源》(秦海鹰译) . 北京: 生活·读书·新知三联书店. 本文引用 [1] [32] 莎伦·R·克劳斯( 2008/2015 ). 《公民的激情》(谭安奎译) . 南京: 译林出版社. 本文引用 [1] [33] 师文, 陈昌凤( 2020 ). 社交机器人在新闻扩散中的角色和行为模式研究——基于《纽约时报》“修例”风波报道在Twitter上扩散的分析. 《新闻与传播研究》 ,(5),5-20+126. 本文引用 [1] [34] 谭安奎( 2015 ). 《公共理性与民主理想》 . 北京: 生活·读书·新知三联书店. 本文引用 [1] [35] 王天夫( 2022 ). 数字时代的社会变迁与社会研究. 《社会科学文摘》 ,(3),94-96. 本文引用 [1] [36] 翁贝托·埃科( 2016/2019 ). 《帕佩撒旦阿莱佩 :流动社会纪事》(李婧敬,陈英译). 上海: 上海译文出版社. 本文引用 [1] [37] 吴飞( 2019 ). 共情传播的理论基础与实践路径探索. 《新闻与传播研究》 ,(5),59-76+127. 本文引用 [1] [38] 吴飞, 徐百灵( 2020 ). 自媒体话语实践中的观点极化与社会流瀑——对方方日记海外出版争论的个案分析. 《新闻记者》 ,(6),37-46. 本文引用 [1] [39] 武沛颍, 陈昌凤( 2022 ). 社交机器人能否操纵舆论——以Twitter平台的北京冬奥舆情为例. 《新闻与写作》 ,(9),79-88. 本文引用 [1] [40] 肖瑛( 2021 ). 《公共性及其实践》 . 北京: 社会科学文献出版社. 本文引用 [1] [41] 杨仁忠( 2009 ). 《公共领域论》 . 北京: 人民出版社 本文引用 [1] [42] 约翰·杜翰姆·彼得斯( 1999/2017 ). 《对空言说:传播的观念史》(邓建国译) . 上海: 上海译文出版社. 本文引用 [1] [43] 约翰·罗尔斯( 1996/2000 ). 《政治自由主义》(万俊人译) . 南京: 译林出版社. 本文引用 [1] [44] 章国锋( 2000 ). 哈贝马斯访谈录. 《外国文学评论》 ,(1),27-32. 本文引用 [1] [45] 赵鼎新( 2012 ). 《民主的限制》 . 北京: 中信出版社. 本文引用 [1] [46] 周葆华, 钟媛( 2021 ). “春天的花开秋天的风”:社交媒体、集体悼念与延展性情感空间——以李文亮微博评论(2020-2021)为例的计算传播分析. 《国际新闻界》 ,(3),79-106. 本文引用 [1] [47] Acharya, A. ( 2014 ). The End of American world order (1st edition). Cambridge, UK: Polity . 本文引用 [1] [48] Benhabib, S. ( 1992 ). Models of public space:Hannah Arendt, the liberal tradition, and Jürgen Habermas. In Calhoun, C. ( Ed. ). Habermas and the Public Sphere (pp. 73-98). Cambridge, MA: MIT Press. 本文引用 [2] [49] Bennett, W. L. , & Pfetsch, B. ( 2018 ). Rethinking political communication in a time of disrupted public spheres. Journal of Communication , 68 (2), 243-253. https://doi.org/10.1093/joc/jqx017 https://academic.oup.com/joc/article/68/2/243/4958957 本文引用 [1] [50] Bennett, W. L. , & Segerberg, A. ( 2015 ). The logic of connective action:Digital media and the personalization of contentious politics. In Coleman, S & Freelon, D. ( Eds. ). Handbook of Digital Politics (pp. 169-198). Cheltenham, UK: Edward Elgar Publishing. 本文引用 [1] [51] Bimber, B. , & Gil de Zúñiga, H. ( 2020 ). The unedited public sphere. New Media & Society , 22 (4), 700-715. https://doi.org/10.1177/1461444819893980 https://journals.sagepub.com/doi/10.1177/1461444819893980 本文引用 [2] [52] Borgida, E. , & Stark, E. N. ( 2004 ). New media and politics: Some insights from social and political psychology. American Behavioral Scientist , 48 (4), 467-478. https://doi.org/10.1177/0002764204270282 https://journals.sagepub.com/doi/10.1177/0002764204270282 本文引用 [1] [53] Boyd, D. ( 2010 ). Social Network Sites as Networked Publics:Affordances, Dynamics, and Implications. In Papacharissi, Z. ( Ed. ). A Networked Self (pp. 47-66). New York, NY: Routledge. 本文引用 [1] [54] Boyd, D. ( 2014 ). It’s complicated:The social lives of networked teens. New Haven , CT: Yale University Press. 本文引用 [1] [55] Burrell, J. , & Fourcade, M. ( 2021 ). The society of algorithms. Annual Review of Sociology, 47 (1), 213-237. 本文引用 [1] [56] Camaj, L. ( 2021 ). Real time political deliberation on social media: Can televised debates lead to rational and civil discussions on broadcasters’ Facebook pages? Information, Communication & Society , 24 (13), 1907-1924. 本文引用 [1] [57] Campbell, A. , Gurin, G. , & Miller, W. E. ( 1954 ). The voter decides. Evanston, IL: Row, Peterson and Company . 本文引用 [1] [58] Crossley, N. , & Roberts, J. M. ( 2004 ). After Habermas: NewpPerspectives on the public sphere. Oxford, UK: Basil Blackwell Ltd . 本文引用 [1] [59] Dahlberg, L. ( 2011 ). Re-constructing digital democracy: An outline of four ‘positions’. New Media & Society , 13 (6), 855-872. https://doi.org/10.1177/1461444810389569 https://journals.sagepub.com/doi/10.1177/1461444810389569 本文引用 [1] 摘要 There is currently a diversity of understandings of digital democracy being deployed within popular commentary, research, policy making, and practical initiative. However, there is a lack of resources clearly outlining this diversity; this article undertakes such an outline. It provides a reconstruction of four digital democracy positions. These four positions are referred to here as liberal-individualist, deliberative, counter-publics, and autonomist Marxist. The delineation of each position draws from critical-interpretative research and has been developed with respect to three elements: the democratic subject assumed, the related conception of democracy promoted, and the associated democratic affordances of digital media technology. The aim is to draw attention to different understandings of what extending democracy through digital media means, and to provide a framework for further examination and evaluation of digital democracy rhetoric and practice. [60] Dahlberg, L. ( 2014 ). The Habermasian public sphere and exclusion: An engagement with poststructuralist-influenced critics. Communication Theory , 24 (1), 21-41. https://doi.org/10.1111/comt.2014.24.issue-1 http://doi.wiley.com/10.1111/comt.2014.24.issue-1 本文引用 [2] [61] Dahlgren, P. , & Sparks, C. ( 1993 ). Communication and citizenship: Journalism and the public sphere. London, UK: Routledge . 本文引用 [1] [62] Harwell, D. ( 2020 ). Thousands of Zoom video calls left exposed on open Web. Retrieved from https://www.washingtonpost.com/technology/2020/04/03/thousands-zoom-video-calls-left-exposed-open-web/. https://www.washingtonpost.com/technology/2020/04/03/thousands-zoom-video-calls-left-exposed-open-web/ 本文引用 [1] [63] Fraser, N. ( 1990 ). Rethinking the public sphere: A contribution to the critique of actually existing democracy. Social Text , (25/26), 56-80. 本文引用 [1] [64] Fraser, N. ( 2007 ). Transnationalizing the public sphere: On the legitimacy and efficacy of public opinion in a Post-Westphalian world. Theory, Culture & Society , 24 (4), 7-30. 本文引用 [1] [65] Habermas, J. ( 1992 ). Concluding remarks. In Calhoun, C. ( Ed. ), Habermas and the Public Sphere (pp. 462-479). Cambridge, MA: MIT Press. 本文引用 [1] [66] Habermas, J. ( 2005 ). Concluding comments on empirical approaches to deliberative politics. Acta politica , 40 , 384-392. https://doi.org/10.1057/palgrave.ap.5500119 http://link.springer.com/10.1057/palgrave.ap.5500119 本文引用 [1] [67] Habermas, J. ( 2006 ). Political communication in media society: Does democracy still enjoy an epistemic dimension? The impact of normative theory on empirical research. Communication Theory , 16 (4), 411-426. https://doi.org/10.1111/comt.2006.16.issue-4 http://www.blackwell-synergy.com/toc/comt/16/4 本文引用 [2] [68] Habermas, J. ( 2022 ). Ein neuer strukturwandel der öffentlichkeit und die deliberative politik: platz 1 der sachbuchbestenliste der WELT (3rd edition) . Berlin, DE: Suhrkamp Verlag. 本文引用 [2] [69] Habermas, J. , Lennox, S. , & Lennox, F. ( 1974 ). The public sphere: An encyclopedia article (1964). New German Critique , 3 , 49-55. 本文引用 [1] [70] Hong, S. , & Kim, S. H. ( 2016 ). Political polarization on twitter: Implications for the use of social media in digital governments. Government Information Quarterly , 33 (4), 777-782. https://doi.org/10.1016/j.giq.2016.04.007 https://linkinghub.elsevier.com/retrieve/pii/S0740624X16300375 本文引用 [1] [71] van Dijck, J. , Poell, T . & de Waa, M. ( 2018 ). The platform society. Oxford , UK: Oxford University Press. 本文引用 [1] [72] Jaidka, K. , Mukerjee, S. , & Lelkes, Y. ( 2023 ). Silenced on social media: The gatekeeping functions of shadowbans in the American Twitterverse. Journal of Communication , 73 (2), 163-178. https://doi.org/10.1093/joc/jqac050 https://academic.oup.com/joc/article/73/2/163/6967119 本文引用 [1] 摘要 Algorithms play a critical role in steering online attention on social media. Many have alleged that algorithms can perpetuate bias. This study audited shadowbanning, where a user or their content is temporarily hidden on Twitter. We repeatedly tested whether a stratified random sample of American Twitter accounts (n ≈ 25,000) had been subject to various forms of shadowbans. We then identified the type of user and tweet characteristics that predict a shadowban. In general, shadowbans are rare. We found that accounts with bot-like behavior were more likely to face shadowbans, while verified accounts were less likely to be shadowbanned. The replies by Twitter accounts that posted offensive tweets and tweets about politics (from both the left and the right) were more likely to be downtiered. The findings have implications for algorithmic accountability and the design of future audit studies of social media platforms. [73] Koller, A. ( 2010 ). The public sphere and comparative historical research: An introduction. Social Science History , 34 (3), 261-290. 本文引用 [1] [74] Korstenbroek, T. ( 2022 ). Rethinking the public sphere in an age of radical-right populism: A case for building an empathetic public sphere. Communication Theory , 32 (1), 68-87. https://doi.org/10.1093/ct/qtab005 https://academic.oup.com/ct/article/32/1/68/6288105 本文引用 [2] 摘要 With right-wing populist movements gaining ever more traction worldwide, great attention is paid to addressing their exclusionary rhetoric. In this article, I focus on the question how to deal with these radical-right sentiments in our public debates. Believing that both exclusion and inclusion of right-wing populist voices wield counter-productive effects, I juxtapose Habermas’s public sphere theory to Mouffe’s model of agonistic pluralism and posit that both are ultimately insufficient to tackle the populist danger, albeit for different reasons. However, by synthesizing Mouffe’s model with the ideas of Zygmunt Bauman and Iris Marion Young, I introduce the concept of an empathetic public sphere as a model for creating minimal common grounds between right-wing populist “selves” and the “others” they oppose. Finally, I then move this normative model into the realm of media and communication studies and assess how empathetic storytelling might be given shape in today’s fragmented media ecology. [75] Lee, F. L. F. , Liang, H. , Cheng, E. W. , Tang, G. K. Y. , & Yuen, S. ( 2022 ). Affordances, movement dynamics, and a centralized digital communication platform in a networked movement. Information, Communication & Society , 25 (12), 1699-1716. 本文引用 [1] [76] Luhmann, N. ( 1990 ). Essays on self-reference (First Edition). New York , NY: Columbia University Press. 本文引用 [1] [77] Moore, M. ( 2016 ). Tech giants and civic power. London, UK: CMCP, Policy Institute , King’s College London. 本文引用 [1] [78] Ratcliff, R. , Smith, P. L. , Brown, S. D. , & McKoon, G. ( 2016 ). Diffusion decision model: Current issues and history. Trends in Cognitive Sciences , 20 (4), 260-281. https://doi.org/S1364-6613(16)00025-5 https://www.ncbi.nlm.nih.gov/pubmed/26952739 本文引用 [1] 摘要 There is growing interest in diffusion models to represent the cognitive and neural processes of speeded decision making. Sequential-sampling models like the diffusion model have a long history in psychology. They view decision making as a process of noisy accumulation of evidence from a stimulus. The standard model assumes that evidence accumulates at a constant rate during the second or two it takes to make a decision. This process can be linked to the behaviors of populations of neurons and to theories of optimality. Diffusion models have been used successfully in a range of cognitive tasks and as psychometric tools in clinical research to examine individual differences. In this review, we relate the models to both earlier and more recent research in psychology. Copyright © 2016. Published by Elsevier Ltd. [79] Rawls, J. ( 1987 ). The idea of an overlapping consensus. Oxford Journal of Legal Studies , 7 (1), 1-25. https://doi.org/10.1093/ojls/7.1.1 https://academic.oup.com/ojls/article-lookup/doi/10.1093/ojls/7.1.1 本文引用 [1] [80] Seeliger, M. , & Sevignani, S. ( 2022 ). A new structural transformation of the public sphere? An introduction. Theory, Culture & Society , 39 (4), 3-16. 本文引用 [1] [81] Schlesinger, P. ( 2020 ). After the post-public sphere. Media, Culture & Society , 42 (7-8), 1545-1563. 本文引用 [1] [82] Shen, F. , & Yu, W. ( 2021 ). Reducing political polarization in Hong Kong: A pilot experiment of deliberation. Japanese Journal of Political Science , 22 (4), 233-247. https://doi.org/10.1017/S1468109921000335 https://www.cambridge.org/core/product/identifier/S1468109921000335/type/journal_article 本文引用 [1] 摘要 Contemporary Hong Kong is riven by serious political and social polarization. Hong Kong's problem does not lie in ideological differences among citizens; rather, the major issue is that people of different political stripes view each other as enemies. In this study, we conducted two experiments to compare the impacts of deliberation and discussion on political depolarization. In study 1, we invited participants of opposing views toward the Article 23 legislation and conducted a 90-min discussion session. The participants were divided into two groups: deliberation and causal discussion. The deliberation group received an information booklet on the issue and had to strictly follow rules of deliberation whereas the causal discussion group had no such stimuli. In study 2, we used video recordings from study 1 and presented the videos to two groups of participants. One group of participants watched the deliberation video and the other group watched the causal discussion video. The main finding of the study is both deliberation and causal discussion had mixed effects on reducing political polarization. After discussion, issue attitude and issue polarization remained largely the same, but people's attitude toward others with opposing views became more favorable and affective polarization was reduced. No systematic differences were found between deliberation and discussion. And watching discussion and deliberation will deliver similar effects but to a lesser extent. [83] Shotter, J. ( 1994 ). Conversational realities: constructing life through language (Inquiries in social construction series). London, UK: Sage . 本文引用 [1] [84] Shulman, S. W. ( 2009 ). The case against mass E-mails: Perverse incentives and low quality public participation in U.S. federal rulemaking. Policy & Internet , 1 (1), 23-53. https://doi.org/10.2202/1944-2866.1010 https://onlinelibrary.wiley.com/doi/10.2202/1944-2866.1010 本文引用 [1] 摘要 Large‐scale e‐mail campaigns are a staple in the modern environmental movement. Interest groups increasingly use online mobilizations as a way to raise awareness, money, and membership. There are legitimate political, economic, and organizational reasons for doing so, but these gains may come at the expense of a more substantial and efficacious role for citizens who wish to use e‐mail to engage in public participation. This paper situates a close examination of the 1000 longest modified MoveOn. Org‐generated e‐mails sent to the Environmental Protection Agency (EPA) about its 2004 mercury rulemaking, in the broader context of online grassroots lobbying. The findings indicate that only a tiny portion of these public comments constitute potentially relevant new information for the EPA to consider. The vast majority of Move On comments are either exact duplicates of a two‐sentence form letter, or they are variants of a small number of broad claims about the inadequacy of the proposed rule. This paper argues that norms, rules, and tools will emerge to deal with the burden imposed by these communications. More broadly, it raises doubts about the notion that online public participation is a harbinger of a more deliberative and democratic era. [85] Thompson, J. B. ( 2011 ). Shifting boundaries of public and private life. Theory, Culture & Society , 28 (4), 49-70. 本文引用 [1] [86] Thompson, J. B. ( 2018 ). Mediated interaction in the digital age. MATRIZes , 12 (3), Article 3. 本文引用 [1] [87] Tong, J. ( 2015 ). The formation of an agonistic public sphere: Emotions, the Internet and news media in China. China Information , 29 (3), 333-351. https://doi.org/10.1177/0920203X15602863 https://journals.sagepub.com/doi/10.1177/0920203X15602863 本文引用 [1] 摘要 This article discusses the importance of emotions to China’s public life and the way in which the Internet and news media channels have publicized emotional outbursts by the public in China in recent years. An agonistic public sphere is being formed, the basis of which is the expression of emotions, especially hatred, resentment, anger and compassion, both on the Internet and in the news media. As a result, conflicting interests are contested and paradoxes in society are exposed. This development is close to what radical democracy theories conceptualize as an agonistic public sphere. This emotional dimension in public life is a crucial means for China’s subordinated citizens to strive to utilize resources to change the current hierarchy in society. The formation of an agonistic public sphere democratizes communication processes, opens a space for public participation and gives voice to the public who are otherwise silent. The expression of emotions has the potential to break down the Chinese Communist Party’s hegemony. [88] Van Dijck, J. , & Poell, T. ( 2015 ). Social media and the transformation of public space. Social Media + Society, 1 (2), 1-5. 本文引用 [1] [89] Young, I. M. ( 2001 ). Activist challenges to deliberative democracy. Political theory , 29 (5), 670-690. https://doi.org/10.1177/0090591701029005004 https://journals.sagepub.com/doi/10.1177/0090591701029005004 本文引用 [1] 文章年度分布 文献类型分布 被引期刊分布 被引用学者 注释 [Notes] 1. 如成都的袍哥组织广泛使用“公口”一词是指“所有成员进出的地方”。其中的“公”指“全体同意”，“口”是指出入口的地方。参见：王笛（2018）。《袍哥：1940年代川西乡村的暴力与秩序》。北京：北京大学出版社。第104页。 2. “理性的胡闹”的主要表现是，一些人发现利用他人的错误情感、情绪和偏见，能够给自己带来比尊重事实、追求真理更多的心理和实际利益的回报，因此他们便主动选择拥抱错误，不讲真相，不求真理的非理性的状态。参见：Caplan, B. (2001). Rational irrationality and the microfoundations of political failur. Public Choice, 107(3-4), pp.311-331. 3. 在罗尔斯的正义论学说中，平等是一个很重要的条件，因为“只有在他们都是自由而平等的人，他们的相互关系是公正的情况下，他们才能就他们的合作条件取得一致意见”。参见：罗尔斯（1971/1991)。《正义论》（谢延光译）。上海：上海译文出版社。第10页。哈贝马斯接受了米尔斯关于“公众”（public）与“大众”（mass）区别的观点。米尔斯在《权力精英》中从四个方面区分了大众与公众的不同：（1）公众既表达意见也接受意见；大众表达意见的少，接受者多；（2）公众有立即的反应，大众反应困难；（3）公众有组织起反对主流意见的能力，而大众的行动被官方操控；（4）公众的自主和自治程度高，权力机构较难进入，而大众自治程度低。参见：C.赖特.米尔斯（2019）。《权力精英》（李子雯译）。北京：北京时代华文书局。第342页。 4. “系统性扭曲”是一种结构性暴力，它以一种不为人知的方式阻挡了那些形成和传播有效的合法化信念的交流，参见：Habermas, J. (970). On systematically distorted communication. Inquiry, 13(1-4), pp.205-218；“至少有一方在欺骗自己，他是以成功为导向的态度行事的，只是在维持沟通行动的表象”（Habermas, J. (1984). The theory of communicative action. Volume 1: Reason and the rationalization of society. Boston, MA: Beacon Press, pp.332）。如第三帝国就通过现实的和结构性的暴力，并通过其语言表现形式，系统地扭曲交流来进行统治。（Habermas, J. (1983). Philosophical-Political Profiles. (Lawrence, F. G. Trans.). Cambridge, UK: The MIT Press. p.176.）这一扭曲现象在哈贝马斯的职业生涯的后期被忽略了是“令人吃惊和失望的”。爱丽丝·马里恩·杨（2003/2009）。《激进分子对协商民主的挑战》。载詹姆斯·菲什金、彼得·拉斯莱特（主编），《协商民主论争》（张晓敏译）（第123页）。北京：中央编译出版社。Gross, A. G. (2010). Systematically distorted communication: An impediment to social and political change. Informal Logic, 30 (4), pp.335-360. 5. 哈贝马斯（1992/2014）。《在事实与规范之间：关于法律和民主法治国的商谈理论》（章世骏译）。北京：生活·读书·新知三联书店。第462页。哈贝马斯在另一篇文章中列举了传统公共领域的五类参与者：（a）代表特殊利益集团的游说者；（b）要么代表一般利益集团，要么代替无法有效代表其利益的边缘化群体的倡导者；（c)在某个专业领域拥有专业或科学知识并被邀请提供建议的专家；（d）道德企业家；（e）在某个领域获得了可感知的个人声誉的知识分子（例如作家和学者），他们自发地参与公共讨论，并宣称要促进普遍利益。参见Habermas, J. (2006). Political communication in media society: does democracy still enjoy an epistemic dimension? The impact of normative theory on empirical research. Communication Theory, 16 (4), pp.411-426. 6. 当被问及为什么选择与他人分享表情包、GIF动图和迷因视频时（无论是公开还是私下分享），大部分人认为幽默是最常见的驱动因素。其中有61%的用户认为“分享行为”加强了和他人的联系感。2022：互联网文化解读报告（2022）。腾讯媒体研究院。检索于： https://mp.weixin.qq.com/s/tH5qhI2pO93pSmD32TWbTQ 。 基金 国家社科基金重大攻关项目《互联网环境下的新闻理论范式创新研究》(21＆ZD318) × 微信扫一扫 PDF(1578 KB) 可视化 Accesses Citation Altmetric Detail 段落导航 相关文章 期刊信息 期刊介绍 编委会 投稿指南 格式规范 期刊订阅 联系我们 在线期刊 当期目录 过刊浏览 E-mail Alert RSS 联系我们 地址：北京市海淀区中关村大街59号明德新闻楼 邮编：100872 电话：010-82509362 E-mail:gjxwj@ruc.edu.cn 访问统计 总访问量 ： 今日访问： 在线人数： 版权所有 © 《国际新闻界》编辑部 技术支持： 北京玛格泰克科技发展有限公司 / 〈 〉",
+  "links": [
+    "http://cjjc.ruc.edu.cn",
+    "http://cjjc.ruc.edu.cn/CN/archive/2023",
+    "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I5",
+    "http://cjjc.ruc.edu.cn/CN/home",
+    "http://cjjc.ruc.edu.cn/CN/home",
+    "http://cjjc.ruc.edu.cn/CN/column/column1.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column2.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column5.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column6.shtml",
+    "http://cjjc.ruc.edu.cn/EN/home",
+    "https://www.ruc.edu.cn/",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn",
+    "http://cjjc.ruc.edu.cn/CN/archive/2023",
+    "http://cjjc.ruc.edu.cn/CN/Y2023/V45/I5",
+    "javascript:;",
+    "mailto:ws114@zju.edu.cn",
+    "javascript:;",
+    "mailto:yanglongmj@126.com",
+    "mailto:ws114@zju.edu.cn",
+    "mailto:yanglongmj@126.com",
+    "javascript:;",
+    "mailto:ws114@zju.edu.cn",
+    "javascript:;",
+    "mailto:yanglongmj@126.com",
+    "mailto:ws114@zju.edu.cn",
+    "mailto:yanglongmj@126.com",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=EndNote&id=1327",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=Ris&id=1327",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=BibTeX&id=1327",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1093/joc/jqx017",
+    "https://academic.oup.com/joc/article/68/2/243/4958957",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1177/1461444819893980",
+    "https://journals.sagepub.com/doi/10.1177/1461444819893980",
+    "javascript:;",
+    "https://doi.org/10.1177/0002764204270282",
+    "https://journals.sagepub.com/doi/10.1177/0002764204270282",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1177/1461444810389569",
+    "https://journals.sagepub.com/doi/10.1177/1461444810389569",
+    "javascript:;",
+    "https://doi.org/10.1111/comt.2014.24.issue-1",
+    "http://doi.wiley.com/10.1111/comt.2014.24.issue-1",
+    "javascript:;",
+    "javascript:;",
+    "https://www.washingtonpost.com/technology/2020/04/03/thousands-zoom-video-calls-left-exposed-open-web/",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1057/palgrave.ap.5500119",
+    "http://link.springer.com/10.1057/palgrave.ap.5500119",
+    "javascript:;",
+    "https://doi.org/10.1111/comt.2006.16.issue-4",
+    "http://www.blackwell-synergy.com/toc/comt/16/4",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1016/j.giq.2016.04.007",
+    "https://linkinghub.elsevier.com/retrieve/pii/S0740624X16300375",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1093/joc/jqac050",
+    "https://academic.oup.com/joc/article/73/2/163/6967119",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1093/ct/qtab005",
+    "https://academic.oup.com/ct/article/32/1/68/6288105",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/S1364-6613(16)00025-5",
+    "https://www.ncbi.nlm.nih.gov/pubmed/26952739",
+    "javascript:;",
+    "https://doi.org/10.1093/ojls/7.1.1",
+    "https://academic.oup.com/ojls/article-lookup/doi/10.1093/ojls/7.1.1",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1017/S1468109921000335",
+    "https://www.cambridge.org/core/product/identifier/S1468109921000335/type/journal_article",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.2202/1944-2866.1010",
+    "https://onlinelibrary.wiley.com/doi/10.2202/1944-2866.1010",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1177/0920203X15602863",
+    "https://journals.sagepub.com/doi/10.1177/0920203X15602863",
+    "javascript:;",
+    "javascript:;",
+    "https://doi.org/10.1177/0090591701029005004",
+    "https://journals.sagepub.com/doi/10.1177/0090591701029005004",
+    "javascript:;",
+    "http://www.facebook.com/sharer.php?u=http://cjjc.ruc.edu.cn/CN/Y2023/V45/I5/49",
+    "http://twitter.com/share?url=http://cjjc.ruc.edu.cn/CN/Y2023/V45/I5/49",
+    "http://service.weibo.com/share/share.php?url=http://cjjc.ruc.edu.cn/CN/Y2023/V45/I5/49&title=论数字公共领域的结构新转型",
+    "javascript:;",
+    "javascript:;",
+    "http://cjjc.ruc.edu.cn/CN/column/column1.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column2.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column5.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column6.shtml",
+    "http://cjjc.ruc.edu.cn/CN/current",
+    "http://cjjc.ruc.edu.cn/CN/archive_by_years",
+    "http://cjjc.ruc.edu.cn/CN/alert/showAlertInfo.do",
+    "http://cjjc.ruc.edu.cn/CN/rss/showRssInfo.do",
+    "https://www.magtech.com.cn/"
+  ]
+}

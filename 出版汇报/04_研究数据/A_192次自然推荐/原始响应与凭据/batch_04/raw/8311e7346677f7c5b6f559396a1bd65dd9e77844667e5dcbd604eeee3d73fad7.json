@@ -1,0 +1,307 @@
+{
+  "protocol": "research_protocol_v1-f161bab9fb085136cd8a",
+  "batch_id": "publication_visibility_main-f161bab9fb085136",
+  "cohort": "publication_visibility_main",
+  "condition": "neutral_zh",
+  "prompt_language": "zh",
+  "topic_id": "framing",
+  "topic_group": "classical",
+  "provider": "openai",
+  "model_requested": "gpt-5.6-terra",
+  "requested_model": "gpt-5.6-terra",
+  "route": {
+    "provider": "openai",
+    "adapter": "relay",
+    "access_channel": "relay",
+    "base_url": "https://token.mmh1.top/v1",
+    "api_key_env": "RELAY_API_KEY",
+    "model": "gpt-5.6-terra",
+    "confirmed": true,
+    "parameters_confirmed": false,
+    "reasoning_effort": "none",
+    "thinking_mode": "none",
+    "output_limit_field": "max_completion_tokens"
+  },
+  "route_id": "80c1a0800214d59a110d079ba69bfd04955cbdd093fcc0077d0e7fc4b8f144f2",
+  "access_channel": "relay",
+  "base_url": "https://token.mmh1.top/v1",
+  "adapter": "relay",
+  "repeat_index": 2,
+  "mode": "baseline",
+  "search_enabled": false,
+  "source_type": "api",
+  "prompt_text": "请推荐关于「框架理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+  "request_parameters": {
+    "max_output_tokens": 8192,
+    "timeout": 180
+  },
+  "thinking_mode": "none",
+  "coding_rule_version": "publication_visibility_coding_v2",
+  "sdk_retries": 0,
+  "caller_retries": 0,
+  "generation_authorized": true,
+  "request_config_id": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+  "effective_reasoning_parameters": {
+    "reasoning_effort": "none",
+    "thinking_mode": "none"
+  },
+  "proposed_wire_parameters": {
+    "model": "gpt-5.6-terra",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「框架理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_completion_tokens": 8192,
+    "reasoning_effort": "none"
+  },
+  "sequence": 86,
+  "source_job_id": "758d6b6e112216b2340ee7a65c9f4946ba8c3a74fadbbe13d82c632949fa919e",
+  "source_generation_protocol": "research_protocol_v1-cf2812cdc4a6cc6ddda4",
+  "job_id": "8311e7346677f7c5b6f559396a1bd65dd9e77844667e5dcbd604eeee3d73fad7",
+  "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\openai\\8311e7346677f7c5b6f559396a1bd65dd9e77844667e5dcbd604eeee3d73fad7",
+  "main_authorization": {
+    "authorization_id": "publication_visibility_main_batch04_f161bab9fb085136",
+    "configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+    "allowed_job_ids": [
+      "1cd2147ec67c9ee271ab4cf0f503e65c0f32479632ecae59090a6d143790e576",
+      "80761fbe64e5c05592d1d9bb7f5fff0785bd24cd368a6356eea1f2e3df62b702",
+      "e7cd5599b13f8dfb93ec84c614e72888a64d546c5d60eb234d0baee592654d3c",
+      "5cbf809dee4560ced96617a43c78eaf10c31d91d8e7df414a514f10e40978574",
+      "afbe4ab2c793c3fb0c494ba33de4fbf030b307bc86c5b5d04a76507327c5b843",
+      "8ebbfd7bd8987c2ef1cf59e5c404112b6409c2c415e7d03b5d52bdd78eee7562",
+      "93524849224b5b04890566891036947934ec747f5a817baa28e1fbbdfe54bfeb",
+      "d39d7f1e7c5001df5592204ab89a0483a9ed9c064e7cbd32cb74a7e2e2be7b2d",
+      "6f669fd78c0ffc9b074231b76ac9f0102c59246be80b3f26bf1915a301240af9",
+      "7b7ad5a507ef63b285d29d740a15dbe37958f163a1e8b589c66d768699852245",
+      "838d01c56cf992a9297f0a5f04e4d11fec5afd6649847c7a04296dbf51528ca4",
+      "595def9dd6dbd9fc27cf024c04f78f3494e452dc6ed7441da9a7c0fc2071de1c",
+      "dd1ebfdf69c51d378e9d91ab466249807b09a63caae01829c7412a92f1408a8c",
+      "8311e7346677f7c5b6f559396a1bd65dd9e77844667e5dcbd604eeee3d73fad7",
+      "95c1e32847b03bc9a26d79ee090af83f12424a9793c47d5cbd40c17fe3128435",
+      "f4b5a1469b6b97845cd7211a79b721ad2a98425ddfdf855706d66e126d080c81",
+      "2adfc6427d1ad8012b5db15e8a326a7d07719c0284bca2dd55f2fbbfa1b3f86d",
+      "5f76cf077aeb78137bac8ee9b195c1a0d625f28bbe064700f681c033eb05efb7",
+      "0940c3ec1035e9aee623feb4cc40c22fba3804906ef390ab610ed2ccf14c19fd",
+      "881fd003d286d67957d78f1f2d339ec48f3ef5662a38778cda49c9714345a7ca",
+      "02fb7bfe9743fcccc6d6b27c5f333b40f6e161035b1aa176a82f7dbfeabb8252",
+      "8ccf8dea42f21d8f99ecfef4ac4def92519b349c9247c4cb63e85ec27b710c06",
+      "8bf9b4756ca9e7671816c0bc853b61debf007171414ec4126a6421e3ea299e54",
+      "5d1565046e8114be85a56ed645056599593ab2a1f16618aa7dfb2e4d31ec24b7"
+    ],
+    "batch_number": 4,
+    "maximum_total_requests": 24,
+    "maximum_provider_requests": {
+      "gemini": 6,
+      "openai": 4,
+      "qwen": 8,
+      "deepseek": 6
+    },
+    "software_budget_by_currency": {
+      "CNY": "2.10",
+      "USD": "0.60"
+    },
+    "maximum_job_requests": 1,
+    "user_authorized": true,
+    "billing_risk_accepted": true,
+    "source": "remaining144:E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\remaining_049_192\\authorization.json"
+  },
+  "experiment_id": "8311e7346677f7c5b6f559396a1bd65dd9e77844667e5dcbd604eeee3d73fad7",
+  "timestamp": "2026-10-11T15:07:54.800727+00:00",
+  "protocol_status": "frozen",
+  "status": "success",
+  "api_success": true,
+  "attempt_index": 1,
+  "raw_response": {
+    "id": "resp_ft_216c9247915441b7941869b7b2e08223",
+    "object": "chat.completion",
+    "created": 1791731286,
+    "model": "gpt-5.6-terra",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": " {\"references\":[{\"title\":\"An Outline of a Theory of Practice\",\"authors\":[\"Pierre Bourdieu\"],\"year\":1977,\"journal\":\"Cambridge Studies in Social Anthropology\",\"doi\":null,\"url\":\"https://doi.org/10.1017/CBO9780511812507\"},{\"title\":\"Frame Analysis: An Essay on the Organization of Experience\",\"authors\":[\"Erving Goffman\"],\"year\":1974,\"journal\":null,\"doi\":null,\"url\":\"https://archive.org/details/frameanalysisess00goff\"},{\"title\":\"Frame Analysis of Social Movements: An Overview and Assessment\",\"authors\":[\"Robert D. Benford\",\"David A. Snow\"],\"year\":2000,\"journal\":\"Annual Review of Sociology\",\"doi\":\"10.1146/annurev.soc.26.1.611\",\"url\":\"https://doi.org/10.1146/annurev.soc.26.1.611\"},{\"title\":\"Framing: Toward Clarification of a Fractured Paradigm\",\"authors\":[\"Robert M. Entman\"],\"year\":1993,\"journal\":\"Journal of Communication\",\"doi\":\"10.1111/j.1460-2466.1993.tb01304.x\",\"url\":\"https://doi.org/10.1111/j.1460-2466.1993.tb01304.x\"},{\"title\":\"Framing, Agenda Setting, and Priming: The Evolution of Three Media Effects Models\",\"authors\":[\"Dietram A. Scheufele\",\"David Tewksbury\"],\"year\":2007,\"journal\":\"Journal of Communication\",\"doi\":\"10.1111/j.1460-2466.2006.00326.x\",\"url\":\"https://doi.org/10.1111/j.1460-2466.2006.00326.x\"}]}"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 3711,
+      "completion_tokens": 375,
+      "total_tokens": 4086
+    },
+    "service_tier": "default"
+  },
+  "references": [
+    {
+      "title": "An Outline of a Theory of Practice",
+      "authors": [
+        "Pierre Bourdieu"
+      ],
+      "year": 1977,
+      "journal": "Cambridge Studies in Social Anthropology",
+      "doi": null,
+      "url": "https://doi.org/10.1017/CBO9780511812507"
+    },
+    {
+      "title": "Frame Analysis: An Essay on the Organization of Experience",
+      "authors": [
+        "Erving Goffman"
+      ],
+      "year": 1974,
+      "journal": null,
+      "doi": null,
+      "url": "https://archive.org/details/frameanalysisess00goff"
+    },
+    {
+      "title": "Frame Analysis of Social Movements: An Overview and Assessment",
+      "authors": [
+        "Robert D. Benford",
+        "David A. Snow"
+      ],
+      "year": 2000,
+      "journal": "Annual Review of Sociology",
+      "doi": "10.1146/annurev.soc.26.1.611",
+      "url": "https://doi.org/10.1146/annurev.soc.26.1.611"
+    },
+    {
+      "title": "Framing: Toward Clarification of a Fractured Paradigm",
+      "authors": [
+        "Robert M. Entman"
+      ],
+      "year": 1993,
+      "journal": "Journal of Communication",
+      "doi": "10.1111/j.1460-2466.1993.tb01304.x",
+      "url": "https://doi.org/10.1111/j.1460-2466.1993.tb01304.x"
+    },
+    {
+      "title": "Framing, Agenda Setting, and Priming: The Evolution of Three Media Effects Models",
+      "authors": [
+        "Dietram A. Scheufele",
+        "David Tewksbury"
+      ],
+      "year": 2007,
+      "journal": "Journal of Communication",
+      "doi": "10.1111/j.1460-2466.2006.00326.x",
+      "url": "https://doi.org/10.1111/j.1460-2466.2006.00326.x"
+    }
+  ],
+  "returned_model": "gpt-5.6-terra",
+  "usage": {
+    "prompt_tokens": 3711,
+    "completion_tokens": 375,
+    "total_tokens": 4086
+  },
+  "finish_reason": "stop",
+  "actual_billed_amount": null,
+  "budget_reservation": {
+    "currency": "CNY",
+    "amount": "0.10"
+  },
+  "pricing_snapshot": {
+    "provider": "openai",
+    "model": "gpt-5.6-terra",
+    "pricing_route_base_url": "https://token.mmh1.top/v1",
+    "access_channel": "relay",
+    "pricing_currency": "CNY",
+    "input_price_per_million": "1.30",
+    "output_price_per_million": "7.80",
+    "cached_input_price_per_million": "0.80",
+    "pricing_source": "user_provided_mmh1_screenshot_transcription",
+    "pricing_checked_at": "2026-10-11",
+    "source_url": "https://token.mmh1.top/pricing",
+    "evidence_limit": "Displayed prices only; original screenshot not available locally; actual deductions unverified.",
+    "tier": "standard_scenario_only",
+    "input_token_limit": null,
+    "reasoning_billing": "unknown",
+    "unknown_terms": [
+      "platform_multiplier",
+      "account_currency_or_quota_unit",
+      "dynamic_price",
+      "long_context_tier_threshold",
+      "long_context_rates",
+      "reasoning_billing",
+      "cache_write_fee",
+      "failed_request_billing",
+      "platform_internal_retries"
+    ],
+    "proposed_reservation": "0.10"
+  },
+  "budget_status": "reservation_retained_actual_invoice_unknown",
+  "planned_parameters": {
+    "model": "gpt-5.6-terra",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「框架理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_completion_tokens": 8192,
+    "reasoning_effort": "none"
+  },
+  "upstream_identity_verified": false,
+  "response_text": " {\"references\":[{\"title\":\"An Outline of a Theory of Practice\",\"authors\":[\"Pierre Bourdieu\"],\"year\":1977,\"journal\":\"Cambridge Studies in Social Anthropology\",\"doi\":null,\"url\":\"https://doi.org/10.1017/CBO9780511812507\"},{\"title\":\"Frame Analysis: An Essay on the Organization of Experience\",\"authors\":[\"Erving Goffman\"],\"year\":1974,\"journal\":null,\"doi\":null,\"url\":\"https://archive.org/details/frameanalysisess00goff\"},{\"title\":\"Frame Analysis of Social Movements: An Overview and Assessment\",\"authors\":[\"Robert D. Benford\",\"David A. Snow\"],\"year\":2000,\"journal\":\"Annual Review of Sociology\",\"doi\":\"10.1146/annurev.soc.26.1.611\",\"url\":\"https://doi.org/10.1146/annurev.soc.26.1.611\"},{\"title\":\"Framing: Toward Clarification of a Fractured Paradigm\",\"authors\":[\"Robert M. Entman\"],\"year\":1993,\"journal\":\"Journal of Communication\",\"doi\":\"10.1111/j.1460-2466.1993.tb01304.x\",\"url\":\"https://doi.org/10.1111/j.1460-2466.1993.tb01304.x\"},{\"title\":\"Framing, Agenda Setting, and Priming: The Evolution of Three Media Effects Models\",\"authors\":[\"Dietram A. Scheufele\",\"David Tewksbury\"],\"year\":2007,\"journal\":\"Journal of Communication\",\"doi\":\"10.1111/j.1460-2466.2006.00326.x\",\"url\":\"https://doi.org/10.1111/j.1460-2466.2006.00326.x\"}]}",
+  "model_returned": "gpt-5.6-terra",
+  "response_id": "resp_ft_216c9247915441b7941869b7b2e08223",
+  "provider_status": "completed",
+  "search_executed": false,
+  "tool_records": [],
+  "upstream_snapshot": "unknown",
+  "api_surface": "relay.openai_compatible.chat.completions",
+  "upstream_route_claims": {},
+  "raw_http_body": "{\"id\":\"resp_ft_216c9247915441b7941869b7b2e08223\",\"object\":\"chat.completion\",\"created\":1791731286,\"model\":\"gpt-5.6-terra\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\" {\\\"references\\\":[{\\\"title\\\":\\\"An Outline of a Theory of Practice\\\",\\\"authors\\\":[\\\"Pierre Bourdieu\\\"],\\\"year\\\":1977,\\\"journal\\\":\\\"Cambridge Studies in Social Anthropology\\\",\\\"doi\\\":null,\\\"url\\\":\\\"https://doi.org/10.1017/CBO9780511812507\\\"},{\\\"title\\\":\\\"Frame Analysis: An Essay on the Organization of Experience\\\",\\\"authors\\\":[\\\"Erving Goffman\\\"],\\\"year\\\":1974,\\\"journal\\\":null,\\\"doi\\\":null,\\\"url\\\":\\\"https://archive.org/details/frameanalysisess00goff\\\"},{\\\"title\\\":\\\"Frame Analysis of Social Movements: An Overview and Assessment\\\",\\\"authors\\\":[\\\"Robert D. Benford\\\",\\\"David A. Snow\\\"],\\\"year\\\":2000,\\\"journal\\\":\\\"Annual Review of Sociology\\\",\\\"doi\\\":\\\"10.1146/annurev.soc.26.1.611\\\",\\\"url\\\":\\\"https://doi.org/10.1146/annurev.soc.26.1.611\\\"},{\\\"title\\\":\\\"Framing: Toward Clarification of a Fractured Paradigm\\\",\\\"authors\\\":[\\\"Robert M. Entman\\\"],\\\"year\\\":1993,\\\"journal\\\":\\\"Journal of Communication\\\",\\\"doi\\\":\\\"10.1111/j.1460-2466.1993.tb01304.x\\\",\\\"url\\\":\\\"https://doi.org/10.1111/j.1460-2466.1993.tb01304.x\\\"},{\\\"title\\\":\\\"Framing, Agenda Setting, and Priming: The Evolution of Three Media Effects Models\\\",\\\"authors\\\":[\\\"Dietram A. Scheufele\\\",\\\"David Tewksbury\\\"],\\\"year\\\":2007,\\\"journal\\\":\\\"Journal of Communication\\\",\\\"doi\\\":\\\"10.1111/j.1460-2466.2006.00326.x\\\",\\\"url\\\":\\\"https://doi.org/10.1111/j.1460-2466.2006.00326.x\\\"}]}\"},\"finish_reason\":\"stop\"}],\"usage\":{\"prompt_tokens\":3711,\"completion_tokens\":375,\"total_tokens\":4086},\"service_tier\":\"default\"}",
+  "http_status": 200,
+  "safe_response_headers": {
+    "server": "cloudflare"
+  },
+  "sent_parameters": {
+    "model": "gpt-5.6-terra",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「框架理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_completion_tokens": 8192,
+    "reasoning_effort": "none"
+  },
+  "provider_request_id": null,
+  "entry_errors": [],
+  "json_parsed": true,
+  "latency": 9.387801199998648,
+  "usage_price_estimate": {
+    "currency": "CNY",
+    "input_tokens_scenario": 3711,
+    "output_tokens_scenario": 375,
+    "text_component_amount": "0.0077493",
+    "estimated_total_amount": null,
+    "verified_total_upper_bound": null,
+    "actual_billed_amount": null,
+    "cache_policy": "all_input_at_uncached_rate_scenario",
+    "multiplier_scenario": "1 (scenario only; not account verification)",
+    "tools": "not_requested",
+    "client_retries": 0,
+    "unknown_terms": [
+      "platform_multiplier",
+      "account_currency_or_quota_unit",
+      "dynamic_price",
+      "long_context_tier_threshold",
+      "long_context_rates",
+      "reasoning_billing",
+      "cache_write_fee",
+      "failed_request_billing",
+      "platform_internal_retries"
+    ],
+    "price_snapshot_id": "b803fd4ec7337a37f4ecbe02196da14a829c73077c25250a9bba6e9de9e18525",
+    "usage_evidence": {
+      "prompt_tokens": 3711,
+      "completion_tokens": 375,
+      "total_tokens": 4086
+    },
+    "reasoning_tokens_reported": null,
+    "usage_cost_basis": "uncached list-rate component; not actual invoice"
+  }
+}

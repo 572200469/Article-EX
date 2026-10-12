@@ -1,0 +1,24 @@
+{
+  "timestamp": "2026-10-12T10:58:44.459777+00:00",
+  "authorization_id": "china_directed16_9597931c4a07c93b",
+  "configuration_fingerprint": "9597931c4a07c93b292137ee5de04b478cfde0543ac42ab93509e3744574ad77",
+  "decision": "resume_only_unconsumed06_16",
+  "user_authorized": true,
+  "reviewed_through_sequence": 5,
+  "allowed_remaining_job_ids": [
+    "china_directed_929e5b48b3bcbeb1d4a8f7e8a5980237160afe01560a355737b3d3a42d772f03",
+    "china_directed_e7d42621b75ad6eaa5bd36239a36356654ace5f9bae671c325582e151b5fd1c5",
+    "china_directed_7e911ec6415bf833c5d4468920383cedff7772c1205d5e3fce1b7a13559a935a",
+    "china_directed_8f82cb9d4317914d25635a375ea300eed2e4ed87a025c263a70c5790de5fac4d",
+    "china_directed_d89223edadd98e68eaf7e11143ffa8694bebd1f08fc91ffc23d854d3790c6219",
+    "china_directed_f9bbbf2da48081daa4c3ba824a41010e7a08bdbc0847643bf311b5688ebf7029",
+    "china_directed_16cbbb345646c96e0e142a0287458f2c8570fdec068cf2732103a60504e38a5a",
+    "china_directed_4d78c5bbf0a94131a1769211012195fd02a5e9bd7b99b7dbd2938b601c0bb278",
+    "china_directed_b3c77e12230174520bcefaa74389eb9dc07e5a954804060a4eb37cafd0253034",
+    "china_directed_a6c972270a1f6b15c3c1fb2c03cc70cdb619ffbf68509588593b3925341f2729",
+    "china_directed_a80d839d194bf4ba978a7aedbd66287464067d777059d3673c9390d467bbc447"
+  ],
+  "source": "User explicit reply: 仅恢复剩余11项; retain failed jobs1/4/5 and never resend any consumed job",
+  "pause_sha256": "2e137eae15d95038df7fa4a9529c6365d273f937cb74d9f46b803ad9b3ddd78e",
+  "failure_records_preserved": true
+}

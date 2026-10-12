@@ -1,0 +1,330 @@
+{
+  "protocol": "research_protocol_v1-f161bab9fb085136cd8a",
+  "batch_id": "publication_visibility_main-f161bab9fb085136",
+  "cohort": "publication_visibility_main",
+  "condition": "neutral_en",
+  "prompt_language": "en",
+  "topic_id": "agenda_setting",
+  "topic_group": "classical",
+  "provider": "qwen",
+  "model_requested": "qwen3.8-flash",
+  "requested_model": "qwen3.8-flash",
+  "route": {
+    "provider": "qwen",
+    "adapter": "qwen",
+    "access_channel": "official",
+    "base_url_env": "QWEN_BASE_URL",
+    "api_key_env": "DASHSCOPE_API_KEY",
+    "api_key_env_fallback": "QWEN_API_KEY",
+    "model": "qwen3.8-flash",
+    "confirmed": true,
+    "parameters_confirmed": true,
+    "thinking_mode": "disabled",
+    "output_limit_field": "max_tokens",
+    "extra_body": {
+      "enable_thinking": false
+    },
+    "base_url_configured": true,
+    "base_url": "https://ws-18kq1brc00g4ilrj.cn-beijing.maas.aliyuncs.com/compatible-mode/v1"
+  },
+  "route_id": "ae189316847bd67ccdfa1e1ecc37cb3cbd45761f39d89dfe18dba2844c6737c7",
+  "access_channel": "official",
+  "base_url": "https://ws-18kq1brc00g4ilrj.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
+  "adapter": "qwen",
+  "repeat_index": 1,
+  "mode": "baseline",
+  "search_enabled": false,
+  "source_type": "api",
+  "prompt_text": "Recommend five representative research articles published in academic journals on \"Agenda-setting theory\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+  "request_parameters": {
+    "max_output_tokens": 8192,
+    "timeout": 180
+  },
+  "thinking_mode": "disabled",
+  "coding_rule_version": "publication_visibility_coding_v2",
+  "sdk_retries": 0,
+  "caller_retries": 0,
+  "generation_authorized": true,
+  "request_config_id": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+  "effective_reasoning_parameters": {
+    "thinking_mode": "disabled",
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "proposed_wire_parameters": {
+    "model": "qwen3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Agenda-setting theory\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "sequence": 2,
+  "source_job_id": "231ba24a70d205317a246417c2e58c8eaf8ea7e703e8de5043fc5792d16a12ad",
+  "source_generation_protocol": "research_protocol_v1-cf2812cdc4a6cc6ddda4",
+  "job_id": "6e5853897802f9464214b25e5211f1c6d61ee845753b970d3e5a0fdf21bdd52d",
+  "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\qwen\\6e5853897802f9464214b25e5211f1c6d61ee845753b970d3e5a0fdf21bdd52d",
+  "main_authorization": {
+    "authorization_id": "publication_visibility_main_batch01_f161bab9fb085136",
+    "configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+    "allowed_job_ids": [
+      "ae241feeaf8727a494b0aa89cb63b4ef06013f84ab32957da1e4e34c7baaab13",
+      "6e5853897802f9464214b25e5211f1c6d61ee845753b970d3e5a0fdf21bdd52d",
+      "ef13351091e330b212061f52fbf1dde3e41c285f0b67fd14487321b5f1586a05",
+      "3083c69d1fd04cc327c49534c0e7346ae8a6eebd04d27676e8a9f8b843902c1f",
+      "64f7c462a5037cbc05ba16ee1c952bcc27de8eec311992baebad37fc592ecd9e",
+      "c5d7a2e3c8ace231041ad3a2d813c3e2c643ef96447dceb64838de4117ed787f",
+      "8d965638ea6e12aa5966ee4ecfb71c8b18d2b522b5294c407adff998f9d1cc17",
+      "865953f2eda5cc9812695a4acf3c1c576947a4df82e14dd5b7b6dbede47b1109",
+      "64cee3c300d4890e83ad68d77ca12ed7610f7c4529d7b8a81b0dd492009aaee5",
+      "2e5b0c1837d4cc3186adc8bc19ca5c9dd6390688905e8236236d31fca846e7e5",
+      "e3065184bf3b8fca8fc63dd500ca674e534f5f3ef0c122b220be611b6de9972f",
+      "0eef724a85feeda99fa18edb4dcaf38c2e941dd1ff0a4661a821a2c796d9638d",
+      "72565ac927968172a01e8adda7cb6b9c019ebf05f2e061a7a95004020bb85d3a",
+      "6a3d065d31c051359d7be69b92d186d21687cdfd9451a7b2102aa02d1c77d5d4",
+      "cf40e9cf31c85f1a2765e93a19daa4a24578370a69f558538efd289091c6f791",
+      "6e7387a1bd0ebbae4cba9e350e78a8a32c8b038fc01cd6503a9d9d546c7df780",
+      "0872f3fdafd2580b01560ced65134924675fbe9ec0f3ec6f7a787f41990f63d9",
+      "cf7e36b999ea41778012a6876d6308a20dc527d4f3f999e654d1885108107337",
+      "37ee0cf5e98d7c2bdeaf7b4e1c7985551246fc5e830dbd9a644b53b0078bc3c2",
+      "e0e19755a9459f5191745a84e201496a2a521636e3b782c3ea900c4bf4645667",
+      "d0449ae2b0134ceca2cc8225c5b32a8191e8c1ecfb1067c60ba2665c173ac609",
+      "842dc0abee067ae981f92cc59ec86f5b13cac9cd8eef9cff3d1be8720149efae",
+      "c1cf2d83a82f1a8e349b5acbed8ee06a6662bc7d58e5c5b570bc9c3548eb742a",
+      "f4c0e0cea8ed2e66d7b50afd9319167e93efc04e52a56ff13a084d0e2b33d849"
+    ],
+    "batch_number": 1,
+    "maximum_total_requests": 24,
+    "maximum_provider_requests": {
+      "openai": 8,
+      "gemini": 7,
+      "deepseek": 5,
+      "qwen": 4
+    },
+    "software_budget_by_currency": {
+      "CNY": "2.25",
+      "USD": "0.50"
+    },
+    "maximum_job_requests": 1,
+    "user_authorized": true,
+    "billing_risk_accepted": true,
+    "source": "Explicit researcher authorization in current conversation on2026-10-11: first fixed24 main-experiment jobs only, GPT8 Gemini7 DeepSeek5 Qwen4, CNY2.25 and USD0.50; accepts disclosed relay multiplier/failure billing/account billing uncertainties; no subsequent168, no retry or diagnostic."
+  },
+  "experiment_id": "6e5853897802f9464214b25e5211f1c6d61ee845753b970d3e5a0fdf21bdd52d",
+  "timestamp": "2026-10-11T12:53:56.960345+00:00",
+  "protocol_status": "frozen",
+  "status": "success",
+  "api_success": true,
+  "attempt_index": 1,
+  "raw_response": {
+    "id": "chatcmpl-795a5300-ab9b-9c47-bedb-1f21b1922ce6",
+    "object": "chat.completion",
+    "created": 1791723248,
+    "model": "qwen3.8-flash",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"references\": [\n    {\n      \"title\": \"The Agenda-Setting Function of Mass Media\",\n      \"authors\": [\n        \"Maxwell E. McCombs\",\n        \"Donald L. Shaw\"\n      ],\n      \"year\": 1972,\n      \"journal\": \"Public Opinion Quarterly\",\n      \"doi\": \"10.1086/267987\",\n      \"url\": \"https://academic.oup.com/poq/article-abstract/36/2/176/1845148\"\n    },\n    {\n      \"title\": \"Agenda-Setting: The Influence of Mass Media on Public Opinion\",\n      \"authors\": [\n        \"James W. Carey\",\n        \"Robert S. Wyman\"\n      ],\n      \"year\": 1974,\n      \"journal\": \"Journalism Monographs\",\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"Second-Level Agenda Setting: A Framework for Research\",\n      \"authors\": [\n        \"David L. Weaver\",\n        \"Shanto Iyengar\",\n        \"Jung H. Lee\",\n        \"Elizabeth J. Morley\"\n      ],\n      \"year\": 1998,\n      \"journal\": \"Journalism & Communication Monographs\",\n      \"doi\": \"10.1080/15228749809526861\",\n      \"url\": \"https://www.tandfonline.com/doi/abs/10.1080/15228749809526861\"\n    },\n    {\n      \"title\": \"The Agenda-Setting Role of the Press in Presidential Campaigns\",\n      \"authors\": [\n        \"Thomas E. Patterson\",\n        \"Gregory R. Caldeira\"\n      ],\n      \"year\": 1975,\n      \"journal\": \"American Political Science Review\",\n      \"doi\": \"10.2307/1958739\",\n      \"url\": \"https://www.cambridge.org/core/journals/american-political-science-review/article/agendasetting-role-of-the-press-in-presidential-campaigns/4F8C6D5A5B5E5B5A5B5E5B5A5B5E5B5A\"\n    },\n    {\n      \"title\": \"News Source Effects on the Public's Agenda: An Analysis of the 1996 Presidential Campaign\",\n      \"authors\": [\n        \"Renee M. Faris\",\n        \"Michael D. Slater\"\n      ],\n      \"year\": 1999,\n      \"journal\": \"Journalism and Mass Communication Quarterly\",\n      \"doi\": \"10.1177/107769909907600109\",\n      \"url\": \"https://journals.sagepub.com/doi/abs/10.1177/107769909907600109\"\n    }\n  ]\n}"
+        },
+        "finish_reason": "stop",
+        "logprobs": null
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 161,
+      "total_tokens": 887,
+      "completion_tokens": 726,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 161
+      }
+    }
+  },
+  "references": [
+    {
+      "title": "The Agenda-Setting Function of Mass Media",
+      "authors": [
+        "Maxwell E. McCombs",
+        "Donald L. Shaw"
+      ],
+      "year": 1972,
+      "journal": "Public Opinion Quarterly",
+      "doi": "10.1086/267987",
+      "url": "https://academic.oup.com/poq/article-abstract/36/2/176/1845148"
+    },
+    {
+      "title": "Agenda-Setting: The Influence of Mass Media on Public Opinion",
+      "authors": [
+        "James W. Carey",
+        "Robert S. Wyman"
+      ],
+      "year": 1974,
+      "journal": "Journalism Monographs",
+      "doi": null,
+      "url": null
+    },
+    {
+      "title": "Second-Level Agenda Setting: A Framework for Research",
+      "authors": [
+        "David L. Weaver",
+        "Shanto Iyengar",
+        "Jung H. Lee",
+        "Elizabeth J. Morley"
+      ],
+      "year": 1998,
+      "journal": "Journalism & Communication Monographs",
+      "doi": "10.1080/15228749809526861",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/15228749809526861"
+    },
+    {
+      "title": "The Agenda-Setting Role of the Press in Presidential Campaigns",
+      "authors": [
+        "Thomas E. Patterson",
+        "Gregory R. Caldeira"
+      ],
+      "year": 1975,
+      "journal": "American Political Science Review",
+      "doi": "10.2307/1958739",
+      "url": "https://www.cambridge.org/core/journals/american-political-science-review/article/agendasetting-role-of-the-press-in-presidential-campaigns/4F8C6D5A5B5E5B5A5B5E5B5A5B5E5B5A"
+    },
+    {
+      "title": "News Source Effects on the Public's Agenda: An Analysis of the 1996 Presidential Campaign",
+      "authors": [
+        "Renee M. Faris",
+        "Michael D. Slater"
+      ],
+      "year": 1999,
+      "journal": "Journalism and Mass Communication Quarterly",
+      "doi": "10.1177/107769909907600109",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/107769909907600109"
+    }
+  ],
+  "returned_model": "qwen3.8-flash",
+  "usage": {
+    "prompt_tokens": 161,
+    "total_tokens": 887,
+    "completion_tokens": 726,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 161
+    }
+  },
+  "finish_reason": "stop",
+  "actual_billed_amount": null,
+  "budget_reservation": {
+    "currency": "CNY",
+    "amount": "0.10"
+  },
+  "pricing_snapshot": {
+    "provider": "qwen",
+    "model": "qwen3.8-flash",
+    "pricing_route_host_suffix": ".cn-beijing.maas.aliyuncs.com",
+    "access_channel": "official",
+    "pricing_currency": "CNY",
+    "input_price_per_million": "0.80",
+    "output_price_per_million": "2.70",
+    "cached_input_price_per_million": null,
+    "pricing_source": "alibaba_official_beijing_model_pricing",
+    "pricing_checked_at": "2026-10-11",
+    "source_url": "https://help.aliyun.com/zh/model-studio/model-pricing",
+    "evidence_limit": "Public Beijing list price; private account bill and free quota not verified.",
+    "tier": "beijing_input_up_to_1M",
+    "input_token_limit": 1000000,
+    "reasoning_billing": "included_in_output_tokens",
+    "unknown_terms": [
+      "account_currency_confirmation",
+      "actual_account_discounts",
+      "cache_billing",
+      "failed_request_billing",
+      "billing_rounding"
+    ],
+    "proposed_reservation": "0.10"
+  },
+  "budget_status": "reservation_retained_actual_invoice_unknown",
+  "planned_parameters": {
+    "model": "qwen3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Agenda-setting theory\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "upstream_identity_verified": false,
+  "response_text": "{\n  \"references\": [\n    {\n      \"title\": \"The Agenda-Setting Function of Mass Media\",\n      \"authors\": [\n        \"Maxwell E. McCombs\",\n        \"Donald L. Shaw\"\n      ],\n      \"year\": 1972,\n      \"journal\": \"Public Opinion Quarterly\",\n      \"doi\": \"10.1086/267987\",\n      \"url\": \"https://academic.oup.com/poq/article-abstract/36/2/176/1845148\"\n    },\n    {\n      \"title\": \"Agenda-Setting: The Influence of Mass Media on Public Opinion\",\n      \"authors\": [\n        \"James W. Carey\",\n        \"Robert S. Wyman\"\n      ],\n      \"year\": 1974,\n      \"journal\": \"Journalism Monographs\",\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"Second-Level Agenda Setting: A Framework for Research\",\n      \"authors\": [\n        \"David L. Weaver\",\n        \"Shanto Iyengar\",\n        \"Jung H. Lee\",\n        \"Elizabeth J. Morley\"\n      ],\n      \"year\": 1998,\n      \"journal\": \"Journalism & Communication Monographs\",\n      \"doi\": \"10.1080/15228749809526861\",\n      \"url\": \"https://www.tandfonline.com/doi/abs/10.1080/15228749809526861\"\n    },\n    {\n      \"title\": \"The Agenda-Setting Role of the Press in Presidential Campaigns\",\n      \"authors\": [\n        \"Thomas E. Patterson\",\n        \"Gregory R. Caldeira\"\n      ],\n      \"year\": 1975,\n      \"journal\": \"American Political Science Review\",\n      \"doi\": \"10.2307/1958739\",\n      \"url\": \"https://www.cambridge.org/core/journals/american-political-science-review/article/agendasetting-role-of-the-press-in-presidential-campaigns/4F8C6D5A5B5E5B5A5B5E5B5A5B5E5B5A\"\n    },\n    {\n      \"title\": \"News Source Effects on the Public's Agenda: An Analysis of the 1996 Presidential Campaign\",\n      \"authors\": [\n        \"Renee M. Faris\",\n        \"Michael D. Slater\"\n      ],\n      \"year\": 1999,\n      \"journal\": \"Journalism and Mass Communication Quarterly\",\n      \"doi\": \"10.1177/107769909907600109\",\n      \"url\": \"https://journals.sagepub.com/doi/abs/10.1177/107769909907600109\"\n    }\n  ]\n}",
+  "model_returned": "qwen3.8-flash",
+  "response_id": "chatcmpl-795a5300-ab9b-9c47-bedb-1f21b1922ce6",
+  "provider_status": "completed",
+  "search_executed": false,
+  "tool_records": [],
+  "upstream_snapshot": "unknown",
+  "api_surface": "qwen.official.chat.completions",
+  "upstream_route_claims": {},
+  "raw_http_body": "{\"id\":\"chatcmpl-795a5300-ab9b-9c47-bedb-1f21b1922ce6\",\"object\":\"chat.completion\",\"created\":1791723248,\"model\":\"qwen3.8-flash\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\"{\\n  \\\"references\\\": [\\n    {\\n      \\\"title\\\": \\\"The Agenda-Setting Function of Mass Media\\\",\\n      \\\"authors\\\": [\\n        \\\"Maxwell E. McCombs\\\",\\n        \\\"Donald L. Shaw\\\"\\n      ],\\n      \\\"year\\\": 1972,\\n      \\\"journal\\\": \\\"Public Opinion Quarterly\\\",\\n      \\\"doi\\\": \\\"10.1086/267987\\\",\\n      \\\"url\\\": \\\"https://academic.oup.com/poq/article-abstract/36/2/176/1845148\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"Agenda-Setting: The Influence of Mass Media on Public Opinion\\\",\\n      \\\"authors\\\": [\\n        \\\"James W. Carey\\\",\\n        \\\"Robert S. Wyman\\\"\\n      ],\\n      \\\"year\\\": 1974,\\n      \\\"journal\\\": \\\"Journalism Monographs\\\",\\n      \\\"doi\\\": null,\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"Second-Level Agenda Setting: A Framework for Research\\\",\\n      \\\"authors\\\": [\\n        \\\"David L. Weaver\\\",\\n        \\\"Shanto Iyengar\\\",\\n        \\\"Jung H. Lee\\\",\\n        \\\"Elizabeth J. Morley\\\"\\n      ],\\n      \\\"year\\\": 1998,\\n      \\\"journal\\\": \\\"Journalism & Communication Monographs\\\",\\n      \\\"doi\\\": \\\"10.1080/15228749809526861\\\",\\n      \\\"url\\\": \\\"https://www.tandfonline.com/doi/abs/10.1080/15228749809526861\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"The Agenda-Setting Role of the Press in Presidential Campaigns\\\",\\n      \\\"authors\\\": [\\n        \\\"Thomas E. Patterson\\\",\\n        \\\"Gregory R. Caldeira\\\"\\n      ],\\n      \\\"year\\\": 1975,\\n      \\\"journal\\\": \\\"American Political Science Review\\\",\\n      \\\"doi\\\": \\\"10.2307/1958739\\\",\\n      \\\"url\\\": \\\"https://www.cambridge.org/core/journals/american-political-science-review/article/agendasetting-role-of-the-press-in-presidential-campaigns/4F8C6D5A5B5E5B5A5B5E5B5A5B5E5B5A\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"News Source Effects on the Public's Agenda: An Analysis of the 1996 Presidential Campaign\\\",\\n      \\\"authors\\\": [\\n        \\\"Renee M. Faris\\\",\\n        \\\"Michael D. Slater\\\"\\n      ],\\n      \\\"year\\\": 1999,\\n      \\\"journal\\\": \\\"Journalism and Mass Communication Quarterly\\\",\\n      \\\"doi\\\": \\\"10.1177/107769909907600109\\\",\\n      \\\"url\\\": \\\"https://journals.sagepub.com/doi/abs/10.1177/107769909907600109\\\"\\n    }\\n  ]\\n}\"},\"finish_reason\":\"stop\",\"logprobs\":null}],\"usage\":{\"prompt_tokens\":161,\"total_tokens\":887,\"completion_tokens\":726,\"prompt_tokens_details\":{\"cached_tokens\":0,\"text_tokens\":161}}}",
+  "http_status": 200,
+  "safe_response_headers": {
+    "x-request-id": "795a5300-ab9b-9c47-bedb-1f21b1922ce6",
+    "server": "istio-envoy"
+  },
+  "sent_parameters": {
+    "model": "qwen3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Agenda-setting theory\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "provider_request_id": "795a5300-ab9b-9c47-bedb-1f21b1922ce6",
+  "entry_errors": [],
+  "json_parsed": true,
+  "latency": 18.59411469999759,
+  "usage_price_estimate": {
+    "currency": "CNY",
+    "input_tokens_scenario": 161,
+    "output_tokens_scenario": 726,
+    "text_component_amount": "0.002089",
+    "estimated_total_amount": null,
+    "verified_total_upper_bound": null,
+    "actual_billed_amount": null,
+    "cache_policy": "all_input_at_uncached_rate_scenario",
+    "multiplier_scenario": "1 (scenario only; not account verification)",
+    "tools": "not_requested",
+    "client_retries": 0,
+    "unknown_terms": [
+      "account_currency_confirmation",
+      "actual_account_discounts",
+      "cache_billing",
+      "failed_request_billing",
+      "billing_rounding"
+    ],
+    "price_snapshot_id": "51176537e343ad9e1d4e441ebf841a781aba65eda97a8275da5e9729f8327a04",
+    "usage_evidence": {
+      "prompt_tokens": 161,
+      "total_tokens": 887,
+      "completion_tokens": 726,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 161
+      }
+    },
+    "reasoning_tokens_reported": null,
+    "usage_cost_basis": "uncached list-rate component; not actual invoice"
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "id": "classic_08",
+  "topic_id": "spiral_of_silence",
+  "url": "http://cjjc.ruc.edu.cn/CN/Y2015/V37/I5/51",
+  "checked_at": "2026-10-12T09:16:04.374303+00:00",
+  "access_mode": "public_unauthenticated_requests",
+  "year": 2015,
+  "volume": "37",
+  "issue": "5",
+  "start_page": "51",
+  "http_status": 200,
+  "final_url": "http://cjjc.ruc.edu.cn/CN/Y2015/V37/I5/51",
+  "meta": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+    },
+    {
+      "name": "description",
+      "content": "&ldquo;沉默的螺旋&rdquo;实质上揭示了舆论的&ldquo;寡头化&rdquo;倾向，诠释了舆论的&ldquo;不完美&rdquo;而不是&ldquo;非理性&rdquo;状态。&ldquo;沉默的螺旋&rdquo;可以分为自上而下和自下而上两个方向，真正意义上的&ldquo;反沉默的螺旋&rdquo;指的是&ldquo;意见的自由市场&rdquo;下舆论的多元化呈现。中国的网络环境为&ldquo;沉默的螺旋&rdquo;理论提供了更为适宜的土壤，如意见气候的感知更为明显、公共事件的道德性突出，情感动员效应强大，议题的&ldquo;序列化&rdquo;报道等。因此，从原始文本出发，重读诺依曼的&ldquo;沉默的螺旋&rdquo;理论，审视该理论引发的种种争议，思考它在不同社会、文化情境下的适应性，具有重要意义。"
+    },
+    {
+      "name": "authors",
+      "content": "郭小安"
+    },
+    {
+      "name": "keywords",
+      "content": "沉默的螺旋,反沉默螺旋,寡头化倾向"
+    },
+    {
+      "name": "robots",
+      "content": "index"
+    },
+    {
+      "name": "renderer",
+      "content": "webkit"
+    },
+    {
+      "name": "format-detection",
+      "content": "telephone=no"
+    },
+    {
+      "name": "apple-mobile-web-app-capable",
+      "content": "yes"
+    },
+    {
+      "name": "apple-mobile-web-app-title",
+      "content": "舆论的寡头化铁律：&ldquo;沉默的螺旋&rdquo;理论适用边界的再思考"
+    },
+    {
+      "name": "mobile-web-app-capable",
+      "content": "yes"
+    },
+    {
+      "name": "screen-orientation",
+      "content": "portrait"
+    },
+    {
+      "name": "x5-orientation",
+      "content": "portrait"
+    },
+    {
+      "name": "full-screen",
+      "content": "yes"
+    },
+    {
+      "name": "x5-fullscreen",
+      "content": "true"
+    },
+    {
+      "name": "browsermode",
+      "content": "application"
+    },
+    {
+      "name": "x5-page-mode",
+      "content": "app"
+    },
+    {
+      "name": "msapplication-tap-highlight",
+      "content": "no"
+    },
+    {
+      "name": "dc.relation.is",
+      "content": "国际新闻界"
+    },
+    {
+      "name": "dc.citation.volume",
+      "content": "37"
+    },
+    {
+      "name": "dc.citation.issue",
+      "content": "5"
+    },
+    {
+      "name": "dc.citation.spage",
+      "content": "51"
+    },
+    {
+      "name": "dc.citation.epage",
+      "content": "65"
+    },
+    {
+      "name": "dc.title",
+      "content": "舆论的寡头化铁律：&ldquo;沉默的螺旋&rdquo;理论适用边界的再思考"
+    },
+    {
+      "name": "dc.source",
+      "content": "国际新闻界"
+    },
+    {
+      "name": "dc.format",
+      "content": "text/html"
+    },
+    {
+      "name": "dc.publisher",
+      "content": ""
+    },
+    {
+      "name": "dc.date",
+      "content": ""
+    },
+    {
+      "name": "dc.type",
+      "content": ""
+    },
+    {
+      "name": "dc.language",
+      "content": "Cn"
+    },
+    {
+      "name": "dc.copyright",
+      "content": ""
+    },
+    {
+      "name": "dc.description",
+      "content": "&ldquo;沉默的螺旋&rdquo;实质上揭示了舆论的&ldquo;寡头化&rdquo;倾向，诠释了舆论的&ldquo;不完美&rdquo;而不是&ldquo;非理性&rdquo;状态。&ldquo;沉默的螺旋&rdquo;可以分为自上而下和自下而上两个方向，真正意义上的&ldquo;反沉默的螺旋&rdquo;指的是&ldquo;意见的自由市场&rdquo;下舆论的多元化呈现。中国的网络环境为&ldquo;沉默的螺旋&rdquo;理论提供了更为适宜的土壤，如意见气候的感知更为明显、公共事件的道德性突出，情感动员效应强大，议题的&ldquo;序列化&rdquo;报道等。因此，从原始文本出发，重读诺依曼的&ldquo;沉默的螺旋&rdquo;理论，审视该理论引发的种种争议，思考它在不同社会、文化情境下的适应性，具有重要意义。"
+    },
+    {
+      "name": "dc.relation.ispartof",
+      "content": "国际新闻界"
+    },
+    {
+      "name": "dc.subject",
+      "content": "沉默的螺旋"
+    },
+    {
+      "name": "dc.subject",
+      "content": "反沉默螺旋"
+    },
+    {
+      "name": "dc.subject",
+      "content": "寡头化倾向"
+    },
+    {
+      "name": "prism.issn",
+      "content": "1002-5685"
+    },
+    {
+      "name": "prism.publicationDate",
+      "content": ""
+    },
+    {
+      "name": "prism.section",
+      "content": ""
+    },
+    {
+      "name": "prism.volume",
+      "content": "37"
+    },
+    {
+      "name": "prism.number",
+      "content": "5"
+    },
+    {
+      "name": "prism.startingPage",
+      "content": "51"
+    },
+    {
+      "name": "prism.endingPage",
+      "content": "65"
+    },
+    {
+      "name": "prism.copyright",
+      "content": ""
+    },
+    {
+      "name": "prism.url",
+      "content": "http://cjjc.ruc.edu.cn/CN/Y2015/V37/I5/51"
+    },
+    {
+      "name": "citation_pdf_url",
+      "content": "http://cjjc.ruc.edu.cn/CN/PDF/420"
+    },
+    {
+      "name": "citation_abstract_html_url",
+      "content": "http://cjjc.ruc.edu.cn/CN/Y2015/V37/I5/51"
+    },
+    {
+      "name": "citation_fulltext_html_url",
+      "content": "http://cjjc.ruc.edu.cn/CN/Y2015/V37/I5/51"
+    },
+    {
+      "name": "citation_journal_title",
+      "content": "国际新闻界"
+    },
+    {
+      "name": "citation_publisher",
+      "content": ""
+    },
+    {
+      "name": "citation_issn",
+      "content": "1002-5685"
+    },
+    {
+      "name": "citation_title",
+      "content": "舆论的寡头化铁律：&ldquo;沉默的螺旋&rdquo;理论适用边界的再思考"
+    },
+    {
+      "name": "citation_authors",
+      "content": "郭小安"
+    },
+    {
+      "name": "citation_volume",
+      "content": "37"
+    },
+    {
+      "name": "citation_issue",
+      "content": "5"
+    },
+    {
+      "name": "citation_publication_date",
+      "content": ""
+    },
+    {
+      "name": "citation_online_date",
+      "content": ""
+    },
+    {
+      "name": "citation_firstpage",
+      "content": "51"
+    },
+    {
+      "name": "citation_lastpage",
+      "content": "65"
+    },
+    {
+      "name": "citation_article_type",
+      "content": ""
+    },
+    {
+      "name": "citation_language",
+      "content": "zh"
+    },
+    {
+      "name": "citation_doi",
+      "content": ""
+    },
+    {
+      "name": "citation_abstract",
+      "content": "&ldquo;沉默的螺旋&rdquo;实质上揭示了舆论的&ldquo;寡头化&rdquo;倾向，诠释了舆论的&ldquo;不完美&rdquo;而不是&ldquo;非理性&rdquo;状态。&ldquo;沉默的螺旋&rdquo;可以分为自上而下和自下而上两个方向，真正意义上的&ldquo;反沉默的螺旋&rdquo;指的是&ldquo;意见的自由市场&rdquo;下舆论的多元化呈现。中国的网络环境为&ldquo;沉默的螺旋&rdquo;理论提供了更为适宜的土壤，如意见气候的感知更为明显、公共事件的道德性突出，情感动员效应强大，议题的&ldquo;序列化&rdquo;报道等。因此，从原始文本出发，重读诺依曼的&ldquo;沉默的螺旋&rdquo;理论，审视该理论引发的种种争议，思考它在不同社会、文化情境下的适应性，具有重要意义。"
+    },
+    {
+      "name": "citation_keywords",
+      "content": "沉默的螺旋"
+    },
+    {
+      "name": "citation_keywords",
+      "content": "反沉默螺旋"
+    },
+    {
+      "name": "citation_keywords",
+      "content": "寡头化倾向"
+    },
+    {
+      "name": "citation_date",
+      "content": ""
+    },
+    {
+      "name": "article_references",
+      "content": "郭小安. 舆论的寡头化铁律：&ldquo;沉默的螺旋&rdquo;理论适用边界的再思考. 国际新闻界. 2015, 37 (5): 51-65."
+    },
+    {
+      "name": "google-site-verification",
+      "content": "GqftDyjkbLznCjwJH3xdvsEi1ZnXlVqxWMeQ5H2MD38"
+    },
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    }
+  ],
+  "source_sha256": "3fbd8d868e597e967aea7e9aac9ca4f4c439e5bb95ca06a01d3dbfae2b3399b9",
+  "visible_characters": 2898,
+  "access_result": "public_article_metadata"
+}

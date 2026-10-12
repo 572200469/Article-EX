@@ -1,0 +1,1200 @@
+{
+  "rows": [
+    {
+      "sequence": 1,
+      "job_id": "china_directed_2c745f101d2c056e29c1a0f2dc87511ad11da219738a4de86051c4a08ec91290",
+      "provider": "openai",
+      "topic_id": "agenda_setting",
+      "condition": "directed_cnki_C",
+      "permit_consumed": true,
+      "raw_saved": true,
+      "status": "failed",
+      "api_success": false,
+      "http_status": 408,
+      "error": {
+        "type": "APIStatusError",
+        "http_status": 408,
+        "message": "See provider dashboard; secrets and request headers are not logged.",
+        "cause_types": [
+          "APIStatusError",
+          "HTTPStatusError"
+        ],
+        "timeout_phase": "unknown"
+      },
+      "returned_model": "unknown",
+      "latency": 115.99770949999947,
+      "usage": null,
+      "finish_reason": null,
+      "json_directly_parseable": false,
+      "extraction_method": "unparsed_raw_text_manual_review",
+      "recommendations": 0,
+      "json_objects": 0,
+      "empty_placeholders": 0,
+      "budget_reservation": {
+        "currency": "CNY",
+        "amount": "0.10"
+      },
+      "usage_price_estimate": {
+        "currency": "CNY",
+        "text_component_amount": null,
+        "estimated_total_amount": null,
+        "actual_billed_amount": null,
+        "verified_total_upper_bound": null,
+        "usage_evidence": null,
+        "unknown_terms": [
+          "missing_or_inconsistent_token_usage",
+          "platform_multiplier",
+          "account_currency_or_quota_unit",
+          "dynamic_price",
+          "long_context_tier_threshold",
+          "long_context_rates",
+          "reasoning_billing",
+          "cache_write_fee",
+          "failed_request_billing",
+          "platform_internal_retries"
+        ]
+      },
+      "actual_billed_amount": "unknown",
+      "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_2c745f101d2c056e29c1a0f2dc87511ad11da219738a4de86051c4a08ec91290.json"
+    },
+    {
+      "sequence": 2,
+      "job_id": "china_directed_a7c7b6fefffb69d07b17e4227c67d9f4f993e684f95c4f14a2450e16691f8954",
+      "provider": "qwen",
+      "topic_id": "algorithms_bubbles",
+      "condition": "directed_mainland_B",
+      "permit_consumed": true,
+      "raw_saved": true,
+      "status": "parse_error",
+      "api_success": true,
+      "http_status": 200,
+      "error": null,
+      "returned_model": "qwen3.8-flash",
+      "latency": 8.56543740000052,
+      "usage": {
+        "prompt_tokens": 165,
+        "total_tokens": 477,
+        "completion_tokens": 312,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "text_tokens": 165
+        }
+      },
+      "finish_reason": "stop",
+      "json_directly_parseable": false,
+      "extraction_method": "remove_outer_markdown_fence",
+      "recommendations": 5,
+      "json_objects": 5,
+      "empty_placeholders": 0,
+      "budget_reservation": {
+        "currency": "CNY",
+        "amount": "0.10"
+      },
+      "usage_price_estimate": {
+        "currency": "CNY",
+        "input_tokens_scenario": 165,
+        "output_tokens_scenario": 312,
+        "text_component_amount": "0.0009744",
+        "estimated_total_amount": null,
+        "verified_total_upper_bound": null,
+        "actual_billed_amount": null,
+        "cache_policy": "all_input_at_uncached_rate_scenario",
+        "multiplier_scenario": "1 (scenario only; not account verification)",
+        "tools": "not_requested",
+        "client_retries": 0,
+        "unknown_terms": [
+          "account_currency_confirmation",
+          "actual_account_discounts",
+          "cache_billing",
+          "failed_request_billing",
+          "billing_rounding"
+        ],
+        "price_snapshot_id": "51176537e343ad9e1d4e441ebf841a781aba65eda97a8275da5e9729f8327a04",
+        "usage_evidence": {
+          "prompt_tokens": 165,
+          "total_tokens": 477,
+          "completion_tokens": 312,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "text_tokens": 165
+          }
+        },
+        "reasoning_tokens_reported": null,
+        "usage_cost_basis": "uncached list-rate component; not actual invoice"
+      },
+      "actual_billed_amount": "unknown",
+      "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_a7c7b6fefffb69d07b17e4227c67d9f4f993e684f95c4f14a2450e16691f8954.json"
+    },
+    {
+      "sequence": 3,
+      "job_id": "china_directed_d4b7588992c1978d541944228a55416bac689b8007df0ec0769efee99c41609c",
+      "provider": "deepseek",
+      "topic_id": "agenda_setting",
+      "condition": "directed_cnki_C",
+      "permit_consumed": true,
+      "raw_saved": true,
+      "status": "parse_error",
+      "api_success": true,
+      "http_status": 200,
+      "error": null,
+      "returned_model": "deepseek-flash",
+      "latency": 8.162626299999829,
+      "usage": {
+        "prompt_tokens": 152,
+        "completion_tokens": 642,
+        "total_tokens": 794,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 152
+      },
+      "finish_reason": "stop",
+      "json_directly_parseable": false,
+      "extraction_method": "remove_outer_markdown_fence",
+      "recommendations": 5,
+      "json_objects": 5,
+      "empty_placeholders": 0,
+      "budget_reservation": {
+        "currency": "USD",
+        "amount": "0.10"
+      },
+      "usage_price_estimate": {
+        "currency": "USD",
+        "input_tokens_scenario": 152,
+        "output_tokens_scenario": 642,
+        "text_component_amount": "0.000816",
+        "estimated_total_amount": null,
+        "verified_total_upper_bound": null,
+        "actual_billed_amount": null,
+        "cache_policy": "all_input_at_uncached_rate_scenario",
+        "multiplier_scenario": "1 (scenario only; not account verification)",
+        "tools": "not_requested",
+        "client_retries": 0,
+        "unknown_terms": [
+          "current_rate",
+          "account_currency",
+          "cache_discount",
+          "off_peak_discount",
+          "failed_request_billing",
+          "actual_invoice"
+        ],
+        "price_snapshot_id": "351ba27a464dc989be37ce2bae82bc2b23bdce7cd3bc17f3875ce3d2871c1841",
+        "usage_evidence": {
+          "prompt_tokens": 152,
+          "completion_tokens": 642,
+          "total_tokens": 794,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "prompt_cache_hit_tokens": 0,
+          "prompt_cache_miss_tokens": 152
+        },
+        "reasoning_tokens_reported": null,
+        "usage_cost_basis": "uncached list-rate component; not actual invoice"
+      },
+      "actual_billed_amount": "unknown",
+      "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_d4b7588992c1978d541944228a55416bac689b8007df0ec0769efee99c41609c.json"
+    },
+    {
+      "sequence": 4,
+      "job_id": "china_directed_7631d62ab81afd388be254881906c3a30d2f0c2ddfedae29bfc7c0945dc7d24c",
+      "provider": "gemini",
+      "topic_id": "algorithms_bubbles",
+      "condition": "directed_cnki_C",
+      "permit_consumed": true,
+      "raw_saved": true,
+      "status": "failed",
+      "api_success": false,
+      "http_status": 524,
+      "error": {
+        "type": "InternalServerError",
+        "http_status": 524,
+        "message": "See provider dashboard; secrets and request headers are not logged.",
+        "cause_types": [
+          "InternalServerError",
+          "HTTPStatusError"
+        ],
+        "timeout_phase": "unknown"
+      },
+      "returned_model": "unknown",
+      "latency": 129.76674440000352,
+      "usage": null,
+      "finish_reason": null,
+      "json_directly_parseable": false,
+      "extraction_method": "unparsed_raw_text_manual_review",
+      "recommendations": 0,
+      "json_objects": 0,
+      "empty_placeholders": 0,
+      "budget_reservation": {
+        "currency": "CNY",
+        "amount": "0.15"
+      },
+      "usage_price_estimate": {
+        "currency": "CNY",
+        "text_component_amount": null,
+        "estimated_total_amount": null,
+        "actual_billed_amount": null,
+        "verified_total_upper_bound": null,
+        "usage_evidence": null,
+        "unknown_terms": [
+          "missing_or_inconsistent_token_usage",
+          "platform_multiplier",
+          "account_currency_or_quota_unit",
+          "dynamic_price",
+          "context_tier_rules",
+          "reasoning_billing",
+          "cache_write_fee",
+          "failed_request_billing",
+          "platform_internal_retries"
+        ]
+      },
+      "actual_billed_amount": "unknown",
+      "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_7631d62ab81afd388be254881906c3a30d2f0c2ddfedae29bfc7c0945dc7d24c.json"
+    },
+    {
+      "sequence": 5,
+      "job_id": "china_directed_72615dfa1871d6fb7fefde4f4bf8b99cdf604e09fba9f6f908145da63d7dc16c",
+      "provider": "openai",
+      "topic_id": "agenda_setting",
+      "condition": "directed_mainland_B",
+      "permit_consumed": true,
+      "raw_saved": true,
+      "status": "failed",
+      "api_success": false,
+      "http_status": 524,
+      "error": {
+        "type": "InternalServerError",
+        "http_status": 524,
+        "message": "See provider dashboard; secrets and request headers are not logged.",
+        "cause_types": [
+          "InternalServerError",
+          "HTTPStatusError"
+        ],
+        "timeout_phase": "unknown"
+      },
+      "returned_model": "unknown",
+      "latency": 129.49188880000293,
+      "usage": null,
+      "finish_reason": null,
+      "json_directly_parseable": false,
+      "extraction_method": "unparsed_raw_text_manual_review",
+      "recommendations": 0,
+      "json_objects": 0,
+      "empty_placeholders": 0,
+      "budget_reservation": {
+        "currency": "CNY",
+        "amount": "0.10"
+      },
+      "usage_price_estimate": {
+        "currency": "CNY",
+        "text_component_amount": null,
+        "estimated_total_amount": null,
+        "actual_billed_amount": null,
+        "verified_total_upper_bound": null,
+        "usage_evidence": null,
+        "unknown_terms": [
+          "missing_or_inconsistent_token_usage",
+          "platform_multiplier",
+          "account_currency_or_quota_unit",
+          "dynamic_price",
+          "long_context_tier_threshold",
+          "long_context_rates",
+          "reasoning_billing",
+          "cache_write_fee",
+          "failed_request_billing",
+          "platform_internal_retries"
+        ]
+      },
+      "actual_billed_amount": "unknown",
+      "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_72615dfa1871d6fb7fefde4f4bf8b99cdf604e09fba9f6f908145da63d7dc16c.json"
+    },
+    {
+      "sequence": 6,
+      "job_id": "china_directed_929e5b48b3bcbeb1d4a8f7e8a5980237160afe01560a355737b3d3a42d772f03",
+      "provider": "gemini",
+      "topic_id": "agenda_setting",
+      "condition": "directed_mainland_B",
+      "permit_consumed": true,
+      "raw_saved": true,
+      "status": "parse_error",
+      "api_success": true,
+      "http_status": 200,
+      "error": null,
+      "returned_model": "gemini-3.8-flash",
+      "latency": 124.21639849999337,
+      "usage": {
+        "prompt_tokens": 154,
+        "completion_tokens": 12822,
+        "total_tokens": 12976,
+        "billing_usage": {
+          "source": "gemini_chat",
+          "semantic": "gemini",
+          "gemini_usage_metadata": {
+            "promptTokenCount": 154,
+            "toolUsePromptTokenCount": 0,
+            "candidatesTokenCount": 313,
+            "totalTokenCount": 12976,
+            "thoughtsTokenCount": 12509,
+            "cachedContentTokenCount": 0,
+            "promptTokensDetails": [],
+            "toolUsePromptTokensDetails": [],
+            "candidatesTokensDetails": []
+          }
+        },
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "text_tokens": 154,
+          "audio_tokens": 0,
+          "image_tokens": 0
+        },
+        "completion_tokens_details": {
+          "text_tokens": 0,
+          "audio_tokens": 0,
+          "image_tokens": 0,
+          "reasoning_tokens": 12509
+        },
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "input_tokens_details": null,
+        "claude_cache_creation_5_m_tokens": 0,
+        "claude_cache_creation_1_h_tokens": 0
+      },
+      "finish_reason": "stop",
+      "json_directly_parseable": false,
+      "extraction_method": "remove_outer_markdown_fence",
+      "recommendations": 4,
+      "json_objects": 4,
+      "empty_placeholders": 0,
+      "budget_reservation": {
+        "currency": "CNY",
+        "amount": "0.15"
+      },
+      "usage_price_estimate": {
+        "currency": "CNY",
+        "input_tokens_scenario": 154,
+        "output_tokens_scenario": 12822,
+        "text_component_amount": "0.1850064",
+        "estimated_total_amount": null,
+        "verified_total_upper_bound": null,
+        "actual_billed_amount": null,
+        "cache_policy": "all_input_at_uncached_rate_scenario",
+        "multiplier_scenario": "1 (scenario only; not account verification)",
+        "tools": "not_requested",
+        "client_retries": 0,
+        "unknown_terms": [
+          "platform_multiplier",
+          "account_currency_or_quota_unit",
+          "dynamic_price",
+          "context_tier_rules",
+          "reasoning_billing",
+          "cache_write_fee",
+          "failed_request_billing",
+          "platform_internal_retries"
+        ],
+        "price_snapshot_id": "58e8edeb336849be6ae04b0c41fc49b3de2e74a24f6ee00ba37b1b153a8f4a03",
+        "usage_evidence": {
+          "prompt_tokens": 154,
+          "completion_tokens": 12822,
+          "total_tokens": 12976,
+          "billing_usage": {
+            "source": "gemini_chat",
+            "semantic": "gemini",
+            "gemini_usage_metadata": {
+              "promptTokenCount": 154,
+              "toolUsePromptTokenCount": 0,
+              "candidatesTokenCount": 313,
+              "totalTokenCount": 12976,
+              "thoughtsTokenCount": 12509,
+              "cachedContentTokenCount": 0,
+              "promptTokensDetails": [],
+              "toolUsePromptTokensDetails": [],
+              "candidatesTokensDetails": []
+            }
+          },
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "text_tokens": 154,
+            "audio_tokens": 0,
+            "image_tokens": 0
+          },
+          "completion_tokens_details": {
+            "text_tokens": 0,
+            "audio_tokens": 0,
+            "image_tokens": 0,
+            "reasoning_tokens": 12509
+          },
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "input_tokens_details": null,
+          "claude_cache_creation_5_m_tokens": 0,
+          "claude_cache_creation_1_h_tokens": 0
+        },
+        "reasoning_tokens_reported": 12509,
+        "usage_cost_basis": "uncached list-rate component; not actual invoice"
+      },
+      "actual_billed_amount": "unknown",
+      "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_929e5b48b3bcbeb1d4a8f7e8a5980237160afe01560a355737b3d3a42d772f03.json"
+    },
+    {
+      "sequence": 7,
+      "job_id": "china_directed_e7d42621b75ad6eaa5bd36239a36356654ace5f9bae671c325582e151b5fd1c5",
+      "provider": "qwen",
+      "topic_id": "algorithms_bubbles",
+      "condition": "directed_cnki_C",
+      "permit_consumed": true,
+      "raw_saved": true,
+      "status": "parse_error",
+      "api_success": true,
+      "http_status": 200,
+      "error": null,
+      "returned_model": "qwen3.8-flash",
+      "latency": 15.307700600002136,
+      "usage": {
+        "prompt_tokens": 171,
+        "total_tokens": 828,
+        "completion_tokens": 657,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "text_tokens": 171
+        }
+      },
+      "finish_reason": "stop",
+      "json_directly_parseable": false,
+      "extraction_method": "remove_outer_markdown_fence",
+      "recommendations": 5,
+      "json_objects": 5,
+      "empty_placeholders": 0,
+      "budget_reservation": {
+        "currency": "CNY",
+        "amount": "0.10"
+      },
+      "usage_price_estimate": {
+        "currency": "CNY",
+        "input_tokens_scenario": 171,
+        "output_tokens_scenario": 657,
+        "text_component_amount": "0.0019107",
+        "estimated_total_amount": null,
+        "verified_total_upper_bound": null,
+        "actual_billed_amount": null,
+        "cache_policy": "all_input_at_uncached_rate_scenario",
+        "multiplier_scenario": "1 (scenario only; not account verification)",
+        "tools": "not_requested",
+        "client_retries": 0,
+        "unknown_terms": [
+          "account_currency_confirmation",
+          "actual_account_discounts",
+          "cache_billing",
+          "failed_request_billing",
+          "billing_rounding"
+        ],
+        "price_snapshot_id": "51176537e343ad9e1d4e441ebf841a781aba65eda97a8275da5e9729f8327a04",
+        "usage_evidence": {
+          "prompt_tokens": 171,
+          "total_tokens": 828,
+          "completion_tokens": 657,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "text_tokens": 171
+          }
+        },
+        "reasoning_tokens_reported": null,
+        "usage_cost_basis": "uncached list-rate component; not actual invoice"
+      },
+      "actual_billed_amount": "unknown",
+      "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_e7d42621b75ad6eaa5bd36239a36356654ace5f9bae671c325582e151b5fd1c5.json"
+    },
+    {
+      "sequence": 8,
+      "job_id": "china_directed_7e911ec6415bf833c5d4468920383cedff7772c1205d5e3fce1b7a13559a935a",
+      "provider": "deepseek",
+      "topic_id": "algorithms_bubbles",
+      "condition": "directed_mainland_B",
+      "permit_consumed": true,
+      "raw_saved": true,
+      "status": "success",
+      "api_success": true,
+      "http_status": 200,
+      "error": null,
+      "returned_model": "deepseek-flash",
+      "latency": 5.8235464000026695,
+      "usage": {
+        "prompt_tokens": 149,
+        "completion_tokens": 249,
+        "total_tokens": 398,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 149
+      },
+      "finish_reason": "stop",
+      "json_directly_parseable": true,
+      "extraction_method": "direct_json",
+      "recommendations": 5,
+      "json_objects": 5,
+      "empty_placeholders": 0,
+      "budget_reservation": {
+        "currency": "USD",
+        "amount": "0.10"
+      },
+      "usage_price_estimate": {
+        "currency": "USD",
+        "input_tokens_scenario": 149,
+        "output_tokens_scenario": 249,
+        "text_component_amount": "0.0003435",
+        "estimated_total_amount": null,
+        "verified_total_upper_bound": null,
+        "actual_billed_amount": null,
+        "cache_policy": "all_input_at_uncached_rate_scenario",
+        "multiplier_scenario": "1 (scenario only; not account verification)",
+        "tools": "not_requested",
+        "client_retries": 0,
+        "unknown_terms": [
+          "current_rate",
+          "account_currency",
+          "cache_discount",
+          "off_peak_discount",
+          "failed_request_billing",
+          "actual_invoice"
+        ],
+        "price_snapshot_id": "351ba27a464dc989be37ce2bae82bc2b23bdce7cd3bc17f3875ce3d2871c1841",
+        "usage_evidence": {
+          "prompt_tokens": 149,
+          "completion_tokens": 249,
+          "total_tokens": 398,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "prompt_cache_hit_tokens": 0,
+          "prompt_cache_miss_tokens": 149
+        },
+        "reasoning_tokens_reported": null,
+        "usage_cost_basis": "uncached list-rate component; not actual invoice"
+      },
+      "actual_billed_amount": "unknown",
+      "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_7e911ec6415bf833c5d4468920383cedff7772c1205d5e3fce1b7a13559a935a.json"
+    },
+    {
+      "sequence": 9,
+      "job_id": "china_directed_8f82cb9d4317914d25635a375ea300eed2e4ed87a025c263a70c5790de5fac4d",
+      "provider": "qwen",
+      "topic_id": "agenda_setting",
+      "condition": "directed_mainland_B",
+      "permit_consumed": true,
+      "raw_saved": true,
+      "status": "parse_error",
+      "api_success": true,
+      "http_status": 200,
+      "error": null,
+      "returned_model": "qwen3.8-flash",
+      "latency": 11.384026799998537,
+      "usage": {
+        "prompt_tokens": 163,
+        "total_tokens": 810,
+        "completion_tokens": 647,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "text_tokens": 163
+        }
+      },
+      "finish_reason": "stop",
+      "json_directly_parseable": false,
+      "extraction_method": "remove_outer_markdown_fence",
+      "recommendations": 5,
+      "json_objects": 5,
+      "empty_placeholders": 0,
+      "budget_reservation": {
+        "currency": "CNY",
+        "amount": "0.10"
+      },
+      "usage_price_estimate": {
+        "currency": "CNY",
+        "input_tokens_scenario": 163,
+        "output_tokens_scenario": 647,
+        "text_component_amount": "0.0018773",
+        "estimated_total_amount": null,
+        "verified_total_upper_bound": null,
+        "actual_billed_amount": null,
+        "cache_policy": "all_input_at_uncached_rate_scenario",
+        "multiplier_scenario": "1 (scenario only; not account verification)",
+        "tools": "not_requested",
+        "client_retries": 0,
+        "unknown_terms": [
+          "account_currency_confirmation",
+          "actual_account_discounts",
+          "cache_billing",
+          "failed_request_billing",
+          "billing_rounding"
+        ],
+        "price_snapshot_id": "51176537e343ad9e1d4e441ebf841a781aba65eda97a8275da5e9729f8327a04",
+        "usage_evidence": {
+          "prompt_tokens": 163,
+          "total_tokens": 810,
+          "completion_tokens": 647,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "text_tokens": 163
+          }
+        },
+        "reasoning_tokens_reported": null,
+        "usage_cost_basis": "uncached list-rate component; not actual invoice"
+      },
+      "actual_billed_amount": "unknown",
+      "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_8f82cb9d4317914d25635a375ea300eed2e4ed87a025c263a70c5790de5fac4d.json"
+    },
+    {
+      "sequence": 10,
+      "job_id": "china_directed_d89223edadd98e68eaf7e11143ffa8694bebd1f08fc91ffc23d854d3790c6219",
+      "provider": "deepseek",
+      "topic_id": "algorithms_bubbles",
+      "condition": "directed_cnki_C",
+      "permit_consumed": true,
+      "raw_saved": true,
+      "status": "parse_error",
+      "api_success": true,
+      "http_status": 200,
+      "error": null,
+      "returned_model": "deepseek-flash",
+      "latency": 9.860553600003186,
+      "usage": {
+        "prompt_tokens": 155,
+        "completion_tokens": 982,
+        "total_tokens": 1137,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 155
+      },
+      "finish_reason": "stop",
+      "json_directly_parseable": false,
+      "extraction_method": "unique_complete_json_with_surrounding_prose",
+      "recommendations": 5,
+      "json_objects": 5,
+      "empty_placeholders": 0,
+      "budget_reservation": {
+        "currency": "USD",
+        "amount": "0.10"
+      },
+      "usage_price_estimate": {
+        "currency": "USD",
+        "input_tokens_scenario": 155,
+        "output_tokens_scenario": 982,
+        "text_component_amount": "0.0012249",
+        "estimated_total_amount": null,
+        "verified_total_upper_bound": null,
+        "actual_billed_amount": null,
+        "cache_policy": "all_input_at_uncached_rate_scenario",
+        "multiplier_scenario": "1 (scenario only; not account verification)",
+        "tools": "not_requested",
+        "client_retries": 0,
+        "unknown_terms": [
+          "current_rate",
+          "account_currency",
+          "cache_discount",
+          "off_peak_discount",
+          "failed_request_billing",
+          "actual_invoice"
+        ],
+        "price_snapshot_id": "351ba27a464dc989be37ce2bae82bc2b23bdce7cd3bc17f3875ce3d2871c1841",
+        "usage_evidence": {
+          "prompt_tokens": 155,
+          "completion_tokens": 982,
+          "total_tokens": 1137,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "prompt_cache_hit_tokens": 0,
+          "prompt_cache_miss_tokens": 155
+        },
+        "reasoning_tokens_reported": null,
+        "usage_cost_basis": "uncached list-rate component; not actual invoice"
+      },
+      "actual_billed_amount": "unknown",
+      "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_d89223edadd98e68eaf7e11143ffa8694bebd1f08fc91ffc23d854d3790c6219.json"
+    },
+    {
+      "sequence": 11,
+      "job_id": "china_directed_f9bbbf2da48081daa4c3ba824a41010e7a08bdbc0847643bf311b5688ebf7029",
+      "provider": "qwen",
+      "topic_id": "agenda_setting",
+      "condition": "directed_cnki_C",
+      "permit_consumed": true,
+      "raw_saved": true,
+      "status": "parse_error",
+      "api_success": true,
+      "http_status": 200,
+      "error": null,
+      "returned_model": "qwen3.8-flash",
+      "latency": 11.975014499999816,
+      "usage": {
+        "prompt_tokens": 169,
+        "total_tokens": 421,
+        "completion_tokens": 252,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "text_tokens": 169
+        }
+      },
+      "finish_reason": "stop",
+      "json_directly_parseable": false,
+      "extraction_method": "remove_outer_markdown_fence",
+      "recommendations": 0,
+      "json_objects": 5,
+      "empty_placeholders": 5,
+      "budget_reservation": {
+        "currency": "CNY",
+        "amount": "0.10"
+      },
+      "usage_price_estimate": {
+        "currency": "CNY",
+        "input_tokens_scenario": 169,
+        "output_tokens_scenario": 252,
+        "text_component_amount": "0.0008156",
+        "estimated_total_amount": null,
+        "verified_total_upper_bound": null,
+        "actual_billed_amount": null,
+        "cache_policy": "all_input_at_uncached_rate_scenario",
+        "multiplier_scenario": "1 (scenario only; not account verification)",
+        "tools": "not_requested",
+        "client_retries": 0,
+        "unknown_terms": [
+          "account_currency_confirmation",
+          "actual_account_discounts",
+          "cache_billing",
+          "failed_request_billing",
+          "billing_rounding"
+        ],
+        "price_snapshot_id": "51176537e343ad9e1d4e441ebf841a781aba65eda97a8275da5e9729f8327a04",
+        "usage_evidence": {
+          "prompt_tokens": 169,
+          "total_tokens": 421,
+          "completion_tokens": 252,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "text_tokens": 169
+          }
+        },
+        "reasoning_tokens_reported": null,
+        "usage_cost_basis": "uncached list-rate component; not actual invoice"
+      },
+      "actual_billed_amount": "unknown",
+      "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_f9bbbf2da48081daa4c3ba824a41010e7a08bdbc0847643bf311b5688ebf7029.json"
+    },
+    {
+      "sequence": 12,
+      "job_id": "china_directed_16cbbb345646c96e0e142a0287458f2c8570fdec068cf2732103a60504e38a5a",
+      "provider": "deepseek",
+      "topic_id": "agenda_setting",
+      "condition": "directed_mainland_B",
+      "permit_consumed": true,
+      "raw_saved": true,
+      "status": "success",
+      "api_success": true,
+      "http_status": 200,
+      "error": null,
+      "returned_model": "deepseek-flash",
+      "latency": 5.58061550000275,
+      "usage": {
+        "prompt_tokens": 146,
+        "completion_tokens": 199,
+        "total_tokens": 345,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 146
+      },
+      "finish_reason": "stop",
+      "json_directly_parseable": true,
+      "extraction_method": "direct_json",
+      "recommendations": 5,
+      "json_objects": 5,
+      "empty_placeholders": 0,
+      "budget_reservation": {
+        "currency": "USD",
+        "amount": "0.10"
+      },
+      "usage_price_estimate": {
+        "currency": "USD",
+        "input_tokens_scenario": 146,
+        "output_tokens_scenario": 199,
+        "text_component_amount": "0.0002826",
+        "estimated_total_amount": null,
+        "verified_total_upper_bound": null,
+        "actual_billed_amount": null,
+        "cache_policy": "all_input_at_uncached_rate_scenario",
+        "multiplier_scenario": "1 (scenario only; not account verification)",
+        "tools": "not_requested",
+        "client_retries": 0,
+        "unknown_terms": [
+          "current_rate",
+          "account_currency",
+          "cache_discount",
+          "off_peak_discount",
+          "failed_request_billing",
+          "actual_invoice"
+        ],
+        "price_snapshot_id": "351ba27a464dc989be37ce2bae82bc2b23bdce7cd3bc17f3875ce3d2871c1841",
+        "usage_evidence": {
+          "prompt_tokens": 146,
+          "completion_tokens": 199,
+          "total_tokens": 345,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "prompt_cache_hit_tokens": 0,
+          "prompt_cache_miss_tokens": 146
+        },
+        "reasoning_tokens_reported": null,
+        "usage_cost_basis": "uncached list-rate component; not actual invoice"
+      },
+      "actual_billed_amount": "unknown",
+      "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_16cbbb345646c96e0e142a0287458f2c8570fdec068cf2732103a60504e38a5a.json"
+    },
+    {
+      "sequence": 13,
+      "job_id": "china_directed_4d78c5bbf0a94131a1769211012195fd02a5e9bd7b99b7dbd2938b601c0bb278",
+      "provider": "openai",
+      "topic_id": "algorithms_bubbles",
+      "condition": "directed_mainland_B",
+      "permit_consumed": true,
+      "raw_saved": true,
+      "status": "success",
+      "api_success": true,
+      "http_status": 200,
+      "error": null,
+      "returned_model": "gpt-5.6-terra",
+      "latency": 99.8954251000032,
+      "usage": {
+        "completion_tokens": 1758,
+        "total_tokens": 2223,
+        "prompt_tokens": 465,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "cached_creation_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 1552
+        }
+      },
+      "finish_reason": "stop",
+      "json_directly_parseable": true,
+      "extraction_method": "direct_json",
+      "recommendations": 1,
+      "json_objects": 1,
+      "empty_placeholders": 0,
+      "budget_reservation": {
+        "currency": "CNY",
+        "amount": "0.10"
+      },
+      "usage_price_estimate": {
+        "currency": "CNY",
+        "input_tokens_scenario": 465,
+        "output_tokens_scenario": 1758,
+        "text_component_amount": "0.0143169",
+        "estimated_total_amount": null,
+        "verified_total_upper_bound": null,
+        "actual_billed_amount": null,
+        "cache_policy": "all_input_at_uncached_rate_scenario",
+        "multiplier_scenario": "1 (scenario only; not account verification)",
+        "tools": "not_requested",
+        "client_retries": 0,
+        "unknown_terms": [
+          "platform_multiplier",
+          "account_currency_or_quota_unit",
+          "dynamic_price",
+          "long_context_tier_threshold",
+          "long_context_rates",
+          "reasoning_billing",
+          "cache_write_fee",
+          "failed_request_billing",
+          "platform_internal_retries"
+        ],
+        "price_snapshot_id": "b803fd4ec7337a37f4ecbe02196da14a829c73077c25250a9bba6e9de9e18525",
+        "usage_evidence": {
+          "completion_tokens": 1758,
+          "total_tokens": 2223,
+          "prompt_tokens": 465,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "cached_creation_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 1552
+          }
+        },
+        "reasoning_tokens_reported": 1552,
+        "usage_cost_basis": "uncached list-rate component; not actual invoice"
+      },
+      "actual_billed_amount": "unknown",
+      "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_4d78c5bbf0a94131a1769211012195fd02a5e9bd7b99b7dbd2938b601c0bb278.json"
+    },
+    {
+      "sequence": 14,
+      "job_id": "china_directed_b3c77e12230174520bcefaa74389eb9dc07e5a954804060a4eb37cafd0253034",
+      "provider": "gemini",
+      "topic_id": "algorithms_bubbles",
+      "condition": "directed_mainland_B",
+      "permit_consumed": true,
+      "raw_saved": true,
+      "status": "failed",
+      "api_success": false,
+      "http_status": 524,
+      "error": {
+        "type": "InternalServerError",
+        "http_status": 524,
+        "message": "See provider dashboard; secrets and request headers are not logged.",
+        "cause_types": [
+          "InternalServerError",
+          "HTTPStatusError"
+        ],
+        "timeout_phase": "unknown"
+      },
+      "returned_model": "unknown",
+      "latency": 129.43518149999727,
+      "usage": null,
+      "finish_reason": null,
+      "json_directly_parseable": false,
+      "extraction_method": "unparsed_raw_text_manual_review",
+      "recommendations": 0,
+      "json_objects": 0,
+      "empty_placeholders": 0,
+      "budget_reservation": {
+        "currency": "CNY",
+        "amount": "0.15"
+      },
+      "usage_price_estimate": {
+        "currency": "CNY",
+        "text_component_amount": null,
+        "estimated_total_amount": null,
+        "actual_billed_amount": null,
+        "verified_total_upper_bound": null,
+        "usage_evidence": null,
+        "unknown_terms": [
+          "missing_or_inconsistent_token_usage",
+          "platform_multiplier",
+          "account_currency_or_quota_unit",
+          "dynamic_price",
+          "context_tier_rules",
+          "reasoning_billing",
+          "cache_write_fee",
+          "failed_request_billing",
+          "platform_internal_retries"
+        ]
+      },
+      "actual_billed_amount": "unknown",
+      "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_b3c77e12230174520bcefaa74389eb9dc07e5a954804060a4eb37cafd0253034.json"
+    },
+    {
+      "sequence": 15,
+      "job_id": "china_directed_a6c972270a1f6b15c3c1fb2c03cc70cdb619ffbf68509588593b3925341f2729",
+      "provider": "gemini",
+      "topic_id": "agenda_setting",
+      "condition": "directed_cnki_C",
+      "permit_consumed": true,
+      "raw_saved": true,
+      "status": "parse_error",
+      "api_success": true,
+      "http_status": 200,
+      "error": null,
+      "returned_model": "gemini-3.8-flash",
+      "latency": 92.535046099998,
+      "usage": {
+        "prompt_tokens": 156,
+        "completion_tokens": 10461,
+        "total_tokens": 10617,
+        "billing_usage": {
+          "source": "gemini_chat",
+          "semantic": "gemini",
+          "gemini_usage_metadata": {
+            "promptTokenCount": 156,
+            "toolUsePromptTokenCount": 0,
+            "candidatesTokenCount": 641,
+            "totalTokenCount": 10617,
+            "thoughtsTokenCount": 9820,
+            "cachedContentTokenCount": 0,
+            "promptTokensDetails": [],
+            "toolUsePromptTokensDetails": [],
+            "candidatesTokensDetails": []
+          }
+        },
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "text_tokens": 156,
+          "audio_tokens": 0,
+          "image_tokens": 0
+        },
+        "completion_tokens_details": {
+          "text_tokens": 0,
+          "audio_tokens": 0,
+          "image_tokens": 0,
+          "reasoning_tokens": 9820
+        },
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "input_tokens_details": null,
+        "claude_cache_creation_5_m_tokens": 0,
+        "claude_cache_creation_1_h_tokens": 0
+      },
+      "finish_reason": "stop",
+      "json_directly_parseable": false,
+      "extraction_method": "remove_outer_markdown_fence",
+      "recommendations": 5,
+      "json_objects": 5,
+      "empty_placeholders": 0,
+      "budget_reservation": {
+        "currency": "CNY",
+        "amount": "0.15"
+      },
+      "usage_price_estimate": {
+        "currency": "CNY",
+        "input_tokens_scenario": 156,
+        "output_tokens_scenario": 10461,
+        "text_component_amount": "0.1510128",
+        "estimated_total_amount": null,
+        "verified_total_upper_bound": null,
+        "actual_billed_amount": null,
+        "cache_policy": "all_input_at_uncached_rate_scenario",
+        "multiplier_scenario": "1 (scenario only; not account verification)",
+        "tools": "not_requested",
+        "client_retries": 0,
+        "unknown_terms": [
+          "platform_multiplier",
+          "account_currency_or_quota_unit",
+          "dynamic_price",
+          "context_tier_rules",
+          "reasoning_billing",
+          "cache_write_fee",
+          "failed_request_billing",
+          "platform_internal_retries"
+        ],
+        "price_snapshot_id": "58e8edeb336849be6ae04b0c41fc49b3de2e74a24f6ee00ba37b1b153a8f4a03",
+        "usage_evidence": {
+          "prompt_tokens": 156,
+          "completion_tokens": 10461,
+          "total_tokens": 10617,
+          "billing_usage": {
+            "source": "gemini_chat",
+            "semantic": "gemini",
+            "gemini_usage_metadata": {
+              "promptTokenCount": 156,
+              "toolUsePromptTokenCount": 0,
+              "candidatesTokenCount": 641,
+              "totalTokenCount": 10617,
+              "thoughtsTokenCount": 9820,
+              "cachedContentTokenCount": 0,
+              "promptTokensDetails": [],
+              "toolUsePromptTokensDetails": [],
+              "candidatesTokensDetails": []
+            }
+          },
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "text_tokens": 156,
+            "audio_tokens": 0,
+            "image_tokens": 0
+          },
+          "completion_tokens_details": {
+            "text_tokens": 0,
+            "audio_tokens": 0,
+            "image_tokens": 0,
+            "reasoning_tokens": 9820
+          },
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "input_tokens_details": null,
+          "claude_cache_creation_5_m_tokens": 0,
+          "claude_cache_creation_1_h_tokens": 0
+        },
+        "reasoning_tokens_reported": 9820,
+        "usage_cost_basis": "uncached list-rate component; not actual invoice"
+      },
+      "actual_billed_amount": "unknown",
+      "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_a6c972270a1f6b15c3c1fb2c03cc70cdb619ffbf68509588593b3925341f2729.json"
+    },
+    {
+      "sequence": 16,
+      "job_id": "china_directed_a80d839d194bf4ba978a7aedbd66287464067d777059d3673c9390d467bbc447",
+      "provider": "openai",
+      "topic_id": "algorithms_bubbles",
+      "condition": "directed_cnki_C",
+      "permit_consumed": true,
+      "raw_saved": true,
+      "status": "success",
+      "api_success": true,
+      "http_status": 200,
+      "error": null,
+      "returned_model": "gpt-5.6-terra",
+      "latency": 66.99560909999855,
+      "usage": {
+        "completion_tokens": 1571,
+        "total_tokens": 2044,
+        "prompt_tokens": 473,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "cached_creation_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 1134
+        }
+      },
+      "finish_reason": "stop",
+      "json_directly_parseable": true,
+      "extraction_method": "direct_json",
+      "recommendations": 5,
+      "json_objects": 5,
+      "empty_placeholders": 0,
+      "budget_reservation": {
+        "currency": "CNY",
+        "amount": "0.10"
+      },
+      "usage_price_estimate": {
+        "currency": "CNY",
+        "input_tokens_scenario": 473,
+        "output_tokens_scenario": 1571,
+        "text_component_amount": "0.0128687",
+        "estimated_total_amount": null,
+        "verified_total_upper_bound": null,
+        "actual_billed_amount": null,
+        "cache_policy": "all_input_at_uncached_rate_scenario",
+        "multiplier_scenario": "1 (scenario only; not account verification)",
+        "tools": "not_requested",
+        "client_retries": 0,
+        "unknown_terms": [
+          "platform_multiplier",
+          "account_currency_or_quota_unit",
+          "dynamic_price",
+          "long_context_tier_threshold",
+          "long_context_rates",
+          "reasoning_billing",
+          "cache_write_fee",
+          "failed_request_billing",
+          "platform_internal_retries"
+        ],
+        "price_snapshot_id": "b803fd4ec7337a37f4ecbe02196da14a829c73077c25250a9bba6e9de9e18525",
+        "usage_evidence": {
+          "completion_tokens": 1571,
+          "total_tokens": 2044,
+          "prompt_tokens": 473,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "cached_creation_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 1134
+          }
+        },
+        "reasoning_tokens_reported": 1134,
+        "usage_cost_basis": "uncached list-rate component; not actual invoice"
+      },
+      "actual_billed_amount": "unknown",
+      "source_raw": "data\\china_directed_discovery_pilot\\china_directed_16-9597931c4a07c93b\\control\\raw\\china_directed_a80d839d194bf4ba978a7aedbd66287464067d777059d3673c9390d467bbc447.json"
+    }
+  ]
+}

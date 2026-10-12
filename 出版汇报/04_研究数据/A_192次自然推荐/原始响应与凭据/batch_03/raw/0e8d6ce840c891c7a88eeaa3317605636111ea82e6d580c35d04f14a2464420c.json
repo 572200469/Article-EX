@@ -1,0 +1,271 @@
+{
+  "protocol": "research_protocol_v1-f161bab9fb085136cd8a",
+  "batch_id": "publication_visibility_main-f161bab9fb085136",
+  "cohort": "publication_visibility_main",
+  "condition": "neutral_en",
+  "prompt_language": "en",
+  "topic_id": "algorithms_bubbles",
+  "topic_group": "digital",
+  "provider": "qwen",
+  "model_requested": "qwen3.8-flash",
+  "requested_model": "qwen3.8-flash",
+  "route": {
+    "provider": "qwen",
+    "adapter": "qwen",
+    "access_channel": "official",
+    "base_url_env": "QWEN_BASE_URL",
+    "api_key_env": "DASHSCOPE_API_KEY",
+    "api_key_env_fallback": "QWEN_API_KEY",
+    "model": "qwen3.8-flash",
+    "confirmed": true,
+    "parameters_confirmed": true,
+    "thinking_mode": "disabled",
+    "output_limit_field": "max_tokens",
+    "extra_body": {
+      "enable_thinking": false
+    },
+    "base_url_configured": true,
+    "base_url": "https://ws-18kq1brc00g4ilrj.cn-beijing.maas.aliyuncs.com/compatible-mode/v1"
+  },
+  "route_id": "ae189316847bd67ccdfa1e1ecc37cb3cbd45761f39d89dfe18dba2844c6737c7",
+  "access_channel": "official",
+  "base_url": "https://ws-18kq1brc00g4ilrj.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
+  "adapter": "qwen",
+  "repeat_index": 3,
+  "mode": "baseline",
+  "search_enabled": false,
+  "source_type": "api",
+  "prompt_text": "Recommend five representative research articles published in academic journals on \"Algorithmic recommendation and filter bubbles\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+  "request_parameters": {
+    "max_output_tokens": 8192,
+    "timeout": 180
+  },
+  "thinking_mode": "disabled",
+  "coding_rule_version": "publication_visibility_coding_v2",
+  "sdk_retries": 0,
+  "caller_retries": 0,
+  "generation_authorized": true,
+  "request_config_id": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+  "effective_reasoning_parameters": {
+    "thinking_mode": "disabled",
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "proposed_wire_parameters": {
+    "model": "qwen3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Algorithmic recommendation and filter bubbles\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "sequence": 50,
+  "source_job_id": "122b2278dd07d4d02abae70ea9142469ea5c4ddb69c6580eb26ab825ee7a8f1a",
+  "source_generation_protocol": "research_protocol_v1-cf2812cdc4a6cc6ddda4",
+  "job_id": "0e8d6ce840c891c7a88eeaa3317605636111ea82e6d580c35d04f14a2464420c",
+  "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\qwen\\0e8d6ce840c891c7a88eeaa3317605636111ea82e6d580c35d04f14a2464420c",
+  "main_authorization": {
+    "authorization_id": "publication_visibility_main_batch03_f161bab9fb085136",
+    "configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+    "allowed_job_ids": [
+      "23eb926d70a739e90488f6fa10b7f9f6136ed8ad14f2067e4b551c1cb1cf6186",
+      "0e8d6ce840c891c7a88eeaa3317605636111ea82e6d580c35d04f14a2464420c",
+      "d02293027410241d961cd33c867fd1f8ce036d6246e8d255bda57335322563b5",
+      "27654723ec98bd234046acae1a9d8747430acdfbaa81ffea7f485d4d0211f569",
+      "4f8a92b14bc6aebb8201d7f522a99add0a6648e642f5f2039ccba668f62ad9b1",
+      "0b5952c4d8976ec1e8b0e2ada985c4824965d93e6bd322ac75d212920a3ec151",
+      "f612a1d986dceaf989e907359a2c35432a9cd09f898960486447b508e858abfe",
+      "9dae8a1f611c46be51b9070d1c08236470374cee9b058428afe213cfd7a7dc3d",
+      "3824770244375ffda53e180eb19c4f3ceff698719c072fe59747c1690c5f1694",
+      "3092d955cf83de87f4ade350977576a452847dcd22eea5f7d0565d19b0b5c011",
+      "c4a1dcd65a3a198bffbf47f62b6cce20b34cee5d1b275d4e17d4a03f378b5630",
+      "ab2794df0f21ec0cc569d0ce1beb20e025a560449381f9f2f8104ca484122645",
+      "1ccf49df7f9aaa264c669bf0649cac73bfa21d42f8954ff6d22d35998ac8dbbd",
+      "4ee0cfceeb28ff1bb4d13c864a64e7e7a2f4d84ceae39078160cfca383ea3ea4",
+      "b7d9c70f2edfee310699eb5eb5ed227e7a6d1b014563c0dd1d78368107d4173f",
+      "86efb94ef10fa895307c3a09e74ccf05c4bc8ef78446a19e578c405241ce6084",
+      "66b4993a482742b69c8e808e5023cd7b1b3e15a8280f1f7cd2c76cbe7e565821",
+      "012586fc0bdc694f3bf60ae1f2306464fb1c112f3a6bdd1e2866a6863cc6520f",
+      "4859d563a1dfdc6ef783e161c8a2523acbb8c03a1df657ec49b2e4ba90f47977",
+      "3ccd2992e960ea8ee96b6d478a601c08db4b6ee9a3328e0b8fb7c732abeb0a38",
+      "3795fbed02a6e74036f0983330bd9d4d873f5477f128195c784fba8a93b18908",
+      "ed756b063d82a7fcb17354259a74137c00d15651d769f738be90e682774f0f9e",
+      "635452d9ac7543e81faad4adc720798f2ff0dbf60f004caedd1049e85dda0a07",
+      "2e8605a8fa60d68026d9bea79b4533b5ef141e7a33289a3f62fce139fb203e13"
+    ],
+    "batch_number": 3,
+    "maximum_total_requests": 24,
+    "maximum_provider_requests": {
+      "deepseek": 4,
+      "qwen": 7,
+      "openai": 8,
+      "gemini": 5
+    },
+    "software_budget_by_currency": {
+      "CNY": "2.25",
+      "USD": "0.40"
+    },
+    "maximum_job_requests": 1,
+    "user_authorized": true,
+    "billing_risk_accepted": true,
+    "source": "remaining144:E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\remaining_049_192\\authorization.json"
+  },
+  "experiment_id": "0e8d6ce840c891c7a88eeaa3317605636111ea82e6d580c35d04f14a2464420c",
+  "timestamp": "2026-10-11T14:53:13.895157+00:00",
+  "protocol_status": "frozen",
+  "status": "parse_error",
+  "api_success": true,
+  "attempt_index": 1,
+  "raw_response": {
+    "id": "chatcmpl-64e7e761-49d9-923b-8d3f-cabd04aeb62e",
+    "object": "chat.completion",
+    "created": 1791730400,
+    "model": "qwen3.8-flash",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "```json\n{\n  \"references\": [\n    {\n      \"title\": \"The filter bubble: What the Internet is hiding from you\",\n      \"authors\": null,\n      \"year\": null,\n      \"journal\": null,\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"Exposure to ideologically diverse news and opinion on Facebook\",\n      \"authors\": \"E. Bakshy, J. M. Messing, L. A. Adamic\",\n      \"year\": 2015,\n      \"journal\": \"Science\",\n      \"doi\": \"10.1126/science.aaa1160\",\n      \"url\": \"https://www.science.org/doi/10.1126/science.aaa1160\"\n    },\n    {\n      \"title\": \"Echo chambers and political polarization: An empirical analysis of social media\",\n      \"authors\": null,\n      \"year\": null,\n      \"journal\": null,\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"Filter bubbles and the internet in Europe: New tools for public debate?\",\n      \"authors\": null,\n      \"year\": null,\n      \"journal\": null,\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"Algorithmic bias in recommender systems: A systematic review of the state of knowledge\",\n      \"authors\": \"M. Abdollahpouri, R. Burke, B. Mobasher\",\n      \"year\": 2019,\n      \"journal\": \"User Modeling and User-Adapted Interaction\",\n      \"doi\": \"10.1007/s11257-019-09243-z\",\n      \"url\": \"https://link.springer.com/article/10.1007/s11257-019-09243-z\"\n    }\n  ]\n}\n```"
+        },
+        "finish_reason": "stop",
+        "logprobs": null
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 163,
+      "total_tokens": 627,
+      "completion_tokens": 464,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 163
+      }
+    }
+  },
+  "references": [],
+  "returned_model": "qwen3.8-flash",
+  "usage": {
+    "prompt_tokens": 163,
+    "total_tokens": 627,
+    "completion_tokens": 464,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 163
+    }
+  },
+  "finish_reason": "stop",
+  "actual_billed_amount": null,
+  "budget_reservation": {
+    "currency": "CNY",
+    "amount": "0.10"
+  },
+  "pricing_snapshot": {
+    "provider": "qwen",
+    "model": "qwen3.8-flash",
+    "pricing_route_host_suffix": ".cn-beijing.maas.aliyuncs.com",
+    "access_channel": "official",
+    "pricing_currency": "CNY",
+    "input_price_per_million": "0.80",
+    "output_price_per_million": "2.70",
+    "cached_input_price_per_million": null,
+    "pricing_source": "alibaba_official_beijing_model_pricing",
+    "pricing_checked_at": "2026-10-11",
+    "source_url": "https://help.aliyun.com/zh/model-studio/model-pricing",
+    "evidence_limit": "Public Beijing list price; private account bill and free quota not verified.",
+    "tier": "beijing_input_up_to_1M",
+    "input_token_limit": 1000000,
+    "reasoning_billing": "included_in_output_tokens",
+    "unknown_terms": [
+      "account_currency_confirmation",
+      "actual_account_discounts",
+      "cache_billing",
+      "failed_request_billing",
+      "billing_rounding"
+    ],
+    "proposed_reservation": "0.10"
+  },
+  "budget_status": "reservation_retained_actual_invoice_unknown",
+  "planned_parameters": {
+    "model": "qwen3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Algorithmic recommendation and filter bubbles\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "upstream_identity_verified": false,
+  "response_text": "```json\n{\n  \"references\": [\n    {\n      \"title\": \"The filter bubble: What the Internet is hiding from you\",\n      \"authors\": null,\n      \"year\": null,\n      \"journal\": null,\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"Exposure to ideologically diverse news and opinion on Facebook\",\n      \"authors\": \"E. Bakshy, J. M. Messing, L. A. Adamic\",\n      \"year\": 2015,\n      \"journal\": \"Science\",\n      \"doi\": \"10.1126/science.aaa1160\",\n      \"url\": \"https://www.science.org/doi/10.1126/science.aaa1160\"\n    },\n    {\n      \"title\": \"Echo chambers and political polarization: An empirical analysis of social media\",\n      \"authors\": null,\n      \"year\": null,\n      \"journal\": null,\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"Filter bubbles and the internet in Europe: New tools for public debate?\",\n      \"authors\": null,\n      \"year\": null,\n      \"journal\": null,\n      \"doi\": null,\n      \"url\": null\n    },\n    {\n      \"title\": \"Algorithmic bias in recommender systems: A systematic review of the state of knowledge\",\n      \"authors\": \"M. Abdollahpouri, R. Burke, B. Mobasher\",\n      \"year\": 2019,\n      \"journal\": \"User Modeling and User-Adapted Interaction\",\n      \"doi\": \"10.1007/s11257-019-09243-z\",\n      \"url\": \"https://link.springer.com/article/10.1007/s11257-019-09243-z\"\n    }\n  ]\n}\n```",
+  "model_returned": "qwen3.8-flash",
+  "response_id": "chatcmpl-64e7e761-49d9-923b-8d3f-cabd04aeb62e",
+  "provider_status": "completed",
+  "search_executed": false,
+  "tool_records": [],
+  "upstream_snapshot": "unknown",
+  "api_surface": "qwen.official.chat.completions",
+  "upstream_route_claims": {},
+  "raw_http_body": "{\"id\":\"chatcmpl-64e7e761-49d9-923b-8d3f-cabd04aeb62e\",\"object\":\"chat.completion\",\"created\":1791730400,\"model\":\"qwen3.8-flash\",\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\"```json\\n{\\n  \\\"references\\\": [\\n    {\\n      \\\"title\\\": \\\"The filter bubble: What the Internet is hiding from you\\\",\\n      \\\"authors\\\": null,\\n      \\\"year\\\": null,\\n      \\\"journal\\\": null,\\n      \\\"doi\\\": null,\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"Exposure to ideologically diverse news and opinion on Facebook\\\",\\n      \\\"authors\\\": \\\"E. Bakshy, J. M. Messing, L. A. Adamic\\\",\\n      \\\"year\\\": 2015,\\n      \\\"journal\\\": \\\"Science\\\",\\n      \\\"doi\\\": \\\"10.1126/science.aaa1160\\\",\\n      \\\"url\\\": \\\"https://www.science.org/doi/10.1126/science.aaa1160\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"Echo chambers and political polarization: An empirical analysis of social media\\\",\\n      \\\"authors\\\": null,\\n      \\\"year\\\": null,\\n      \\\"journal\\\": null,\\n      \\\"doi\\\": null,\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"Filter bubbles and the internet in Europe: New tools for public debate?\\\",\\n      \\\"authors\\\": null,\\n      \\\"year\\\": null,\\n      \\\"journal\\\": null,\\n      \\\"doi\\\": null,\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"Algorithmic bias in recommender systems: A systematic review of the state of knowledge\\\",\\n      \\\"authors\\\": \\\"M. Abdollahpouri, R. Burke, B. Mobasher\\\",\\n      \\\"year\\\": 2019,\\n      \\\"journal\\\": \\\"User Modeling and User-Adapted Interaction\\\",\\n      \\\"doi\\\": \\\"10.1007/s11257-019-09243-z\\\",\\n      \\\"url\\\": \\\"https://link.springer.com/article/10.1007/s11257-019-09243-z\\\"\\n    }\\n  ]\\n}\\n```\"},\"finish_reason\":\"stop\",\"logprobs\":null}],\"usage\":{\"prompt_tokens\":163,\"total_tokens\":627,\"completion_tokens\":464,\"prompt_tokens_details\":{\"cached_tokens\":0,\"text_tokens\":163}}}",
+  "http_status": 200,
+  "safe_response_headers": {
+    "x-request-id": "64e7e761-49d9-923b-8d3f-cabd04aeb62e",
+    "server": "istio-envoy"
+  },
+  "sent_parameters": {
+    "model": "qwen3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend five representative research articles published in academic journals on \"Algorithmic recommendation and filter bubbles\" to help a researcher understand important work in the field. Do not restrict author affiliation, publication language, where the journal is based, or its publisher. In recommendation order, provide the article title, authors, publication year, journal title, and any DOI or reliable article link you can confirm. Use null for uncertain fields; do not invent references to reach five. Exclude books, textbooks, textbook-style surveys, and fabricated references. Return the required JSON format.\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "extra_body": {
+      "enable_thinking": false
+    }
+  },
+  "provider_request_id": "64e7e761-49d9-923b-8d3f-cabd04aeb62e",
+  "json_parsed": false,
+  "latency": 8.937095500004943,
+  "usage_price_estimate": {
+    "currency": "CNY",
+    "input_tokens_scenario": 163,
+    "output_tokens_scenario": 464,
+    "text_component_amount": "0.0013832",
+    "estimated_total_amount": null,
+    "verified_total_upper_bound": null,
+    "actual_billed_amount": null,
+    "cache_policy": "all_input_at_uncached_rate_scenario",
+    "multiplier_scenario": "1 (scenario only; not account verification)",
+    "tools": "not_requested",
+    "client_retries": 0,
+    "unknown_terms": [
+      "account_currency_confirmation",
+      "actual_account_discounts",
+      "cache_billing",
+      "failed_request_billing",
+      "billing_rounding"
+    ],
+    "price_snapshot_id": "51176537e343ad9e1d4e441ebf841a781aba65eda97a8275da5e9729f8327a04",
+    "usage_evidence": {
+      "prompt_tokens": 163,
+      "total_tokens": 627,
+      "completion_tokens": 464,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 163
+      }
+    },
+    "reasoning_tokens_reported": null,
+    "usage_cost_basis": "uncached list-rate component; not actual invoice"
+  }
+}

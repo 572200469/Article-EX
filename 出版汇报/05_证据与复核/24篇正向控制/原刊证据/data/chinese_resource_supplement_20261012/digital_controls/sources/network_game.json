@@ -1,0 +1,324 @@
+{
+  "source_id": "network_game",
+  "requested_url": "http://cjjc.ruc.edu.cn/CN/Y2015/V37/I8/47",
+  "checked_at": "2026-10-12T09:17:11.139965+00:00",
+  "access_scope": "public_no_login",
+  "method": "GET",
+  "paid_request": false,
+  "http_status": 200,
+  "final_url": "http://cjjc.ruc.edu.cn/CN/Y2015/V37/I8/47",
+  "sha256": "30b5fc4b246c3bcab57a21b5dba76c194aec3b0fbee65801e608922b8ab673fe",
+  "content_length": 91971,
+  "metadata": {
+    "viewport": [
+      "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+      "width=device-width, initial-scale=1"
+    ],
+    "description": [
+      "互联网的公共性令线上游戏社区成为一个“另类”的公共领域。作为玩家实现身份 认同的共同体空间,“游戏”提供了公共化的传播结构与用户自主的社区建构方式,其 基本动力在于:保护私人领域存在,维系社区知识生产机制以及塑造用户线上、线下空 间的社会地位。线上游戏社区的传播内容存在一种包含了游戏世界、日常世界与政治世 界的公共舆论气候。政治意志与资本力量在此之中影响着社区成员的行动秩序,与用户 形成了相互依赖的权力关系。本文认为,考量线上游戏中的权力再生产现象可以基于玩 家的三种身份特质:一是作为线上行动者的玩家;二是作为私人消费者的玩家;三则是 作为政治公民的玩家。不过,作为公共领域的线上游戏社区依然在现实实践意义、公共 辩论精神、公共利益保障等问题上存在多重困境。"
+    ],
+    "authors": [
+      "王昀"
+    ],
+    "keywords": [
+      "公共领域,线上游戏社区,公共性"
+    ],
+    "robots": [
+      "index"
+    ],
+    "renderer": [
+      "webkit"
+    ],
+    "format-detection": [
+      "telephone=no"
+    ],
+    "apple-mobile-web-app-capable": [
+      "yes"
+    ],
+    "apple-mobile-web-app-title": [
+      "另类公共领域?——线上游戏社区之检视"
+    ],
+    "mobile-web-app-capable": [
+      "yes"
+    ],
+    "screen-orientation": [
+      "portrait"
+    ],
+    "x5-orientation": [
+      "portrait"
+    ],
+    "full-screen": [
+      "yes"
+    ],
+    "x5-fullscreen": [
+      "true"
+    ],
+    "browsermode": [
+      "application"
+    ],
+    "x5-page-mode": [
+      "app"
+    ],
+    "msapplication-tap-highlight": [
+      "no"
+    ],
+    "dc.relation.is": [
+      "国际新闻界"
+    ],
+    "dc.citation.volume": [
+      "37"
+    ],
+    "dc.citation.issue": [
+      "8"
+    ],
+    "dc.citation.spage": [
+      "47"
+    ],
+    "dc.citation.epage": [
+      "66"
+    ],
+    "dc.title": [
+      "另类公共领域?——线上游戏社区之检视"
+    ],
+    "dc.source": [
+      "国际新闻界"
+    ],
+    "dc.format": [
+      "text/html"
+    ],
+    "dc.publisher": [
+      ""
+    ],
+    "dc.date": [
+      ""
+    ],
+    "dc.type": [
+      ""
+    ],
+    "dc.language": [
+      "Cn"
+    ],
+    "dc.copyright": [
+      ""
+    ],
+    "dc.description": [
+      "互联网的公共性令线上游戏社区成为一个“另类”的公共领域。作为玩家实现身份 认同的共同体空间,“游戏”提供了公共化的传播结构与用户自主的社区建构方式,其 基本动力在于:保护私人领域存在,维系社区知识生产机制以及塑造用户线上、线下空 间的社会地位。线上游戏社区的传播内容存在一种包含了游戏世界、日常世界与政治世 界的公共舆论气候。政治意志与资本力量在此之中影响着社区成员的行动秩序,与用户 形成了相互依赖的权力关系。本文认为,考量线上游戏中的权力再生产现象可以基于玩 家的三种身份特质:一是作为线上行动者的玩家;二是作为私人消费者的玩家;三则是 作为政治公民的玩家。不过,作为公共领域的线上游戏社区依然在现实实践意义、公共 辩论精神、公共利益保障等问题上存在多重困境。"
+    ],
+    "dc.relation.ispartof": [
+      "国际新闻界"
+    ],
+    "dc.subject": [
+      "公共领域",
+      "线上游戏社区",
+      "公共性"
+    ],
+    "prism.issn": [
+      "1002-5685"
+    ],
+    "prism.publicationDate": [
+      ""
+    ],
+    "prism.section": [
+      ""
+    ],
+    "prism.volume": [
+      "37"
+    ],
+    "prism.number": [
+      "8"
+    ],
+    "prism.startingPage": [
+      "47"
+    ],
+    "prism.endingPage": [
+      "66"
+    ],
+    "prism.copyright": [
+      ""
+    ],
+    "prism.url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2015/V37/I8/47"
+    ],
+    "citation_pdf_url": [
+      "http://cjjc.ruc.edu.cn/CN/PDF/453"
+    ],
+    "citation_abstract_html_url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2015/V37/I8/47"
+    ],
+    "citation_fulltext_html_url": [
+      "http://cjjc.ruc.edu.cn/CN/Y2015/V37/I8/47"
+    ],
+    "citation_journal_title": [
+      "国际新闻界"
+    ],
+    "citation_publisher": [
+      ""
+    ],
+    "citation_issn": [
+      "1002-5685"
+    ],
+    "citation_title": [
+      "另类公共领域?——线上游戏社区之检视"
+    ],
+    "citation_authors": [
+      "王昀"
+    ],
+    "citation_volume": [
+      "37"
+    ],
+    "citation_issue": [
+      "8"
+    ],
+    "citation_publication_date": [
+      ""
+    ],
+    "citation_online_date": [
+      ""
+    ],
+    "citation_firstpage": [
+      "47"
+    ],
+    "citation_lastpage": [
+      "66"
+    ],
+    "citation_article_type": [
+      ""
+    ],
+    "citation_language": [
+      "zh"
+    ],
+    "citation_doi": [
+      ""
+    ],
+    "citation_abstract": [
+      "互联网的公共性令线上游戏社区成为一个“另类”的公共领域。作为玩家实现身份 认同的共同体空间,“游戏”提供了公共化的传播结构与用户自主的社区建构方式,其 基本动力在于:保护私人领域存在,维系社区知识生产机制以及塑造用户线上、线下空 间的社会地位。线上游戏社区的传播内容存在一种包含了游戏世界、日常世界与政治世 界的公共舆论气候。政治意志与资本力量在此之中影响着社区成员的行动秩序,与用户 形成了相互依赖的权力关系。本文认为,考量线上游戏中的权力再生产现象可以基于玩 家的三种身份特质:一是作为线上行动者的玩家;二是作为私人消费者的玩家;三则是 作为政治公民的玩家。不过,作为公共领域的线上游戏社区依然在现实实践意义、公共 辩论精神、公共利益保障等问题上存在多重困境。"
+    ],
+    "citation_keywords": [
+      "公共领域",
+      "线上游戏社区",
+      "公共性"
+    ],
+    "citation_date": [
+      ""
+    ],
+    "article_references": [
+      "王昀. 另类公共领域?——线上游戏社区之检视. 国际新闻界. 2015, 37 (8): 47-66."
+    ],
+    "google-site-verification": [
+      "GqftDyjkbLznCjwJH3xdvsEi1ZnXlVqxWMeQ5H2MD38"
+    ]
+  },
+  "structured_article": {
+    "journal": {
+      "issn": "1002-5685",
+      "qiKanMingCheng_CN": "国际新闻界",
+      "id": 1,
+      "qiKanMingCheng_EN": "Chinese Journal of Journalism & Communication"
+    },
+    "affList_en": [
+      "School of Journalism and Communication of Zhejiang University."
+    ],
+    "authorNotes_en": [
+      "Wang Yun is a Ph.D candidate at School of Journalism and Communication of Zhejiang University. E-mail: jimmy_wells@163.com."
+    ],
+    "affList_cn": [
+      "浙江大学传媒与国际文化学院"
+    ],
+    "article": {
+      "keywordList_cn": [
+        "公共领域",
+        "线上游戏社区",
+        "公共性"
+      ],
+      "juan": "37",
+      "zhaiyao_cn": "互联网的公共性令线上游戏社区成为一个“另类”的公共领域。作为玩家实现身份 认同的共同体空间,“游戏”提供了公共化的传播结构与用户自主的社区建构方式,其 基本动力在于:保护私人领域存在,维系社区知识生产机制以及塑造用户线上、线下空 间的社会地位。线上游戏社区的传播内容存在一种包含了游戏世界、日常世界与政治世 界的公共舆论气候。政治意志与资本力量在此之中影响着社区成员的行动秩序,与用户 形成了相互依赖的权力关系。本文认为,考量线上游戏中的权力再生产现象可以基于玩 家的三种身份特质:一是作为线上行动者的玩家;二是作为私人消费者的玩家;三则是 作为政治公民的玩家。不过,作为公共领域的线上游戏社区依然在现实实践意义、公共 辩论精神、公共利益保障等问题上存在多重困境。",
+      "endNoteUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=EndNote&id=453",
+      "reference": "",
+      "bibtexUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=BibTeX&id=453",
+      "abstractUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2015/V37/I8/47",
+      "qi": "8",
+      "id": 453,
+      "nian": 2015,
+      "bianHao": "20150804",
+      "zuoZheEn_L": "WANG Yun",
+      "juanUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2015",
+      "shouCiFaBuRiQi": "2015-08-22",
+      "qiShiYe": "47",
+      "received": "2015-08-22",
+      "qiUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2015/V37/I8",
+      "lanMu_cn": "本期话题",
+      "pdfSize": "1792",
+      "zuoZhe_CN": "王昀，浙江大学传媒与国际文化学院博士研究生",
+      "risUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=Ris&id=453",
+      "title_cn": "另类公共领域?——线上游戏社区之检视",
+      "doi": "",
+      "jieShuYe": "66",
+      "keywordList_en": [
+        "public sphere",
+        "online game community",
+        "publicity"
+      ],
+      "endNoteUrl_cn": "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=EndNote&id=453",
+      "zhaiyao_en": "Online game community is fairly an alternative public sphere in terms of the publicity\r\nof the Internet. A game contains an open communication structure, and provides autonomous\r\nways to construct communities. Players can achieve identity in the online space. The basic motivations are to protect the private spheres, maintain the production of public knowledge\r\nand achieve the online and offline status in community. There is a public opinion climate\r\nabout experiences of online games, daily lives and the political world in the communication content of online games. Political power and capital factor influence the behaviors of members in the community, and interact with players in an interdependence power relationships. The reproduction of power in online games could be discussed based on three characteristics of a player: a player as an online actor, a private consumer, or a political citizen. However, as a public sphere, the online game community still faces problems on reality practice, the spirit of public debate, and the security of public interest.",
+      "bibtexUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=BibTeX&id=453",
+      "abstractUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2015/V37/I8/47",
+      "zuoZheCn_L": "王昀",
+      "juanUrl_cn": "http://cjjc.ruc.edu.cn/CN/Y2015",
+      "lanMu_en": "",
+      "qiUrl_en": "http://cjjc.ruc.edu.cn/EN/Y2015/V37/I8",
+      "zuoZhe_EN": "Wang Yun is a Ph.D candidate at School of Journalism and Communication of Zhejiang University. E-mail: jimmy_wells@163.com.",
+      "risUrl_en": "http://cjjc.ruc.edu.cn/EN/article/getTxtFile.do?fileType=Ris&id=453",
+      "title_en": "An Alternative Public Sphere? Examining Online Game Community",
+      "hasPdf": "true"
+    },
+    "authorNotes_cn": [
+      "王昀，浙江大学传媒与国际文化学院博士研究生"
+    ]
+  },
+  "text": "另类公共领域?——线上游戏社区之检视 × 模态框（Modal）标题 在这里添加一些文本 关闭 关闭 提交更改 取消 确定并提交 × 模态框（Modal）标题 × 下载引用文件后，可以用常见的文献管理软件打开和编辑，包括: BibTex, EndNote, ProCite, RefWorks, and Reference Manager. 选择文件类型/文献管理软件名称 RIS (ProCite, Reference Manager, EndNote) BibTeX 选择包含的内容 仅文章引用信息 引用信息及摘要 导出 另类公共领域?——线上游戏社区之检视 王昀 国际新闻界 ›› 2015, Vol. 37 ›› Issue (8) : 47-66. PDF(1792 KB) Toggle navigation 首 页 期刊介绍 编委会 投稿指南 格式规范 期刊订阅 联系我们 English 投稿指南 格式规范 PDF(1792 KB) 国际新闻界 ›› 2015, Vol. 37 ›› Issue (8) : 47-66. 本期话题 另类公共领域?——线上游戏社区之检视 王昀，浙江大学传媒与国际文化学院博士研究生 作者信息 + 浙江大学传媒与国际文化学院 作者简介: 王昀，浙江大学传媒与国际文化学院博士研究生 折叠 An Alternative Public Sphere? Examining Online Game Community Wang Yun is a Ph.D candidate at School of Journalism and Communication of Zhejiang University. E-mail: jimmy_wells@163.com. Author information + School of Journalism and Communication of Zhejiang University. About authors: Wang Yun is a Ph.D candidate at School of Journalism and Communication of Zhejiang University. E-mail: jimmy_wells@163.com. Show less 文章历史 + 收稿日期 出版日期 2015-08-22 2015-08-22 发布日期 2015-08-22 摘要 互联网的公共性令线上游戏社区成为一个“另类”的公共领域。作为玩家实现身份 认同的共同体空间,“游戏”提供了公共化的传播结构与用户自主的社区建构方式,其 基本动力在于:保护私人领域存在,维系社区知识生产机制以及塑造用户线上、线下空 间的社会地位。线上游戏社区的传播内容存在一种包含了游戏世界、日常世界与政治世 界的公共舆论气候。政治意志与资本力量在此之中影响着社区成员的行动秩序,与用户 形成了相互依赖的权力关系。本文认为,考量线上游戏中的权力再生产现象可以基于玩 家的三种身份特质:一是作为线上行动者的玩家;二是作为私人消费者的玩家;三则是 作为政治公民的玩家。不过,作为公共领域的线上游戏社区依然在现实实践意义、公共 辩论精神、公共利益保障等问题上存在多重困境。 Abstract Online game community is fairly an alternative public sphere in terms of the publicity of the Internet. A game contains an open communication structure, and provides autonomous ways to construct communities. Players can achieve identity in the online space. The basic motivations are to protect the private spheres, maintain the production of public knowledge and achieve the online and offline status in community. There is a public opinion climate about experiences of online games, daily lives and the political world in the communication content of online games. Political power and capital factor influence the behaviors of members in the community, and interact with players in an interdependence power relationships. The reproduction of power in online games could be discussed based on three characteristics of a player: a player as an online actor, a private consumer, or a political citizen. However, as a public sphere, the online game community still faces problems on reality practice, the spirit of public debate, and the security of public interest. 关键词 公共领域 / 线上游戏社区 / 公共性 Key words public sphere / online game community / publicity 引用本文 EndNote Ris (Procite) Bibtex 导出引用 王昀. 另类公共领域?——线上游戏社区之检视[J]. 国际新闻界 . 2015, 37(8): 47-66 WANG Yun. An Alternative Public Sphere? Examining Online Game Community[J]. Chinese Journal of Journalism & Communication . 2015, 37(8): 47-66 {{custom_sec.title}} {{custom_sec.title}} {{custom_sec.content}} × 微信扫一扫 PDF(1792 KB) 可视化 Accesses Citation Altmetric Detail 段落导航 相关文章 期刊信息 期刊介绍 编委会 投稿指南 格式规范 期刊订阅 联系我们 在线期刊 当期目录 过刊浏览 E-mail Alert RSS 联系我们 地址：北京市海淀区中关村大街59号明德新闻楼 邮编：100872 电话：010-82509362 E-mail:gjxwj@ruc.edu.cn 访问统计 总访问量 ： 今日访问： 在线人数： 版权所有 © 《国际新闻界》编辑部 技术支持： 北京玛格泰克科技发展有限公司 / 〈 〉",
+  "links": [
+    "http://cjjc.ruc.edu.cn",
+    "http://cjjc.ruc.edu.cn/CN/archive/2015",
+    "http://cjjc.ruc.edu.cn/CN/Y2015/V37/I8",
+    "http://cjjc.ruc.edu.cn/CN/home",
+    "http://cjjc.ruc.edu.cn/CN/home",
+    "http://cjjc.ruc.edu.cn/CN/column/column1.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column2.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column5.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column6.shtml",
+    "http://cjjc.ruc.edu.cn/EN/home",
+    "https://www.ruc.edu.cn/",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn",
+    "http://cjjc.ruc.edu.cn/CN/archive/2015",
+    "http://cjjc.ruc.edu.cn/CN/Y2015/V37/I8",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=EndNote&id=453",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=Ris&id=453",
+    "http://cjjc.ruc.edu.cn/CN/article/getTxtFile.do?fileType=BibTeX&id=453",
+    "http://www.facebook.com/sharer.php?u=http://cjjc.ruc.edu.cn/CN/Y2015/V37/I8/47",
+    "http://twitter.com/share?url=http://cjjc.ruc.edu.cn/CN/Y2015/V37/I8/47",
+    "http://service.weibo.com/share/share.php?url=http://cjjc.ruc.edu.cn/CN/Y2015/V37/I8/47&title=另类公共领域?——线上游戏社区之检视",
+    "javascript:;",
+    "javascript:;",
+    "http://cjjc.ruc.edu.cn/CN/column/column1.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column2.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column3.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column4.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column5.shtml",
+    "http://cjjc.ruc.edu.cn/CN/column/column6.shtml",
+    "http://cjjc.ruc.edu.cn/CN/current",
+    "http://cjjc.ruc.edu.cn/CN/archive_by_years",
+    "http://cjjc.ruc.edu.cn/CN/alert/showAlertInfo.do",
+    "http://cjjc.ruc.edu.cn/CN/rss/showRssInfo.do",
+    "https://www.magtech.com.cn/"
+  ]
+}

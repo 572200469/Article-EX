@@ -1,0 +1,348 @@
+{
+  "protocol": "research_protocol_v1-f161bab9fb085136cd8a",
+  "batch_id": "publication_visibility_main-f161bab9fb085136",
+  "cohort": "publication_visibility_main",
+  "condition": "neutral_zh",
+  "prompt_language": "zh",
+  "topic_id": "uses_gratifications",
+  "topic_group": "classical",
+  "provider": "gemini",
+  "model_requested": "gemini-3.8-flash",
+  "requested_model": "gemini-3.8-flash",
+  "route": {
+    "provider": "gemini",
+    "adapter": "relay",
+    "access_channel": "relay",
+    "base_url": "https://token.mmh1.top/v1",
+    "api_key_env": "RELAY_API_KEY",
+    "model": "gemini-3.8-flash",
+    "confirmed": true,
+    "parameters_confirmed": false,
+    "reasoning_effort": "low",
+    "thinking_mode": "low",
+    "output_limit_field": "max_tokens"
+  },
+  "route_id": "a3de5fc638c197d2fe22997af2ae183beca5b62892a11fe68972fefc96c59c5a",
+  "access_channel": "relay",
+  "base_url": "https://token.mmh1.top/v1",
+  "adapter": "relay",
+  "repeat_index": 1,
+  "mode": "baseline",
+  "search_enabled": false,
+  "source_type": "api",
+  "prompt_text": "请推荐关于「使用与满足理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}",
+  "request_parameters": {
+    "max_output_tokens": 8192,
+    "timeout": 180
+  },
+  "thinking_mode": "low",
+  "coding_rule_version": "publication_visibility_coding_v2",
+  "sdk_retries": 0,
+  "caller_retries": 0,
+  "generation_authorized": true,
+  "request_config_id": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+  "effective_reasoning_parameters": {
+    "reasoning_effort": "low",
+    "thinking_mode": "low"
+  },
+  "proposed_wire_parameters": {
+    "model": "gemini-3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「使用与满足理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "reasoning_effort": "low"
+  },
+  "sequence": 118,
+  "source_job_id": "979f83805c40d79d47cad36d8cc0ef07320d3a0b18e54a8c95d3f1532895f6c9",
+  "source_generation_protocol": "research_protocol_v1-cf2812cdc4a6cc6ddda4",
+  "job_id": "6c5939a9a3e63ae3a5f0b83fc91dfa66c2a65607d8fb6369b8d213cdd8d25ab2",
+  "isolation_root": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\gemini\\6c5939a9a3e63ae3a5f0b83fc91dfa66c2a65607d8fb6369b8d213cdd8d25ab2",
+  "main_authorization": {
+    "authorization_id": "publication_visibility_main_batch05_f161bab9fb085136",
+    "configuration_fingerprint": "f161bab9fb085136cd8a92f72e8fa353021da2b7f8ff6e980ea3b8aca458dc5f",
+    "allowed_job_ids": [
+      "10c8931c03d9975d53c6e25309c06199899e0b6868a38e6fddf876bcbd44d667",
+      "0766b7e2a1dc693bb5058332d6aebd2f3d7c7578b219236d0c8963732a7a979b",
+      "ec97e1708dd66fc157f4358d728bbc8a0e6e7bd4268863ca6339405075ced803",
+      "96bee1f6b70478d7722a7c9bb00abe53c443a82fba7bf062aaa110153483b1a5",
+      "e5e0f0bf51f05c12bafcd7ca0217543423ccd40edbbbc238ecc757750024477d",
+      "cf01f02b6c384f5ebe4ec2cb557d46feab95a70bfc2358de5c5a5cd919a8f7b7",
+      "b3853eb679c7970f3c66968fc3713d6a4c42795c61f5c567fdee76545e490358",
+      "801bd3691d3dfe6f17858710d7c05289c056cbc77823881bc8dfca1d68b62664",
+      "b2c2dd79c7638e245a7cb6d1b1e11a7ae381abbc90e6330582d75ab03247a3ff",
+      "6b2b2bb1faace337866696bd022799ff5d6fea16e2503fc880c8287addfc00b5",
+      "103ba09c7100e2886138273b52f2718652b536ebe7d92fc224122e32700ca721",
+      "37d5ddef4d772ee9e8963610486d75fe969c9e88351512677296f70536f3c6ce",
+      "4d030833646eaa1334db168c4db3889fe69b1c1e880905a2811966a04a206df1",
+      "c108c8932fea1fe3b03c68a1136e38d5b400a67ad529af2f4c97d2c171dfcd28",
+      "409dbb93da12a41dbd2927f9c157cd4333fdf0adcfc0bc3ae1aa6662f2f9fffd",
+      "d8e0513162a352b26de3139f4157db53ec10c2688232f71b47eddf82401d2374",
+      "9d0af2cdb7724e7cdf373ab674b418c9fa9f51a09e41026de0b278683182e01e",
+      "2e854c3f2a02b522c89e37e035c7a16da7a1d12a4e833ce855f9578ad560cb1a",
+      "aa9428925e82bd7cf769d7c689776c82884c5fd5c61c2c7d1dbc66173a0dd26e",
+      "6f291253df585022ed9ecf2e920baea17b59d93504d07118a3ec0d83b943df79",
+      "537f15d198b1978e74ff8aecbf4d65cf881e7c344c10aaf5e9e84edb61f995ff",
+      "6c5939a9a3e63ae3a5f0b83fc91dfa66c2a65607d8fb6369b8d213cdd8d25ab2",
+      "c366fc06604451f33979b6f87d3a16c0960f840d32e1562d4384b36aae30ad4f",
+      "8f91463dc1071a9fb93ee11bc166bc525c5d2d5ecb17ed557dd3befb4bbef71a"
+    ],
+    "batch_number": 5,
+    "maximum_total_requests": 24,
+    "maximum_provider_requests": {
+      "qwen": 6,
+      "deepseek": 6,
+      "openai": 6,
+      "gemini": 6
+    },
+    "software_budget_by_currency": {
+      "CNY": "2.10",
+      "USD": "0.60"
+    },
+    "maximum_job_requests": 1,
+    "user_authorized": true,
+    "billing_risk_accepted": true,
+    "source": "remaining144:E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_main-f161bab9fb085136\\remaining_049_192\\authorization.json"
+  },
+  "experiment_id": "6c5939a9a3e63ae3a5f0b83fc91dfa66c2a65607d8fb6369b8d213cdd8d25ab2",
+  "timestamp": "2026-10-11T15:21:09.569691+00:00",
+  "protocol_status": "frozen",
+  "status": "parse_error",
+  "api_success": true,
+  "attempt_index": 1,
+  "raw_response": {
+    "id": "chatcmpl-202610111521171320463538268d9d6DPDdcgN6",
+    "model": "gemini-3.8-flash",
+    "object": "chat.completion",
+    "created": 1791732108,
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "```json\n{\n  \"references\": [\n    {\n      \"title\": \"Uses and Gratifications Research\",\n      \"authors\": \"Elihu Katz, Jay G. Blumler, Michael Gurevitch\",\n      \"year\": 1973,\n      \"journal\": \"The Public Opinion Quarterly\",\n      \"doi\": \"10.1086/268109\",\n      \"url\": \"https://doi.org/10.1086/268109\"\n    },\n    {\n      \"title\": \"Relations Between Gratifications Sought and Obtained: A Study of Television News\",\n      \"authors\": \"Philip Palmgreen, Lawrence A. Wenner, J. D. Rayburn II\",\n      \"year\": 1980,\n      \"journal\": \"Communication Research\",\n      \"doi\": \"10.1177/009365028000700202\",\n      \"url\": \"https://doi.org/10.1177/009365028000700202\"\n    },\n    {\n      \"title\": \"Ritualized and Instrumental Television Viewing\",\n      \"authors\": \"Alan M. Rubin\",\n      \"year\": 1984,\n      \"journal\": \"Journal of Communication\",\n      \"doi\": \"10.1111/j.1460-2466.1984.tb02174.x\",\n      \"url\": \"https://doi.org/10.1111/j.1460-2466.1984.tb02174.x\"\n    },\n    {\n      \"title\": \"Predictors of Internet Use\",\n      \"authors\": \"Zizi Papacharissi, Alan M. Rubin\",\n      \"year\": 2000,\n      \"journal\": \"Journal of Broadcasting & Electronic Media\",\n      \"doi\": \"10.1207/s15506878jobem4402_2\",\n      \"url\": \"https://doi.org/10.1207/s15506878jobem4402_2\"\n    },\n    {\n      \"title\": \"Uses and Grats 2.0: New Gratifications for New Media\",\n      \"authors\": \"S. Shyam Sundar, Anthony M. Limperos\",\n      \"year\": 2013,\n      \"journal\": \"Journal of Broadcasting & Electronic Media\",\n      \"doi\": \"10.1080/08838151.2013.845827\",\n      \"url\": \"https://doi.org/10.1080/08838151.2013.845827\"\n    }\n  ]\n}\n```",
+          "reasoning_content": "**My Thought Process on Identifying Key U&G Literature**\n\nOkay, here's how I approached this. The task is to identify five representative, peer-reviewed journal articles on Uses and Gratifications Theory (U&G). My immediate focus is on the *quality* and *relevance* of the articles, given that it's for an expert audience, so I am going for \"classic\" and foundational, as well as those that represent important evolution and applications. Textbooks and review papers are out; we want the original research or influential empirical application.\n\nFirst, I had to ensure I understood the explicit requirements: title, authors, year, journal, DOI or URL, and the specified JSON output format. I knew I needed to meticulously populate those fields. I was quite careful to extract exact DOIs, which is critical.\n\nI started by listing potential candidates. Katz, Blumler, and Gurevitch (1973) is the obvious starting point – the seminal piece that really codified the theory. Then Rubin (1984) and (1983) were essential additions, for their work in defining \"ritualized\" versus \"instrumental\" viewing, which has been foundational in the field. Palmgreen and Rayburn (1979/1980/1984) were next on my list, given their work on the expectancy-value model within U&G. Ruggiero (2000) was an immediate thought for application of U&G in the Internet age, but I then reconsidered that this might be a review article, rather than \"pure\" research. Sundar & Limperos (2013) were an obvious next-gen candidate for their work on new media.\n\nI debated whether Ruggiero was too review-y or not, and while it's an important article, I ultimately felt it wasn't the *most* appropriate choice, given the explicit instruction to avoid \"review textbooks.\" I then did a bit of triage to confirm the exact details of the journal articles, making sure I had the right DOIs, journal titles, and author names.\n\nI then did a secondary search and vetting of alternative candidates such as Papacharissi & Rubin (2000) and Whiting & Williams (2013) to ensure these are key empirical research papers; I settled on Papacharissi & Rubin as they're a bit more well-known.\n\nFinally, I carefully compiled the references, double-checked each data point, and ensured it matched the required JSON structure precisely, verifying the JSON syntax to ensure valid output.\n\n```json\n{\n  \"references\": [\n    {\n      \"title\": \"Uses and Gratifications Research\",\n      \"authors\": \"Elihu Katz, Jay G. Blumler, Michael Gurevitch\",\n      \"year\": 1973,\n      \"journal\": \"The Public Opinion Quarterly\",\n      \"doi\": \"10.1086/268109\",\n      \"url\": null\n    },\n    {\n      \"title\": \"Relations Between Gratifications Sought and Obtained: A Study of Television News\",\n      \"authors\": \"Philip Palmgreen, Lawrence A. Wenner, J. D. Rayburn II\",\n      \"year\": 1980,\n      \"journal\": \"Communication Research\",\n      \"doi\": \"10.1177/009365028000700202\",\n      \"url\": null\n    },\n    {\n      \"title\": \"Ritualized and Instrumental Television Viewing\",\n      \"authors\": \"Alan M. Rubin\",\n      \"year\": 1984,\n      \"journal\": \"Journal of Communication\",\n      \"doi\": \"10.1111/j.1460-2466.1984.tb02174.x\",\n      \"url\": null\n    },\n    {\n      \"title\": \"Predictors of Internet Use\",\n      \"authors\": \"Zizi Papacharissi, Alan M. Rubin\",\n      \"year\": 2000,\n      \"journal\": \"Journal of Broadcasting & Electronic Media\",\n      \"doi\": \"10.1207/s15506878jobem4402_2\",\n      \"url\": null\n    },\n    {\n      \"title\": \"Uses and Grats 2.0: New Gratifications for New Media\",\n      \"authors\": \"S. Shyam Sundar, Anthony M. Limperos\",\n      \"year\": 2013,\n      \"journal\": \"Journal of Broadcasting & Electronic Media\",\n      \"doi\": \"10.\n\n"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 143,
+      "completion_tokens": 3916,
+      "total_tokens": 4059,
+      "billing_usage": {
+        "source": "gemini_chat",
+        "semantic": "gemini",
+        "gemini_usage_metadata": {
+          "promptTokenCount": 143,
+          "toolUsePromptTokenCount": 0,
+          "candidatesTokenCount": 683,
+          "totalTokenCount": 4059,
+          "thoughtsTokenCount": 3233,
+          "cachedContentTokenCount": 0,
+          "promptTokensDetails": [],
+          "toolUsePromptTokensDetails": [],
+          "candidatesTokensDetails": []
+        }
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 143,
+        "audio_tokens": 0,
+        "image_tokens": 0
+      },
+      "completion_tokens_details": {
+        "text_tokens": 0,
+        "audio_tokens": 0,
+        "image_tokens": 0,
+        "reasoning_tokens": 3233
+      },
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "input_tokens_details": null,
+      "claude_cache_creation_5_m_tokens": 0,
+      "claude_cache_creation_1_h_tokens": 0
+    }
+  },
+  "references": [],
+  "returned_model": "gemini-3.8-flash",
+  "usage": {
+    "prompt_tokens": 143,
+    "completion_tokens": 3916,
+    "total_tokens": 4059,
+    "billing_usage": {
+      "source": "gemini_chat",
+      "semantic": "gemini",
+      "gemini_usage_metadata": {
+        "promptTokenCount": 143,
+        "toolUsePromptTokenCount": 0,
+        "candidatesTokenCount": 683,
+        "totalTokenCount": 4059,
+        "thoughtsTokenCount": 3233,
+        "cachedContentTokenCount": 0,
+        "promptTokensDetails": [],
+        "toolUsePromptTokensDetails": [],
+        "candidatesTokensDetails": []
+      }
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 143,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    },
+    "completion_tokens_details": {
+      "text_tokens": 0,
+      "audio_tokens": 0,
+      "image_tokens": 0,
+      "reasoning_tokens": 3233
+    },
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "input_tokens_details": null,
+    "claude_cache_creation_5_m_tokens": 0,
+    "claude_cache_creation_1_h_tokens": 0
+  },
+  "finish_reason": "stop",
+  "actual_billed_amount": null,
+  "budget_reservation": {
+    "currency": "CNY",
+    "amount": "0.15"
+  },
+  "pricing_snapshot": {
+    "provider": "gemini",
+    "model": "gemini-3.8-flash",
+    "pricing_route_base_url": "https://token.mmh1.top/v1",
+    "access_channel": "relay",
+    "pricing_currency": "CNY",
+    "input_price_per_million": "2.40",
+    "output_price_per_million": "14.40",
+    "cached_input_price_per_million": "0.80",
+    "pricing_source": "user_provided_mmh1_screenshot_transcription",
+    "pricing_checked_at": "2026-10-11",
+    "source_url": "https://token.mmh1.top/pricing",
+    "evidence_limit": "Displayed prices only; actual account currency, multiplier and deductions unverified.",
+    "tier": "displayed_rate_scenario_only",
+    "input_token_limit": null,
+    "reasoning_billing": "unknown",
+    "unknown_terms": [
+      "platform_multiplier",
+      "account_currency_or_quota_unit",
+      "dynamic_price",
+      "context_tier_rules",
+      "reasoning_billing",
+      "cache_write_fee",
+      "failed_request_billing",
+      "platform_internal_retries"
+    ],
+    "proposed_reservation": "0.15"
+  },
+  "budget_status": "reservation_retained_actual_invoice_unknown",
+  "planned_parameters": {
+    "model": "gemini-3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「使用与满足理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "reasoning_effort": "low"
+  },
+  "upstream_identity_verified": false,
+  "response_text": "```json\n{\n  \"references\": [\n    {\n      \"title\": \"Uses and Gratifications Research\",\n      \"authors\": \"Elihu Katz, Jay G. Blumler, Michael Gurevitch\",\n      \"year\": 1973,\n      \"journal\": \"The Public Opinion Quarterly\",\n      \"doi\": \"10.1086/268109\",\n      \"url\": \"https://doi.org/10.1086/268109\"\n    },\n    {\n      \"title\": \"Relations Between Gratifications Sought and Obtained: A Study of Television News\",\n      \"authors\": \"Philip Palmgreen, Lawrence A. Wenner, J. D. Rayburn II\",\n      \"year\": 1980,\n      \"journal\": \"Communication Research\",\n      \"doi\": \"10.1177/009365028000700202\",\n      \"url\": \"https://doi.org/10.1177/009365028000700202\"\n    },\n    {\n      \"title\": \"Ritualized and Instrumental Television Viewing\",\n      \"authors\": \"Alan M. Rubin\",\n      \"year\": 1984,\n      \"journal\": \"Journal of Communication\",\n      \"doi\": \"10.1111/j.1460-2466.1984.tb02174.x\",\n      \"url\": \"https://doi.org/10.1111/j.1460-2466.1984.tb02174.x\"\n    },\n    {\n      \"title\": \"Predictors of Internet Use\",\n      \"authors\": \"Zizi Papacharissi, Alan M. Rubin\",\n      \"year\": 2000,\n      \"journal\": \"Journal of Broadcasting & Electronic Media\",\n      \"doi\": \"10.1207/s15506878jobem4402_2\",\n      \"url\": \"https://doi.org/10.1207/s15506878jobem4402_2\"\n    },\n    {\n      \"title\": \"Uses and Grats 2.0: New Gratifications for New Media\",\n      \"authors\": \"S. Shyam Sundar, Anthony M. Limperos\",\n      \"year\": 2013,\n      \"journal\": \"Journal of Broadcasting & Electronic Media\",\n      \"doi\": \"10.1080/08838151.2013.845827\",\n      \"url\": \"https://doi.org/10.1080/08838151.2013.845827\"\n    }\n  ]\n}\n```",
+  "model_returned": "gemini-3.8-flash",
+  "response_id": "chatcmpl-202610111521171320463538268d9d6DPDdcgN6",
+  "provider_status": "completed",
+  "search_executed": false,
+  "tool_records": [],
+  "upstream_snapshot": "unknown",
+  "api_surface": "relay.openai_compatible.chat.completions",
+  "upstream_route_claims": {},
+  "raw_http_body": "{\"id\":\"chatcmpl-202610111521171320463538268d9d6DPDdcgN6\",\"model\":\"gemini-3.8-flash\",\"object\":\"chat.completion\",\"created\":1791732108,\"choices\":[{\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\"```json\\n{\\n  \\\"references\\\": [\\n    {\\n      \\\"title\\\": \\\"Uses and Gratifications Research\\\",\\n      \\\"authors\\\": \\\"Elihu Katz, Jay G. Blumler, Michael Gurevitch\\\",\\n      \\\"year\\\": 1973,\\n      \\\"journal\\\": \\\"The Public Opinion Quarterly\\\",\\n      \\\"doi\\\": \\\"10.1086/268109\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.1086/268109\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"Relations Between Gratifications Sought and Obtained: A Study of Television News\\\",\\n      \\\"authors\\\": \\\"Philip Palmgreen, Lawrence A. Wenner, J. D. Rayburn II\\\",\\n      \\\"year\\\": 1980,\\n      \\\"journal\\\": \\\"Communication Research\\\",\\n      \\\"doi\\\": \\\"10.1177/009365028000700202\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.1177/009365028000700202\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"Ritualized and Instrumental Television Viewing\\\",\\n      \\\"authors\\\": \\\"Alan M. Rubin\\\",\\n      \\\"year\\\": 1984,\\n      \\\"journal\\\": \\\"Journal of Communication\\\",\\n      \\\"doi\\\": \\\"10.1111/j.1460-2466.1984.tb02174.x\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.1111/j.1460-2466.1984.tb02174.x\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"Predictors of Internet Use\\\",\\n      \\\"authors\\\": \\\"Zizi Papacharissi, Alan M. Rubin\\\",\\n      \\\"year\\\": 2000,\\n      \\\"journal\\\": \\\"Journal of Broadcasting \\u0026 Electronic Media\\\",\\n      \\\"doi\\\": \\\"10.1207/s15506878jobem4402_2\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.1207/s15506878jobem4402_2\\\"\\n    },\\n    {\\n      \\\"title\\\": \\\"Uses and Grats 2.0: New Gratifications for New Media\\\",\\n      \\\"authors\\\": \\\"S. Shyam Sundar, Anthony M. Limperos\\\",\\n      \\\"year\\\": 2013,\\n      \\\"journal\\\": \\\"Journal of Broadcasting \\u0026 Electronic Media\\\",\\n      \\\"doi\\\": \\\"10.1080/08838151.2013.845827\\\",\\n      \\\"url\\\": \\\"https://doi.org/10.1080/08838151.2013.845827\\\"\\n    }\\n  ]\\n}\\n```\",\"reasoning_content\":\"**My Thought Process on Identifying Key U\\u0026G Literature**\\n\\nOkay, here's how I approached this. The task is to identify five representative, peer-reviewed journal articles on Uses and Gratifications Theory (U\\u0026G). My immediate focus is on the *quality* and *relevance* of the articles, given that it's for an expert audience, so I am going for \\\"classic\\\" and foundational, as well as those that represent important evolution and applications. Textbooks and review papers are out; we want the original research or influential empirical application.\\n\\nFirst, I had to ensure I understood the explicit requirements: title, authors, year, journal, DOI or URL, and the specified JSON output format. I knew I needed to meticulously populate those fields. I was quite careful to extract exact DOIs, which is critical.\\n\\nI started by listing potential candidates. Katz, Blumler, and Gurevitch (1973) is the obvious starting point – the seminal piece that really codified the theory. Then Rubin (1984) and (1983) were essential additions, for their work in defining \\\"ritualized\\\" versus \\\"instrumental\\\" viewing, which has been foundational in the field. Palmgreen and Rayburn (1979/1980/1984) were next on my list, given their work on the expectancy-value model within U\\u0026G. Ruggiero (2000) was an immediate thought for application of U\\u0026G in the Internet age, but I then reconsidered that this might be a review article, rather than \\\"pure\\\" research. Sundar \\u0026 Limperos (2013) were an obvious next-gen candidate for their work on new media.\\n\\nI debated whether Ruggiero was too review-y or not, and while it's an important article, I ultimately felt it wasn't the *most* appropriate choice, given the explicit instruction to avoid \\\"review textbooks.\\\" I then did a bit of triage to confirm the exact details of the journal articles, making sure I had the right DOIs, journal titles, and author names.\\n\\nI then did a secondary search and vetting of alternative candidates such as Papacharissi \\u0026 Rubin (2000) and Whiting \\u0026 Williams (2013) to ensure these are key empirical research papers; I settled on Papacharissi \\u0026 Rubin as they're a bit more well-known.\\n\\nFinally, I carefully compiled the references, double-checked each data point, and ensured it matched the required JSON structure precisely, verifying the JSON syntax to ensure valid output.\\n\\n```json\\n{\\n  \\\"references\\\": [\\n    {\\n      \\\"title\\\": \\\"Uses and Gratifications Research\\\",\\n      \\\"authors\\\": \\\"Elihu Katz, Jay G. Blumler, Michael Gurevitch\\\",\\n      \\\"year\\\": 1973,\\n      \\\"journal\\\": \\\"The Public Opinion Quarterly\\\",\\n      \\\"doi\\\": \\\"10.1086/268109\\\",\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"Relations Between Gratifications Sought and Obtained: A Study of Television News\\\",\\n      \\\"authors\\\": \\\"Philip Palmgreen, Lawrence A. Wenner, J. D. Rayburn II\\\",\\n      \\\"year\\\": 1980,\\n      \\\"journal\\\": \\\"Communication Research\\\",\\n      \\\"doi\\\": \\\"10.1177/009365028000700202\\\",\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"Ritualized and Instrumental Television Viewing\\\",\\n      \\\"authors\\\": \\\"Alan M. Rubin\\\",\\n      \\\"year\\\": 1984,\\n      \\\"journal\\\": \\\"Journal of Communication\\\",\\n      \\\"doi\\\": \\\"10.1111/j.1460-2466.1984.tb02174.x\\\",\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"Predictors of Internet Use\\\",\\n      \\\"authors\\\": \\\"Zizi Papacharissi, Alan M. Rubin\\\",\\n      \\\"year\\\": 2000,\\n      \\\"journal\\\": \\\"Journal of Broadcasting \\u0026 Electronic Media\\\",\\n      \\\"doi\\\": \\\"10.1207/s15506878jobem4402_2\\\",\\n      \\\"url\\\": null\\n    },\\n    {\\n      \\\"title\\\": \\\"Uses and Grats 2.0: New Gratifications for New Media\\\",\\n      \\\"authors\\\": \\\"S. Shyam Sundar, Anthony M. Limperos\\\",\\n      \\\"year\\\": 2013,\\n      \\\"journal\\\": \\\"Journal of Broadcasting \\u0026 Electronic Media\\\",\\n      \\\"doi\\\": \\\"10.\\n\\n\"},\"finish_reason\":\"stop\"}],\"usage\":{\"prompt_tokens\":143,\"completion_tokens\":3916,\"total_tokens\":4059,\"billing_usage\":{\"source\":\"gemini_chat\",\"semantic\":\"gemini\",\"gemini_usage_metadata\":{\"promptTokenCount\":143,\"toolUsePromptTokenCount\":0,\"candidatesTokenCount\":683,\"totalTokenCount\":4059,\"thoughtsTokenCount\":3233,\"cachedContentTokenCount\":0,\"promptTokensDetails\":[],\"toolUsePromptTokensDetails\":[],\"candidatesTokensDetails\":[]}},\"prompt_tokens_details\":{\"cached_tokens\":0,\"text_tokens\":143,\"audio_tokens\":0,\"image_tokens\":0},\"completion_tokens_details\":{\"text_tokens\":0,\"audio_tokens\":0,\"image_tokens\":0,\"reasoning_tokens\":3233},\"input_tokens\":0,\"output_tokens\":0,\"input_tokens_details\":null,\"claude_cache_creation_5_m_tokens\":0,\"claude_cache_creation_1_h_tokens\":0}}",
+  "http_status": 200,
+  "safe_response_headers": {
+    "x-request-id": "e230feda-dc83-4024-aaed-aec9895b24d7",
+    "server": "cloudflare"
+  },
+  "sent_parameters": {
+    "model": "gemini-3.8-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "请推荐关于「使用与满足理论」的5篇具有代表性的学术期刊研究论文，供研究者了解这一领域的重要研究成果。不限制作者机构、论文发表语言、期刊主办地或出版机构。请按推荐顺序提供论文标题、作者、发表年份、期刊名称，以及能够确认的 DOI 或可靠的论文链接。不确定的字段请填 null；如果无法确认5篇，不必凑足。不要推荐书籍、教材、综述性教科书或虚构文献。按指定 JSON 格式输出。\n{\"references\":[{\"title\":null,\"authors\":null,\"year\":null,\"journal\":null,\"doi\":null,\"url\":null}]}"
+      }
+    ],
+    "max_tokens": 8192,
+    "reasoning_effort": "low"
+  },
+  "provider_request_id": "e230feda-dc83-4024-aaed-aec9895b24d7",
+  "json_parsed": false,
+  "latency": 36.36702869999863,
+  "usage_price_estimate": {
+    "currency": "CNY",
+    "input_tokens_scenario": 143,
+    "output_tokens_scenario": 3916,
+    "text_component_amount": "0.0567336",
+    "estimated_total_amount": null,
+    "verified_total_upper_bound": null,
+    "actual_billed_amount": null,
+    "cache_policy": "all_input_at_uncached_rate_scenario",
+    "multiplier_scenario": "1 (scenario only; not account verification)",
+    "tools": "not_requested",
+    "client_retries": 0,
+    "unknown_terms": [
+      "platform_multiplier",
+      "account_currency_or_quota_unit",
+      "dynamic_price",
+      "context_tier_rules",
+      "reasoning_billing",
+      "cache_write_fee",
+      "failed_request_billing",
+      "platform_internal_retries"
+    ],
+    "price_snapshot_id": "58e8edeb336849be6ae04b0c41fc49b3de2e74a24f6ee00ba37b1b153a8f4a03",
+    "usage_evidence": {
+      "prompt_tokens": 143,
+      "completion_tokens": 3916,
+      "total_tokens": 4059,
+      "billing_usage": {
+        "source": "gemini_chat",
+        "semantic": "gemini",
+        "gemini_usage_metadata": {
+          "promptTokenCount": 143,
+          "toolUsePromptTokenCount": 0,
+          "candidatesTokenCount": 683,
+          "totalTokenCount": 4059,
+          "thoughtsTokenCount": 3233,
+          "cachedContentTokenCount": 0,
+          "promptTokensDetails": [],
+          "toolUsePromptTokensDetails": [],
+          "candidatesTokensDetails": []
+        }
+      },
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "text_tokens": 143,
+        "audio_tokens": 0,
+        "image_tokens": 0
+      },
+      "completion_tokens_details": {
+        "text_tokens": 0,
+        "audio_tokens": 0,
+        "image_tokens": 0,
+        "reasoning_tokens": 3233
+      },
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "input_tokens_details": null,
+      "claude_cache_creation_5_m_tokens": 0,
+      "claude_cache_creation_1_h_tokens": 0
+    },
+    "reasoning_tokens_reported": 3233,
+    "usage_cost_basis": "uncached list-rate component; not actual invoice"
+  }
+}

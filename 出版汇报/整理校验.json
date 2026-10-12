@@ -1,0 +1,18 @@
+{
+  "created_at_local": "2026-10-12 Asia/Shanghai",
+  "source_project": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment",
+  "bundle": "E:\\OneDrive\\Claude Code\\出版实务\\出版汇报",
+  "copied_files": 565,
+  "copied_bytes": 31092419,
+  "all_copy_hashes_verified": true,
+  "copy_only_originals_preserved": true,
+  "secret_environment_and_virtualenv_not_copied": true,
+  "main_raw": 191,
+  "directed_raw": 16,
+  "reverified_copy_files": 565,
+  "original_protected_files_unchanged": 2184,
+  "actual_configured_api_keys_absent": true,
+  "report_pngs": 3,
+  "report_svgs": 3,
+  "project_readme_original_content_preserved": true
+}
