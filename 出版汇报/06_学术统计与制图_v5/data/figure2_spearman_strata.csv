@@ -1,0 +1,12 @@
+﻿stratum_type,stratum,n_unique_works,spearman_rho,median_publication_year,unit,p_value,version
+overall,all,112,0.4191368208033427,2008.5,unique selected work,not_computed_nonindependent_selected_sample,ppt_analysis_v5
+topic,classical,53,0.4281913937880842,1999.0,unique selected work,not_computed_nonindependent_selected_sample,ppt_analysis_v5
+topic,digital,59,0.42118293331457063,2016.0,unique selected work,not_computed_nonindependent_selected_sample,ppt_analysis_v5
+topic,mixed,0,,,unique selected work,not_computed_nonindependent_selected_sample,ppt_analysis_v5
+decade,1960s,1,,1962.0,unique selected work,not_computed_nonindependent_selected_sample,ppt_analysis_v5
+decade,1970s,9,0.9030259356496025,1974.0,unique selected work,not_computed_nonindependent_selected_sample,ppt_analysis_v5
+decade,1980s,9,0.725796546409961,1984.0,unique selected work,not_computed_nonindependent_selected_sample,ppt_analysis_v5
+decade,1990s,10,0.388955587952734,1993.0,unique selected work,not_computed_nonindependent_selected_sample,ppt_analysis_v5
+decade,2000s,29,0.10318415820944327,2004.0,unique selected work,not_computed_nonindependent_selected_sample,ppt_analysis_v5
+decade,2010s,46,0.5273255321524002,2016.0,unique selected work,not_computed_nonindependent_selected_sample,ppt_analysis_v5
+decade,2020s,8,0.4419257545262127,2020.0,unique selected work,not_computed_nonindependent_selected_sample,ppt_analysis_v5

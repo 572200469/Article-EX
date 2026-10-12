@@ -1,0 +1,2961 @@
+{
+  "version": "identity_primary_highfreq_v4",
+  "created_at": "2026-10-12",
+  "source": "outputs/publication_visibility_final_figures/normalized_slots_v3.json",
+  "rows": [
+    {
+      "family": "utilization",
+      "slot_id": "3949add7491ee03ca7534e0d3ccd5704219416a59961adc7d759425e979f9b20",
+      "slot_ids": [
+        "3949add7491ee03ca7534e0d3ccd5704219416a59961adc7d759425e979f9b20"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "3949add7491ee03ca7534e0d3ccd5704219416a59961adc7d759425e979f9b20",
+          "raw_entry": {
+            "title": "Utilization of Mass Communication by the Individual",
+            "authors": "Katz, Elihu; Blumler, Jay G.; Gurevitch, Michael",
+            "year": 1973,
+            "journal": "American Sociological Review",
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 5,
+      "provider": "deepseek",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "Utilization of Mass Communication by the Individual",
+        "authors": [
+          "Elihu Katz",
+          "Jay G. Blumler",
+          "Michael Gurevitch"
+        ],
+        "year": 1974,
+        "journal": null,
+        "publisher": "SAGE Publications",
+        "doi": null,
+        "type": "book-chapter",
+        "container_title": "The Uses of Mass Communications: Current Perspectives on Gratifications Research",
+        "pages": "19-32 (19-34 in later encyclopedia citation; original pagination review pending)",
+        "work_id": "title:katz-blumler-gurevitch-1974-utilization",
+        "url": "https://books.google.com/books/about/The_Uses_of_mass_communications.html?id=2Ua4AAAAIAAJ"
+      },
+      "evidence_source": [
+        "https://books.google.com/books/about/The_Uses_of_mass_communications.html?id=2Ua4AAAAIAAJ",
+        "https://journals.sagepub.com/doi/10.1177/000276427902300106",
+        "https://onlinelibrary.wiley.com/doi/full/10.1002/9781118841570.iejs0032"
+      ],
+      "conflicts": [
+        {
+          "field": "year",
+          "claimed": 1973,
+          "verified": 1974
+        },
+        {
+          "field": "journal_or_carrier",
+          "claimed": "American Sociological Review",
+          "verified": null,
+          "type": "book-chapter"
+        }
+      ],
+      "reasoning": "原书目录定位19页章节；SAGE正式参考书目确认三作者、1974和书章类型；1973 ASR为另一作品On the use of mass media for important things，不能把书章当ASR论文。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "uses",
+      "slot_id": "592fe89d92e33a47a76facb541d2052b4d7f11ea1a955695eb348de117d4c882",
+      "slot_ids": [
+        "592fe89d92e33a47a76facb541d2052b4d7f11ea1a955695eb348de117d4c882"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "592fe89d92e33a47a76facb541d2052b4d7f11ea1a955695eb348de117d4c882",
+          "raw_entry": {
+            "title": "The Uses of Mass Communications: Current Perspectives on Gratifications Research",
+            "authors": "Blumler, Jay G.; Katz, Elihu",
+            "year": 1974,
+            "journal": "Public Opinion Quarterly",
+            "doi": "10.1086/268178",
+            "url": "https://doi.org/10.1086/268178"
+          }
+        }
+      ],
+      "sequence": 5,
+      "provider": "deepseek",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "The Uses of Mass Communications: Current Perspectives on Gratifications Research",
+        "authors": [
+          "Jay G. Blumler",
+          "Elihu Katz"
+        ],
+        "year": 1974,
+        "journal": null,
+        "publisher": "SAGE Publications",
+        "doi": null,
+        "type": "book",
+        "work_id": "isbn:9780803903401",
+        "url": "https://books.google.com/books/about/The_Uses_of_mass_communications.html?id=2Ua4AAAAIAAJ"
+      },
+      "evidence_source": [
+        "https://books.google.com/books/about/The_Uses_of_mass_communications.html?id=2Ua4AAAAIAAJ",
+        "https://eric.ed.gov/?id=ED119208"
+      ],
+      "conflicts": [
+        {
+          "field": "journal_or_carrier",
+          "claimed": "Public Opinion Quarterly",
+          "verified": null,
+          "type": "book"
+        },
+        {
+          "field": "doi",
+          "claimed": "10.1086/268178",
+          "verified": null,
+          "actual_target": "pending_unified_doi_evidence",
+          "note": "不推断未解析DOI的目标；由统一DOI阶段补充实际元数据"
+        },
+        {
+          "field": "authors",
+          "claimed": "Blumler, Jay G.; Katz, Elihu",
+          "verified": [
+            "Jay G. Blumler",
+            "Elihu Katz"
+          ],
+          "note": "逐字段差异供人工复核，不把字符串格式差异当作者身份不符"
+        }
+      ],
+      "reasoning": "原书书目及内容目录确认Blumler/Katz编辑的1974书籍；ERIC来源分类Non-Journal。ERIC页面直开失败，其公开索引元数据只作辅助。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "platform",
+      "slot_id": "f6c8e9fca506ae189596cfd502df610f0f4fab90c09f28bc18b4618dd1527b21",
+      "slot_ids": [
+        "f6c8e9fca506ae189596cfd502df610f0f4fab90c09f28bc18b4618dd1527b21"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "f6c8e9fca506ae189596cfd502df610f0f4fab90c09f28bc18b4618dd1527b21",
+          "raw_entry": {
+            "title": "Platform Capitalism",
+            "authors": null,
+            "year": null,
+            "journal": null,
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 7,
+      "provider": "qwen",
+      "review_status": "unresolved_after_review",
+      "candidate": {
+        "title": "Platform Capitalism",
+        "authors": [
+          "Nick Srnicek"
+        ],
+        "year": 2016,
+        "journal": null,
+        "publisher": "Polity",
+        "doi": null,
+        "type": "book",
+        "work_id": "isbn:9781509504879",
+        "url": "https://kclpure.kcl.ac.uk/portal/en/publications/platform-capitalism/"
+      },
+      "evidence_source": [
+        "https://kclpure.kcl.ac.uk/portal/en/publications/platform-capitalism/",
+        "https://www.wiley-vch.de/en/areas-interest/humanities-social-sciences/platform-capitalism-978-1-5095-0486-2"
+      ],
+      "conflicts": [
+        "仅给出短书名、无作者年份；存在同名作品歧义，暂不唯一对应"
+      ],
+      "reasoning": "作者大学输出登记和出版社页面均给出2016年11月、书籍类型；2017常见引文日期作为需记录的版本年份差异，非不存在证据。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "spiralbook",
+      "slot_id": "4eadc83b83f58ce6684c1bce3d1b93faf2c61658365ed42076bb9d57c591c511",
+      "slot_ids": [
+        "4eadc83b83f58ce6684c1bce3d1b93faf2c61658365ed42076bb9d57c591c511"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "4eadc83b83f58ce6684c1bce3d1b93faf2c61658365ed42076bb9d57c591c511",
+          "raw_entry": {
+            "title": "The Spiral of Silence: Public Opinion - Our Social Conscience",
+            "authors": [
+              "Noelle-Neumann, Elisabeth"
+            ],
+            "year": 1984,
+            "journal": null,
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 10,
+      "provider": "qwen",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "The Spiral of Silence: Public Opinion—Our Social Skin",
+        "authors": [
+          "Elisabeth Noelle-Neumann"
+        ],
+        "year": 1984,
+        "journal": null,
+        "publisher": "University of Chicago Press",
+        "doi": null,
+        "type": "book",
+        "work_id": "oclc:10184148",
+        "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo3684069.html"
+      },
+      "evidence_source": [
+        "https://press.uchicago.edu/ucp/books/book/chicago/S/bo3684069.html",
+        "https://search.worldcat.org/title/The-spiral-of-silence-%3A-public-opinion-our-social-skin/oclc/10184148"
+      ],
+      "conflicts": [
+        {
+          "field": "title",
+          "claimed": "The Spiral of Silence: Public Opinion - Our Social Conscience",
+          "verified": "The Spiral of Silence: Public Opinion—Our Social Skin",
+          "note": "大小写/标点变体或实际副题错误；原值完整保留"
+        },
+        {
+          "field": "authors",
+          "claimed": [
+            "Noelle-Neumann, Elisabeth"
+          ],
+          "verified": [
+            "Elisabeth Noelle-Neumann"
+          ],
+          "note": "逐字段差异供人工复核，不把字符串格式差异当作者身份不符"
+        }
+      ],
+      "reasoning": "出版社确认真实书籍及1993第二版，联合目录确认1984英文版；Conscience/Control为误记副题，不能按精确题名零命中判不存在。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "agenda",
+      "slot_id": "78c530cf91da6e43f11e0ef49e30b9bd9e5f3732ffd4488e022006b4be32690c",
+      "slot_ids": [
+        "78c530cf91da6e43f11e0ef49e30b9bd9e5f3732ffd4488e022006b4be32690c"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "78c530cf91da6e43f11e0ef49e30b9bd9e5f3732ffd4488e022006b4be32690c",
+          "raw_entry": {
+            "title": "Agenda-Setting Research: Where Has It Been, Where Is It Going?",
+            "authors": "Everett M. Rogers; James W. Dearing",
+            "year": 1988,
+            "journal": "Communication Yearbook",
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 13,
+      "provider": "deepseek",
+      "review_status": "verified_exact",
+      "candidate": {
+        "title": "Agenda-Setting Research: Where Has It Been, Where Is It Going?",
+        "authors": [
+          "Everett M. Rogers",
+          "James W. Dearing"
+        ],
+        "year": 1988,
+        "journal": "Communication Yearbook / Annals of the International Communication Association",
+        "publisher": "SAGE (historical); Taylor & Francis (current archive)",
+        "doi": "10.1080/23808985.1988.11678708",
+        "type": "special_historical_carrier",
+        "work_id": "doi:10.1080/23808985.1988.11678708",
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/23808985.1988.11678708",
+        "volume": "11",
+        "issue": "1",
+        "pages": "555-594"
+      },
+      "evidence_source": [
+        "https://www.tandfonline.com/doi/abs/10.1080/23808985.1988.11678708",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781444340525.ch15"
+      ],
+      "conflicts": [
+        {
+          "field": "journal_or_carrier",
+          "claimed": "Communication Yearbook",
+          "verified": "Communication Yearbook / Annals of the International Communication Association",
+          "type": "special_historical_carrier"
+        }
+      ],
+      "reasoning": "原出版社页面直接打开403；正式Wiley章节参考书目确认Rogers/Dearing1988 CommunicationYearbook11身份，DOI题名由多来源一致书目支持。遵循既有研究裁定保留特殊历史载体，不作为普通期刊论文。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "dahlberg",
+      "slot_id": "b0215adccb1a534c936a6d59f04a9987e977fded5e00967c3d72a251e78a413a",
+      "slot_ids": [
+        "b0215adccb1a534c936a6d59f04a9987e977fded5e00967c3d72a251e78a413a"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "b0215adccb1a534c936a6d59f04a9987e977fded5e00967c3d72a251e78a413a",
+          "raw_entry": {
+            "title": "The Internet and the Public Sphere: A Reappraisal",
+            "authors": [
+              "Lincoln Dahlberg"
+            ],
+            "year": 2001,
+            "journal": "New Media & Society",
+            "doi": "10.1177/1461444801003003002",
+            "url": null
+          }
+        }
+      ],
+      "sequence": 14,
+      "provider": "deepseek",
+      "review_status": "unresolved_after_review",
+      "candidate": null,
+      "evidence_source": [
+        "https://journals.sagepub.com/doi/10.1177/135485659800400108"
+      ],
+      "conflicts": [
+        "未取得与该完整题名唯一对应的正式来源；保留原样，不替换近主题作品"
+      ],
+      "reasoning": "完整题名+Dahlberg限定检索未取得同名一手作品证据；定位到的是1998 Cyberspace and the Public Sphere，题名年份均不同，明确不替换。单轮公开检索不足认定虚构。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "dahlberg",
+      "slot_id": "99cddbff42f2531eb1c837ae8af86998f2943d81ba91797830e71f8220482e67",
+      "slot_ids": [
+        "99cddbff42f2531eb1c837ae8af86998f2943d81ba91797830e71f8220482e67"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "99cddbff42f2531eb1c837ae8af86998f2943d81ba91797830e71f8220482e67",
+          "raw_entry": {
+            "title": "The Internet and the Public Sphere: A Reappraisal",
+            "authors": [
+              "Lincoln Dahlberg"
+            ],
+            "year": 2001,
+            "journal": "New Media & Society",
+            "doi": "10.1177/1461444801003003002",
+            "url": null
+          }
+        }
+      ],
+      "sequence": 14,
+      "provider": "deepseek",
+      "review_status": "unresolved_after_review",
+      "candidate": null,
+      "evidence_source": [
+        "https://journals.sagepub.com/doi/10.1177/135485659800400108"
+      ],
+      "conflicts": [
+        "未取得与该完整题名唯一对应的正式来源；保留原样，不替换近主题作品"
+      ],
+      "reasoning": "完整题名+Dahlberg限定检索未取得同名一手作品证据；定位到的是1998 Cyberspace and the Public Sphere，题名年份均不同，明确不替换。单轮公开检索不足认定虚构。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "labor",
+      "slot_id": "4dfbc41078c0d2a7f84cec8bd17593420ec80504e54095023e95c8d10ec4a16d",
+      "slot_ids": [
+        "4dfbc41078c0d2a7f84cec8bd17593420ec80504e54095023e95c8d10ec4a16d"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "4dfbc41078c0d2a7f84cec8bd17593420ec80504e54095023e95c8d10ec4a16d",
+          "raw_entry": {
+            "title": "Labor Platforms and Gig Work: The Failure to Regulate",
+            "authors": [
+              "Ruth Berins Collier",
+              "V.B. Dubai",
+              "Christopher Carter"
+            ],
+            "year": 2017,
+            "journal": "IRLE Working Paper",
+            "doi": null,
+            "url": "https://irle.berkeley.edu/files/2017/Labor-Platforms-and-Gig-Work.pdf"
+          }
+        }
+      ],
+      "sequence": 20,
+      "provider": "deepseek",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "Labor Platforms and Gig Work: The Failure to Regulate",
+        "authors": [
+          "Ruth Berins Collier",
+          "V. B. Dubal",
+          "Christopher Carter"
+        ],
+        "year": 2017,
+        "journal": null,
+        "publisher": "Institute for Research on Labor and Employment, University of California, Berkeley",
+        "doi": null,
+        "type": "working-paper",
+        "work_id": "irle:106-17",
+        "url": "https://irle.berkeley.edu/publications/working-papers/labor-platforms-and-gig-work/"
+      },
+      "evidence_source": [
+        "https://irle.berkeley.edu/publications/working-papers/labor-platforms-and-gig-work/",
+        "https://irle.berkeley.edu/wp-content/uploads/2017/09/Labor-Platforms-and-Gig-Work.pdf"
+      ],
+      "conflicts": [
+        {
+          "field": "journal_or_carrier",
+          "claimed": "IRLE Working Paper",
+          "verified": null,
+          "type": "working-paper"
+        },
+        {
+          "field": "authors",
+          "claimed": [
+            "Ruth Berins Collier",
+            "V.B. Dubai",
+            "Christopher Carter"
+          ],
+          "verified": [
+            "Ruth Berins Collier",
+            "V. B. Dubal",
+            "Christopher Carter"
+          ],
+          "note": "逐字段差异供人工复核，不把字符串格式差异当作者身份不符"
+        }
+      ],
+      "reasoning": "原发布机构与工作论文正文确认三作者、日期2017-09-18及工作论文；Vili版本整组作者不同且2018/SSRN DOI有冲突，不能仅凭题名强行改成Collier。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "mccombs",
+      "slot_id": "2dc1475e239a632201478e446a0afa91c3558482c33be5c1ed5a22c5d5a24124",
+      "slot_ids": [
+        "2dc1475e239a632201478e446a0afa91c3558482c33be5c1ed5a22c5d5a24124"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "2dc1475e239a632201478e446a0afa91c3558482c33be5c1ed5a22c5d5a24124",
+          "raw_entry": {
+            "title": "The Agenda-Setting Role of the Mass Media in the Shaping of Public Opinion",
+            "authors": "Maxwell E. McCombs",
+            "year": 2005,
+            "journal": "Estudios sobre el Mensaje Periodístico",
+            "doi": null,
+            "url": "https://doi.org/10.5209/ESMP.58007"
+          }
+        }
+      ],
+      "sequence": 25,
+      "provider": "deepseek",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "The Agenda-Setting Role of the Mass Media in the Shaping of Public Opinion",
+        "authors": [
+          "Maxwell McCombs"
+        ],
+        "year": null,
+        "journal": null,
+        "publisher": null,
+        "doi": null,
+        "type": "institutionally_hosted_manuscript",
+        "work_id": "url:https://sticerd.lse.ac.uk/dps/extra/McCombs.pdf",
+        "url": "https://sticerd.lse.ac.uk/dps/extra/McCombs.pdf"
+      },
+      "evidence_source": [
+        "https://sticerd.lse.ac.uk/dps/extra/McCombs.pdf"
+      ],
+      "conflicts": [
+        {
+          "field": "journal_or_carrier",
+          "claimed": "Estudios sobre el Mensaje Periodístico",
+          "verified": null,
+          "type": "institutionally_hosted_manuscript"
+        }
+      ],
+      "reasoning": "LSE公开正文首题页确认独特完整题名和MaxwellMcCombs唯一署名；该PDF不证明原声称2005/2004/1997年份及任何原期刊身份。只确认可读作品，正式发表载体仍unknown。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "agenda",
+      "slot_id": "c3d45b298c03ef1281a85ce9545c9905f38a430ea2fe5040e02a42abced4c883",
+      "slot_ids": [
+        "c3d45b298c03ef1281a85ce9545c9905f38a430ea2fe5040e02a42abced4c883"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "c3d45b298c03ef1281a85ce9545c9905f38a430ea2fe5040e02a42abced4c883",
+          "raw_entry": {
+            "title": "Agenda-Setting Research: Where Has It Been? Where Is It Going?",
+            "authors": "Maxwell E. McCombs; David Weaver; Thomas M. Gelfand",
+            "year": 2004,
+            "journal": "Journal of Communication",
+            "doi": "10.1111/j.1460-2466.2004.tb02622.x",
+            "url": null
+          }
+        }
+      ],
+      "sequence": 26,
+      "provider": "qwen",
+      "review_status": "unresolved_after_review",
+      "candidate": {
+        "title": "Agenda-Setting Research: Where Has It Been, Where Is It Going?",
+        "authors": [
+          "Everett M. Rogers",
+          "James W. Dearing"
+        ],
+        "year": 1988,
+        "journal": "Communication Yearbook / Annals of the International Communication Association",
+        "publisher": "SAGE (historical); Taylor & Francis (current archive)",
+        "doi": "10.1080/23808985.1988.11678708",
+        "type": "special_historical_carrier",
+        "work_id": "doi:10.1080/23808985.1988.11678708",
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/23808985.1988.11678708",
+        "volume": "11",
+        "issue": "1",
+        "pages": "555-594"
+      },
+      "evidence_source": [
+        "https://www.tandfonline.com/doi/abs/10.1080/23808985.1988.11678708",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781444340525.ch15"
+      ],
+      "conflicts": [
+        "完整题名相同但作者组、年份、DOI均不同；保留真实候选而不按题名强配",
+        {
+          "field": "title",
+          "claimed": "Agenda-Setting Research: Where Has It Been? Where Is It Going?",
+          "verified": "Agenda-Setting Research: Where Has It Been, Where Is It Going?",
+          "note": "大小写/标点变体或实际副题错误；原值完整保留"
+        },
+        {
+          "field": "year",
+          "claimed": 2004,
+          "verified": 1988
+        },
+        {
+          "field": "journal_or_carrier",
+          "claimed": "Journal of Communication",
+          "verified": "Communication Yearbook / Annals of the International Communication Association",
+          "type": "special_historical_carrier"
+        },
+        {
+          "field": "doi",
+          "claimed": "10.1111/j.1460-2466.2004.tb02622.x",
+          "verified": "10.1080/23808985.1988.11678708",
+          "actual_target": "pending_unified_doi_evidence",
+          "note": "不推断未解析DOI的目标；由统一DOI阶段补充实际元数据"
+        }
+      ],
+      "reasoning": "原出版社页面直接打开403；正式Wiley章节参考书目确认Rogers/Dearing1988 CommunicationYearbook11身份，DOI题名由多来源一致书目支持。遵循既有研究裁定保留特殊历史载体，不作为普通期刊论文。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "spiralbook",
+      "slot_id": "a832d9b98a59b600feb32ab03d72ce83ad842a30a1ccc4f904bdc662196747b4",
+      "slot_ids": [
+        "a832d9b98a59b600feb32ab03d72ce83ad842a30a1ccc4f904bdc662196747b4"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "a832d9b98a59b600feb32ab03d72ce83ad842a30a1ccc4f904bdc662196747b4",
+          "raw_entry": {
+            "title": "The Spiral of Silence: Public Opinion - Our Social Skin",
+            "authors": [
+              "Elisabeth Noelle-Neumann"
+            ],
+            "year": 1974,
+            "journal": null,
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 35,
+      "provider": "qwen",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "The Spiral of Silence: Public Opinion—Our Social Skin",
+        "authors": [
+          "Elisabeth Noelle-Neumann"
+        ],
+        "year": 1984,
+        "journal": null,
+        "publisher": "University of Chicago Press",
+        "doi": null,
+        "type": "book",
+        "work_id": "oclc:10184148",
+        "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo3684069.html"
+      },
+      "evidence_source": [
+        "https://press.uchicago.edu/ucp/books/book/chicago/S/bo3684069.html",
+        "https://search.worldcat.org/title/The-spiral-of-silence-%3A-public-opinion-our-social-skin/oclc/10184148"
+      ],
+      "conflicts": [
+        {
+          "field": "title",
+          "claimed": "The Spiral of Silence: Public Opinion - Our Social Skin",
+          "verified": "The Spiral of Silence: Public Opinion—Our Social Skin",
+          "note": "大小写/标点变体或实际副题错误；原值完整保留"
+        },
+        {
+          "field": "year",
+          "claimed": 1974,
+          "verified": 1984
+        },
+        {
+          "field": "authors",
+          "claimed": [
+            "Elisabeth Noelle-Neumann"
+          ],
+          "verified": [
+            "Elisabeth Noelle-Neumann"
+          ],
+          "note": "逐字段差异供人工复核，不把字符串格式差异当作者身份不符"
+        }
+      ],
+      "reasoning": "出版社确认真实书籍及1993第二版，联合目录确认1984英文版；Conscience/Control为误记副题，不能按精确题名零命中判不存在。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "salmonten",
+      "slot_id": "ad91fadee6da3e73c3ca72e53f6150e6d143e480cb444231617809724706f44e",
+      "slot_ids": [
+        "ad91fadee6da3e73c3ca72e53f6150e6d143e480cb444231617809724706f44e"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "ad91fadee6da3e73c3ca72e53f6150e6d143e480cb444231617809724706f44e",
+          "raw_entry": {
+            "title": "The Spiral of Silence Ten Years Later: An Examination and Evaluation",
+            "authors": [
+              "Charles T. Salmon",
+              "Kurt Neuwirth"
+            ],
+            "year": 1990,
+            "journal": "Communication Yearbook",
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 42,
+      "provider": "deepseek",
+      "review_status": "unresolved_after_review",
+      "candidate": {
+        "title": "The Spiral of Silence Ten Years Later: An Examination and Evaluation",
+        "authors": [
+          "Charles T. Salmon",
+          "F. Gerald Kline"
+        ],
+        "year": 1985,
+        "journal": null,
+        "publisher": "Southern Illinois University Press",
+        "doi": null,
+        "type": "book-chapter",
+        "container_title": "Political Communication Yearbook 1984",
+        "pages": "3-30",
+        "work_id": "title:salmon-kline-1985-spiral-ten-years-later",
+        "url": "https://files.eric.ed.gov/fulltext/ED235528.pdf"
+      },
+      "evidence_source": [
+        "https://files.eric.ed.gov/fulltext/ED235528.pdf",
+        "https://journals.sagepub.com/doi/10.1177/009365086013003002",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781405186407.wbiecs090.pub2"
+      ],
+      "conflicts": [
+        "真实Salmon/Kline1985书章与原Salmon/Neuwirth1990作者年不同；后者另有真实不同题名作品，潜在拼接须研究者判断",
+        {
+          "field": "year",
+          "claimed": 1990,
+          "verified": 1985
+        },
+        {
+          "field": "journal_or_carrier",
+          "claimed": "Communication Yearbook",
+          "verified": null,
+          "type": "book-chapter"
+        }
+      ],
+      "reasoning": "ERIC原始报告PDF首页确认Salmon/Kline题名与署名；SAGE已故Kline官方介绍及Wiley百科参考资料确认1985书章页码3-30。ERIC早期会议稿不是1985正式书章年代的替代。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "spiralbook",
+      "slot_id": "2760b2eca6b560d65401c4f10b5cc38ae6a41b47ef6d382982fbc7f5644aeaa3",
+      "slot_ids": [
+        "2760b2eca6b560d65401c4f10b5cc38ae6a41b47ef6d382982fbc7f5644aeaa3"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "2760b2eca6b560d65401c4f10b5cc38ae6a41b47ef6d382982fbc7f5644aeaa3",
+          "raw_entry": {
+            "title": "The Spiral of Silence: Public Opinion - Our Social Control",
+            "authors": "Noelle-Neumann, Elisabeth",
+            "year": 1984,
+            "journal": null,
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 44,
+      "provider": "qwen",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "The Spiral of Silence: Public Opinion—Our Social Skin",
+        "authors": [
+          "Elisabeth Noelle-Neumann"
+        ],
+        "year": 1984,
+        "journal": null,
+        "publisher": "University of Chicago Press",
+        "doi": null,
+        "type": "book",
+        "work_id": "oclc:10184148",
+        "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo3684069.html"
+      },
+      "evidence_source": [
+        "https://press.uchicago.edu/ucp/books/book/chicago/S/bo3684069.html",
+        "https://search.worldcat.org/title/The-spiral-of-silence-%3A-public-opinion-our-social-skin/oclc/10184148"
+      ],
+      "conflicts": [
+        {
+          "field": "title",
+          "claimed": "The Spiral of Silence: Public Opinion - Our Social Control",
+          "verified": "The Spiral of Silence: Public Opinion—Our Social Skin",
+          "note": "大小写/标点变体或实际副题错误；原值完整保留"
+        },
+        {
+          "field": "authors",
+          "claimed": "Noelle-Neumann, Elisabeth",
+          "verified": [
+            "Elisabeth Noelle-Neumann"
+          ],
+          "note": "逐字段差异供人工复核，不把字符串格式差异当作者身份不符"
+        }
+      ],
+      "reasoning": "出版社确认真实书籍及1993第二版，联合目录确认1984英文版；Conscience/Control为误记副题，不能按精确题名零命中判不存在。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "agenda",
+      "slot_id": "d29e9443eeac1bdb194d50e45ae20350eff47c3c6c230db4f7f9f0500a9730cb",
+      "slot_ids": [
+        "d29e9443eeac1bdb194d50e45ae20350eff47c3c6c230db4f7f9f0500a9730cb"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "d29e9443eeac1bdb194d50e45ae20350eff47c3c6c230db4f7f9f0500a9730cb",
+          "raw_entry": {
+            "title": "Agenda-Setting Research: Where Has It Been, Where Is It Going?",
+            "authors": "James P. Dearing; Everett M. Rogers",
+            "year": 1988,
+            "journal": "Annals of the International Communication Association",
+            "doi": "10.1080/23808985.1988.11678699",
+            "url": "https://doi.org/10.1080/23808985.1988.11678699"
+          }
+        }
+      ],
+      "sequence": 49,
+      "provider": "deepseek",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "Agenda-Setting Research: Where Has It Been, Where Is It Going?",
+        "authors": [
+          "Everett M. Rogers",
+          "James W. Dearing"
+        ],
+        "year": 1988,
+        "journal": "Communication Yearbook / Annals of the International Communication Association",
+        "publisher": "SAGE (historical); Taylor & Francis (current archive)",
+        "doi": "10.1080/23808985.1988.11678708",
+        "type": "special_historical_carrier",
+        "work_id": "doi:10.1080/23808985.1988.11678708",
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/23808985.1988.11678708",
+        "volume": "11",
+        "issue": "1",
+        "pages": "555-594"
+      },
+      "evidence_source": [
+        "https://www.tandfonline.com/doi/abs/10.1080/23808985.1988.11678708",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781444340525.ch15"
+      ],
+      "conflicts": [
+        {
+          "field": "journal_or_carrier",
+          "claimed": "Annals of the International Communication Association",
+          "verified": "Communication Yearbook / Annals of the International Communication Association",
+          "type": "special_historical_carrier"
+        },
+        {
+          "field": "doi",
+          "claimed": "10.1080/23808985.1988.11678699",
+          "verified": "10.1080/23808985.1988.11678708",
+          "actual_target": "pending_unified_doi_evidence",
+          "note": "不推断未解析DOI的目标；由统一DOI阶段补充实际元数据"
+        }
+      ],
+      "reasoning": "原出版社页面直接打开403；正式Wiley章节参考书目确认Rogers/Dearing1988 CommunicationYearbook11身份，DOI题名由多来源一致书目支持。遵循既有研究裁定保留特殊历史载体，不作为普通期刊论文。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "labor",
+      "slot_id": "cd52f89dd85f2a5b27db7db713c1fa80568a14beba08b064bd2fbe5a8d63424c",
+      "slot_ids": [
+        "cd52f89dd85f2a5b27db7db713c1fa80568a14beba08b064bd2fbe5a8d63424c"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "cd52f89dd85f2a5b27db7db713c1fa80568a14beba08b064bd2fbe5a8d63424c",
+          "raw_entry": {
+            "title": "Labor Platforms and Gig Work: The Failure to Regulate",
+            "authors": "Vili Lehdonvirta",
+            "year": 2018,
+            "journal": "SSRN Electronic Journal",
+            "doi": "10.2139/ssrn.3266986",
+            "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3266986"
+          }
+        }
+      ],
+      "sequence": 71,
+      "provider": "deepseek",
+      "review_status": "unresolved_after_review",
+      "candidate": {
+        "title": "Labor Platforms and Gig Work: The Failure to Regulate",
+        "authors": [
+          "Ruth Berins Collier",
+          "V. B. Dubal",
+          "Christopher Carter"
+        ],
+        "year": 2017,
+        "journal": null,
+        "publisher": "Institute for Research on Labor and Employment, University of California, Berkeley",
+        "doi": null,
+        "type": "working-paper",
+        "work_id": "irle:106-17",
+        "url": "https://irle.berkeley.edu/publications/working-papers/labor-platforms-and-gig-work/"
+      },
+      "evidence_source": [
+        "https://irle.berkeley.edu/publications/working-papers/labor-platforms-and-gig-work/",
+        "https://irle.berkeley.edu/wp-content/uploads/2017/09/Labor-Platforms-and-Gig-Work.pdf"
+      ],
+      "conflicts": [
+        "ViliLehdonvirta与正式工作论文所有作者、年份和载体不同；待实际DOI目标交叉审阅，不按题名强配",
+        {
+          "field": "year",
+          "claimed": 2018,
+          "verified": 2017
+        },
+        {
+          "field": "journal_or_carrier",
+          "claimed": "SSRN Electronic Journal",
+          "verified": null,
+          "type": "working-paper"
+        },
+        {
+          "field": "doi",
+          "claimed": "10.2139/ssrn.3266986",
+          "verified": null,
+          "actual_target": "pending_unified_doi_evidence",
+          "note": "不推断未解析DOI的目标；由统一DOI阶段补充实际元数据"
+        }
+      ],
+      "reasoning": "原发布机构与工作论文正文确认三作者、日期2017-09-18及工作论文；Vili版本整组作者不同且2018/SSRN DOI有冲突，不能仅凭题名强行改成Collier。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "spiralbook",
+      "slot_id": "4fd6391d0cd4ab4c45259a48a5bcf3b7303c9e67d14fef3f0838296bd595d7b8",
+      "slot_ids": [
+        "4fd6391d0cd4ab4c45259a48a5bcf3b7303c9e67d14fef3f0838296bd595d7b8"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "4fd6391d0cd4ab4c45259a48a5bcf3b7303c9e67d14fef3f0838296bd595d7b8",
+          "raw_entry": {
+            "title": "The Spiral of Silence: Public Opinion - Our Social Conscience",
+            "authors": null,
+            "year": null,
+            "journal": null,
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 76,
+      "provider": "qwen",
+      "review_status": "unresolved_after_review",
+      "candidate": {
+        "title": "The Spiral of Silence: Public Opinion—Our Social Skin",
+        "authors": [
+          "Elisabeth Noelle-Neumann"
+        ],
+        "year": 1984,
+        "journal": null,
+        "publisher": "University of Chicago Press",
+        "doi": null,
+        "type": "book",
+        "work_id": "oclc:10184148",
+        "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo3684069.html"
+      },
+      "evidence_source": [
+        "https://press.uchicago.edu/ucp/books/book/chicago/S/bo3684069.html",
+        "https://search.worldcat.org/title/The-spiral-of-silence-%3A-public-opinion-our-social-skin/oclc/10184148"
+      ],
+      "conflicts": [
+        "副题与原书有差异且作者年份缺失；候选有证据但原推荐对应关系仍需审阅",
+        {
+          "field": "title",
+          "claimed": "The Spiral of Silence: Public Opinion - Our Social Conscience",
+          "verified": "The Spiral of Silence: Public Opinion—Our Social Skin",
+          "note": "大小写/标点变体或实际副题错误；原值完整保留"
+        }
+      ],
+      "reasoning": "出版社确认真实书籍及1993第二版，联合目录确认1984英文版；Conscience/Control为误记副题，不能按精确题名零命中判不存在。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "agenda",
+      "slot_id": "2de12043d1d853dbb330878008186e9fc1dcdcf50366a1de55907c9801f5622f",
+      "slot_ids": [
+        "2de12043d1d853dbb330878008186e9fc1dcdcf50366a1de55907c9801f5622f"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "2de12043d1d853dbb330878008186e9fc1dcdcf50366a1de55907c9801f5622f",
+          "raw_entry": {
+            "title": "Agenda-Setting Research: Where Has It Been, Where Is It Going?",
+            "authors": [
+              "Everett M. Rogers",
+              "James W. Dearing"
+            ],
+            "year": 1988,
+            "journal": "Communication Research",
+            "doi": "10.1177/009365088015002004",
+            "url": "https://doi.org/10.1177/009365088015002004"
+          }
+        }
+      ],
+      "sequence": 78,
+      "provider": "deepseek",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "Agenda-Setting Research: Where Has It Been, Where Is It Going?",
+        "authors": [
+          "Everett M. Rogers",
+          "James W. Dearing"
+        ],
+        "year": 1988,
+        "journal": "Communication Yearbook / Annals of the International Communication Association",
+        "publisher": "SAGE (historical); Taylor & Francis (current archive)",
+        "doi": "10.1080/23808985.1988.11678708",
+        "type": "special_historical_carrier",
+        "work_id": "doi:10.1080/23808985.1988.11678708",
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/23808985.1988.11678708",
+        "volume": "11",
+        "issue": "1",
+        "pages": "555-594"
+      },
+      "evidence_source": [
+        "https://www.tandfonline.com/doi/abs/10.1080/23808985.1988.11678708",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781444340525.ch15"
+      ],
+      "conflicts": [
+        {
+          "field": "journal_or_carrier",
+          "claimed": "Communication Research",
+          "verified": "Communication Yearbook / Annals of the International Communication Association",
+          "type": "special_historical_carrier"
+        },
+        {
+          "field": "doi",
+          "claimed": "10.1177/009365088015002004",
+          "verified": "10.1080/23808985.1988.11678708",
+          "actual_target": "pending_unified_doi_evidence",
+          "note": "不推断未解析DOI的目标；由统一DOI阶段补充实际元数据"
+        }
+      ],
+      "reasoning": "原出版社页面直接打开403；正式Wiley章节参考书目确认Rogers/Dearing1988 CommunicationYearbook11身份，DOI题名由多来源一致书目支持。遵循既有研究裁定保留特殊历史载体，不作为普通期刊论文。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "mccombs",
+      "slot_id": "269f71b9c94ff2d64e96584c9aa15290a6b89cd73840336b5845347cd4e56fac",
+      "slot_ids": [
+        "269f71b9c94ff2d64e96584c9aa15290a6b89cd73840336b5845347cd4e56fac"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "269f71b9c94ff2d64e96584c9aa15290a6b89cd73840336b5845347cd4e56fac",
+          "raw_entry": {
+            "title": "The Agenda-Setting Role of the Mass Media in the Shaping of Public Opinion",
+            "authors": [
+              "Maxwell E. McCombs"
+            ],
+            "year": 2004,
+            "journal": "Annals of the American Academy of Political and Social Science",
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 78,
+      "provider": "deepseek",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "The Agenda-Setting Role of the Mass Media in the Shaping of Public Opinion",
+        "authors": [
+          "Maxwell McCombs"
+        ],
+        "year": null,
+        "journal": null,
+        "publisher": null,
+        "doi": null,
+        "type": "institutionally_hosted_manuscript",
+        "work_id": "url:https://sticerd.lse.ac.uk/dps/extra/McCombs.pdf",
+        "url": "https://sticerd.lse.ac.uk/dps/extra/McCombs.pdf"
+      },
+      "evidence_source": [
+        "https://sticerd.lse.ac.uk/dps/extra/McCombs.pdf"
+      ],
+      "conflicts": [
+        {
+          "field": "journal_or_carrier",
+          "claimed": "Annals of the American Academy of Political and Social Science",
+          "verified": null,
+          "type": "institutionally_hosted_manuscript"
+        }
+      ],
+      "reasoning": "LSE公开正文首题页确认独特完整题名和MaxwellMcCombs唯一署名；该PDF不证明原声称2005/2004/1997年份及任何原期刊身份。只确认可读作品，正式发表载体仍unknown。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "uses",
+      "slot_id": "d1b3c824410e5ba6bf7a2f8f7eacd21abc04910bef8f62c4b68da512ffff03ce",
+      "slot_ids": [
+        "d1b3c824410e5ba6bf7a2f8f7eacd21abc04910bef8f62c4b68da512ffff03ce"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "d1b3c824410e5ba6bf7a2f8f7eacd21abc04910bef8f62c4b68da512ffff03ce",
+          "raw_entry": {
+            "title": "The Uses of Mass Media: Current Perspectives on Gratifications Research",
+            "authors": "Elihu Katz, Jay G. Blumler, Michael Gurevitch",
+            "year": 1974,
+            "journal": "Communication Research",
+            "doi": "10.1177/009365027400100301",
+            "url": null
+          }
+        }
+      ],
+      "sequence": 84,
+      "provider": "qwen",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "The Uses of Mass Communications: Current Perspectives on Gratifications Research",
+        "authors": [
+          "Jay G. Blumler",
+          "Elihu Katz"
+        ],
+        "year": 1974,
+        "journal": null,
+        "publisher": "SAGE Publications",
+        "doi": null,
+        "type": "book",
+        "work_id": "isbn:9780803903401",
+        "url": "https://books.google.com/books/about/The_Uses_of_mass_communications.html?id=2Ua4AAAAIAAJ"
+      },
+      "evidence_source": [
+        "https://books.google.com/books/about/The_Uses_of_mass_communications.html?id=2Ua4AAAAIAAJ",
+        "https://eric.ed.gov/?id=ED119208"
+      ],
+      "conflicts": [
+        {
+          "field": "title",
+          "claimed": "The Uses of Mass Media: Current Perspectives on Gratifications Research",
+          "verified": "The Uses of Mass Communications: Current Perspectives on Gratifications Research",
+          "note": "大小写/标点变体或实际副题错误；原值完整保留"
+        },
+        {
+          "field": "journal_or_carrier",
+          "claimed": "Communication Research",
+          "verified": null,
+          "type": "book"
+        },
+        {
+          "field": "doi",
+          "claimed": "10.1177/009365027400100301",
+          "verified": null,
+          "actual_target": "pending_unified_doi_evidence",
+          "note": "不推断未解析DOI的目标；由统一DOI阶段补充实际元数据"
+        },
+        {
+          "field": "authors",
+          "claimed": "Elihu Katz, Jay G. Blumler, Michael Gurevitch",
+          "verified": [
+            "Jay G. Blumler",
+            "Elihu Katz"
+          ],
+          "note": "逐字段差异供人工复核，不把字符串格式差异当作者身份不符"
+        }
+      ],
+      "reasoning": "原书书目及内容目录确认Blumler/Katz编辑的1974书籍；ERIC来源分类Non-Journal。ERIC页面直开失败，其公开索引元数据只作辅助。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "frame",
+      "slot_id": "57e6868a169b560adc62a2cf0f47da81eca545356d8d76fc86c9a06134d71281",
+      "slot_ids": [
+        "57e6868a169b560adc62a2cf0f47da81eca545356d8d76fc86c9a06134d71281"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "57e6868a169b560adc62a2cf0f47da81eca545356d8d76fc86c9a06134d71281",
+          "raw_entry": {
+            "title": "Frame Analysis: An Essay on the Organization of Experience",
+            "authors": [
+              "Erving Goffman"
+            ],
+            "year": 1974,
+            "journal": null,
+            "doi": null,
+            "url": "https://archive.org/details/frameanalysisess00goff"
+          }
+        }
+      ],
+      "sequence": 86,
+      "provider": "openai",
+      "review_status": "verified_exact",
+      "candidate": {
+        "title": "Frame Analysis: An Essay on the Organization of Experience",
+        "authors": [
+          "Erving Goffman"
+        ],
+        "year": 1974,
+        "journal": null,
+        "publisher": "Harper & Row",
+        "doi": null,
+        "type": "book",
+        "work_id": "oclc:758159297",
+        "url": "https://search.worldcat.org/title/Frame-analysis-%3A-an-essay-on-the-organization-of-experience/oclc/758159297"
+      },
+      "evidence_source": [
+        "https://search.worldcat.org/title/Frame-analysis-%3A-an-essay-on-the-organization-of-experience/oclc/758159297"
+      ],
+      "conflicts": [],
+      "reasoning": "图书馆联合目录确认题名、唯一作者、1974初版与书籍类型。1986重印不改写1974作品身份。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "platform",
+      "slot_id": "0b5dc406273c0088b57960a04d6858f0b2f735b4654fd70e6d665b6e7319f6d9",
+      "slot_ids": [
+        "0b5dc406273c0088b57960a04d6858f0b2f735b4654fd70e6d665b6e7319f6d9"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "0b5dc406273c0088b57960a04d6858f0b2f735b4654fd70e6d665b6e7319f6d9",
+          "raw_entry": {
+            "title": "Platform Capitalism",
+            "authors": "Nick Srnicek",
+            "year": 2017,
+            "journal": null,
+            "doi": null,
+            "url": "https://politybooks.com/bookdetail/?isbn=9781509500898"
+          }
+        }
+      ],
+      "sequence": 94,
+      "provider": "qwen",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "Platform Capitalism",
+        "authors": [
+          "Nick Srnicek"
+        ],
+        "year": 2016,
+        "journal": null,
+        "publisher": "Polity",
+        "doi": null,
+        "type": "book",
+        "work_id": "isbn:9781509504879",
+        "url": "https://kclpure.kcl.ac.uk/portal/en/publications/platform-capitalism/"
+      },
+      "evidence_source": [
+        "https://kclpure.kcl.ac.uk/portal/en/publications/platform-capitalism/",
+        "https://www.wiley-vch.de/en/areas-interest/humanities-social-sciences/platform-capitalism-978-1-5095-0486-2"
+      ],
+      "conflicts": [
+        {
+          "field": "year",
+          "claimed": 2017,
+          "verified": 2016
+        }
+      ],
+      "reasoning": "作者大学输出登记和出版社页面均给出2016年11月、书籍类型；2017常见引文日期作为需记录的版本年份差异，非不存在证据。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "frame",
+      "slot_id": "114c7d6a823483e0994363aad37a99258af36a52dabb4cca13794b9603f80fe2",
+      "slot_ids": [
+        "114c7d6a823483e0994363aad37a99258af36a52dabb4cca13794b9603f80fe2"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "114c7d6a823483e0994363aad37a99258af36a52dabb4cca13794b9603f80fe2",
+          "raw_entry": {
+            "title": "Frame Analysis: An Essay on the Organization of Experience",
+            "authors": "Erving Goffman",
+            "year": 1974,
+            "journal": null,
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 97,
+      "provider": "qwen",
+      "review_status": "verified_exact",
+      "candidate": {
+        "title": "Frame Analysis: An Essay on the Organization of Experience",
+        "authors": [
+          "Erving Goffman"
+        ],
+        "year": 1974,
+        "journal": null,
+        "publisher": "Harper & Row",
+        "doi": null,
+        "type": "book",
+        "work_id": "oclc:758159297",
+        "url": "https://search.worldcat.org/title/Frame-analysis-%3A-an-essay-on-the-organization-of-experience/oclc/758159297"
+      },
+      "evidence_source": [
+        "https://search.worldcat.org/title/Frame-analysis-%3A-an-essay-on-the-organization-of-experience/oclc/758159297"
+      ],
+      "conflicts": [],
+      "reasoning": "图书馆联合目录确认题名、唯一作者、1974初版与书籍类型。1986重印不改写1974作品身份。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "utilization",
+      "slot_id": "d354604f75916ec07fecbc962cc06f7f556aee84633ec068e83c60097f8ebdb6",
+      "slot_ids": [
+        "d354604f75916ec07fecbc962cc06f7f556aee84633ec068e83c60097f8ebdb6"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "d354604f75916ec07fecbc962cc06f7f556aee84633ec068e83c60097f8ebdb6",
+          "raw_entry": {
+            "title": "Utilization of Mass Communication by the Individual",
+            "authors": "Katz, Elihu; Blumler, Jay G.; Gurevitch, Michael",
+            "year": 1974,
+            "journal": null,
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 99,
+      "provider": "deepseek",
+      "review_status": "verified_exact",
+      "candidate": {
+        "title": "Utilization of Mass Communication by the Individual",
+        "authors": [
+          "Elihu Katz",
+          "Jay G. Blumler",
+          "Michael Gurevitch"
+        ],
+        "year": 1974,
+        "journal": null,
+        "publisher": "SAGE Publications",
+        "doi": null,
+        "type": "book-chapter",
+        "container_title": "The Uses of Mass Communications: Current Perspectives on Gratifications Research",
+        "pages": "19-32 (19-34 in later encyclopedia citation; original pagination review pending)",
+        "work_id": "title:katz-blumler-gurevitch-1974-utilization",
+        "url": "https://books.google.com/books/about/The_Uses_of_mass_communications.html?id=2Ua4AAAAIAAJ"
+      },
+      "evidence_source": [
+        "https://books.google.com/books/about/The_Uses_of_mass_communications.html?id=2Ua4AAAAIAAJ",
+        "https://journals.sagepub.com/doi/10.1177/000276427902300106",
+        "https://onlinelibrary.wiley.com/doi/full/10.1002/9781118841570.iejs0032"
+      ],
+      "conflicts": [],
+      "reasoning": "原书目录定位19页章节；SAGE正式参考书目确认三作者、1974和书章类型；1973 ASR为另一作品On the use of mass media for important things，不能把书章当ASR论文。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "uses",
+      "slot_id": "13c8fb16b477ac81666f1bef0b312542a3d97a537597d4245abf22762a688dde",
+      "slot_ids": [
+        "13c8fb16b477ac81666f1bef0b312542a3d97a537597d4245abf22762a688dde"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "13c8fb16b477ac81666f1bef0b312542a3d97a537597d4245abf22762a688dde",
+          "raw_entry": {
+            "title": "The Uses of Mass Communications: Current Perspectives on Gratifications Research",
+            "authors": "Blumler, Jay G.; Katz, Elihu",
+            "year": 1974,
+            "journal": null,
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 99,
+      "provider": "deepseek",
+      "review_status": "verified_exact",
+      "candidate": {
+        "title": "The Uses of Mass Communications: Current Perspectives on Gratifications Research",
+        "authors": [
+          "Jay G. Blumler",
+          "Elihu Katz"
+        ],
+        "year": 1974,
+        "journal": null,
+        "publisher": "SAGE Publications",
+        "doi": null,
+        "type": "book",
+        "work_id": "isbn:9780803903401",
+        "url": "https://books.google.com/books/about/The_Uses_of_mass_communications.html?id=2Ua4AAAAIAAJ"
+      },
+      "evidence_source": [
+        "https://books.google.com/books/about/The_Uses_of_mass_communications.html?id=2Ua4AAAAIAAJ",
+        "https://eric.ed.gov/?id=ED119208"
+      ],
+      "conflicts": [],
+      "reasoning": "原书书目及内容目录确认Blumler/Katz编辑的1974书籍；ERIC来源分类Non-Journal。ERIC页面直开失败，其公开索引元数据只作辅助。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "salmonten",
+      "slot_id": "42bf5242bbe35a2fab4c8cb77c2ef80e97ac1fe61330585fdc407579f3917026",
+      "slot_ids": [
+        "42bf5242bbe35a2fab4c8cb77c2ef80e97ac1fe61330585fdc407579f3917026"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "42bf5242bbe35a2fab4c8cb77c2ef80e97ac1fe61330585fdc407579f3917026",
+          "raw_entry": {
+            "title": "The Spiral of Silence Ten Years Later: An Examination and Evaluation",
+            "authors": [
+              "Charles T. Salmon",
+              "F. Gerald Kline"
+            ],
+            "year": 1985,
+            "journal": "Annals of the International Communication Association",
+            "doi": "10.1080/23808985.1985.11678526",
+            "url": "https://doi.org/10.1080/23808985.1985.11678526"
+          }
+        }
+      ],
+      "sequence": 104,
+      "provider": "deepseek",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "The Spiral of Silence Ten Years Later: An Examination and Evaluation",
+        "authors": [
+          "Charles T. Salmon",
+          "F. Gerald Kline"
+        ],
+        "year": 1985,
+        "journal": null,
+        "publisher": "Southern Illinois University Press",
+        "doi": null,
+        "type": "book-chapter",
+        "container_title": "Political Communication Yearbook 1984",
+        "pages": "3-30",
+        "work_id": "title:salmon-kline-1985-spiral-ten-years-later",
+        "url": "https://files.eric.ed.gov/fulltext/ED235528.pdf"
+      },
+      "evidence_source": [
+        "https://files.eric.ed.gov/fulltext/ED235528.pdf",
+        "https://journals.sagepub.com/doi/10.1177/009365086013003002",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781405186407.wbiecs090.pub2"
+      ],
+      "conflicts": [
+        {
+          "field": "journal_or_carrier",
+          "claimed": "Annals of the International Communication Association",
+          "verified": null,
+          "type": "book-chapter"
+        },
+        {
+          "field": "doi",
+          "claimed": "10.1080/23808985.1985.11678526",
+          "verified": null,
+          "actual_target": "pending_unified_doi_evidence",
+          "note": "不推断未解析DOI的目标；由统一DOI阶段补充实际元数据"
+        },
+        {
+          "field": "authors",
+          "claimed": [
+            "Charles T. Salmon",
+            "F. Gerald Kline"
+          ],
+          "verified": [
+            "Charles T. Salmon",
+            "F. Gerald Kline"
+          ],
+          "note": "逐字段差异供人工复核，不把字符串格式差异当作者身份不符"
+        }
+      ],
+      "reasoning": "ERIC原始报告PDF首页确认Salmon/Kline题名与署名；SAGE已故Kline官方介绍及Wiley百科参考资料确认1985书章页码3-30。ERIC早期会议稿不是1985正式书章年代的替代。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "uses",
+      "slot_id": "200c375f54bc8f8b2397813a4ade624b4796dcc457f5139118d2334aa89ea579",
+      "slot_ids": [
+        "200c375f54bc8f8b2397813a4ade624b4796dcc457f5139118d2334aa89ea579"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "200c375f54bc8f8b2397813a4ade624b4796dcc457f5139118d2334aa89ea579",
+          "raw_entry": {
+            "title": "The Uses of Mass Communications: Current Perspectives on Gratifications Research",
+            "authors": "Blumler, Jay G.; Katz, Elihu",
+            "year": 1974,
+            "journal": "Public Opinion Quarterly",
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 106,
+      "provider": "deepseek",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "The Uses of Mass Communications: Current Perspectives on Gratifications Research",
+        "authors": [
+          "Jay G. Blumler",
+          "Elihu Katz"
+        ],
+        "year": 1974,
+        "journal": null,
+        "publisher": "SAGE Publications",
+        "doi": null,
+        "type": "book",
+        "work_id": "isbn:9780803903401",
+        "url": "https://books.google.com/books/about/The_Uses_of_mass_communications.html?id=2Ua4AAAAIAAJ"
+      },
+      "evidence_source": [
+        "https://books.google.com/books/about/The_Uses_of_mass_communications.html?id=2Ua4AAAAIAAJ",
+        "https://eric.ed.gov/?id=ED119208"
+      ],
+      "conflicts": [
+        {
+          "field": "journal_or_carrier",
+          "claimed": "Public Opinion Quarterly",
+          "verified": null,
+          "type": "book"
+        },
+        {
+          "field": "authors",
+          "claimed": "Blumler, Jay G.; Katz, Elihu",
+          "verified": [
+            "Jay G. Blumler",
+            "Elihu Katz"
+          ],
+          "note": "逐字段差异供人工复核，不把字符串格式差异当作者身份不符"
+        }
+      ],
+      "reasoning": "原书书目及内容目录确认Blumler/Katz编辑的1974书籍；ERIC来源分类Non-Journal。ERIC页面直开失败，其公开索引元数据只作辅助。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "virtual",
+      "slot_id": "d4f294a51ffcae0391a5f21564970ad385c1e173c113905e533e4b8a397bc406",
+      "slot_ids": [
+        "d4f294a51ffcae0391a5f21564970ad385c1e173c113905e533e4b8a397bc406"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "d4f294a51ffcae0391a5f21564970ad385c1e173c113905e533e4b8a397bc406",
+          "raw_entry": {
+            "title": "The Virtual Sphere: The Internet as a Public Sphere",
+            "authors": [
+              "Zizi Papacharissi"
+            ],
+            "year": 2002,
+            "journal": "New Media & Society",
+            "doi": "10.1177/1461444802001004002",
+            "url": "https://doi.org/10.1177/1461444802001004002"
+          }
+        }
+      ],
+      "sequence": 110,
+      "provider": "openai",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "The Virtual Sphere: The Internet as a Public Sphere",
+        "authors": [
+          "Zizi Papacharissi"
+        ],
+        "year": 2002,
+        "journal": "New Media & Society",
+        "publisher": "SAGE Publications",
+        "doi": "10.1177/14614440222226244",
+        "type": "journal-article",
+        "work_id": "doi:10.1177/14614440222226244",
+        "url": "https://journals.sagepub.com/doi/10.1177/14614440222226244",
+        "volume": "4",
+        "issue": "1",
+        "pages": "9-27",
+        "issn_l": "1461-4448"
+      },
+      "evidence_source": [
+        "https://journals.sagepub.com/doi/10.1177/14614440222226244",
+        "https://cir.nii.ac.jp/crid/1360305195246399616"
+      ],
+      "conflicts": [
+        {
+          "field": "doi",
+          "claimed": "10.1177/1461444802001004002",
+          "verified": "10.1177/14614440222226244",
+          "actual_target": "pending_unified_doi_evidence",
+          "note": "不推断未解析DOI的目标；由统一DOI阶段补充实际元数据"
+        }
+      ],
+      "reasoning": "SAGE正式论文页面直接读取，确认题名、副题、作者、2002/02及NMS；准确题名作者年可识别作品，错误DOI单独记录而非排除作品。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "frame",
+      "slot_id": "f279691776fc07a4384da9853e03b6b0756226f28b9072c7f1b49e44c988da26",
+      "slot_ids": [
+        "f279691776fc07a4384da9853e03b6b0756226f28b9072c7f1b49e44c988da26"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "f279691776fc07a4384da9853e03b6b0756226f28b9072c7f1b49e44c988da26",
+          "raw_entry": {
+            "title": "Frame Analysis: An Essay on the Organization of Experience",
+            "authors": "Erving Goffman",
+            "year": 1974,
+            "journal": null,
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 115,
+      "provider": "qwen",
+      "review_status": "verified_exact",
+      "candidate": {
+        "title": "Frame Analysis: An Essay on the Organization of Experience",
+        "authors": [
+          "Erving Goffman"
+        ],
+        "year": 1974,
+        "journal": null,
+        "publisher": "Harper & Row",
+        "doi": null,
+        "type": "book",
+        "work_id": "oclc:758159297",
+        "url": "https://search.worldcat.org/title/Frame-analysis-%3A-an-essay-on-the-organization-of-experience/oclc/758159297"
+      },
+      "evidence_source": [
+        "https://search.worldcat.org/title/Frame-analysis-%3A-an-essay-on-the-organization-of-experience/oclc/758159297"
+      ],
+      "conflicts": [],
+      "reasoning": "图书馆联合目录确认题名、唯一作者、1974初版与书籍类型。1986重印不改写1974作品身份。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "frame",
+      "slot_id": "214f7ba4dfd6ce2a4817500fb6e383976bcc6e7642672f9300e8d5e6fdd8e5c6",
+      "slot_ids": [
+        "214f7ba4dfd6ce2a4817500fb6e383976bcc6e7642672f9300e8d5e6fdd8e5c6"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "214f7ba4dfd6ce2a4817500fb6e383976bcc6e7642672f9300e8d5e6fdd8e5c6",
+          "raw_entry": {
+            "title": "Frame Analysis: An Essay on the Organization of Experience",
+            "authors": [
+              "Erving Goffman"
+            ],
+            "year": 1974,
+            "journal": null,
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 120,
+      "provider": "qwen",
+      "review_status": "verified_exact",
+      "candidate": {
+        "title": "Frame Analysis: An Essay on the Organization of Experience",
+        "authors": [
+          "Erving Goffman"
+        ],
+        "year": 1974,
+        "journal": null,
+        "publisher": "Harper & Row",
+        "doi": null,
+        "type": "book",
+        "work_id": "oclc:758159297",
+        "url": "https://search.worldcat.org/title/Frame-analysis-%3A-an-essay-on-the-organization-of-experience/oclc/758159297"
+      },
+      "evidence_source": [
+        "https://search.worldcat.org/title/Frame-analysis-%3A-an-essay-on-the-organization-of-experience/oclc/758159297"
+      ],
+      "conflicts": [],
+      "reasoning": "图书馆联合目录确认题名、唯一作者、1974初版与书籍类型。1986重印不改写1974作品身份。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "uses",
+      "slot_id": "c24853dfec3c285506bb62db06d9b1da055c3bd7a8c43cb70423989a6d72f527",
+      "slot_ids": [
+        "c24853dfec3c285506bb62db06d9b1da055c3bd7a8c43cb70423989a6d72f527"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "c24853dfec3c285506bb62db06d9b1da055c3bd7a8c43cb70423989a6d72f527",
+          "raw_entry": {
+            "title": "The Uses of Mass Media: Current Perspectives in Gratification Research",
+            "authors": [
+              "Rubin, Alan M."
+            ],
+            "year": 1985,
+            "journal": "Journal of Broadcasting & Electronic Media",
+            "doi": "10.1080/08838158509386566",
+            "url": "https://doi.org/10.1080/08838158509386566"
+          }
+        }
+      ],
+      "sequence": 121,
+      "provider": "qwen",
+      "review_status": "unresolved_after_review",
+      "candidate": {
+        "title": "The Uses of Mass Communications: Current Perspectives on Gratifications Research",
+        "authors": [
+          "Jay G. Blumler",
+          "Elihu Katz"
+        ],
+        "year": 1974,
+        "journal": null,
+        "publisher": "SAGE Publications",
+        "doi": null,
+        "type": "book",
+        "work_id": "isbn:9780803903401",
+        "url": "https://books.google.com/books/about/The_Uses_of_mass_communications.html?id=2Ua4AAAAIAAJ"
+      },
+      "evidence_source": [
+        "https://books.google.com/books/about/The_Uses_of_mass_communications.html?id=2Ua4AAAAIAAJ",
+        "https://eric.ed.gov/?id=ED119208"
+      ],
+      "conflicts": [
+        "作者Rubin与原书编辑Blumler/Katz不符；题名近似不足唯一确认",
+        {
+          "field": "title",
+          "claimed": "The Uses of Mass Media: Current Perspectives in Gratification Research",
+          "verified": "The Uses of Mass Communications: Current Perspectives on Gratifications Research",
+          "note": "大小写/标点变体或实际副题错误；原值完整保留"
+        },
+        {
+          "field": "year",
+          "claimed": 1985,
+          "verified": 1974
+        },
+        {
+          "field": "journal_or_carrier",
+          "claimed": "Journal of Broadcasting & Electronic Media",
+          "verified": null,
+          "type": "book"
+        },
+        {
+          "field": "doi",
+          "claimed": "10.1080/08838158509386566",
+          "verified": null,
+          "actual_target": "pending_unified_doi_evidence",
+          "note": "不推断未解析DOI的目标；由统一DOI阶段补充实际元数据"
+        }
+      ],
+      "reasoning": "原书书目及内容目录确认Blumler/Katz编辑的1974书籍；ERIC来源分类Non-Journal。ERIC页面直开失败，其公开索引元数据只作辅助。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "uses",
+      "slot_id": "73c2364c42dfd468df5aec8c71f50e4cf119280deb3799b05674349d421ee858",
+      "slot_ids": [
+        "73c2364c42dfd468df5aec8c71f50e4cf119280deb3799b05674349d421ee858"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "73c2364c42dfd468df5aec8c71f50e4cf119280deb3799b05674349d421ee858",
+          "raw_entry": {
+            "title": "The Uses of Mass Media: Current Perspectives in Gratification Research",
+            "authors": "Jay G. Blumler, Elihu Katz",
+            "year": 1974,
+            "journal": "Sage Publications (Book/Monograph series often cited as foundational paper context)",
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 123,
+      "provider": "qwen",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "The Uses of Mass Communications: Current Perspectives on Gratifications Research",
+        "authors": [
+          "Jay G. Blumler",
+          "Elihu Katz"
+        ],
+        "year": 1974,
+        "journal": null,
+        "publisher": "SAGE Publications",
+        "doi": null,
+        "type": "book",
+        "work_id": "isbn:9780803903401",
+        "url": "https://books.google.com/books/about/The_Uses_of_mass_communications.html?id=2Ua4AAAAIAAJ"
+      },
+      "evidence_source": [
+        "https://books.google.com/books/about/The_Uses_of_mass_communications.html?id=2Ua4AAAAIAAJ",
+        "https://eric.ed.gov/?id=ED119208"
+      ],
+      "conflicts": [
+        {
+          "field": "title",
+          "claimed": "The Uses of Mass Media: Current Perspectives in Gratification Research",
+          "verified": "The Uses of Mass Communications: Current Perspectives on Gratifications Research",
+          "note": "大小写/标点变体或实际副题错误；原值完整保留"
+        },
+        {
+          "field": "journal_or_carrier",
+          "claimed": "Sage Publications (Book/Monograph series often cited as foundational paper context)",
+          "verified": null,
+          "type": "book"
+        },
+        {
+          "field": "authors",
+          "claimed": "Jay G. Blumler, Elihu Katz",
+          "verified": [
+            "Jay G. Blumler",
+            "Elihu Katz"
+          ],
+          "note": "逐字段差异供人工复核，不把字符串格式差异当作者身份不符"
+        }
+      ],
+      "reasoning": "原书书目及内容目录确认Blumler/Katz编辑的1974书籍；ERIC来源分类Non-Journal。ERIC页面直开失败，其公开索引元数据只作辅助。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "utilization",
+      "slot_id": "d413b3b6a369b9d4b2206f643e6e19b7ef964a2e4f79b24de3ab9a06f0f3f58b",
+      "slot_ids": [
+        "d413b3b6a369b9d4b2206f643e6e19b7ef964a2e4f79b24de3ab9a06f0f3f58b"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "d413b3b6a369b9d4b2206f643e6e19b7ef964a2e4f79b24de3ab9a06f0f3f58b",
+          "raw_entry": {
+            "title": "Utilization of mass communication by the individual",
+            "authors": "Katz, E., Blumler, J. G., & Gurevitch, M.",
+            "year": 1973,
+            "journal": "Public Opinion Quarterly",
+            "doi": "10.1086/268062",
+            "url": "https://doi.org/10.1086/268062"
+          }
+        }
+      ],
+      "sequence": 131,
+      "provider": "deepseek",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "Utilization of Mass Communication by the Individual",
+        "authors": [
+          "Elihu Katz",
+          "Jay G. Blumler",
+          "Michael Gurevitch"
+        ],
+        "year": 1974,
+        "journal": null,
+        "publisher": "SAGE Publications",
+        "doi": null,
+        "type": "book-chapter",
+        "container_title": "The Uses of Mass Communications: Current Perspectives on Gratifications Research",
+        "pages": "19-32 (19-34 in later encyclopedia citation; original pagination review pending)",
+        "work_id": "title:katz-blumler-gurevitch-1974-utilization",
+        "url": "https://books.google.com/books/about/The_Uses_of_mass_communications.html?id=2Ua4AAAAIAAJ"
+      },
+      "evidence_source": [
+        "https://books.google.com/books/about/The_Uses_of_mass_communications.html?id=2Ua4AAAAIAAJ",
+        "https://journals.sagepub.com/doi/10.1177/000276427902300106",
+        "https://onlinelibrary.wiley.com/doi/full/10.1002/9781118841570.iejs0032"
+      ],
+      "conflicts": [
+        {
+          "field": "title",
+          "claimed": "Utilization of mass communication by the individual",
+          "verified": "Utilization of Mass Communication by the Individual",
+          "note": "大小写/标点变体或实际副题错误；原值完整保留"
+        },
+        {
+          "field": "year",
+          "claimed": 1973,
+          "verified": 1974
+        },
+        {
+          "field": "journal_or_carrier",
+          "claimed": "Public Opinion Quarterly",
+          "verified": null,
+          "type": "book-chapter"
+        },
+        {
+          "field": "doi",
+          "claimed": "10.1086/268062",
+          "verified": null,
+          "actual_target": "pending_unified_doi_evidence",
+          "note": "不推断未解析DOI的目标；由统一DOI阶段补充实际元数据"
+        }
+      ],
+      "reasoning": "原书目录定位19页章节；SAGE正式参考书目确认三作者、1974和书章类型；1973 ASR为另一作品On the use of mass media for important things，不能把书章当ASR论文。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "labor",
+      "slot_id": "ba767752c98ca4e25bb577e5628b46a51b1269c1740c4b1664526f8cb7ca4866",
+      "slot_ids": [
+        "ba767752c98ca4e25bb577e5628b46a51b1269c1740c4b1664526f8cb7ca4866"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "ba767752c98ca4e25bb577e5628b46a51b1269c1740c4b1664526f8cb7ca4866",
+          "raw_entry": {
+            "title": "Labor Platforms and Gig Work: The Failure to Regulate",
+            "authors": "Vili Lehdonvirta",
+            "year": 2018,
+            "journal": "SSRN Electronic Journal",
+            "doi": "10.2139/ssrn.3258320",
+            "url": "https://doi.org/10.2139/ssrn.3258320"
+          }
+        }
+      ],
+      "sequence": 135,
+      "provider": "deepseek",
+      "review_status": "unresolved_after_review",
+      "candidate": {
+        "title": "Labor Platforms and Gig Work: The Failure to Regulate",
+        "authors": [
+          "Ruth Berins Collier",
+          "V. B. Dubal",
+          "Christopher Carter"
+        ],
+        "year": 2017,
+        "journal": null,
+        "publisher": "Institute for Research on Labor and Employment, University of California, Berkeley",
+        "doi": null,
+        "type": "working-paper",
+        "work_id": "irle:106-17",
+        "url": "https://irle.berkeley.edu/publications/working-papers/labor-platforms-and-gig-work/"
+      },
+      "evidence_source": [
+        "https://irle.berkeley.edu/publications/working-papers/labor-platforms-and-gig-work/",
+        "https://irle.berkeley.edu/wp-content/uploads/2017/09/Labor-Platforms-and-Gig-Work.pdf"
+      ],
+      "conflicts": [
+        "ViliLehdonvirta与正式工作论文所有作者、年份和载体不同；待实际DOI目标交叉审阅，不按题名强配",
+        {
+          "field": "year",
+          "claimed": 2018,
+          "verified": 2017
+        },
+        {
+          "field": "journal_or_carrier",
+          "claimed": "SSRN Electronic Journal",
+          "verified": null,
+          "type": "working-paper"
+        },
+        {
+          "field": "doi",
+          "claimed": "10.2139/ssrn.3258320",
+          "verified": null,
+          "actual_target": "pending_unified_doi_evidence",
+          "note": "不推断未解析DOI的目标；由统一DOI阶段补充实际元数据"
+        }
+      ],
+      "reasoning": "原发布机构与工作论文正文确认三作者、日期2017-09-18及工作论文；Vili版本整组作者不同且2018/SSRN DOI有冲突，不能仅凭题名强行改成Collier。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "mccombs",
+      "slot_id": "b761437a4babc1d80bc7ee83f79690cbf65e80ff4c6097213c21de3df3df8946",
+      "slot_ids": [
+        "b761437a4babc1d80bc7ee83f79690cbf65e80ff4c6097213c21de3df3df8946"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "b761437a4babc1d80bc7ee83f79690cbf65e80ff4c6097213c21de3df3df8946",
+          "raw_entry": {
+            "title": "The Agenda-Setting Role of the Mass Media in the Shaping of Public Opinion",
+            "authors": [
+              "Maxwell E. McCombs",
+              "Donald L. Shaw",
+              "David H. Weaver"
+            ],
+            "year": 1997,
+            "journal": "Communication Research",
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 136,
+      "provider": "deepseek",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "The Agenda-Setting Role of the Mass Media in the Shaping of Public Opinion",
+        "authors": [
+          "Maxwell McCombs"
+        ],
+        "year": null,
+        "journal": null,
+        "publisher": null,
+        "doi": null,
+        "type": "institutionally_hosted_manuscript",
+        "work_id": "url:https://sticerd.lse.ac.uk/dps/extra/McCombs.pdf",
+        "url": "https://sticerd.lse.ac.uk/dps/extra/McCombs.pdf"
+      },
+      "evidence_source": [
+        "https://sticerd.lse.ac.uk/dps/extra/McCombs.pdf"
+      ],
+      "conflicts": [
+        {
+          "field": "journal_or_carrier",
+          "claimed": "Communication Research",
+          "verified": null,
+          "type": "institutionally_hosted_manuscript"
+        }
+      ],
+      "reasoning": "LSE公开正文首题页确认独特完整题名和MaxwellMcCombs唯一署名；该PDF不证明原声称2005/2004/1997年份及任何原期刊身份。只确认可读作品，正式发表载体仍unknown。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "virtual",
+      "slot_id": "7d9ebb373b5321f5e843b60b405e3449b161443dc80c136e1c927374862534af",
+      "slot_ids": [
+        "7d9ebb373b5321f5e843b60b405e3449b161443dc80c136e1c927374862534af"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "7d9ebb373b5321f5e843b60b405e3449b161443dc80c136e1c927374862534af",
+          "raw_entry": {
+            "title": "The Virtual Sphere: The Internet as a Public Sphere",
+            "authors": "Zizi Papacharissi",
+            "year": 2002,
+            "journal": "New Media & Society",
+            "doi": "10.1177/146144480200400102",
+            "url": "https://doi.org/10.1177/146144480200400102"
+          }
+        }
+      ],
+      "sequence": 137,
+      "provider": "openai",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "The Virtual Sphere: The Internet as a Public Sphere",
+        "authors": [
+          "Zizi Papacharissi"
+        ],
+        "year": 2002,
+        "journal": "New Media & Society",
+        "publisher": "SAGE Publications",
+        "doi": "10.1177/14614440222226244",
+        "type": "journal-article",
+        "work_id": "doi:10.1177/14614440222226244",
+        "url": "https://journals.sagepub.com/doi/10.1177/14614440222226244",
+        "volume": "4",
+        "issue": "1",
+        "pages": "9-27",
+        "issn_l": "1461-4448"
+      },
+      "evidence_source": [
+        "https://journals.sagepub.com/doi/10.1177/14614440222226244",
+        "https://cir.nii.ac.jp/crid/1360305195246399616"
+      ],
+      "conflicts": [
+        {
+          "field": "doi",
+          "claimed": "10.1177/146144480200400102",
+          "verified": "10.1177/14614440222226244",
+          "actual_target": "pending_unified_doi_evidence",
+          "note": "不推断未解析DOI的目标；由统一DOI阶段补充实际元数据"
+        }
+      ],
+      "reasoning": "SAGE正式论文页面直接读取，确认题名、副题、作者、2002/02及NMS；准确题名作者年可识别作品，错误DOI单独记录而非排除作品。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "frame",
+      "slot_id": "5176765aaf887d90e90c498c48a63c278cb51c21422185a9f1689474d0d42a83",
+      "slot_ids": [
+        "5176765aaf887d90e90c498c48a63c278cb51c21422185a9f1689474d0d42a83"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "5176765aaf887d90e90c498c48a63c278cb51c21422185a9f1689474d0d42a83",
+          "raw_entry": {
+            "title": "Frame Analysis: An Essay on the Organization of Experience",
+            "authors": [
+              "Erving Goffman"
+            ],
+            "year": 1974,
+            "journal": null,
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 138,
+      "provider": "deepseek",
+      "review_status": "verified_exact",
+      "candidate": {
+        "title": "Frame Analysis: An Essay on the Organization of Experience",
+        "authors": [
+          "Erving Goffman"
+        ],
+        "year": 1974,
+        "journal": null,
+        "publisher": "Harper & Row",
+        "doi": null,
+        "type": "book",
+        "work_id": "oclc:758159297",
+        "url": "https://search.worldcat.org/title/Frame-analysis-%3A-an-essay-on-the-organization-of-experience/oclc/758159297"
+      },
+      "evidence_source": [
+        "https://search.worldcat.org/title/Frame-analysis-%3A-an-essay-on-the-organization-of-experience/oclc/758159297"
+      ],
+      "conflicts": [],
+      "reasoning": "图书馆联合目录确认题名、唯一作者、1974初版与书籍类型。1986重印不改写1974作品身份。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "agenda",
+      "slot_id": "96513e91403fa3c49ca5c5deeeb56d20c6dc217b4b917b50da39012f211aaea0",
+      "slot_ids": [
+        "96513e91403fa3c49ca5c5deeeb56d20c6dc217b4b917b50da39012f211aaea0"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "96513e91403fa3c49ca5c5deeeb56d20c6dc217b4b917b50da39012f211aaea0",
+          "raw_entry": {
+            "title": "Agenda-Setting Research: Where Has It Been, Where Is It Going?",
+            "authors": [
+              "Everett M. Rogers",
+              "James W. Dearing"
+            ],
+            "year": 1988,
+            "journal": "Journal of Communication",
+            "doi": "10.1111/j.1460-2466.1988.tb02062.x",
+            "url": "https://doi.org/10.1111/j.1460-2466.1988.tb02062.x"
+          }
+        }
+      ],
+      "sequence": 139,
+      "provider": "openai",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "Agenda-Setting Research: Where Has It Been, Where Is It Going?",
+        "authors": [
+          "Everett M. Rogers",
+          "James W. Dearing"
+        ],
+        "year": 1988,
+        "journal": "Communication Yearbook / Annals of the International Communication Association",
+        "publisher": "SAGE (historical); Taylor & Francis (current archive)",
+        "doi": "10.1080/23808985.1988.11678708",
+        "type": "special_historical_carrier",
+        "work_id": "doi:10.1080/23808985.1988.11678708",
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/23808985.1988.11678708",
+        "volume": "11",
+        "issue": "1",
+        "pages": "555-594"
+      },
+      "evidence_source": [
+        "https://www.tandfonline.com/doi/abs/10.1080/23808985.1988.11678708",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781444340525.ch15"
+      ],
+      "conflicts": [
+        {
+          "field": "journal_or_carrier",
+          "claimed": "Journal of Communication",
+          "verified": "Communication Yearbook / Annals of the International Communication Association",
+          "type": "special_historical_carrier"
+        },
+        {
+          "field": "doi",
+          "claimed": "10.1111/j.1460-2466.1988.tb02062.x",
+          "verified": "10.1080/23808985.1988.11678708",
+          "actual_target": "pending_unified_doi_evidence",
+          "note": "不推断未解析DOI的目标；由统一DOI阶段补充实际元数据"
+        }
+      ],
+      "reasoning": "原出版社页面直接打开403；正式Wiley章节参考书目确认Rogers/Dearing1988 CommunicationYearbook11身份，DOI题名由多来源一致书目支持。遵循既有研究裁定保留特殊历史载体，不作为普通期刊论文。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "labor",
+      "slot_id": "528b229b927a7bc7d44e9debfcf560df54ec700f04ed6f761d52bfa8a84168a1",
+      "slot_ids": [
+        "528b229b927a7bc7d44e9debfcf560df54ec700f04ed6f761d52bfa8a84168a1"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "528b229b927a7bc7d44e9debfcf560df54ec700f04ed6f761d52bfa8a84168a1",
+          "raw_entry": {
+            "title": "Labor Platforms and Gig Work: The Failure to Regulate",
+            "authors": "Vili Lehdonvirta",
+            "year": 2018,
+            "journal": "SSRN Electronic Journal",
+            "doi": "10.2139/ssrn.3251880",
+            "url": "https://doi.org/10.2139/ssrn.3251880"
+          }
+        }
+      ],
+      "sequence": 140,
+      "provider": "deepseek",
+      "review_status": "unresolved_after_review",
+      "candidate": {
+        "title": "Labor Platforms and Gig Work: The Failure to Regulate",
+        "authors": [
+          "Ruth Berins Collier",
+          "V. B. Dubal",
+          "Christopher Carter"
+        ],
+        "year": 2017,
+        "journal": null,
+        "publisher": "Institute for Research on Labor and Employment, University of California, Berkeley",
+        "doi": null,
+        "type": "working-paper",
+        "work_id": "irle:106-17",
+        "url": "https://irle.berkeley.edu/publications/working-papers/labor-platforms-and-gig-work/"
+      },
+      "evidence_source": [
+        "https://irle.berkeley.edu/publications/working-papers/labor-platforms-and-gig-work/",
+        "https://irle.berkeley.edu/wp-content/uploads/2017/09/Labor-Platforms-and-Gig-Work.pdf"
+      ],
+      "conflicts": [
+        "ViliLehdonvirta与正式工作论文所有作者、年份和载体不同；待实际DOI目标交叉审阅，不按题名强配",
+        {
+          "field": "year",
+          "claimed": 2018,
+          "verified": 2017
+        },
+        {
+          "field": "journal_or_carrier",
+          "claimed": "SSRN Electronic Journal",
+          "verified": null,
+          "type": "working-paper"
+        },
+        {
+          "field": "doi",
+          "claimed": "10.2139/ssrn.3251880",
+          "verified": null,
+          "actual_target": "pending_unified_doi_evidence",
+          "note": "不推断未解析DOI的目标；由统一DOI阶段补充实际元数据"
+        }
+      ],
+      "reasoning": "原发布机构与工作论文正文确认三作者、日期2017-09-18及工作论文；Vili版本整组作者不同且2018/SSRN DOI有冲突，不能仅凭题名强行改成Collier。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "uses",
+      "slot_id": "378360b387e9f65ee4c228d721f5c26f6c326b532cae31da647cd1337b90d68b",
+      "slot_ids": [
+        "378360b387e9f65ee4c228d721f5c26f6c326b532cae31da647cd1337b90d68b"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "378360b387e9f65ee4c228d721f5c26f6c326b532cae31da647cd1337b90d68b",
+          "raw_entry": {
+            "title": "The Uses of Mass Media: Current Perspectives in Gratifications Research",
+            "authors": "Rubin, A. M.",
+            "year": 1983,
+            "journal": "Sage Annual Review of Communication Research",
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 143,
+      "provider": "qwen",
+      "review_status": "unresolved_after_review",
+      "candidate": {
+        "title": "The Uses of Mass Communications: Current Perspectives on Gratifications Research",
+        "authors": [
+          "Jay G. Blumler",
+          "Elihu Katz"
+        ],
+        "year": 1974,
+        "journal": null,
+        "publisher": "SAGE Publications",
+        "doi": null,
+        "type": "book",
+        "work_id": "isbn:9780803903401",
+        "url": "https://books.google.com/books/about/The_Uses_of_mass_communications.html?id=2Ua4AAAAIAAJ"
+      },
+      "evidence_source": [
+        "https://books.google.com/books/about/The_Uses_of_mass_communications.html?id=2Ua4AAAAIAAJ",
+        "https://eric.ed.gov/?id=ED119208"
+      ],
+      "conflicts": [
+        "作者Rubin与原书编辑Blumler/Katz不符；题名近似不足唯一确认",
+        {
+          "field": "title",
+          "claimed": "The Uses of Mass Media: Current Perspectives in Gratifications Research",
+          "verified": "The Uses of Mass Communications: Current Perspectives on Gratifications Research",
+          "note": "大小写/标点变体或实际副题错误；原值完整保留"
+        },
+        {
+          "field": "year",
+          "claimed": 1983,
+          "verified": 1974
+        },
+        {
+          "field": "journal_or_carrier",
+          "claimed": "Sage Annual Review of Communication Research",
+          "verified": null,
+          "type": "book"
+        }
+      ],
+      "reasoning": "原书书目及内容目录确认Blumler/Katz编辑的1974书籍；ERIC来源分类Non-Journal。ERIC页面直开失败，其公开索引元数据只作辅助。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "platform",
+      "slot_id": "213da5a3176ea7d97d050ff1e0bd05fbb0b9bd1d01bf0315192e77663b2dfa56",
+      "slot_ids": [
+        "213da5a3176ea7d97d050ff1e0bd05fbb0b9bd1d01bf0315192e77663b2dfa56"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "213da5a3176ea7d97d050ff1e0bd05fbb0b9bd1d01bf0315192e77663b2dfa56",
+          "raw_entry": {
+            "title": "Platform Capitalism",
+            "authors": "Nick Srnicek",
+            "year": 2016,
+            "journal": "null",
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 153,
+      "provider": "qwen",
+      "review_status": "verified_exact",
+      "candidate": {
+        "title": "Platform Capitalism",
+        "authors": [
+          "Nick Srnicek"
+        ],
+        "year": 2016,
+        "journal": null,
+        "publisher": "Polity",
+        "doi": null,
+        "type": "book",
+        "work_id": "isbn:9781509504879",
+        "url": "https://kclpure.kcl.ac.uk/portal/en/publications/platform-capitalism/"
+      },
+      "evidence_source": [
+        "https://kclpure.kcl.ac.uk/portal/en/publications/platform-capitalism/",
+        "https://www.wiley-vch.de/en/areas-interest/humanities-social-sciences/platform-capitalism-978-1-5095-0486-2"
+      ],
+      "conflicts": [
+        {
+          "field": "journal_or_carrier",
+          "claimed": "null",
+          "verified": null,
+          "type": "book"
+        }
+      ],
+      "reasoning": "作者大学输出登记和出版社页面均给出2016年11月、书籍类型；2017常见引文日期作为需记录的版本年份差异，非不存在证据。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "frame",
+      "slot_id": "b7b1133a85096a8daf61f9e11017e1c36e70be358b929588a9034edaa09277d3",
+      "slot_ids": [
+        "b7b1133a85096a8daf61f9e11017e1c36e70be358b929588a9034edaa09277d3"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "b7b1133a85096a8daf61f9e11017e1c36e70be358b929588a9034edaa09277d3",
+          "raw_entry": {
+            "title": "Frame Analysis: An Essay on the Organization of Experience",
+            "authors": "Erving Goffman",
+            "year": 1974,
+            "journal": null,
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 161,
+      "provider": "qwen",
+      "review_status": "verified_exact",
+      "candidate": {
+        "title": "Frame Analysis: An Essay on the Organization of Experience",
+        "authors": [
+          "Erving Goffman"
+        ],
+        "year": 1974,
+        "journal": null,
+        "publisher": "Harper & Row",
+        "doi": null,
+        "type": "book",
+        "work_id": "oclc:758159297",
+        "url": "https://search.worldcat.org/title/Frame-analysis-%3A-an-essay-on-the-organization-of-experience/oclc/758159297"
+      },
+      "evidence_source": [
+        "https://search.worldcat.org/title/Frame-analysis-%3A-an-essay-on-the-organization-of-experience/oclc/758159297"
+      ],
+      "conflicts": [],
+      "reasoning": "图书馆联合目录确认题名、唯一作者、1974初版与书籍类型。1986重印不改写1974作品身份。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "spiralbook",
+      "slot_id": "8e35dd82b2bc0efa062bd662bbc48e9b883bda84ec571cb1bf39c32415392656",
+      "slot_ids": [
+        "8e35dd82b2bc0efa062bd662bbc48e9b883bda84ec571cb1bf39c32415392656"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "8e35dd82b2bc0efa062bd662bbc48e9b883bda84ec571cb1bf39c32415392656",
+          "raw_entry": {
+            "title": "The Spiral of Silence: Public Opinion - Our Social Skin",
+            "authors": "Elisabeth Noelle-Neumann",
+            "year": 1984,
+            "journal": null,
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 170,
+      "provider": "qwen",
+      "review_status": "verified_exact",
+      "candidate": {
+        "title": "The Spiral of Silence: Public Opinion—Our Social Skin",
+        "authors": [
+          "Elisabeth Noelle-Neumann"
+        ],
+        "year": 1984,
+        "journal": null,
+        "publisher": "University of Chicago Press",
+        "doi": null,
+        "type": "book",
+        "work_id": "oclc:10184148",
+        "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo3684069.html"
+      },
+      "evidence_source": [
+        "https://press.uchicago.edu/ucp/books/book/chicago/S/bo3684069.html",
+        "https://search.worldcat.org/title/The-spiral-of-silence-%3A-public-opinion-our-social-skin/oclc/10184148"
+      ],
+      "conflicts": [
+        {
+          "field": "title",
+          "claimed": "The Spiral of Silence: Public Opinion - Our Social Skin",
+          "verified": "The Spiral of Silence: Public Opinion—Our Social Skin",
+          "note": "大小写/标点变体或实际副题错误；原值完整保留"
+        }
+      ],
+      "reasoning": "出版社确认真实书籍及1993第二版，联合目录确认1984英文版；Conscience/Control为误记副题，不能按精确题名零命中判不存在。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "frame",
+      "slot_id": "23866f8669cb81faa2a9baddff6926c79d1e9e78c402a55f24f74c8566c15aff",
+      "slot_ids": [
+        "23866f8669cb81faa2a9baddff6926c79d1e9e78c402a55f24f74c8566c15aff"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "23866f8669cb81faa2a9baddff6926c79d1e9e78c402a55f24f74c8566c15aff",
+          "raw_entry": {
+            "title": "Frame Analysis: An Essay on the Organization of Experience",
+            "authors": "Erving Goffman",
+            "year": 1974,
+            "journal": null,
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 174,
+      "provider": "deepseek",
+      "review_status": "verified_exact",
+      "candidate": {
+        "title": "Frame Analysis: An Essay on the Organization of Experience",
+        "authors": [
+          "Erving Goffman"
+        ],
+        "year": 1974,
+        "journal": null,
+        "publisher": "Harper & Row",
+        "doi": null,
+        "type": "book",
+        "work_id": "oclc:758159297",
+        "url": "https://search.worldcat.org/title/Frame-analysis-%3A-an-essay-on-the-organization-of-experience/oclc/758159297"
+      },
+      "evidence_source": [
+        "https://search.worldcat.org/title/Frame-analysis-%3A-an-essay-on-the-organization-of-experience/oclc/758159297"
+      ],
+      "conflicts": [],
+      "reasoning": "图书馆联合目录确认题名、唯一作者、1974初版与书籍类型。1986重印不改写1974作品身份。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "salmonten",
+      "slot_id": "76188b82c0d43389d240b036b11225b430de96f6008824f6a760f8ab121a8fd1",
+      "slot_ids": [
+        "76188b82c0d43389d240b036b11225b430de96f6008824f6a760f8ab121a8fd1"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "76188b82c0d43389d240b036b11225b430de96f6008824f6a760f8ab121a8fd1",
+          "raw_entry": {
+            "title": "The Spiral of Silence Ten Years Later: An Examination and Evaluation",
+            "authors": "Charles T. Salmon, F. Gerald Kline",
+            "year": 1985,
+            "journal": "Communication Research",
+            "doi": "10.1177/009365085012003002",
+            "url": null
+          }
+        }
+      ],
+      "sequence": 178,
+      "provider": "deepseek",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "The Spiral of Silence Ten Years Later: An Examination and Evaluation",
+        "authors": [
+          "Charles T. Salmon",
+          "F. Gerald Kline"
+        ],
+        "year": 1985,
+        "journal": null,
+        "publisher": "Southern Illinois University Press",
+        "doi": null,
+        "type": "book-chapter",
+        "container_title": "Political Communication Yearbook 1984",
+        "pages": "3-30",
+        "work_id": "title:salmon-kline-1985-spiral-ten-years-later",
+        "url": "https://files.eric.ed.gov/fulltext/ED235528.pdf"
+      },
+      "evidence_source": [
+        "https://files.eric.ed.gov/fulltext/ED235528.pdf",
+        "https://journals.sagepub.com/doi/10.1177/009365086013003002",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781405186407.wbiecs090.pub2"
+      ],
+      "conflicts": [
+        {
+          "field": "journal_or_carrier",
+          "claimed": "Communication Research",
+          "verified": null,
+          "type": "book-chapter"
+        },
+        {
+          "field": "doi",
+          "claimed": "10.1177/009365085012003002",
+          "verified": null,
+          "actual_target": "pending_unified_doi_evidence",
+          "note": "不推断未解析DOI的目标；由统一DOI阶段补充实际元数据"
+        },
+        {
+          "field": "authors",
+          "claimed": "Charles T. Salmon, F. Gerald Kline",
+          "verified": [
+            "Charles T. Salmon",
+            "F. Gerald Kline"
+          ],
+          "note": "逐字段差异供人工复核，不把字符串格式差异当作者身份不符"
+        }
+      ],
+      "reasoning": "ERIC原始报告PDF首页确认Salmon/Kline题名与署名；SAGE已故Kline官方介绍及Wiley百科参考资料确认1985书章页码3-30。ERIC早期会议稿不是1985正式书章年代的替代。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "dahlberg",
+      "slot_id": "218d23aa99388180f63919865540d388363426584cfebf093843919a59437076",
+      "slot_ids": [
+        "218d23aa99388180f63919865540d388363426584cfebf093843919a59437076"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "218d23aa99388180f63919865540d388363426584cfebf093843919a59437076",
+          "raw_entry": {
+            "title": "The Internet and the Public Sphere: A Reappraisal",
+            "authors": [
+              "Papacharissi, Zizi"
+            ],
+            "year": 2002,
+            "journal": "New Media & Society",
+            "doi": "10.1177/146144402321466813",
+            "url": "https://doi.org/10.1177/146144402321466813"
+          }
+        }
+      ],
+      "sequence": 182,
+      "provider": "deepseek",
+      "review_status": "unresolved_after_review",
+      "candidate": null,
+      "evidence_source": [
+        "https://journals.sagepub.com/doi/10.1177/135485659800400108"
+      ],
+      "conflicts": [
+        "未取得与该完整题名唯一对应的正式来源；保留原样，不替换近主题作品"
+      ],
+      "reasoning": "完整题名+Dahlberg限定检索未取得同名一手作品证据；定位到的是1998 Cyberspace and the Public Sphere，题名年份均不同，明确不替换。单轮公开检索不足认定虚构。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "virtual",
+      "slot_id": "29245c4203b281b8b7798aab4ea915ca76d2bc15558cf7b8f99c69065cf35593",
+      "slot_ids": [
+        "29245c4203b281b8b7798aab4ea915ca76d2bc15558cf7b8f99c69065cf35593"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "29245c4203b281b8b7798aab4ea915ca76d2bc15558cf7b8f99c69065cf35593",
+          "raw_entry": {
+            "title": "The Virtual Sphere: The Internet as a Public Sphere",
+            "authors": [
+              "Papacharissi, Zizi"
+            ],
+            "year": 2002,
+            "journal": "New Media & Society",
+            "doi": "10.1177/14614440222226244",
+            "url": "https://doi.org/10.1177/14614440222226244"
+          }
+        }
+      ],
+      "sequence": 182,
+      "provider": "deepseek",
+      "review_status": "verified_exact",
+      "candidate": {
+        "title": "The Virtual Sphere: The Internet as a Public Sphere",
+        "authors": [
+          "Zizi Papacharissi"
+        ],
+        "year": 2002,
+        "journal": "New Media & Society",
+        "publisher": "SAGE Publications",
+        "doi": "10.1177/14614440222226244",
+        "type": "journal-article",
+        "work_id": "doi:10.1177/14614440222226244",
+        "url": "https://journals.sagepub.com/doi/10.1177/14614440222226244",
+        "volume": "4",
+        "issue": "1",
+        "pages": "9-27",
+        "issn_l": "1461-4448"
+      },
+      "evidence_source": [
+        "https://journals.sagepub.com/doi/10.1177/14614440222226244",
+        "https://cir.nii.ac.jp/crid/1360305195246399616"
+      ],
+      "conflicts": [],
+      "reasoning": "SAGE正式论文页面直接读取，确认题名、副题、作者、2002/02及NMS；准确题名作者年可识别作品，错误DOI单独记录而非排除作品。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "agenda",
+      "slot_id": "4b9279a068bf088f85cdf0bb24cd8f8d9a3d6e75bdc1fa294e086d60827cf4f2",
+      "slot_ids": [
+        "4b9279a068bf088f85cdf0bb24cd8f8d9a3d6e75bdc1fa294e086d60827cf4f2"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "4b9279a068bf088f85cdf0bb24cd8f8d9a3d6e75bdc1fa294e086d60827cf4f2",
+          "raw_entry": {
+            "title": "Agenda-Setting Research: Where Has It Been? Where Is It Going?",
+            "authors": "Shaw, D. L.",
+            "year": 1979,
+            "journal": "Journal of Communication",
+            "doi": "10.1111/j.1460-2466.1979.tb02933.x",
+            "url": null
+          }
+        }
+      ],
+      "sequence": 183,
+      "provider": "qwen",
+      "review_status": "unresolved_after_review",
+      "candidate": {
+        "title": "Agenda-Setting Research: Where Has It Been, Where Is It Going?",
+        "authors": [
+          "Everett M. Rogers",
+          "James W. Dearing"
+        ],
+        "year": 1988,
+        "journal": "Communication Yearbook / Annals of the International Communication Association",
+        "publisher": "SAGE (historical); Taylor & Francis (current archive)",
+        "doi": "10.1080/23808985.1988.11678708",
+        "type": "special_historical_carrier",
+        "work_id": "doi:10.1080/23808985.1988.11678708",
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/23808985.1988.11678708",
+        "volume": "11",
+        "issue": "1",
+        "pages": "555-594"
+      },
+      "evidence_source": [
+        "https://www.tandfonline.com/doi/abs/10.1080/23808985.1988.11678708",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781444340525.ch15"
+      ],
+      "conflicts": [
+        "完整题名相同但作者组、年份、DOI均不同；保留真实候选而不按题名强配",
+        {
+          "field": "title",
+          "claimed": "Agenda-Setting Research: Where Has It Been? Where Is It Going?",
+          "verified": "Agenda-Setting Research: Where Has It Been, Where Is It Going?",
+          "note": "大小写/标点变体或实际副题错误；原值完整保留"
+        },
+        {
+          "field": "year",
+          "claimed": 1979,
+          "verified": 1988
+        },
+        {
+          "field": "journal_or_carrier",
+          "claimed": "Journal of Communication",
+          "verified": "Communication Yearbook / Annals of the International Communication Association",
+          "type": "special_historical_carrier"
+        },
+        {
+          "field": "doi",
+          "claimed": "10.1111/j.1460-2466.1979.tb02933.x",
+          "verified": "10.1080/23808985.1988.11678708",
+          "actual_target": "pending_unified_doi_evidence",
+          "note": "不推断未解析DOI的目标；由统一DOI阶段补充实际元数据"
+        }
+      ],
+      "reasoning": "原出版社页面直接打开403；正式Wiley章节参考书目确认Rogers/Dearing1988 CommunicationYearbook11身份，DOI题名由多来源一致书目支持。遵循既有研究裁定保留特殊历史载体，不作为普通期刊论文。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "uses",
+      "slot_id": "0166abb233acf23af6bbf4b6b9d7c26b36579f9fe2282aa0f5be0578abf27e08",
+      "slot_ids": [
+        "0166abb233acf23af6bbf4b6b9d7c26b36579f9fe2282aa0f5be0578abf27e08"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "0166abb233acf23af6bbf4b6b9d7c26b36579f9fe2282aa0f5be0578abf27e08",
+          "raw_entry": {
+            "title": "The Uses of Mass Communications: Current Perspectives on Gratifications Research",
+            "authors": [
+              "Blumler, Jay G.",
+              "Katz, Elihu"
+            ],
+            "year": 1974,
+            "journal": null,
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 185,
+      "provider": "deepseek",
+      "review_status": "verified_exact",
+      "candidate": {
+        "title": "The Uses of Mass Communications: Current Perspectives on Gratifications Research",
+        "authors": [
+          "Jay G. Blumler",
+          "Elihu Katz"
+        ],
+        "year": 1974,
+        "journal": null,
+        "publisher": "SAGE Publications",
+        "doi": null,
+        "type": "book",
+        "work_id": "isbn:9780803903401",
+        "url": "https://books.google.com/books/about/The_Uses_of_mass_communications.html?id=2Ua4AAAAIAAJ"
+      },
+      "evidence_source": [
+        "https://books.google.com/books/about/The_Uses_of_mass_communications.html?id=2Ua4AAAAIAAJ",
+        "https://eric.ed.gov/?id=ED119208"
+      ],
+      "conflicts": [],
+      "reasoning": "原书书目及内容目录确认Blumler/Katz编辑的1974书籍；ERIC来源分类Non-Journal。ERIC页面直开失败，其公开索引元数据只作辅助。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "spiralbook",
+      "slot_id": "664e777a6cc7a945e97514186a121a3f5c259fc16f6b67061278461da23545c1",
+      "slot_ids": [
+        "664e777a6cc7a945e97514186a121a3f5c259fc16f6b67061278461da23545c1"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "664e777a6cc7a945e97514186a121a3f5c259fc16f6b67061278461da23545c1",
+          "raw_entry": {
+            "title": "The Spiral of Silence: Public Opinion—Our Social Conscience",
+            "authors": null,
+            "year": null,
+            "journal": null,
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 188,
+      "provider": "qwen",
+      "review_status": "unresolved_after_review",
+      "candidate": {
+        "title": "The Spiral of Silence: Public Opinion—Our Social Skin",
+        "authors": [
+          "Elisabeth Noelle-Neumann"
+        ],
+        "year": 1984,
+        "journal": null,
+        "publisher": "University of Chicago Press",
+        "doi": null,
+        "type": "book",
+        "work_id": "oclc:10184148",
+        "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo3684069.html"
+      },
+      "evidence_source": [
+        "https://press.uchicago.edu/ucp/books/book/chicago/S/bo3684069.html",
+        "https://search.worldcat.org/title/The-spiral-of-silence-%3A-public-opinion-our-social-skin/oclc/10184148"
+      ],
+      "conflicts": [
+        "副题与原书有差异且作者年份缺失；候选有证据但原推荐对应关系仍需审阅",
+        {
+          "field": "title",
+          "claimed": "The Spiral of Silence: Public Opinion—Our Social Conscience",
+          "verified": "The Spiral of Silence: Public Opinion—Our Social Skin",
+          "note": "大小写/标点变体或实际副题错误；原值完整保留"
+        }
+      ],
+      "reasoning": "出版社确认真实书籍及1993第二版，联合目录确认1984英文版；Conscience/Control为误记副题，不能按精确题名零命中判不存在。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "family": "spiralbook",
+      "slot_id": "4b8f403e26b0bbbc45b2565234a8c2d63df9867f8d2be1fa0d93d9047ed97563",
+      "slot_ids": [
+        "4b8f403e26b0bbbc45b2565234a8c2d63df9867f8d2be1fa0d93d9047ed97563"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "4b8f403e26b0bbbc45b2565234a8c2d63df9867f8d2be1fa0d93d9047ed97563",
+          "raw_entry": {
+            "title": "Spiral of silence: A theory of public opinion",
+            "authors": "Noelle-Neumann, E.",
+            "year": 1984,
+            "journal": "University of Chicago Press",
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 188,
+      "provider": "qwen",
+      "review_status": "unresolved_after_review",
+      "candidate": {
+        "title": "The Spiral of Silence: Public Opinion—Our Social Skin",
+        "authors": [
+          "Elisabeth Noelle-Neumann"
+        ],
+        "year": 1984,
+        "journal": null,
+        "publisher": "University of Chicago Press",
+        "doi": null,
+        "type": "book",
+        "work_id": "oclc:10184148",
+        "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo3684069.html"
+      },
+      "evidence_source": [
+        "https://press.uchicago.edu/ucp/books/book/chicago/S/bo3684069.html",
+        "https://search.worldcat.org/title/The-spiral-of-silence-%3A-public-opinion-our-social-skin/oclc/10184148"
+      ],
+      "conflicts": [
+        "原题名对应1974同作者期刊论文，但年份/出版商对应1984书籍；潜在跨作品拼接，未仅凭同主题强选一本书",
+        {
+          "field": "title",
+          "claimed": "Spiral of silence: A theory of public opinion",
+          "verified": "The Spiral of Silence: Public Opinion—Our Social Skin",
+          "note": "大小写/标点变体或实际副题错误；原值完整保留"
+        },
+        {
+          "field": "journal_or_carrier",
+          "claimed": "University of Chicago Press",
+          "verified": null,
+          "type": "book"
+        }
+      ],
+      "reasoning": "出版社确认真实书籍及1993第二版，联合目录确认1984英文版；Conscience/Control为误记副题，不能按精确题名零命中判不存在。",
+      "checked_at": "2026-10-12",
+      "confidence_basis": "公开正式内容/机构作品登记/原书目录与图书馆目录；限制见逐条说明",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    }
+  ],
+  "counts": {
+    "verified_with_errors": 21,
+    "unresolved_after_review": 15,
+    "verified_exact": 14
+  },
+  "families": 11,
+  "notes": [
+    "本文件为有边界的11题名族集中来源核查，不代表398条全体检索。",
+    "保留raw_variants/slot_id，不修改主样本；研究者复核均pending。",
+    "不将书籍、书章或公开稿件算成已确认普通期刊。",
+    "没有任何likely_fabricated判定；多字段冲突未独立验证实际DOI目标时保留unresolved。"
+  ]
+}

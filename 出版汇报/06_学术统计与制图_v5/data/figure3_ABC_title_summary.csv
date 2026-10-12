@@ -1,0 +1,4 @@
+﻿group,condition,label,planned_jobs,successful_jobs,actual_positions,han_title_positions,han_title_proportion,repeat_design,version
+A,neutral_zh,自然推荐,24,23,114,0,0.0,3,ppt_analysis_v5
+B,directed_mainland_B,大陆主办限定,8,6,25,25,1.0,1,ppt_analysis_v5
+C,directed_cnki_C,知网可检索限定,8,6,25,15,0.6,1,ppt_analysis_v5

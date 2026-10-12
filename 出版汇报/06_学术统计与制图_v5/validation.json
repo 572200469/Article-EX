@@ -1,0 +1,50 @@
+{
+  "version": "ppt_analysis_v5",
+  "source_sha256": {
+    "outputs/publication_visibility_final_figures/normalized_slots_v3.json": "e8b4f3821df355a810b759ee921831aa16be58e5841913e910e4fa3733c1e3ee",
+    "outputs/identity_review_v4_20261012/normalized_slots_v4_preview.json": "7e21ec0d3914c169eb9e1f20b73b53caf0818b4f8f35dd13dff3a21162ac4be1",
+    "outputs/identity_review_v4_20261012/slot_identity_evidence_v4.json": "66553026fc46fd50df4e1ed1f59294562b03eb2154e0d924f10c2f12d7c35e2c",
+    "outputs/publication_visibility_main_20261012/final_job_states.csv": "02a04758f3aa04fd4569adab08da458c6fee5f58c31d91c2e7eaa747798dc712",
+    "data/main_startup/main_candidate_v2_20261011/manifest.json": "a6542406148be09476dd16a33f57e0428c57a4ed8f46023449c423e4b74f1bb5",
+    "outputs/final_presentation_figures/directed_normalized_evidence.json": "0c13c19649b51924dcd58e1dd74245905e0c73651323974139e4af5820bba350",
+    "outputs/china_directed_20261012/technical_jobs.json": "b0a819ddfbfbae439cc4267a3183878bffefb39e15a3b841fe2cc6d05df9a304",
+    "data/china_directed_discovery_pilot/china_directed_16-9597931c4a07c93b/control/manifest.json": "9a2e77acbea2fe2839de91b03a5ac9f452e5c1ace14673d6f56636cda34f5d03",
+    "data/chinese_resource_supplement_20261012/directed_dry_run_v2/manifest.json": "4c397f2002f1326a58d99e0b6dafc77895bc74087bd5a9fb67ab220e0ea7e215",
+    "data/chinese_resource_supplement_20261012/positive_controls_full_evidence.json": "c92e2baf1fabe93b51695c9d9861606d93469e57a606f057f034e1e3d7c37f1e"
+  },
+  "all_source_hashes_unchanged": true,
+  "A_plan": 192,
+  "A_success": 190,
+  "A_positions": 949,
+  "A_real_positions": 624,
+  "A_journal_positions": 533,
+  "A_identity_not_unique": 325,
+  "BC_sent": 16,
+  "BC_success": 12,
+  "BC_positions": 50,
+  "controls": 24,
+  "figure_count": 5,
+  "PNG_dpi": 360,
+  "source_mixed_version_inside_figure": false,
+  "researcher_review_status": "pending",
+  "model_generation_requests": 0,
+  "network_requests": 0,
+  "citation_coverage": {
+    "qualified_unique_works": 112,
+    "eligible_unique_journal_works": 136,
+    "unique_work_coverage": 0.8235294117647058,
+    "covered_positions": 461,
+    "snapshot_date_min": "2026-10-11T09:09:24.499671+00:00",
+    "snapshot_date_max": "2026-10-12T12:25:30.284553+00:00",
+    "display_threshold_prespecified": "n>=20 and unique_work_coverage>=0.50; descriptive only",
+    "new_metadata_queries": 0,
+    "cache_files_examined": 3792
+  },
+  "journal_metrics": {
+    "unique_journal_works": 136,
+    "journals": 57,
+    "top3_share": 0.4277673545966229,
+    "hhi": 0.07345233359968178
+  },
+  "figures_are_descriptive": true
+}

@@ -1,0 +1,245 @@
+﻿provider,original_claimed_journal,recommended_positions,denominator_all_provider_positions,claim_is_not_verified_journal
+deepseek,ACM SIGKDD Explorations Newsletter,2,240,True
+deepseek,American Behavioral Scientist,3,240,True
+deepseek,American Journal of Sociology,3,240,True
+deepseek,American Sociological Review,5,240,True
+deepseek,Annals of the American Academy of Political and Social Science,1,240,True
+deepseek,Annals of the International Communication Association,2,240,True
+deepseek,Annual Review of Political Science,2,240,True
+deepseek,Cognition,4,240,True
+deepseek,Communication Research,13,240,True
+deepseek,Communication Research Reports,1,240,True
+deepseek,Communication Theory,1,240,True
+deepseek,Communication Yearbook,2,240,True
+deepseek,"Communication, Capitalism & Critique",1,240,True
+deepseek,Comparative Labor Law & Policy Journal,2,240,True
+deepseek,Computers in Human Behavior,2,240,True
+deepseek,Digital Journalism,2,240,True
+deepseek,Digital Labour and Karl Marx,1,240,True
+deepseek,Estudios sobre el Mensaje Periodístico,1,240,True
+deepseek,IRLE Working Paper,1,240,True
+deepseek,Information Design Journal,1,240,True
+deepseek,Information Design Journal + Document Design,1,240,True
+deepseek,"Information, Communication & Society",3,240,True
+deepseek,International Journal of Communication,2,240,True
+deepseek,International Journal of Public Opinion Research,8,240,True
+deepseek,International Labour Organization Research Paper,1,240,True
+deepseek,International Labour Review,1,240,True
+deepseek,Internet Policy Review,3,240,True
+deepseek,Issues in Regulation and Governance,2,240,True
+deepseek,Issues in Science and Technology,2,240,True
+deepseek,Javnost - The Public,1,240,True
+deepseek,Journal of Broadcasting & Electronic Media,1,240,True
+deepseek,Journal of Communication,30,240,True
+deepseek,Journal of Computer-Mediated Communication,1,240,True
+deepseek,Journal of Economic Perspectives,1,240,True
+deepseek,Journal of Experimental Psychology: General,6,240,True
+deepseek,Journal of Information Technology & Politics,1,240,True
+deepseek,Journal of Interactive Advertising,1,240,True
+deepseek,Journalism & Communication Monographs,1,240,True
+deepseek,Journalism & Mass Communication Quarterly,4,240,True
+deepseek,Journalism Quarterly,1,240,True
+deepseek,Journalism Studies,1,240,True
+deepseek,Mass Communication and Society,2,240,True
+deepseek,"Media, Culture & Society",1,240,True
+deepseek,New German Critique,3,240,True
+deepseek,New Media & Society,7,240,True
+deepseek,Philosophy & Technology,1,240,True
+deepseek,Political Behavior,1,240,True
+deepseek,Political Communication,2,240,True
+deepseek,Political Studies,1,240,True
+deepseek,Proceedings of the International AAAI Conference on Web and Social Media,1,240,True
+deepseek,Proceedings of the National Academy of Sciences,1,240,True
+deepseek,Psychiatry,2,240,True
+deepseek,Public Opinion Quarterly,25,240,True
+deepseek,Publizistik,1,240,True
+deepseek,Review of Keynesian Economics,1,240,True
+deepseek,SSRN Electronic Journal,4,240,True
+deepseek,Science,22,240,True
+deepseek,Social Text,1,240,True
+deepseek,Sociology,1,240,True
+deepseek,Sociology Compass,1,240,True
+deepseek,South Atlantic Quarterly,1,240,True
+deepseek,Television & New Media,1,240,True
+deepseek,The China Quarterly,1,240,True
+deepseek,The Communication Review,2,240,True
+deepseek,The Information Society,2,240,True
+deepseek,The International Journal of Press/Politics,1,240,True
+deepseek,The MIT Press,1,240,True
+deepseek,The Oxford Handbook of Political Communication,1,240,True
+deepseek,The Routledge Companion to Media and Activism,1,240,True
+deepseek,The Wealth of Networks: How Social Production Transforms Markets and Freedom,1,240,True
+deepseek,Theory and Society,1,240,True
+deepseek,"TripleC: Communication, Capitalism & Critique",1,240,True
+deepseek,"Work Organisation, Labour & Globalisation",1,240,True
+deepseek,"Work, Employment and Society",3,240,True
+deepseek,not_claimed,20,240,True
+deepseek,"tripleC: Communication, Capitalism & Critique",2,240,True
+gemini,American Journal of Sociology,1,240,True
+gemini,American Political Science Review,7,240,True
+gemini,American Sociological Review,6,240,True
+gemini,Annual Review of Political Science,1,240,True
+gemini,Annual Review of Sociology,1,240,True
+gemini,Chinese Journal of Communication,2,240,True
+gemini,Communication Research,6,240,True
+gemini,CyberPsychology & Behavior,2,240,True
+gemini,Digital Journalism,5,240,True
+gemini,Human Relations,1,240,True
+gemini,"Information, Communication & Society",9,240,True
+gemini,International Journal of Communication,6,240,True
+gemini,International Journal of Public Opinion Research,5,240,True
+gemini,Javnost - The Public,1,240,True
+gemini,Journal of Broadcasting & Electronic Media,8,240,True
+gemini,Journal of Communication,33,240,True
+gemini,Journal of Computer-Mediated Communication,2,240,True
+gemini,Journalism & Mass Communication Quarterly,5,240,True
+gemini,Journalism Quarterly,3,240,True
+gemini,MIS Quarterly,4,240,True
+gemini,Management Science,1,240,True
+gemini,Mass Communication & Society,1,240,True
+gemini,Mass Communication and Society,5,240,True
+gemini,Nature,5,240,True
+gemini,New Media & Society,12,240,True
+gemini,Political Behavior,9,240,True
+gemini,Political Communication,12,240,True
+gemini,Proceedings of the National Academy of Sciences,3,240,True
+gemini,Psychological Science,2,240,True
+gemini,Public Opinion Quarterly,25,240,True
+gemini,Science,22,240,True
+gemini,Science Advances,3,240,True
+gemini,Social Science Computer Review,1,240,True
+gemini,Social Text,6,240,True
+gemini,The ANNALS of the American Academy of Political and Social Science,5,240,True
+gemini,The American Political Science Review,2,240,True
+gemini,The Public Opinion Quarterly,6,240,True
+gemini,Transfer: European Review of Labour and Research,3,240,True
+gemini,"Work, Employment and Society",5,240,True
+gemini,"tripleC: Communication, Capitalism & Critique",4,240,True
+openai,American Journal of Sociology,3,229,True
+openai,American Political Science Review,5,229,True
+openai,American Sociological Review,3,229,True
+openai,Annual Review of Sociology,1,229,True
+openai,Big Data & Society,1,229,True
+openai,"Bulletin of Science, Technology & Society",2,229,True
+openai,Cambridge Studies in Social Anthropology,1,229,True
+openai,Communication Research,14,229,True
+openai,Communication Theory,1,229,True
+openai,Comparative Labor Law & Policy Journal,3,229,True
+openai,Decision Sciences,2,229,True
+openai,Digital Journalism,4,229,True
+openai,"Information, Communication & Society",10,229,True
+openai,International Journal of Communication,4,229,True
+openai,International Journal of Labour Research,1,229,True
+openai,International Journal of Public Opinion Research,1,229,True
+openai,Internet Policy Review,5,229,True
+openai,Javnost - The Public,2,229,True
+openai,Journal of Broadcasting,6,229,True
+openai,Journal of Broadcasting & Electronic Media,3,229,True
+openai,Journal of Communication,38,229,True
+openai,Journal of Computer-Mediated Communication,1,229,True
+openai,Journal of Economic Perspectives,2,229,True
+openai,Journal of Personality and Social Psychology,1,229,True
+openai,Journal of Political Philosophy,1,229,True
+openai,Journalism & Mass Communication Quarterly,6,229,True
+openai,Mass Communication and Society,1,229,True
+openai,"Media, Culture & Society",1,229,True
+openai,Nature,1,229,True
+openai,New Media & Society,12,229,True
+openai,"New Technology, Work and Employment",1,229,True
+openai,Policy & Internet,1,229,True
+openai,Political Behavior,7,229,True
+openai,Political Communication,9,229,True
+openai,Proceedings of the National Academy of Sciences,5,229,True
+openai,Proceedings of the National Academy of Sciences of the United States of America,3,229,True
+openai,Psychological Science,3,229,True
+openai,Public Opinion Quarterly,24,229,True
+openai,Science,15,229,True
+openai,Social Science Computer Review,3,229,True
+openai,Social Text,2,229,True
+openai,Sociology Compass,1,229,True
+openai,Sociology of Mass Communications,1,229,True
+openai,South Atlantic Quarterly,1,229,True
+openai,The Fibreculture Journal,1,229,True
+openai,The International Journal of Press/Politics,1,229,True
+openai,The Journal of Politics,3,229,True
+openai,The Political Economy of Communication,1,229,True
+openai,"Theory, Culture & Society",1,229,True
+openai,Transfer: European Review of Labour and Research,1,229,True
+openai,"TripleC: Communication, Capitalism & Critique",1,229,True
+openai,"Work, Employment and Society",4,229,True
+openai,not_claimed,1,229,True
+openai,"tripleC: Communication, Capitalism & Critique",3,229,True
+qwen,American Economic Journal: Applied Economics,1,240,True
+qwen,American Economic Review,2,240,True
+qwen,American Journal of Political Science,5,240,True
+qwen,American Political Science Review,4,240,True
+qwen,American Sociological Review,1,240,True
+qwen,Annals of the International Communication Association,2,240,True
+qwen,Big Data & Society,3,240,True
+qwen,British Journal of Political Science,1,240,True
+qwen,Cambridge Journal of Economics,1,240,True
+qwen,Communication Research,2,240,True
+qwen,Communication Research Trends,1,240,True
+qwen,Communication Theory,3,240,True
+qwen,Computers in Human Behavior,6,240,True
+qwen,Current Opinion in Psychology,1,240,True
+qwen,Daedalus,1,240,True
+qwen,Digital Journalism,2,240,True
+qwen,Environmental Politics,1,240,True
+qwen,Episteme,1,240,True
+qwen,First Monday,5,240,True
+qwen,Harvard Law Review,1,240,True
+qwen,Harvard Law Review Forum,1,240,True
+qwen,Human Communication Research,1,240,True
+qwen,Human Resource Management Journal,1,240,True
+qwen,Information & Culture,1,240,True
+qwen,"Information, Communication & Society",8,240,True
+qwen,International Journal of Advertising,1,240,True
+qwen,International Journal of Communication,3,240,True
+qwen,International Journal of Public Opinion Research,2,240,True
+qwen,International Review of Information Ethics,1,240,True
+qwen,Internet Histories,1,240,True
+qwen,Journal of Broadcasting & Electronic Media,5,240,True
+qwen,Journal of Communication,16,240,True
+qwen,Journal of Computer-Mediated Communication,9,240,True
+qwen,Journal of Economic Perspectives,1,240,True
+qwen,Journal of Experimental Psychology: General,1,240,True
+qwen,Journal of the Association for Information Science and Technology,1,240,True
+qwen,Journalism & Communication Monographs,6,240,True
+qwen,Journalism & Mass Communication Quarterly,4,240,True
+qwen,Journalism Bulletin,2,240,True
+qwen,Journalism Monographs,1,240,True
+qwen,Journalism Quarterly,1,240,True
+qwen,Journalism and Mass Communication Quarterly,1,240,True
+qwen,Mass Communication & Society,1,240,True
+qwen,Mass Communication and Society,2,240,True
+qwen,Nature Human Behaviour,1,240,True
+qwen,New Media & Society,18,240,True
+qwen,PNAS,1,240,True
+qwen,Policy Sciences,1,240,True
+qwen,Policy Studies Journal,1,240,True
+qwen,Political Behavior,2,240,True
+qwen,Political Communication,4,240,True
+qwen,Political Research Quarterly,1,240,True
+qwen,Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI '15),1,240,True
+qwen,Proceedings of the National Academy of Sciences,4,240,True
+qwen,Psychological Bulletin,1,240,True
+qwen,Psychological Science,1,240,True
+qwen,Public Opinion Quarterly,20,240,True
+qwen,Public Understanding of Science,1,240,True
+qwen,Reuters Institute for the Study of Journalism (Report),1,240,True
+qwen,Review of Communication Research,1,240,True
+qwen,SAGE Open,1,240,True
+qwen,Sage Annual Review of Communication Research,1,240,True
+qwen,Sage Publications (Book/Monograph series often cited as foundational paper context),1,240,True
+qwen,Science,11,240,True
+qwen,Social Media + Society,1,240,True
+qwen,Social Problems,1,240,True
+qwen,Sociological Inquiry,1,240,True
+qwen,Telematics and Informatics,2,240,True
+qwen,Theory and Society,1,240,True
+qwen,"TripleC: Communication, Capitalism & Critique",1,240,True
+qwen,University of Chicago Press,1,240,True
+qwen,User Modeling and User-Adapted Interaction,1,240,True
+qwen,not_claimed,42,240,True
+qwen,null,1,240,True

@@ -1,0 +1,6 @@
+﻿category,positions,denominator_all_positions,denominator_real_work_positions,fraction_all,fraction_real_work,version
+confirmed_journal_article,533,949,624,0.5616438356164384,0.8541666666666666,ppt_analysis_v5
+confirmed_nonjournal_work,79,949,624,0.08324552160168598,0.1266025641025641,ppt_analysis_v5
+historical_carrier_pending,6,949,624,0.006322444678609062,0.009615384615384616,ppt_analysis_v5
+carrier_unresolved,6,949,624,0.006322444678609062,0.009615384615384616,ppt_analysis_v5
+unidentified_work,325,949,624,0.3424657534246575,,ppt_analysis_v5

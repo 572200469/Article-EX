@@ -1,0 +1,52 @@
+{
+  "protected_files_checked": 2005,
+  "changed_or_missing_protected_files": [],
+  "all398_slots_mapped": true,
+  "candidate_groups": 380,
+  "all949_raw_entries_equal": true,
+  "prior551_identities_retained": true,
+  "new_artifact_secret_scan_passed": true,
+  "openalex_free_quota_after": {
+    "daily_budget_usd": 1,
+    "daily_used_usd": 0.6665,
+    "daily_remaining_usd": 0.3335,
+    "prepaid_balance_usd": 0,
+    "prepaid_remaining_usd": 0,
+    "prepaid_expires_at": null,
+    "resets_at": "2026-10-13T00:00:00.000Z",
+    "resets_in_seconds": 39102,
+    "endpoint_costs_usd": {
+      "singleton": 0,
+      "list": 0.0001,
+      "search": 0.001,
+      "search_rerank": 0.002,
+      "rerank_extra": 0.001,
+      "content": 0.01,
+      "semantic": 0.001,
+      "text": 0.01
+    },
+    "credits_limit": 10000,
+    "credits_used": 6665,
+    "credits_remaining": 3335,
+    "onetime_credits_balance": 0,
+    "onetime_credits_remaining": 0,
+    "onetime_credits_expires_at": null,
+    "credit_costs": {
+      "singleton": 0,
+      "list": 1,
+      "search": 10,
+      "search_rerank": 20,
+      "rerank_extra": 10,
+      "content": 100,
+      "semantic": 10,
+      "text": 100
+    }
+  },
+  "model_generation_calls": 0,
+  "offline_tests": "41 unittest tests passed; new identity rules and existing matching/cleaning/affiliation tests",
+  "verified_at": "2026-10-12T13:12:19.364070+00:00",
+  "latest_derived_table_revalidated": true,
+  "new_confirmed_journal_positions": 23,
+  "new_journal_issnl_positions": 22,
+  "new_journal_institution_decidable_positions": 7
+}

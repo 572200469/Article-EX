@@ -1,0 +1,525 @@
+{
+  "version": "bounded_carrier_and_identifier_review_v4",
+  "reviews": [
+    {
+      "slot_ids": [
+        "ad91fadee6da3e73c3ca72e53f6150e6d143e480cb444231617809724706f44e"
+      ],
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "source": "openalex",
+        "title": "The Spiral of Silence Ten Years Later: An Examination and Evaluation.",
+        "authors": [
+          "Charles Thomas Salmon",
+          "F. Gerald Kline"
+        ],
+        "year": 1983,
+        "journal": "",
+        "doi": null,
+        "work_id": "eric:ED235528",
+        "type": "conference-paper",
+        "language": "en",
+        "authorships": [
+          {
+            "author_position": "first",
+            "author": {
+              "id": "https://openalex.org/A5056136792",
+              "display_name": "Charles Thomas Salmon",
+              "orcid": "https://orcid.org/0000-0002-9696-1441",
+              "observed_orcids": [
+                "https://orcid.org/0000-0002-9696-1441"
+              ]
+            },
+            "institutions": [],
+            "countries": [],
+            "is_corresponding": false,
+            "raw_author_name": "Charles T. Salmon",
+            "raw_affiliation_strings": [],
+            "raw_orcid": "https://orcid.org/0000-0002-9696-1441",
+            "affiliations": []
+          },
+          {
+            "author_position": "last",
+            "author": {
+              "id": "https://openalex.org/A5043198695",
+              "display_name": "F. Gerald Kline",
+              "orcid": null,
+              "observed_orcids": []
+            },
+            "institutions": [],
+            "countries": [],
+            "is_corresponding": false,
+            "raw_author_name": "F. Gerald Kline",
+            "raw_affiliation_strings": [],
+            "raw_orcid": null,
+            "affiliations": []
+          }
+        ],
+        "oa_status": "closed",
+        "cited_by_count": 62,
+        "journal_issn_l": null,
+        "journal_issns": [],
+        "evidence_file": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\incremental_metadata\\data\\cache\\d590b33a35869c47f8f472ad232bed3dd794ac7010d4116b34c0e25f201f8eb7\\bcc3fc9b657f474db212983103b25cc1.json",
+        "evidence_url": "https://api.openalex.org/works",
+        "url": "https://files.eric.ed.gov/fulltext/ED235528.pdf"
+      },
+      "conflicts": [
+        "author_mismatch",
+        "year_mismatch",
+        "claimed_journal_or_carrier_wrong"
+      ],
+      "reasoning": "ERIC原文首页载明作者Salmon/Kline、May1983和ICA会议论文类型，原1990及Neuwirth作者错误。",
+      "confidence_basis": "formal publisher or archived document; title and named authors corroborated",
+      "evidence_source": [
+        "https://files.eric.ed.gov/fulltext/ED235528.pdf"
+      ],
+      "checked_at": "2026-10-12T13:04:09.194616+00:00",
+      "researcher_review_status": "pending",
+      "review_method": "bounded_assistant_source_review",
+      "access_note": "Publisher Wiley store public search metadata available; direct page inaccessible. ERIC PDF and Penguin page directly viewed. ILO page directly viewed."
+    },
+    {
+      "slot_ids": [
+        "93362e05fa1120cfdd09384bba8b0a05a7937986dbaf9350f5564328df4660ed"
+      ],
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "source": "openalex",
+        "title": "The Filter Bubble: What the Internet Is Hiding from You",
+        "authors": [
+          "Eli Pariser"
+        ],
+        "year": 2011,
+        "journal": "",
+        "doi": null,
+        "work_id": "isbn:9781594203008",
+        "type": "book",
+        "language": "en",
+        "authorships": [
+          {
+            "author_position": "first",
+            "author": {
+              "id": "https://openalex.org/A5079721300",
+              "display_name": "Eli Pariser",
+              "orcid": null,
+              "observed_orcids": []
+            },
+            "institutions": [],
+            "countries": [],
+            "is_corresponding": true,
+            "raw_author_name": "Eli Pariser",
+            "raw_affiliation_strings": [],
+            "raw_orcid": null,
+            "affiliations": []
+          }
+        ],
+        "oa_status": "closed",
+        "cited_by_count": 4366,
+        "journal_issn_l": null,
+        "journal_issns": [],
+        "evidence_file": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_preexperiment-29c06243fe1ce3a2\\data\\cache\\1ba408a7a4599d1fc49a869fdf37837399353ceca7df52975dc3571575535dc7\\2026-10-11T09-09-51.788464+00-00_23b35ebc-bc61-448d-a9ab-9d484bf36a7e.json",
+        "evidence_url": "https://api.openalex.org/works",
+        "url": "https://www.penguin.co.uk/books/181850/the-filter-bubble-by-pariser-eli/9780241954522"
+      },
+      "conflicts": [
+        "year_missing",
+        "claimed_journal_or_carrier_wrong"
+      ],
+      "reasoning": "出版商确认Pariser原书及版本，缺年份原条目仍可识别；OpenAlex article标签不能证明是期刊论文。",
+      "confidence_basis": "formal publisher or archived document; title and named authors corroborated",
+      "evidence_source": [
+        "https://www.penguin.co.uk/books/181850/the-filter-bubble-by-pariser-eli/9780241954522",
+        "https://penguinrandomhouselibrary.com/book/?isbn=9780143121237"
+      ],
+      "checked_at": "2026-10-12T13:04:09.194672+00:00",
+      "researcher_review_status": "pending",
+      "review_method": "bounded_assistant_source_review",
+      "access_note": "Publisher Wiley store public search metadata available; direct page inaccessible. ERIC PDF and Penguin page directly viewed. ILO page directly viewed."
+    },
+    {
+      "slot_ids": [
+        "05471764aba0cba3d44ce03673134dac34d8456ae30455f0e9a47855f011420c"
+      ],
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "source": "openalex",
+        "title": "The Gig Economy: A Critical Introduction",
+        "authors": [
+          "Jamie Woodcock",
+          "Mark J Graham"
+        ],
+        "year": 2020,
+        "journal": "",
+        "doi": null,
+        "work_id": "isbn:9781509536351",
+        "type": "book",
+        "language": "en",
+        "authorships": [
+          {
+            "author_position": "first",
+            "author": {
+              "id": "https://openalex.org/A5075889162",
+              "display_name": "Jamie Woodcock",
+              "orcid": "https://orcid.org/0000-0001-7097-305X",
+              "observed_orcids": [
+                "https://orcid.org/0000-0001-7097-305X"
+              ]
+            },
+            "institutions": [],
+            "countries": [],
+            "is_corresponding": false,
+            "raw_author_name": "Jamie Woodcock",
+            "raw_affiliation_strings": [],
+            "raw_orcid": null,
+            "affiliations": []
+          },
+          {
+            "author_position": "last",
+            "author": {
+              "id": "https://openalex.org/A5086530950",
+              "display_name": "Mark J Graham",
+              "orcid": "https://orcid.org/0000-0001-8370-9848",
+              "observed_orcids": [
+                "https://orcid.org/0000-0001-8370-9848"
+              ]
+            },
+            "institutions": [],
+            "countries": [],
+            "is_corresponding": false,
+            "raw_author_name": "Mark Graham",
+            "raw_affiliation_strings": [],
+            "raw_orcid": "https://orcid.org/0000-0001-8370-9848",
+            "affiliations": []
+          }
+        ],
+        "oa_status": "closed",
+        "cited_by_count": 40,
+        "journal_issn_l": null,
+        "journal_issns": [],
+        "publication_source": {},
+        "locations": [
+          {
+            "id": "pmh:oai:aleph.bib-bvb.de:BVB01-031494830",
+            "doi": null,
+            "is_oa": false,
+            "landing_page_url": "https://bvbr.bib-bvb.de:443/F?func=service&doc_library=BVB01&local_base=BVB01&doc_number=031494830&sequence=000001&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA",
+            "pdf_url": null,
+            "source": null,
+            "license": null,
+            "license_id": null,
+            "version": "submittedVersion",
+            "is_accepted": false,
+            "is_published": false,
+            "raw_source_name": null,
+            "raw_type": "text"
+          },
+          {
+            "id": "pmh:oai:aleph.bib-bvb.de:BVB01-032100473",
+            "doi": null,
+            "is_oa": false,
+            "landing_page_url": "https://resolver.vitalsource.com/9781509536375",
+            "pdf_url": null,
+            "source": null,
+            "license": null,
+            "license_id": null,
+            "version": "submittedVersion",
+            "is_accepted": false,
+            "is_published": false,
+            "raw_source_name": null,
+            "raw_type": "text"
+          },
+          {
+            "id": "pmh:oai:oro.open.ac.uk:68716",
+            "doi": null,
+            "is_oa": false,
+            "landing_page_url": "https://politybooks.com/bookdetail/?isbn=9781509536368",
+            "pdf_url": null,
+            "source": {
+              "id": "https://openalex.org/S4377196284",
+              "display_name": "Open Research Online - ORO (The Open University)",
+              "issn_l": null,
+              "issn": null,
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": false,
+              "listed_in": [],
+              "host_organization": "https://openalex.org/I204136569",
+              "host_organization_name": "The Open University",
+              "host_organization_lineage": [
+                "https://openalex.org/I204136569"
+              ],
+              "host_organization_lineage_names": [],
+              "type": "repository"
+            },
+            "license": null,
+            "license_id": null,
+            "version": "submittedVersion",
+            "is_accepted": false,
+            "is_published": false,
+            "raw_source_name": "",
+            "raw_type": "Book"
+          },
+          {
+            "id": "mag:2996174233",
+            "doi": null,
+            "is_oa": false,
+            "landing_page_url": "http://oro.open.ac.uk/68716/",
+            "pdf_url": null,
+            "source": null,
+            "license": null,
+            "license_id": null,
+            "version": null,
+            "is_accepted": false,
+            "is_published": null,
+            "raw_source_name": null,
+            "raw_type": null
+          }
+        ],
+        "evidence_file": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\identity_review_v4_20261012\\public_cache\\9af70aaf949fb0ba4497a693f12b9e21b6a38e3a13b4513e401c09fa8fa80d50.json",
+        "evidence_url": "https://api.openalex.org/works",
+        "retrieved_at": "2026-10-12T12:17:54.503331+00:00",
+        "url": "https://uat.store.wiley.com/en-us/the-gig-economy-a-critical-introduction-p-9781509536375"
+      },
+      "conflicts": [
+        "claimed_carrier_wrong"
+      ],
+      "reasoning": "Polity/Wiley正式书目与作者书目确认Woodcock/Graham图书；不是同题书评。",
+      "confidence_basis": "formal publisher or archived document; title and named authors corroborated",
+      "evidence_source": [
+        "https://uat.store.wiley.com/en-us/the-gig-economy-a-critical-introduction-p-9781509536375",
+        "https://www.jamiewoodcock.com/publications"
+      ],
+      "checked_at": "2026-10-12T13:04:09.194708+00:00",
+      "researcher_review_status": "pending",
+      "review_method": "bounded_assistant_source_review",
+      "access_note": "Publisher Wiley store public search metadata available; direct page inaccessible. ERIC PDF and Penguin page directly viewed. ILO page directly viewed."
+    },
+    {
+      "slot_ids": [
+        "7423b913f56e65b5cf0bacc15e49b9ce5afde8c4bf14010bd8ff2826448f3433"
+      ],
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "source": "crossref",
+        "title": "The Rise of the 'Just-in-Time Workforce': On-Demand Work, Crowd Work and Labour Protection in the 'Gig-Economy'",
+        "authors": [
+          "Valerio De Stefano"
+        ],
+        "year": 2016,
+        "year_print": "unknown",
+        "year_online": "unknown",
+        "journal": "",
+        "doi": null,
+        "work_id": "source:de-stefano-just-in-time-workforce",
+        "type": "publication-version-unresolved",
+        "language": "en",
+        "authorships": [],
+        "journal_issn_l": null,
+        "journal_issns": [
+          "1556-5068"
+        ],
+        "evidence_file": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\incremental_metadata\\data\\cache\\04716366fd9b3d2f6c81ddbafc434d0bfde4dbf0b82ae648bb8e4ad2e0c6bb09\\10adf0dc40dc4afdbb852f423a503bca.json",
+        "evidence_url": "https://api.crossref.org/works",
+        "title_before_supplement": "The Rise of the 'Just-in-Time Workforce': On-Demand Work, Crowd Work and Labour Protection in the 'Gig-Economy'",
+        "title_subtitle_deposit": [],
+        "volume": null,
+        "issue": null,
+        "page": null,
+        "supplement_version": "identity_source_supplement_20261012_v1",
+        "url": "https://www.ilo.org/publications/rise-just-time-workforce-demand-work-crowdwork-and-labour-protection-gig"
+      },
+      "conflicts": [
+        "original_doi_or_version_mismatch",
+        "publication_version_pending"
+      ],
+      "reasoning": "ILO正式资料确认题名作者和2016工作论文71；正式期刊后续卷期资料引用同作37:471–504(2016)，可确认作品但现阶段不将SSRN/OA载体标签直接转为唯一期刊版本。具体发表载体留待裁定。",
+      "confidence_basis": "formal publisher or archived document; title and named authors corroborated",
+      "evidence_source": [
+        "https://www.ilo.org/publications/rise-just-time-workforce-demand-work-crowdwork-and-labour-protection-gig",
+        "https://cllpj.law.illinois.edu/content/issues/Volume%2044.3.pdf?v2="
+      ],
+      "checked_at": "2026-10-12T13:04:09.194726+00:00",
+      "researcher_review_status": "pending",
+      "review_method": "bounded_assistant_source_review",
+      "access_note": "Publisher Wiley store public search metadata available; direct page inaccessible. ERIC PDF and Penguin page directly viewed. ILO page directly viewed."
+    },
+    {
+      "slot_ids": [
+        "63e2bef2f8b8c9ab91a2b2d41799a746dfd6f844e5162b6debed6a85d2f04fc0"
+      ],
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "source": "crossref",
+        "title": "The Rise of the 'Just-in-Time Workforce': On-Demand Work, Crowd Work and Labour Protection in the 'Gig-Economy'",
+        "authors": [
+          "Valerio De Stefano"
+        ],
+        "year": 2016,
+        "year_print": "unknown",
+        "year_online": "unknown",
+        "journal": "",
+        "doi": null,
+        "work_id": "source:de-stefano-just-in-time-workforce",
+        "type": "publication-version-unresolved",
+        "language": "en",
+        "authorships": [],
+        "journal_issn_l": null,
+        "journal_issns": [
+          "1556-5068"
+        ],
+        "evidence_file": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\incremental_metadata\\data\\cache\\04716366fd9b3d2f6c81ddbafc434d0bfde4dbf0b82ae648bb8e4ad2e0c6bb09\\10adf0dc40dc4afdbb852f423a503bca.json",
+        "evidence_url": "https://api.crossref.org/works",
+        "title_before_supplement": "The Rise of the 'Just-in-Time Workforce': On-Demand Work, Crowd Work and Labour Protection in the 'Gig-Economy'",
+        "title_subtitle_deposit": [],
+        "volume": null,
+        "issue": null,
+        "page": null,
+        "supplement_version": "identity_source_supplement_20261012_v1",
+        "url": "https://www.ilo.org/publications/rise-just-time-workforce-demand-work-crowdwork-and-labour-protection-gig"
+      },
+      "conflicts": [
+        "original_doi_or_version_mismatch",
+        "publication_version_pending"
+      ],
+      "reasoning": "ILO正式资料确认题名作者和2016工作论文71；正式期刊后续卷期资料引用同作37:471–504(2016)，可确认作品但现阶段不将SSRN/OA载体标签直接转为唯一期刊版本。具体发表载体留待裁定。",
+      "confidence_basis": "formal publisher or archived document; title and named authors corroborated",
+      "evidence_source": [
+        "https://www.ilo.org/publications/rise-just-time-workforce-demand-work-crowdwork-and-labour-protection-gig",
+        "https://cllpj.law.illinois.edu/content/issues/Volume%2044.3.pdf?v2="
+      ],
+      "checked_at": "2026-10-12T13:04:09.194736+00:00",
+      "researcher_review_status": "pending",
+      "review_method": "bounded_assistant_source_review",
+      "access_note": "Publisher Wiley store public search metadata available; direct page inaccessible. ERIC PDF and Penguin page directly viewed. ILO page directly viewed."
+    },
+    {
+      "slot_ids": [
+        "fdb4f3e0f684afec7c88ef2613a108e10ac062e000cf3dc154662f8e53445216"
+      ],
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "source": "crossref",
+        "title": "The Rise of the 'Just-in-Time Workforce': On-Demand Work, Crowd Work and Labour Protection in the 'Gig-Economy'",
+        "authors": [
+          "Valerio De Stefano"
+        ],
+        "year": 2016,
+        "year_print": "unknown",
+        "year_online": "unknown",
+        "journal": "",
+        "doi": null,
+        "work_id": "source:de-stefano-just-in-time-workforce",
+        "type": "publication-version-unresolved",
+        "language": "en",
+        "authorships": [],
+        "journal_issn_l": null,
+        "journal_issns": [
+          "1556-5068"
+        ],
+        "evidence_file": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\incremental_metadata\\data\\cache\\04716366fd9b3d2f6c81ddbafc434d0bfde4dbf0b82ae648bb8e4ad2e0c6bb09\\10adf0dc40dc4afdbb852f423a503bca.json",
+        "evidence_url": "https://api.crossref.org/works",
+        "title_before_supplement": "The Rise of the 'Just-in-Time Workforce': On-Demand Work, Crowd Work and Labour Protection in the 'Gig-Economy'",
+        "title_subtitle_deposit": [],
+        "volume": null,
+        "issue": null,
+        "page": null,
+        "supplement_version": "identity_source_supplement_20261012_v1",
+        "url": "https://www.ilo.org/publications/rise-just-time-workforce-demand-work-crowdwork-and-labour-protection-gig"
+      },
+      "conflicts": [
+        "original_doi_or_version_mismatch",
+        "publication_version_pending"
+      ],
+      "reasoning": "ILO正式资料确认题名作者和2016工作论文71；正式期刊后续卷期资料引用同作37:471–504(2016)，可确认作品但现阶段不将SSRN/OA载体标签直接转为唯一期刊版本。具体发表载体留待裁定。",
+      "confidence_basis": "formal publisher or archived document; title and named authors corroborated",
+      "evidence_source": [
+        "https://www.ilo.org/publications/rise-just-time-workforce-demand-work-crowdwork-and-labour-protection-gig",
+        "https://cllpj.law.illinois.edu/content/issues/Volume%2044.3.pdf?v2="
+      ],
+      "checked_at": "2026-10-12T13:04:09.194746+00:00",
+      "researcher_review_status": "pending",
+      "review_method": "bounded_assistant_source_review",
+      "access_note": "Publisher Wiley store public search metadata available; direct page inaccessible. ERIC PDF and Penguin page directly viewed. ILO page directly viewed."
+    },
+    {
+      "slot_ids": [
+        "8d60d99369183e236061e14feb2b7f8fdb5490eba37e6aad5480f0147698e638"
+      ],
+      "review_status": "verified_exact",
+      "candidate": {
+        "source": "crossref",
+        "title": "The Constructionist Approach to Framing: Bringing Culture Back In",
+        "authors": [
+          "Baldwin Van Gorp"
+        ],
+        "year": 2007,
+        "year_print": 2007,
+        "year_online": 2006,
+        "journal": "Journal of Communication",
+        "doi": "10.1111/j.0021-9916.2007.00329.x",
+        "work_id": "doi:10.1111/j.0021-9916.2007.00329.x",
+        "type": "journal-article",
+        "url": "https://fbaum.unc.edu/teaching/articles/J-Communication-2007-4.pdf",
+        "evidence_file": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\main_processing\\main_20261012\\metadata\\data\\cache\\46775f4bb07e00f92b48679baa4f00693fb9feb3790cb8cba398f7c1052b6532\\fec4b73873074efb981f74614691f050.json",
+        "evidence_url": "https://api.crossref.org/works",
+        "journal_issn_l": "0021-9916",
+        "journal_issns": [
+          "0021-9916",
+          "1460-2466"
+        ]
+      },
+      "conflicts": [],
+      "reasoning": "UNC托管正式发表版首页及页脚确认Van Gorp、JoC57(2007)60–78；原DOI印于正式版，Crossref无原DOI记录不意味着原引用错。另无DOI的OpenAlex书章候选不取代已明确期刊版本。",
+      "confidence_basis": "formal publisher or archived document; title and named authors corroborated",
+      "evidence_source": [
+        "https://fbaum.unc.edu/teaching/articles/J-Communication-2007-4.pdf"
+      ],
+      "checked_at": "2026-10-12T13:04:09.194781+00:00",
+      "researcher_review_status": "pending",
+      "review_method": "bounded_assistant_source_review",
+      "access_note": "Publisher Wiley store public search metadata available; direct page inaccessible. ERIC PDF and Penguin page directly viewed. ILO page directly viewed."
+    },
+    {
+      "slot_ids": [
+        "4ea4c576876a516f5be6aa68584558601f33d7bdd19936b8b8b00bb225e52b8e"
+      ],
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "source": "crossref",
+        "title": "Explicating Media Salience: A Factor Analysis of New York Times Issue Coverage During the 2000 U.S. Presidential Election",
+        "authors": [
+          "Spiro Kiousis"
+        ],
+        "year": 2004,
+        "year_print": 2004,
+        "year_online": 2006,
+        "journal": "Journal of Communication",
+        "doi": "10.1111/j.1460-2466.2004.tb02614.x",
+        "work_id": "doi:10.1111/j.1460-2466.2004.tb02614.x",
+        "type": "journal-article",
+        "url": "https://academic.oup.com/joc/issue/54/1?browseBy=volume",
+        "evidence_file": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\main_processing\\main_20261012\\metadata\\data\\cache\\2f00795665f423c1630c9a66e87d6edfd680a6f3bfd106b042024be1cdb54f5e\\e16c78fbb9314a2b8cb31df5a17648ba.json",
+        "evidence_url": "https://api.crossref.org/works",
+        "journal_issn_l": "0021-9916",
+        "journal_issns": [
+          "0021-9916",
+          "1460-2466"
+        ]
+      },
+      "conflicts": [
+        "doi_mismatch"
+      ],
+      "reasoning": "Oxford正式卷期目录直接确认Kiousis、2004、54(1)71–87及实际DOI；原tb02622.x为同卷Book Reviews。旧新两个候选DOI不在缺证情况下全局alias，只对本slot使用原刊记录。",
+      "confidence_basis": "formal publisher or archived document; title and named authors corroborated",
+      "evidence_source": [
+        "https://academic.oup.com/joc/issue/54/1?browseBy=volume"
+      ],
+      "checked_at": "2026-10-12T13:04:09.194816+00:00",
+      "researcher_review_status": "pending",
+      "review_method": "bounded_assistant_source_review",
+      "access_note": "Publisher Wiley store public search metadata available; direct page inaccessible. ERIC PDF and Penguin page directly viewed. ILO page directly viewed."
+    }
+  ],
+  "model_requests": 0,
+  "queried_at": "2026-10-12T13:04:09.194818+00:00"
+}

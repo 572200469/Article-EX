@@ -1,0 +1,46 @@
+{
+  "version": "identity_review_v4_20261012",
+  "original_unknown_positions": 398,
+  "claim_groups": 380,
+  "old_lookup_keys": 383,
+  "new_real_positions": 73,
+  "before_identified": 551,
+  "after_identified": 624,
+  "before_identity_coverage": 0.5806111696522656,
+  "after_identity_coverage": 0.6575342465753424,
+  "coverage_gain_percentage_points": 7.6923076923076925,
+  "states_original_unknown": {
+    "verified_exact": 17,
+    "verified_with_errors": 56,
+    "conflated_or_composite": 1,
+    "likely_fabricated": 0,
+    "unresolved_after_review": 324
+  },
+  "new_categories_full949": {
+    "confirmed_journal_article": 533,
+    "unidentified_work": 325,
+    "confirmed_nonjournal_work": 79,
+    "historical_carrier_pending": 6,
+    "carrier_unresolved": 6
+  },
+  "source_assisted_review_positions": 93,
+  "new_confirmed_mainland_journal_positions": 0,
+  "updated_PPT_figures": false,
+  "updated_accepted_v3": false,
+  "model_generation_calls": 0,
+  "publication_geography_not_inferred_from_publisher_country": true,
+  "created_at": "2026-10-12T13:11:23.902852+00:00",
+  "candidate_group_final_statuses": {
+    "unresolved_after_review": 318,
+    "verified_with_errors": 51,
+    "verified_exact": 10,
+    "conflated_or_composite": 1
+  },
+  "source_assisted_review_files": [
+    "data\\identity_review_v4_20261012\\manual_primary_highfreq.json",
+    "data\\identity_review_v4_20261012\\manual_qwen_focus.json",
+    "data\\identity_review_v4_20261012\\manual_secondary_anchors.json",
+    "data\\identity_review_v4_20261012\\manual_doi_anchors.json",
+    "data\\identity_review_v4_20261012\\manual_carrier_corrections.json"
+  ]
+}

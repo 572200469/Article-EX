@@ -1,0 +1,9 @@
+﻿provider,version,all_recommendation_positions,confirmed_journal_positions,journal_brand_keys,top3_confirmed_journal_positions,top3_share_confirmed_journal_only,hhi_confirmed_journal_only,brand_rule,status
+openai,accepted_v3,229,174,37,65,0.3735632183908046,0.07022063680803277,ISSN-L else decoded canonical label; subset denominator only,preview_not_PPT
+openai,v4_audit_preview,229,181,37,68,0.3756906077348066,0.07243368639540917,ISSN-L else decoded canonical label; subset denominator only,preview_not_PPT
+gemini,accepted_v3,240,213,35,78,0.36619718309859156,0.06367784169807578,ISSN-L else decoded canonical label; subset denominator only,preview_not_PPT
+gemini,v4_audit_preview,240,217,35,78,0.35944700460829493,0.06228630890441505,ISSN-L else decoded canonical label; subset denominator only,preview_not_PPT
+deepseek,accepted_v3,240,100,25,59,0.59,0.1274,ISSN-L else decoded canonical label; subset denominator only,preview_not_PPT
+deepseek,v4_audit_preview,240,107,26,61,0.5700934579439252,0.11922438640929338,ISSN-L else decoded canonical label; subset denominator only,preview_not_PPT
+qwen,accepted_v3,240,23,7,19,0.8260869565217391,0.2665406427221172,ISSN-L else decoded canonical label; subset denominator only,preview_not_PPT
+qwen,v4_audit_preview,240,28,9,21,0.75,0.2295918367346939,ISSN-L else decoded canonical label; subset denominator only,preview_not_PPT

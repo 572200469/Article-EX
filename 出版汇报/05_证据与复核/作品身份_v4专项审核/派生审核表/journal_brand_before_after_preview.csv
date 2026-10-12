@@ -1,0 +1,216 @@
+﻿provider,version,journal,positions,identified_journal_denominator,all_position_denominator,rank
+openai,accepted_v3,Journal of Communication,31,174,229,1
+openai,accepted_v3,Public Opinion Quarterly,20,174,229,2
+openai,accepted_v3,Science,14,174,229,3
+openai,accepted_v3,Communication Research,11,174,229,4
+openai,accepted_v3,"Information, Communication & Society",9,174,229,5
+openai,accepted_v3,Political Behavior,8,174,229,6
+openai,accepted_v3,New Media & Society,7,174,229,7
+openai,accepted_v3,Proceedings of the National Academy of Sciences,6,174,229,8
+openai,accepted_v3,Journal of Broadcasting,6,174,229,9
+openai,accepted_v3,Internet Policy Review,5,174,229,10
+openai,accepted_v3,Journalism & Mass Communication Quarterly,5,174,229,11
+openai,accepted_v3,International journal of communication,4,174,229,12
+openai,accepted_v3,"Work, Employment and Society",4,174,229,13
+openai,accepted_v3,Political Communication,4,174,229,14
+openai,accepted_v3,Digital Journalism,3,174,229,15
+openai,accepted_v3,American Journal of Sociology,3,174,229,16
+openai,accepted_v3,American Political Science Review,3,174,229,17
+openai,accepted_v3,Psychological Science,3,174,229,18
+openai,accepted_v3,American Sociological Review,3,174,229,19
+openai,accepted_v3,Decision Sciences,2,174,229,20
+openai,accepted_v3,The Journal of Politics,2,174,229,21
+openai,accepted_v3,"Bulletin of Science, Technology & Society",2,174,229,22
+openai,accepted_v3,Journal of Broadcasting & Electronic Media,2,174,229,23
+openai,accepted_v3,The International Journal of Press/Politics,2,174,229,24
+openai,accepted_v3,Social Text,2,174,229,25
+openai,accepted_v3,Javnost - The Public,1,174,229,26
+openai,accepted_v3,Journal of Computer-Mediated Communication,1,174,229,27
+openai,accepted_v3,British Journal of Social Psychology,1,174,229,28
+openai,accepted_v3,Journal of Political Philosophy,1,174,229,29
+openai,accepted_v3,Nature,1,174,229,30
+openai,accepted_v3,The Journal of Economic Perspectives,1,174,229,31
+openai,accepted_v3,Nature Human Behaviour,1,174,229,32
+openai,accepted_v3,Social Science Computer Review,1,174,229,33
+openai,accepted_v3,International Journal of Public Opinion Research,1,174,229,34
+openai,accepted_v3,Journal of Economic Perspectives,1,174,229,35
+openai,accepted_v3,South Atlantic Quarterly,1,174,229,36
+openai,accepted_v3,Transfer: European Review of Labour and Research,1,174,229,37
+openai,accepted_v3,Mass Communication and Society,1,174,229,38
+openai,review_v4_preview,Journal of Communication,34,181,229,1
+openai,review_v4_preview,Public Opinion Quarterly,20,181,229,2
+openai,review_v4_preview,Science,14,181,229,3
+openai,review_v4_preview,Communication Research,11,181,229,4
+openai,review_v4_preview,"Information, Communication & Society",9,181,229,5
+openai,review_v4_preview,New Media & Society,9,181,229,6
+openai,review_v4_preview,Political Behavior,8,181,229,7
+openai,review_v4_preview,Proceedings of the National Academy of Sciences,6,181,229,8
+openai,review_v4_preview,Journal of Broadcasting,6,181,229,9
+openai,review_v4_preview,Political Communication,6,181,229,10
+openai,review_v4_preview,Internet Policy Review,5,181,229,11
+openai,review_v4_preview,Journalism & Mass Communication Quarterly,5,181,229,12
+openai,review_v4_preview,International journal of communication,4,181,229,13
+openai,review_v4_preview,"Work, Employment and Society",4,181,229,14
+openai,review_v4_preview,Digital Journalism,3,181,229,15
+openai,review_v4_preview,American Journal of Sociology,3,181,229,16
+openai,review_v4_preview,American Political Science Review,3,181,229,17
+openai,review_v4_preview,Psychological Science,3,181,229,18
+openai,review_v4_preview,American Sociological Review,3,181,229,19
+openai,review_v4_preview,Decision Sciences,2,181,229,20
+openai,review_v4_preview,The Journal of Politics,2,181,229,21
+openai,review_v4_preview,"Bulletin of Science, Technology & Society",2,181,229,22
+openai,review_v4_preview,Journal of Broadcasting & Electronic Media,2,181,229,23
+openai,review_v4_preview,The International Journal of Press/Politics,2,181,229,24
+openai,review_v4_preview,Social Text,2,181,229,25
+openai,review_v4_preview,Javnost - The Public,1,181,229,26
+openai,review_v4_preview,Journal of Computer-Mediated Communication,1,181,229,27
+openai,review_v4_preview,British Journal of Social Psychology,1,181,229,28
+openai,review_v4_preview,Journal of Political Philosophy,1,181,229,29
+openai,review_v4_preview,Nature,1,181,229,30
+openai,review_v4_preview,The Journal of Economic Perspectives,1,181,229,31
+openai,review_v4_preview,Nature Human Behaviour,1,181,229,32
+openai,review_v4_preview,Social Science Computer Review,1,181,229,33
+openai,review_v4_preview,International Journal of Public Opinion Research,1,181,229,34
+openai,review_v4_preview,Journal of Economic Perspectives,1,181,229,35
+openai,review_v4_preview,South Atlantic Quarterly,1,181,229,36
+openai,review_v4_preview,Transfer: European Review of Labour and Research,1,181,229,37
+openai,review_v4_preview,Mass Communication and Society,1,181,229,38
+gemini,accepted_v3,Journal of Communication,30,213,240,1
+gemini,accepted_v3,Public Opinion Quarterly,26,213,240,2
+gemini,accepted_v3,Science,22,213,240,3
+gemini,accepted_v3,New Media & Society,12,213,240,4
+gemini,accepted_v3,Political Behavior,9,213,240,5
+gemini,accepted_v3,American Political Science Review,9,213,240,6
+gemini,accepted_v3,Political Communication,9,213,240,7
+gemini,accepted_v3,"Information, Communication & Society",7,213,240,8
+gemini,accepted_v3,Journal of Broadcasting & Electronic Media,7,213,240,9
+gemini,accepted_v3,Social Text,6,213,240,10
+gemini,accepted_v3,International journal of communication,6,213,240,11
+gemini,accepted_v3,Mass Communication and Society,6,213,240,12
+gemini,accepted_v3,American Sociological Review,6,213,240,13
+gemini,accepted_v3,Nature,5,213,240,14
+gemini,accepted_v3,"Work, Employment and Society",5,213,240,15
+gemini,accepted_v3,Digital Journalism,5,213,240,16
+gemini,accepted_v3,The ANNALS of the American Academy of Political and Social Science,5,213,240,17
+gemini,accepted_v3,Communication Research,4,213,240,18
+gemini,accepted_v3,MIS Quarterly,4,213,240,19
+gemini,accepted_v3,Science Advances,3,213,240,20
+gemini,accepted_v3,Transfer: European Review of Labour and Research,3,213,240,21
+gemini,accepted_v3,Journalism Quarterly,3,213,240,22
+gemini,accepted_v3,Proceedings of the National Academy of Sciences,3,213,240,23
+gemini,accepted_v3,International Journal of Public Opinion Research,3,213,240,24
+gemini,accepted_v3,Journalism & Mass Communication Quarterly,2,213,240,25
+gemini,accepted_v3,Psychological Science,2,213,240,26
+gemini,accepted_v3,"tripleC: Communication, Capitalism & Critique. Open Access Journal for a Global Sustainable Information Society",2,213,240,27
+gemini,accepted_v3,CyberPsychology & Behavior,2,213,240,28
+gemini,accepted_v3,Management Science,1,213,240,29
+gemini,accepted_v3,Chinese Journal of Communication,1,213,240,30
+gemini,accepted_v3,American Journal of Sociology,1,213,240,31
+gemini,accepted_v3,Human Relations,1,213,240,32
+gemini,accepted_v3,Social Science Computer Review,1,213,240,33
+gemini,accepted_v3,Javnost - The Public,1,213,240,34
+gemini,accepted_v3,Revista de Comunicación,1,213,240,35
+gemini,review_v4_preview,Journal of Communication,30,217,240,1
+gemini,review_v4_preview,Public Opinion Quarterly,26,217,240,2
+gemini,review_v4_preview,Science,22,217,240,3
+gemini,review_v4_preview,New Media & Society,12,217,240,4
+gemini,review_v4_preview,Political Behavior,9,217,240,5
+gemini,review_v4_preview,American Political Science Review,9,217,240,6
+gemini,review_v4_preview,Political Communication,9,217,240,7
+gemini,review_v4_preview,"Information, Communication & Society",7,217,240,8
+gemini,review_v4_preview,Journal of Broadcasting & Electronic Media,7,217,240,9
+gemini,review_v4_preview,Social Text,6,217,240,10
+gemini,review_v4_preview,International journal of communication,6,217,240,11
+gemini,review_v4_preview,Mass Communication and Society,6,217,240,12
+gemini,review_v4_preview,American Sociological Review,6,217,240,13
+gemini,review_v4_preview,Nature,5,217,240,14
+gemini,review_v4_preview,"Work, Employment and Society",5,217,240,15
+gemini,review_v4_preview,Digital Journalism,5,217,240,16
+gemini,review_v4_preview,The ANNALS of the American Academy of Political and Social Science,5,217,240,17
+gemini,review_v4_preview,Communication Research,4,217,240,18
+gemini,review_v4_preview,MIS Quarterly,4,217,240,19
+gemini,review_v4_preview,Science Advances,3,217,240,20
+gemini,review_v4_preview,Transfer: European Review of Labour and Research,3,217,240,21
+gemini,review_v4_preview,Journalism Quarterly,3,217,240,22
+gemini,review_v4_preview,Proceedings of the National Academy of Sciences,3,217,240,23
+gemini,review_v4_preview,International Journal of Public Opinion Research,3,217,240,24
+gemini,review_v4_preview,Journalism & Mass Communication Quarterly,2,217,240,25
+gemini,review_v4_preview,"Information, Communication &amp; Society",2,217,240,26
+gemini,review_v4_preview,Psychological Science,2,217,240,27
+gemini,review_v4_preview,"tripleC: Communication, Capitalism & Critique. Open Access Journal for a Global Sustainable Information Society",2,217,240,28
+gemini,review_v4_preview,Journalism &amp; Mass Communication Quarterly,2,217,240,29
+gemini,review_v4_preview,CyberPsychology & Behavior,2,217,240,30
+gemini,review_v4_preview,Management Science,1,217,240,31
+gemini,review_v4_preview,Chinese Journal of Communication,1,217,240,32
+gemini,review_v4_preview,American Journal of Sociology,1,217,240,33
+gemini,review_v4_preview,Human Relations,1,217,240,34
+gemini,review_v4_preview,Social Science Computer Review,1,217,240,35
+gemini,review_v4_preview,Javnost - The Public,1,217,240,36
+gemini,review_v4_preview,Revista de Comunicación,1,217,240,37
+deepseek,accepted_v3,Science,21,100,240,1
+deepseek,accepted_v3,Public Opinion Quarterly,20,100,240,2
+deepseek,accepted_v3,Journal of Communication,18,100,240,3
+deepseek,accepted_v3,Journal of Experimental Psychology: General,6,100,240,4
+deepseek,accepted_v3,Cognition,4,100,240,5
+deepseek,accepted_v3,New German Critique,3,100,240,6
+deepseek,accepted_v3,American Sociological Review,3,100,240,7
+deepseek,accepted_v3,Psychiatry,2,100,240,8
+deepseek,accepted_v3,Journalism & Mass Communication Quarterly,2,100,240,9
+deepseek,accepted_v3,Digital Journalism,2,100,240,10
+deepseek,accepted_v3,Information Design Journal,2,100,240,11
+deepseek,accepted_v3,International Journal of Public Opinion Research,2,100,240,12
+deepseek,accepted_v3,American Journal of Sociology,2,100,240,13
+deepseek,accepted_v3,Communication Research,2,100,240,14
+deepseek,accepted_v3,Journal of Economic Perspectives,1,100,240,15
+deepseek,accepted_v3,Review of Keynesian Economics,1,100,240,16
+deepseek,accepted_v3,Javnost - The Public,1,100,240,17
+deepseek,accepted_v3,Proceedings of the National Academy of Sciences,1,100,240,18
+deepseek,accepted_v3,Political Behavior,1,100,240,19
+deepseek,accepted_v3,American Behavioral Scientist,1,100,240,20
+deepseek,accepted_v3,New Media & Society,1,100,240,21
+deepseek,accepted_v3,"Information, Communication & Society",1,100,240,22
+deepseek,accepted_v3,Social Text,1,100,240,23
+deepseek,accepted_v3,Internet Policy Review,1,100,240,24
+deepseek,accepted_v3,Journalism Studies,1,100,240,25
+deepseek,review_v4_preview,Science,21,107,240,1
+deepseek,review_v4_preview,Public Opinion Quarterly,20,107,240,2
+deepseek,review_v4_preview,Journal of Communication,20,107,240,3
+deepseek,review_v4_preview,Journal of Experimental Psychology: General,6,107,240,4
+deepseek,review_v4_preview,Cognition,4,107,240,5
+deepseek,review_v4_preview,New German Critique,3,107,240,6
+deepseek,review_v4_preview,Communication Research,3,107,240,7
+deepseek,review_v4_preview,American Sociological Review,3,107,240,8
+deepseek,review_v4_preview,Psychiatry,2,107,240,9
+deepseek,review_v4_preview,Journalism & Mass Communication Quarterly,2,107,240,10
+deepseek,review_v4_preview,Digital Journalism,2,107,240,11
+deepseek,review_v4_preview,Internet Policy Review,2,107,240,12
+deepseek,review_v4_preview,Information Design Journal,2,107,240,13
+deepseek,review_v4_preview,International Journal of Public Opinion Research,2,107,240,14
+deepseek,review_v4_preview,American Journal of Sociology,2,107,240,15
+deepseek,review_v4_preview,Political Communication,2,107,240,16
+deepseek,review_v4_preview,New Media & Society,2,107,240,17
+deepseek,review_v4_preview,Journal of Economic Perspectives,1,107,240,18
+deepseek,review_v4_preview,Review of Keynesian Economics,1,107,240,19
+deepseek,review_v4_preview,Javnost - The Public,1,107,240,20
+deepseek,review_v4_preview,Proceedings of the National Academy of Sciences,1,107,240,21
+deepseek,review_v4_preview,Political Behavior,1,107,240,22
+deepseek,review_v4_preview,American Behavioral Scientist,1,107,240,23
+deepseek,review_v4_preview,"Information, Communication & Society",1,107,240,24
+deepseek,review_v4_preview,Social Text,1,107,240,25
+deepseek,review_v4_preview,Journalism Studies,1,107,240,26
+qwen,accepted_v3,Public Opinion Quarterly,8,23,240,1
+qwen,accepted_v3,Science,8,23,240,2
+qwen,accepted_v3,Journal of Communication,3,23,240,3
+qwen,accepted_v3,Episteme,1,23,240,4
+qwen,accepted_v3,Psychological Science,1,23,240,5
+qwen,accepted_v3,Journal of Computer-Mediated Communication,1,23,240,6
+qwen,accepted_v3,American Sociological Review,1,23,240,7
+qwen,review_v4_preview,Public Opinion Quarterly,9,28,240,1
+qwen,review_v4_preview,Science,9,28,240,2
+qwen,review_v4_preview,Journal of Communication,3,28,240,3
+qwen,review_v4_preview,Psychological Science,2,28,240,4
+qwen,review_v4_preview,Episteme,1,28,240,5
+qwen,review_v4_preview,Journal of Computer-Mediated Communication,1,28,240,6
+qwen,review_v4_preview,American Sociological Review,1,28,240,7
+qwen,review_v4_preview,Mass Communication and Society,1,28,240,8
+qwen,review_v4_preview,International Journal of Advertising,1,28,240,9

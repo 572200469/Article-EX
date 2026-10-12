@@ -1,0 +1,7 @@
+﻿group,topic_id,planned_jobs,successful_jobs,actual_positions,han_title_positions,han_title_proportion,version
+A,agenda_setting,12,11,54,0,0.0,ppt_analysis_v5
+A,algorithms_bubbles,12,12,60,0,0.0,ppt_analysis_v5
+B,agenda_setting,4,3,14,14,1.0,ppt_analysis_v5
+B,algorithms_bubbles,4,3,11,11,1.0,ppt_analysis_v5
+C,agenda_setting,4,3,10,5,0.5,ppt_analysis_v5
+C,algorithms_bubbles,4,3,15,10,0.6666666666666666,ppt_analysis_v5

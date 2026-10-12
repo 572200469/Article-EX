@@ -1,0 +1,11 @@
+{
+  "qualified_unique_works": 112,
+  "eligible_unique_journal_works": 136,
+  "unique_work_coverage": 0.8235294117647058,
+  "covered_positions": 461,
+  "snapshot_date_min": "2026-10-11T09:09:24.499671+00:00",
+  "snapshot_date_max": "2026-10-12T12:25:30.284553+00:00",
+  "display_threshold_prespecified": "n>=20 and unique_work_coverage>=0.50; descriptive only",
+  "new_metadata_queries": 0,
+  "cache_files_examined": 3792
+}

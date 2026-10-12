@@ -1,0 +1,752 @@
+{
+  "version": "manual_secondary_anchors_v4",
+  "checked_at": "2026-10-12",
+  "rows": [
+    {
+      "slot_id": "0e7d2c3e17be6df3135b925d3affe6a08c55a5f212d399fd5c5113c1d64815bc",
+      "slot_ids": [
+        "0e7d2c3e17be6df3135b925d3affe6a08c55a5f212d399fd5c5113c1d64815bc"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "0e7d2c3e17be6df3135b925d3affe6a08c55a5f212d399fd5c5113c1d64815bc",
+          "raw_entry": {
+            "title": "In Related News, That Was Wrong: The Correction of Misinformation Through Social Network Sites",
+            "authors": [
+              "Katherine Bode",
+              "Emily K. Vraga"
+            ],
+            "year": 2015,
+            "journal": "Journal of Communication",
+            "doi": "10.1111/jcom.12166",
+            "url": "https://doi.org/10.1111/jcom.12166"
+          }
+        }
+      ],
+      "sequence": 4,
+      "provider": "openai",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "In Related News, That Was Wrong: The Correction of Misinformation Through Related Stories Functionality in Social Media",
+        "authors": [
+          "Leticia Bode",
+          "Emily K. Vraga"
+        ],
+        "year": 2015,
+        "journal": "Journal of Communication",
+        "volume": "65",
+        "issue": "4",
+        "pages": "619-638",
+        "type": "journal-article",
+        "publisher": "Wiley (2015); Oxford University Press (current archive)",
+        "doi": "10.1111/jcom.12166",
+        "work_id": "doi:10.1111/jcom.12166",
+        "issn_l": "0021-9916",
+        "url": "https://experts.umn.edu/en/publications/in-related-news-that-was-wrong-the-correction-of-misinformation-t/"
+      },
+      "evidence_source": [
+        "https://experts.umn.edu/en/publications/in-related-news-that-was-wrong-the-correction-of-misinformation-t/",
+        "https://onlinelibrary.wiley.com/doi/10.1111/jcom.12166/abstract"
+      ],
+      "conflicts": [
+        {
+          "field": "authors",
+          "claimed": [
+            "Katherine Bode",
+            "Emily K. Vraga"
+          ],
+          "verified": [
+            "Leticia Bode",
+            "Emily K. Vraga"
+          ]
+        },
+        {
+          "field": "year",
+          "claimed": 2015,
+          "verified": 2015
+        },
+        {
+          "field": "journal",
+          "claimed": "Journal of Communication",
+          "verified": "Journal of Communication"
+        },
+        {
+          "field": "doi",
+          "claimed": "10.1111/jcom.12166",
+          "verified": "10.1111/jcom.12166",
+          "actual_target": "In Related News, That Was Wrong: The Correction of Misinformation Through Related Stories Functionality in Social Media"
+        }
+      ],
+      "reasoning": "作者大学登记直接读取，Wiley正式引文证据一致。Katherine/Lance Bode实际是LeticiaBode；原2016NMS/另一DOI错配仍可由独特完整题名与Vraga作者确认原作，单独保留DOI目标。",
+      "checked_at": "2026-10-12",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "slot_id": "d285dbb6338f93e64e8437deb368cd251c8ad0290edf6dff80e82738dfa18ae5",
+      "slot_ids": [
+        "d285dbb6338f93e64e8437deb368cd251c8ad0290edf6dff80e82738dfa18ae5"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "d285dbb6338f93e64e8437deb368cd251c8ad0290edf6dff80e82738dfa18ae5",
+          "raw_entry": {
+            "title": "Media Agenda-Setting in a Presidential Election: Issues, Images, and Interest",
+            "authors": "David H. Weaver; Maxwell E. McCombs; Charles Spellman",
+            "year": 1975,
+            "journal": "Public Opinion Quarterly",
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 13,
+      "provider": "deepseek",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "Media Agenda-Setting in a Presidential Election: Issues, Images, and Interest",
+        "authors": [
+          "David H. Weaver",
+          "Doris A. Graber",
+          "Maxwell E. McCombs",
+          "Chaim H. Eyal"
+        ],
+        "year": 1981,
+        "journal": null,
+        "type": "book",
+        "publisher": "Praeger",
+        "doi": null,
+        "work_id": "isbn:9780030590665",
+        "url": "https://books.google.com/books/about/Media_agenda_setting_in_a_Presidential_e.html?hl=en&id=JYsrAQAAIAAJ"
+      },
+      "evidence_source": [
+        "https://books.google.com/books/about/Media_agenda_setting_in_a_Presidential_e.html?hl=en&id=JYsrAQAAIAAJ",
+        "https://link.springer.com/article/10.1007/s44382-025-00016-x"
+      ],
+      "conflicts": [
+        {
+          "field": "year",
+          "claimed": 1975,
+          "verified": 1981
+        },
+        {
+          "field": "carrier",
+          "claimed": "Public Opinion Quarterly",
+          "verified": "book"
+        },
+        {
+          "field": "authors",
+          "claimed": "David H. Weaver; Maxwell E. McCombs; Charles Spellman",
+          "verified": [
+            "David H. Weaver",
+            "Doris A. Graber",
+            "Maxwell E. McCombs",
+            "Chaim H. Eyal"
+          ]
+        }
+      ],
+      "reasoning": "原书登记1981/Praeger及完整题名；正式Springer历史回顾列四位作者。另一推荐只有较泛题名、Shaw/McCombs、1977和不同DOI，不强配同一书。",
+      "checked_at": "2026-10-12",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "slot_id": "5ab9e9631fcedc2698cd8afdb25023699aed74dba8c5fb753f775fcd910e7cec",
+      "slot_ids": [
+        "5ab9e9631fcedc2698cd8afdb25023699aed74dba8c5fb753f775fcd910e7cec"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "5ab9e9631fcedc2698cd8afdb25023699aed74dba8c5fb753f775fcd910e7cec",
+          "raw_entry": {
+            "title": "Digital Labour and Karl Marx",
+            "authors": [
+              "Christian Fuchs"
+            ],
+            "year": 2012,
+            "journal": "tripleC: Communication, Capitalism & Critique",
+            "doi": "10.31269/triplec.v10i2.273",
+            "url": "https://doi.org/10.31269/triplec.v10i2.273"
+          }
+        }
+      ],
+      "sequence": 38,
+      "provider": "openai",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "Digital Labour and Karl Marx",
+        "authors": [
+          "Christian Fuchs"
+        ],
+        "year": 2014,
+        "journal": null,
+        "type": "book",
+        "publisher": "Routledge",
+        "doi": null,
+        "work_id": "isbn:9780415716154",
+        "url": "https://www.routledge.com/Digital-Labour-and-Karl-Marx/Fuchs/p/book/9780415716154"
+      },
+      "evidence_source": [
+        "https://www.routledge.com/Digital-Labour-and-Karl-Marx/Fuchs/p/book/9780415716154"
+      ],
+      "conflicts": [
+        {
+          "field": "year",
+          "claimed": 2012,
+          "verified": 2014
+        },
+        {
+          "field": "carrier",
+          "claimed": "tripleC: Communication, Capitalism & Critique",
+          "verified": "book"
+        },
+        {
+          "field": "doi",
+          "claimed": "10.31269/triplec.v10i2.273",
+          "actual_target": "pending_unified_doi_evidence"
+        }
+      ],
+      "reasoning": "出版社公开索引元数据确认独特书名、作者及Copyright2014/424页；直开403，未声称读全书。该推荐题名作者准确，可对应书籍；2012/tripleC/原DOI不能当此书的正式载体。",
+      "checked_at": "2026-10-12",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "slot_id": "9d84394b459f65dbb4b9cb9466c759cc4dbb671e5999cd4b8776c5b703250dcf",
+      "slot_ids": [
+        "9d84394b459f65dbb4b9cb9466c759cc4dbb671e5999cd4b8776c5b703250dcf"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "9d84394b459f65dbb4b9cb9466c759cc4dbb671e5999cd4b8776c5b703250dcf",
+          "raw_entry": {
+            "title": "The Internet as Playground and Factory",
+            "authors": [
+              "Trebor Scholz"
+            ],
+            "year": 2013,
+            "journal": "The Fibreculture Journal",
+            "doi": null,
+            "url": "https://five.fibreculturejournal.org/"
+          }
+        }
+      ],
+      "sequence": 56,
+      "provider": "openai",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "Digital Labor: The Internet as Playground and Factory",
+        "authors": [
+          "Trebor Scholz"
+        ],
+        "year": 2013,
+        "journal": null,
+        "type": "edited-book",
+        "publisher": "Routledge",
+        "doi": null,
+        "work_id": "isbn:9780415896955",
+        "url": "https://www.routledge.com/Digital-Labor-The-Internet-as-Playground-and-Factory-1st-Edition/Scholz/p/book/9780415896955"
+      },
+      "evidence_source": [
+        "https://www.routledge.com/Digital-Labor-The-Internet-as-Playground-and-Factory-1st-Edition/Scholz/p/book/9780415896955",
+        "https://researchportal.plymouth.ac.uk/en/studentTheses/the-internet-as-playground-and-factory/"
+      ],
+      "conflicts": [
+        {
+          "field": "carrier",
+          "claimed": "The Fibreculture Journal",
+          "verified": "edited-book"
+        },
+        {
+          "field": "related_version",
+          "other_work": "The Internet As Playground And Factory",
+          "other_year": 2009,
+          "other_type": "PhD thesis",
+          "other_doi": "10.24382/4540",
+          "note": "不把博士论文元数据移植到2013编辑书"
+        }
+      ],
+      "reasoning": "Routledge公开书目确认TreborScholz编辑、2013/272页。本书与同作者2009同副题PhD论文分别登记。2013短题名+作者指向书籍，未按旧缓存当2009论文；Fibreculture声称未获支持。",
+      "checked_at": "2026-10-12",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "slot_id": "40625c422e862ad2668f8133f839d58ff8b4ced4e602490e66191fb4424546f0",
+      "slot_ids": [
+        "40625c422e862ad2668f8133f839d58ff8b4ced4e602490e66191fb4424546f0"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "40625c422e862ad2668f8133f839d58ff8b4ced4e602490e66191fb4424546f0",
+          "raw_entry": {
+            "title": "In Related News, That Was Wrong: The Correction of Misinformation Through Related Stories Functionality in Social Media",
+            "authors": [
+              "Lance Bode",
+              "Emily K. Vraga"
+            ],
+            "year": 2016,
+            "journal": "New Media & Society",
+            "doi": "10.1177/1461444815576984",
+            "url": "https://doi.org/10.1177/1461444815576984"
+          }
+        }
+      ],
+      "sequence": 65,
+      "provider": "openai",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "In Related News, That Was Wrong: The Correction of Misinformation Through Related Stories Functionality in Social Media",
+        "authors": [
+          "Leticia Bode",
+          "Emily K. Vraga"
+        ],
+        "year": 2015,
+        "journal": "Journal of Communication",
+        "volume": "65",
+        "issue": "4",
+        "pages": "619-638",
+        "type": "journal-article",
+        "publisher": "Wiley (2015); Oxford University Press (current archive)",
+        "doi": "10.1111/jcom.12166",
+        "work_id": "doi:10.1111/jcom.12166",
+        "issn_l": "0021-9916",
+        "url": "https://experts.umn.edu/en/publications/in-related-news-that-was-wrong-the-correction-of-misinformation-t/"
+      },
+      "evidence_source": [
+        "https://experts.umn.edu/en/publications/in-related-news-that-was-wrong-the-correction-of-misinformation-t/",
+        "https://onlinelibrary.wiley.com/doi/10.1111/jcom.12166/abstract"
+      ],
+      "conflicts": [
+        {
+          "field": "authors",
+          "claimed": [
+            "Lance Bode",
+            "Emily K. Vraga"
+          ],
+          "verified": [
+            "Leticia Bode",
+            "Emily K. Vraga"
+          ]
+        },
+        {
+          "field": "year",
+          "claimed": 2016,
+          "verified": 2015
+        },
+        {
+          "field": "journal",
+          "claimed": "New Media & Society",
+          "verified": "Journal of Communication"
+        },
+        {
+          "field": "doi",
+          "claimed": "10.1177/1461444815576984",
+          "verified": "10.1111/jcom.12166",
+          "actual_target": "pending_unified_doi_evidence"
+        }
+      ],
+      "reasoning": "作者大学登记直接读取，Wiley正式引文证据一致。Katherine/Lance Bode实际是LeticiaBode；原2016NMS/另一DOI错配仍可由独特完整题名与Vraga作者确认原作，单独保留DOI目标。",
+      "checked_at": "2026-10-12",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "slot_id": "3d8f36c82b5a38268937b1748bc546ce805e194751259ab5ef4b40abcbe8d287",
+      "slot_ids": [
+        "3d8f36c82b5a38268937b1748bc546ce805e194751259ab5ef4b40abcbe8d287"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "3d8f36c82b5a38268937b1748bc546ce805e194751259ab5ef4b40abcbe8d287",
+          "raw_entry": {
+            "title": "Media Agenda-Setting in a Presidential Election: A Study of the 1976 Campaign",
+            "authors": [
+              "Donald L. Shaw",
+              "Maxwell E. McCombs"
+            ],
+            "year": 1977,
+            "journal": "Communication Research",
+            "doi": "10.1177/009365027700400102",
+            "url": "https://doi.org/10.1177/009365027700400102"
+          }
+        }
+      ],
+      "sequence": 78,
+      "provider": "deepseek",
+      "review_status": "unresolved_after_review",
+      "candidate": {
+        "title": "Media Agenda-Setting in a Presidential Election: Issues, Images, and Interest",
+        "authors": [
+          "David H. Weaver",
+          "Doris A. Graber",
+          "Maxwell E. McCombs",
+          "Chaim H. Eyal"
+        ],
+        "year": 1981,
+        "journal": null,
+        "type": "book",
+        "publisher": "Praeger",
+        "doi": null,
+        "work_id": "isbn:9780030590665",
+        "url": "https://books.google.com/books/about/Media_agenda_setting_in_a_Presidential_e.html?hl=en&id=JYsrAQAAIAAJ"
+      },
+      "evidence_source": [
+        "https://books.google.com/books/about/Media_agenda_setting_in_a_Presidential_e.html?hl=en&id=JYsrAQAAIAAJ",
+        "https://link.springer.com/article/10.1007/s44382-025-00016-x"
+      ],
+      "conflicts": [
+        {
+          "field": "year",
+          "claimed": 1977,
+          "verified": 1981
+        },
+        {
+          "field": "carrier",
+          "claimed": "Communication Research",
+          "verified": "book"
+        },
+        {
+          "field": "authors",
+          "claimed": [
+            "Donald L. Shaw",
+            "Maxwell E. McCombs"
+          ],
+          "verified": [
+            "David H. Weaver",
+            "Doris A. Graber",
+            "Maxwell E. McCombs",
+            "Chaim H. Eyal"
+          ]
+        }
+      ],
+      "reasoning": "原书登记1981/Praeger及完整题名；正式Springer历史回顾列四位作者。另一推荐只有较泛题名、Shaw/McCombs、1977和不同DOI，不强配同一书。",
+      "checked_at": "2026-10-12",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "slot_id": "b845bcd3d5f614119de62d4b4e5bbbf34d1dcb9c408393920465ddc45ed69b87",
+      "slot_ids": [
+        "b845bcd3d5f614119de62d4b4e5bbbf34d1dcb9c408393920465ddc45ed69b87"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "b845bcd3d5f614119de62d4b4e5bbbf34d1dcb9c408393920465ddc45ed69b87",
+          "raw_entry": {
+            "title": "Digital Labor: The Internet as Playground and Factory",
+            "authors": "Trebor Scholz (Ed.)",
+            "year": 2013,
+            "journal": null,
+            "doi": null,
+            "url": "https://www.nettime.org/Lists-Archives/nettime-l-1309/msg00056.html"
+          }
+        }
+      ],
+      "sequence": 94,
+      "provider": "qwen",
+      "review_status": "verified_exact",
+      "candidate": {
+        "title": "Digital Labor: The Internet as Playground and Factory",
+        "authors": [
+          "Trebor Scholz"
+        ],
+        "year": 2013,
+        "journal": null,
+        "type": "edited-book",
+        "publisher": "Routledge",
+        "doi": null,
+        "work_id": "isbn:9780415896955",
+        "url": "https://www.routledge.com/Digital-Labor-The-Internet-as-Playground-and-Factory-1st-Edition/Scholz/p/book/9780415896955"
+      },
+      "evidence_source": [
+        "https://www.routledge.com/Digital-Labor-The-Internet-as-Playground-and-Factory-1st-Edition/Scholz/p/book/9780415896955",
+        "https://researchportal.plymouth.ac.uk/en/studentTheses/the-internet-as-playground-and-factory/"
+      ],
+      "conflicts": [
+        {
+          "field": "carrier",
+          "claimed": null,
+          "verified": "edited-book"
+        },
+        {
+          "field": "related_version",
+          "other_work": "The Internet As Playground And Factory",
+          "other_year": 2009,
+          "other_type": "PhD thesis",
+          "other_doi": "10.24382/4540",
+          "note": "不把博士论文元数据移植到2013编辑书"
+        }
+      ],
+      "reasoning": "Routledge公开书目确认TreborScholz编辑、2013/272页。本书与同作者2009同副题PhD论文分别登记。2013短题名+作者指向书籍，未按旧缓存当2009论文；Fibreculture声称未获支持。",
+      "checked_at": "2026-10-12",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "slot_id": "92d0f6ea7d3a3216158b155901df32125ae0c7660efdc40c24fb06b125fbc696",
+      "slot_ids": [
+        "92d0f6ea7d3a3216158b155901df32125ae0c7660efdc40c24fb06b125fbc696"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "92d0f6ea7d3a3216158b155901df32125ae0c7660efdc40c24fb06b125fbc696",
+          "raw_entry": {
+            "title": "A New Standard of News Quality: Burglar Alarms for the Monitorial Citizen",
+            "authors": "W. Lance Bennett",
+            "year": 2003,
+            "journal": "Political Communication",
+            "doi": "10.1080/10584600390211136",
+            "url": "https://doi.org/10.1080/10584600390211136"
+          }
+        }
+      ],
+      "sequence": 111,
+      "provider": "deepseek",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "A New Standard of News Quality: Burglar Alarms for the Monitorial Citizen",
+        "authors": [
+          "John Zaller"
+        ],
+        "year": 2003,
+        "journal": "Political Communication",
+        "volume": "20",
+        "issue": "2",
+        "pages": "109-130",
+        "type": "journal-article",
+        "publisher": "Taylor & Francis",
+        "doi": "10.1080/10584600390211136",
+        "work_id": "doi:10.1080/10584600390211136",
+        "url": "https://web.stanford.edu/class/comm1a/readings/zaller-burglar.pdf"
+      },
+      "evidence_source": [
+        "https://web.stanford.edu/class/comm1a/readings/zaller-burglar.pdf"
+      ],
+      "conflicts": [
+        {
+          "field": "authors",
+          "claimed": "W. Lance Bennett",
+          "verified": [
+            "John Zaller"
+          ]
+        }
+      ],
+      "reasoning": "直接期刊出版PDF首题页确认DOI、独特题名、2003、期刊和JohnZaller。原Bennett是作者错误，DOI及题名均对应唯一作品，不能据作者不一致排除真实身份。",
+      "checked_at": "2026-10-12",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "slot_id": "f3113b8222edaed0dd83772479473cf5f82c61ac75e756027236e1de9b796dd5",
+      "slot_ids": [
+        "f3113b8222edaed0dd83772479473cf5f82c61ac75e756027236e1de9b796dd5"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "f3113b8222edaed0dd83772479473cf5f82c61ac75e756027236e1de9b796dd5",
+          "raw_entry": {
+            "title": "The Structural Transformation of the Public Sphere: An Inquiry into a Category of Bourgeois Society",
+            "authors": [
+              "Jürgen Habermas"
+            ],
+            "year": 1962,
+            "journal": null,
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 141,
+      "provider": "deepseek",
+      "review_status": "verified_exact",
+      "candidate": {
+        "title": "The Structural Transformation of the Public Sphere: An Inquiry into a Category of Bourgeois Society",
+        "authors": [
+          "Jürgen Habermas"
+        ],
+        "year": 1962,
+        "year_english_translation": 1989,
+        "year_paperback": 1991,
+        "journal": null,
+        "type": "book",
+        "publisher": "The MIT Press (English edition)",
+        "doi": null,
+        "work_id": "isbn:9780262081801",
+        "url": "https://mitpress.mit.edu/9780262581080/the-structural-transformation-of-the-public-sphere/"
+      },
+      "evidence_source": [
+        "https://mitpress.mit.edu/9780262581080/the-structural-transformation-of-the-public-sphere/",
+        "https://direct.mit.edu/books/edited-volume/5620/chapter/4281142/The-Structural-Transformation-of-the-Public-Sphere"
+      ],
+      "conflicts": [
+        {
+          "field": "edition_year",
+          "claimed": 1962,
+          "original_work_year": 1962,
+          "english_translation_year": 1989,
+          "note": "不把原作年自动改为译本年；本记录确认作品层身份而非具体版次"
+        }
+      ],
+      "reasoning": "直接出版社页面确认完整英文书名、作者、1989英文硬装和1991平装；MIT正式历史章节注明原作1962。引用原作年与英文译名并存是版本说明问题，不意味着不存在。书评/article缓存不是原著载体。",
+      "checked_at": "2026-10-12",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "slot_id": "39047ed2c6ebf89e7126d8d647823030a51f0a9092401a4cbbded2c3fe9cc160",
+      "slot_ids": [
+        "39047ed2c6ebf89e7126d8d647823030a51f0a9092401a4cbbded2c3fe9cc160"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "39047ed2c6ebf89e7126d8d647823030a51f0a9092401a4cbbded2c3fe9cc160",
+          "raw_entry": {
+            "title": "Fact-Checking: A Meta-Analysis of What Works and for Whom",
+            "authors": [
+              "Nathan Walter",
+              "Sheila T. Murphy",
+              "Nikita A. Salovich",
+              "Frederic R. Hopp"
+            ],
+            "year": 2020,
+            "journal": "Political Communication",
+            "doi": "10.1080/10584609.2019.1668894",
+            "url": "https://doi.org/10.1080/10584609.2019.1668894"
+          }
+        }
+      ],
+      "sequence": 164,
+      "provider": "openai",
+      "review_status": "verified_with_errors",
+      "candidate": {
+        "title": "Fact-Checking: A Meta-Analysis of What Works and for Whom",
+        "authors": [
+          "Nathan Walter",
+          "Jonathan Cohen",
+          "R. Lance Holbert",
+          "Yasmin Morag"
+        ],
+        "year": 2020,
+        "year_online": 2019,
+        "journal": "Political Communication",
+        "volume": "37",
+        "issue": "3",
+        "pages": "350-375",
+        "type": "journal-article",
+        "publisher": "Taylor & Francis",
+        "doi": "10.1080/10584609.2019.1668894",
+        "work_id": "doi:10.1080/10584609.2019.1668894",
+        "url": "https://doi.org/10.1080%2F10584609.2019.1668894"
+      },
+      "evidence_source": [
+        "https://doi.org/10.1080%2F10584609.2019.1668894"
+      ],
+      "conflicts": [
+        {
+          "field": "authors",
+          "claimed": [
+            "Nathan Walter",
+            "Sheila T. Murphy",
+            "Nikita A. Salovich",
+            "Frederic R. Hopp"
+          ],
+          "verified": [
+            "Nathan Walter",
+            "Jonathan Cohen",
+            "R. Lance Holbert",
+            "Yasmin Morag"
+          ]
+        },
+        {
+          "field": "year_basis",
+          "claimed": 2020,
+          "print": 2020,
+          "online": 2019
+        }
+      ],
+      "reasoning": "正式出版商公开记录给出四作者、2020卷期/2019-10-24在线和DOI。原题名DOI准确、Walter首作者正确，另外三作者错误不阻断唯一作品身份；不拿近主题元分析替代。",
+      "checked_at": "2026-10-12",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    },
+    {
+      "slot_id": "74e764ef293d9dafd9a140ab102f1d6f4dc4ae5caa28964f05c239327e0cb0d3",
+      "slot_ids": [
+        "74e764ef293d9dafd9a140ab102f1d6f4dc4ae5caa28964f05c239327e0cb0d3"
+      ],
+      "raw_variants": [
+        {
+          "slot_id": "74e764ef293d9dafd9a140ab102f1d6f4dc4ae5caa28964f05c239327e0cb0d3",
+          "raw_entry": {
+            "title": "The Structural Transformation of the Public Sphere: An Inquiry into a Category of Bourgeois Society",
+            "authors": [
+              "Habermas, Jürgen"
+            ],
+            "year": null,
+            "journal": null,
+            "doi": null,
+            "url": null
+          }
+        }
+      ],
+      "sequence": 182,
+      "provider": "deepseek",
+      "review_status": "verified_exact",
+      "candidate": {
+        "title": "The Structural Transformation of the Public Sphere: An Inquiry into a Category of Bourgeois Society",
+        "authors": [
+          "Jürgen Habermas"
+        ],
+        "year": 1962,
+        "year_english_translation": 1989,
+        "year_paperback": 1991,
+        "journal": null,
+        "type": "book",
+        "publisher": "The MIT Press (English edition)",
+        "doi": null,
+        "work_id": "isbn:9780262081801",
+        "url": "https://mitpress.mit.edu/9780262581080/the-structural-transformation-of-the-public-sphere/"
+      },
+      "evidence_source": [
+        "https://mitpress.mit.edu/9780262581080/the-structural-transformation-of-the-public-sphere/",
+        "https://direct.mit.edu/books/edited-volume/5620/chapter/4281142/The-Structural-Transformation-of-the-Public-Sphere"
+      ],
+      "conflicts": [
+        {
+          "field": "edition_year",
+          "claimed": null,
+          "original_work_year": 1962,
+          "english_translation_year": 1989,
+          "note": "不把原作年自动改为译本年；本记录确认作品层身份而非具体版次"
+        }
+      ],
+      "reasoning": "直接出版社页面确认完整英文书名、作者、1989英文硬装和1991平装；MIT正式历史章节注明原作1962。引用原作年与英文译名并存是版本说明问题，不意味着不存在。书评/article缓存不是原著载体。",
+      "checked_at": "2026-10-12",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_source_reading_not_researcher_manual_adjudication"
+    }
+  ],
+  "counts": {
+    "verified_with_errors": 7,
+    "unresolved_after_review": 1,
+    "verified_exact": 3
+  },
+  "reused_spiral_social_skin_reviews": [
+    {
+      "slot_id": "a832d9b98a59b600feb32ab03d72ce83ad842a30a1ccc4f904bdc662196747b4",
+      "source": "manual_primary_highfreq.json",
+      "review_status": "verified_with_errors"
+    },
+    {
+      "slot_id": "8e35dd82b2bc0efa062bd662bbc48e9b883bda84ec571cb1bf39c32415392656",
+      "source": "manual_primary_highfreq.json",
+      "review_status": "verified_exact"
+    }
+  ],
+  "notes": [
+    "最多8题名族限定核查；SocialSkin两个原unknown已在首报告覆盖，不重复计数。",
+    "出版社403与索引摘录范围在逐条说明中保留。",
+    "不覆盖旧缓存、不混入原始数据；真正作者人工审查仍pending。"
+  ]
+}

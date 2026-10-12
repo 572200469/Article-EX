@@ -1,0 +1,21 @@
+{
+  "version": "ppt_analysis_v5",
+  "copied_v5_analysis_files": 44,
+  "new_source_matched_files": 70,
+  "historical_source_matched_files_unchanged": 565,
+  "all_copy_hashes_match": true,
+  "citation_snapshot_works": 112,
+  "main_positions": 949,
+  "main_real_positions_v4": 624,
+  "main_journal_positions_v4": 533,
+  "main_identity_not_unique": 325,
+  "directed_sent": 16,
+  "directed_success": 12,
+  "directed_positions": 50,
+  "researcher_review_status": "pending",
+  "secret_scan_passed": true,
+  "excluded_environment_and_virtualenv": true,
+  "new_model_requests": 0,
+  "historical_manifests_not_rewritten": true,
+  "pack_readme_updated_with_explicit_v5_entry": true
+}

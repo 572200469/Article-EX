@@ -1,0 +1,5 @@
+﻿provider,denominator_original_unknown,no_candidate_title_ge_093,title_ge_093_author_not_supported,title_ge_093_author_supported_year_error,multiple_positive_identifiers_before_source_review,source_access_or_transport_error,supplied_doi_with_actual_metadata,doi_actual_distinct_title_not_proof_of_fabrication,newly_confirmed,flags_overlap_not_additive
+openai,44,28,6,10,4,6,17,15,12,True
+gemini,17,16,0,1,0,4,15,15,4,True
+deepseek,122,75,25,21,5,13,43,41,32,True
+qwen,215,180,35,10,5,16,61,61,25,True

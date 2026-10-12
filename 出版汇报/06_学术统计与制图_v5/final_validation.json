@@ -1,0 +1,81 @@
+{
+  "passed": true,
+  "version": "ppt_analysis_v5",
+  "protected_files_unchanged": 2005,
+  "source_hashes_unchanged": 10,
+  "all999_slot_ids_unique": true,
+  "208_frozen_jobs_and_20_prompts_reconciled": true,
+  "independent_spearman_rho": 0.4191368208033427,
+  "all_CSV_denominators_reconciled": true,
+  "figure_assets": [
+    {
+      "name": "figure1_journal_brand_concentration",
+      "dimensions": [
+        5580,
+        3240
+      ],
+      "dpi": [
+        359.9942,
+        359.9942
+      ],
+      "SVG_valid_XML": true,
+      "Times_and_YaHei_glyph_paths": true
+    },
+    {
+      "name": "figure2_citation_recommendation",
+      "dimensions": [
+        4680,
+        2880
+      ],
+      "dpi": [
+        359.9942,
+        359.9942
+      ],
+      "SVG_valid_XML": true,
+      "Times_and_YaHei_glyph_paths": true
+    },
+    {
+      "name": "figure3_ABC_title_expression",
+      "dimensions": [
+        4680,
+        2880
+      ],
+      "dpi": [
+        359.9942,
+        359.9942
+      ],
+      "SVG_valid_XML": true,
+      "Times_and_YaHei_glyph_paths": true
+    },
+    {
+      "name": "figure4_directed_evidence",
+      "dimensions": [
+        5400,
+        3132
+      ],
+      "dpi": [
+        359.9942,
+        359.9942
+      ],
+      "SVG_valid_XML": true,
+      "Times_and_YaHei_glyph_paths": true
+    },
+    {
+      "name": "method_A_sample_flow",
+      "dimensions": [
+        5040,
+        3240
+      ],
+      "dpi": [
+        359.9942,
+        359.9942
+      ],
+      "SVG_valid_XML": true,
+      "Times_and_YaHei_glyph_paths": true
+    }
+  ],
+  "visual_inspection": "all five PNGs inspected; scatter legend moved outside data; Figure3 grouped by topic and condition",
+  "model_generation_requests": 0,
+  "network_requests": 0,
+  "researcher_review_status": "pending"
+}

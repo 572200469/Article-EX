@@ -1,0 +1,5 @@
+﻿provider,original_unknown_positions,original_dedup_claim_groups,verified_exact,verified_with_errors,conflated_or_composite,likely_fabricated,unresolved_after_review,newly_confirmed_real_positions,new_journal_positions,new_nonjournal_positions,new_carrier_unresolved,new_historical_pending,all_positions,before_identified,after_identified,identity_coverage_after,still_no_unique_identity
+openai,44,43,1,11,0,0,32,12,7,3,1,1,229,185,197,0.8602620087336245,32
+gemini,17,17,0,4,0,0,13,4,4,0,0,0,240,223,227,0.9458333333333333,13
+deepseek,122,113,9,23,0,0,90,32,7,15,5,5,240,118,150,0.625,90
+qwen,215,210,7,18,1,0,189,25,5,20,0,0,240,25,50,0.20833333333333334,190

@@ -1,0 +1,302 @@
+{
+  "version": "bounded_related_doi_anchor_review_v4",
+  "reviews": [
+    {
+      "candidate_id": "afd099bc68e65f6c1b5ae91ddaa352894d3a2488f8423f1fbadfdab40d5a1db7",
+      "slot_ids": [
+        "d0575dbb0c1d54f605b83cd10b7970629072f23d91679393f16e09f3e5603c50"
+      ],
+      "claimed": {
+        "title": "Do not blame it on the algorithm: an empirical assessment of multiple news recommendation strategies on news diversity",
+        "authors": "Judith Möller, Damian Trilling, Natali Helberger, Bram van Es",
+        "year": 2018,
+        "journal": "Information, Communication & Society",
+        "doi": "10.1080/1369118X.2018.1444076",
+        "url": "https://doi.org/10.1080/1369118X.2018.1444076"
+      },
+      "review_status": "verified_with_errors",
+      "unique_identity": true,
+      "candidate": {
+        "source": "crossref",
+        "title": "Do not blame it on the algorithm: an empirical assessment of multiple recommender systems and their impact on content diversity",
+        "authors": [
+          "Judith Möller",
+          "Damian Trilling",
+          "Natali Helberger",
+          "Bram van Es"
+        ],
+        "year": 2018,
+        "year_print": 2018,
+        "year_online": 2018,
+        "journal": "Information, Communication &amp; Society",
+        "doi": "10.1080/1369118x.2018.1444076",
+        "work_id": "doi:10.1080/1369118x.2018.1444076",
+        "type": "journal-article",
+        "language": "en",
+        "authorships": [],
+        "journal_issns": [
+          "1369-118X",
+          "1468-4462"
+        ],
+        "volume": "21",
+        "issue": "7",
+        "pages": "959-977",
+        "evidence_file": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_preexperiment-29c06243fe1ce3a2\\data\\cache\\1787ca0ba8e51e698b7cc0fc0b755c4a56203d595c2265b30cb2596f327c817b\\2026-10-11T09-10-57.864362+00-00_1719f403-0275-4bee-8797-dbf4de16af27.json",
+        "evidence_url": "https://api.crossref.org/works/10.1080%2F1369118x.2018.1444076",
+        "retrieved_at": "2026-10-11T09:10:57.604508+00:00"
+      },
+      "candidates": [
+        {
+          "source": "crossref",
+          "title": "Do not blame it on the algorithm: an empirical assessment of multiple recommender systems and their impact on content diversity",
+          "authors": [
+            "Judith Möller",
+            "Damian Trilling",
+            "Natali Helberger",
+            "Bram van Es"
+          ],
+          "year": 2018,
+          "year_print": 2018,
+          "year_online": 2018,
+          "journal": "Information, Communication &amp; Society",
+          "doi": "10.1080/1369118x.2018.1444076",
+          "work_id": "doi:10.1080/1369118x.2018.1444076",
+          "type": "journal-article",
+          "language": "en",
+          "authorships": [],
+          "journal_issns": [
+            "1369-118X",
+            "1468-4462"
+          ],
+          "volume": "21",
+          "issue": "7",
+          "pages": "959-977",
+          "evidence_file": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_preexperiment-29c06243fe1ce3a2\\data\\cache\\1787ca0ba8e51e698b7cc0fc0b755c4a56203d595c2265b30cb2596f327c817b\\2026-10-11T09-10-57.864362+00-00_1719f403-0275-4bee-8797-dbf4de16af27.json",
+          "evidence_url": "https://api.crossref.org/works/10.1080%2F1369118x.2018.1444076",
+          "retrieved_at": "2026-10-11T09:10:57.604508+00:00"
+        }
+      ],
+      "evidence_source": [
+        "https://pure.uva.nl/ws/files/23265204/Do_not_blame_it_on_the_algorithm.pdf",
+        "https://www.tandfonline.com/doi/full/10.1080/1369118X.2018.1444076",
+        "https://api.crossref.org/works/10.1080%2F1369118x.2018.1444076"
+      ],
+      "conflicts": [
+        "title_subtitle_error"
+      ],
+      "normalization_only": [
+        "HTML amp entity in journal is same journal, not substantive mismatch"
+      ],
+      "confidence_basis": "原刊最终发表版在阿姆斯特丹大学正式库提供：核心独特标题Do not blame it on the algorithm完全相同，全部四作者、2018、期刊、DOI共同一致；原两个副标题均改写同一推荐系统多样性研究，非另一已识别作品。",
+      "confidence": "high",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_formal_source_review_not_human_adjudication",
+      "checked_date": "2026-10-12",
+      "source_access_scope": "public official published PDF / publisher page / institutional metadata",
+      "query_terms": [
+        "\"Do not blame it on the algorithm\" Möller 2018"
+      ],
+      "proof_not_doi_alone": true
+    },
+    {
+      "candidate_id": "3aca8f5214bc667dac0ad9115efa9e0f4fe058e0fc8dcd41454f98518325266e",
+      "slot_ids": [
+        "04a427b109a8f6a4f08e524296edb7ad5d708945d4dc4bb607bbbb8d0f5d4adb"
+      ],
+      "claimed": {
+        "title": "Exploring “the World Outside and the Pictures in Our Heads”: A Network Agenda-Setting Approach to Issue Interattributions",
+        "authors": [
+          "Hong Tien Vu",
+          "Lei Guo",
+          "Maxwell E. McCombs"
+        ],
+        "year": 2014,
+        "journal": "Journalism & Mass Communication Quarterly",
+        "doi": "10.1177/1077699014550090",
+        "url": "https://doi.org/10.1177/1077699014550090"
+      },
+      "review_status": "verified_with_errors",
+      "unique_identity": true,
+      "candidate": {
+        "source": "crossref",
+        "title": "Exploring “the World Outside and the Pictures in Our Heads”: A Network Agenda-Setting Study",
+        "authors": [
+          "Hong Tien Vu",
+          "Lei Guo",
+          "Maxwell E. McCombs"
+        ],
+        "year": 2014,
+        "year_print": 2014,
+        "year_online": 2014,
+        "journal": "Journalism &amp; Mass Communication Quarterly",
+        "doi": "10.1177/1077699014550090",
+        "work_id": "doi:10.1177/1077699014550090",
+        "type": "journal-article",
+        "language": "en",
+        "authorships": [],
+        "journal_issns": [
+          "1077-6990",
+          "2161-430X"
+        ],
+        "volume": "91",
+        "issue": "4",
+        "pages": "669-686",
+        "evidence_file": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\main_processing\\main_20261012\\metadata\\data\\cache\\a008f89d124add6820cafb52458c40e7afe5573b996d1d55f8452005b33c4b77\\6840cd6820c8487998780c48fa0189b5.json",
+        "evidence_url": "https://api.crossref.org/works/10.1177%2F1077699014550090",
+        "retrieved_at": "2026-10-12T01:54:41.641705+00:00"
+      },
+      "candidates": [
+        {
+          "source": "crossref",
+          "title": "Exploring “the World Outside and the Pictures in Our Heads”: A Network Agenda-Setting Study",
+          "authors": [
+            "Hong Tien Vu",
+            "Lei Guo",
+            "Maxwell E. McCombs"
+          ],
+          "year": 2014,
+          "year_print": 2014,
+          "year_online": 2014,
+          "journal": "Journalism &amp; Mass Communication Quarterly",
+          "doi": "10.1177/1077699014550090",
+          "work_id": "doi:10.1177/1077699014550090",
+          "type": "journal-article",
+          "language": "en",
+          "authorships": [],
+          "journal_issns": [
+            "1077-6990",
+            "2161-430X"
+          ],
+          "volume": "91",
+          "issue": "4",
+          "pages": "669-686",
+          "evidence_file": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\main_processing\\main_20261012\\metadata\\data\\cache\\a008f89d124add6820cafb52458c40e7afe5573b996d1d55f8452005b33c4b77\\6840cd6820c8487998780c48fa0189b5.json",
+          "evidence_url": "https://api.crossref.org/works/10.1177%2F1077699014550090",
+          "retrieved_at": "2026-10-12T01:54:41.641705+00:00"
+        }
+      ],
+      "evidence_source": [
+        "https://experts.colorado.edu/display/pubid_506439",
+        "https://journals.sagepub.com/doi/abs/10.1177/1077699014550090",
+        "https://api.crossref.org/works/10.1177%2F1077699014550090"
+      ],
+      "conflicts": [
+        "title_subtitle_error"
+      ],
+      "normalization_only": [
+        "HTML amp entity in journal is same journal, not substantive mismatch"
+      ],
+      "confidence_basis": "SAGE原刊页面及科罗拉多大学正式成果记录确认：独特核心标题Exploring the World Outside and Pictures in Our Heads一致，全部三作者、2014、期刊、DOI一致；原副标题把Study改写为Approach to Issue Interattributions，元数据错误，不是单靠DOI认定。",
+      "confidence": "high",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_formal_source_review_not_human_adjudication",
+      "checked_date": "2026-10-12",
+      "source_access_scope": "public official published PDF / publisher page / institutional metadata",
+      "query_terms": [
+        "\"Exploring\" \"Pictures in Our Heads\" \"Vu\" 2014"
+      ],
+      "proof_not_doi_alone": true
+    },
+    {
+      "candidate_id": "5c18e4fae48a19b68e6c57ff5971ee5abb6f27fc432e67c2265ef6ac04406bfa",
+      "slot_ids": [
+        "d9d22b58b34f32b8f778686595f9dbf2d034fc60556661c3bd0b9d28cab39ddb"
+      ],
+      "claimed": {
+        "title": "Do not blame it on the algorithm: an empirical assessment of multiple types of user diversity in news recommendations",
+        "authors": "Judith Möller, Damian Trilling, Natali Helberger, Bram van Es",
+        "year": 2018,
+        "journal": "Information, Communication & Society",
+        "doi": "10.1080/1369118X.2018.1444076",
+        "url": "https://doi.org/10.1080/1369118X.2018.1444076"
+      },
+      "review_status": "verified_with_errors",
+      "unique_identity": true,
+      "candidate": {
+        "source": "crossref",
+        "title": "Do not blame it on the algorithm: an empirical assessment of multiple recommender systems and their impact on content diversity",
+        "authors": [
+          "Judith Möller",
+          "Damian Trilling",
+          "Natali Helberger",
+          "Bram van Es"
+        ],
+        "year": 2018,
+        "year_print": 2018,
+        "year_online": 2018,
+        "journal": "Information, Communication &amp; Society",
+        "doi": "10.1080/1369118x.2018.1444076",
+        "work_id": "doi:10.1080/1369118x.2018.1444076",
+        "type": "journal-article",
+        "language": "en",
+        "authorships": [],
+        "journal_issns": [
+          "1369-118X",
+          "1468-4462"
+        ],
+        "volume": "21",
+        "issue": "7",
+        "pages": "959-977",
+        "evidence_file": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_preexperiment-29c06243fe1ce3a2\\data\\cache\\1787ca0ba8e51e698b7cc0fc0b755c4a56203d595c2265b30cb2596f327c817b\\2026-10-11T09-10-57.864362+00-00_1719f403-0275-4bee-8797-dbf4de16af27.json",
+        "evidence_url": "https://api.crossref.org/works/10.1080%2F1369118x.2018.1444076",
+        "retrieved_at": "2026-10-11T09:10:57.604508+00:00"
+      },
+      "candidates": [
+        {
+          "source": "crossref",
+          "title": "Do not blame it on the algorithm: an empirical assessment of multiple recommender systems and their impact on content diversity",
+          "authors": [
+            "Judith Möller",
+            "Damian Trilling",
+            "Natali Helberger",
+            "Bram van Es"
+          ],
+          "year": 2018,
+          "year_print": 2018,
+          "year_online": 2018,
+          "journal": "Information, Communication &amp; Society",
+          "doi": "10.1080/1369118x.2018.1444076",
+          "work_id": "doi:10.1080/1369118x.2018.1444076",
+          "type": "journal-article",
+          "language": "en",
+          "authorships": [],
+          "journal_issns": [
+            "1369-118X",
+            "1468-4462"
+          ],
+          "volume": "21",
+          "issue": "7",
+          "pages": "959-977",
+          "evidence_file": "E:\\OneDrive\\Claude Code\\出版实务\\model_visibility_experiment\\data\\publication_visibility\\publication_visibility_preexperiment-29c06243fe1ce3a2\\data\\cache\\1787ca0ba8e51e698b7cc0fc0b755c4a56203d595c2265b30cb2596f327c817b\\2026-10-11T09-10-57.864362+00-00_1719f403-0275-4bee-8797-dbf4de16af27.json",
+          "evidence_url": "https://api.crossref.org/works/10.1080%2F1369118x.2018.1444076",
+          "retrieved_at": "2026-10-11T09:10:57.604508+00:00"
+        }
+      ],
+      "evidence_source": [
+        "https://pure.uva.nl/ws/files/23265204/Do_not_blame_it_on_the_algorithm.pdf",
+        "https://www.tandfonline.com/doi/full/10.1080/1369118X.2018.1444076",
+        "https://api.crossref.org/works/10.1080%2F1369118x.2018.1444076"
+      ],
+      "conflicts": [
+        "title_subtitle_error"
+      ],
+      "normalization_only": [
+        "HTML amp entity in journal is same journal, not substantive mismatch"
+      ],
+      "confidence_basis": "原刊最终发表版在阿姆斯特丹大学正式库提供：核心独特标题Do not blame it on the algorithm完全相同，全部四作者、2018、期刊、DOI共同一致；原两个副标题均改写同一推荐系统多样性研究，非另一已识别作品。",
+      "confidence": "high",
+      "researcher_review_status": "pending",
+      "review_method": "assistant_formal_source_review_not_human_adjudication",
+      "checked_date": "2026-10-12",
+      "source_access_scope": "public official published PDF / publisher page / institutional metadata",
+      "query_terms": [
+        "\"Do not blame it on the algorithm\" Möller 2018"
+      ],
+      "proof_not_doi_alone": true
+    }
+  ],
+  "source_pages_opened": 3,
+  "discovery_queries": 2,
+  "paid_model_requests": 0,
+  "original_changed": false
+}

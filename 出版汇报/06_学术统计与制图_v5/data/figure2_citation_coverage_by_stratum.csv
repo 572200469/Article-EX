@@ -1,0 +1,15 @@
+﻿dimension,value,eligible_unique_works,citation_supported_unique_works,coverage,eligible_positions,citation_supported_positions,strata_overlap_not_additive,version
+provider,deepseek,44,37,0.8409090909090909,107,94,True,ppt_analysis_v5
+provider,gemini,67,55,0.8208955223880597,217,186,True,ppt_analysis_v5
+provider,openai,88,74,0.8409090909090909,181,155,True,ppt_analysis_v5
+provider,qwen,13,11,0.8461538461538461,28,26,True,ppt_analysis_v5
+topic_id,agenda_setting,22,17,0.7727272727272727,61,53,True,ppt_analysis_v5
+topic_id,algorithms_bubbles,16,12,0.75,77,65,True,ppt_analysis_v5
+topic_id,framing,17,13,0.7647058823529411,81,72,True,ppt_analysis_v5
+topic_id,misinformation,20,19,0.95,88,87,True,ppt_analysis_v5
+topic_id,networked_public,22,18,0.8181818181818182,61,42,True,ppt_analysis_v5
+topic_id,platform_labor,13,12,0.9230769230769231,45,37,True,ppt_analysis_v5
+topic_id,spiral_of_silence,12,11,0.9166666666666666,49,47,True,ppt_analysis_v5
+topic_id,uses_gratifications,19,13,0.6842105263157895,71,58,True,ppt_analysis_v5
+condition,neutral_en,99,85,0.8585858585858586,263,232,True,ppt_analysis_v5
+condition,neutral_zh,102,83,0.8137254901960784,270,229,True,ppt_analysis_v5
